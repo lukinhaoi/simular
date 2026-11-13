@@ -4,10 +4,10 @@
       "number": 1,
       "prompt": "A prefeitura do município de Paraiso realizará um campeonato de futebol. Para isso é \nnecessário cortar a grama do seu principal estádio de futebol. João foi contratado para \nrealizar o serviço e, em seu primeiro dia de trabalho, cortou o equivalente a \n5\n12 da área \ntotal do gramado. No dia seguinte, ele cortou mais \n4\n12 do total do gramado. Qual a \nfração que representa o total da região do gramado aparado até o momento por João?",
       "options": [
-        "1\n12",
-        "3\n8",
-        "1\n2",
-        "3\n4"
+        "1 12",
+        "3 8",
+        "1 2",
+        "3 4"
       ]
     },
     {
@@ -44,10 +44,10 @@
       "number": 5,
       "prompt": "A fração mista 6\n5\n10  pode ser representada pela fração imprópria:",
       "options": [
-        "11\n10",
-        "30\n10",
-        "65\n10",
-        "80\n10"
+        "11 10",
+        "30 10",
+        "65 10",
+        "80 10"
       ]
     },
     {
@@ -152,9 +152,9 @@
     },
     {
       "number": 16,
-      "prompt": "Benedito fez uma pequena lista de material escolar que precisa comprar para seu \nfilho. O quadro a seguir mostra o comparativo dos preços dos produtos em duas \npapelarias próximas da sua residência – Papelaria A e Papelaria B. Ele escolherá uma \ndelas para comprar todos os materiais de sua lista.  \nPAPELARIA A \nPREÇO \nPAPELARIA B \nPREÇO \nCaderno  \n R$ 24,00 \nCaderno  \n R$ 25,00 \nEstojo \nR$ 15,00 \nEstojo \nR$ 16,00 \nLápis de cor \nR$ 9,00 \nLápis de cor \nR$ 10,00",
+      "prompt": "Benedito fez uma pequena lista de material escolar que precisa comprar para seu \nfilho. O quadro a seguir mostra o comparativo dos preços dos produtos em duas \npapelarias próximas da sua residência – Papelaria A e Papelaria B. Ele escolherá uma \ndelas para comprar todos os materiais de sua lista.  \nPAPELARIA A \nPREÇO \nPAPELARIA B \nPREÇO \nCaderno  \n R$ 24,00 \nCaderno  \n R$ 25,00 \nEstojo \nR$ 15,00 \nEstojo \nR$ 16,00 \nLápis de cor \nR$ 9,00 \nLápis de cor \nR$ 10,00 \n \nA Papelaria B possui um aplicativo de desconto. Nesse dia, o preço do caderno estava \ncom 10% de desconto. Fazendo um comparativo dos preços entre as duas papelarias, \né correto afirmar que a melhor opção para Benedito economizar é comprando:",
       "options": [
-        "Papelaria B possui um aplicativo de desconto. Nesse dia, o preço do caderno estava  com 10% de desconto. Fazendo um comparativo dos preços entre as duas papelarias,  é correto afirmar que a melhor opção para Benedito economizar é comprando:   A) Na papelaria A ou B, pois em qualquer papelaria ele pagará o mesmo valor em  sua compra.",
+        "Na papelaria A ou B, pois em qualquer papelaria ele pagará o mesmo valor em  sua compra.",
         "Na papelaria B – pois o preço do caderno está com 10% de desconto.",
         "Na papelaria A – pois mesmo que o preço do caderno na papelaria B esteja com  10% de desconto, ainda assim pagaria menos em sua compra na papelaria A.",
         "Na papelaria B – pois o valor total de sua compra terá 10% de desconto."
@@ -192,9 +192,9 @@
     },
     {
       "number": 21,
-      "prompt": "Leia o texto para responder à questão. \nEnergia eólica \n \n \nOs aerogeradores na paisagem indicam a presença de usinas eólicas.",
+      "prompt": "Leia o texto para responder à questão. \nEnergia eólica \n \n \nOs aerogeradores na paisagem indicam a presença de usinas eólicas. \nA energia eólica é uma fonte energética alternativa e renovável.  O vento é um recurso \ninesgotável. A origem do emprego do vento como força para as atividades produtivas \ntomou forças nas últimas décadas, principalmente devido ao aumento da preocupação \ncom a conservação do meio ambiente. \nO funcionamento de uma usina eólica está condicionado à constância dos ventos. \nSendo assim, apresenta uma grande dependência das condições da natureza para o \nseu funcionamento. \nMundo Educação. Disponível em: <https://mundoeducacao.uol.com.br/geografia/energia-eolica.htm>. Acesso em: 23 ago. \n2023. Adaptado. \n \nO texto apresenta a energia eólica como uma alternativa renovável para a produção \nda energia elétrica. No entanto para que haja um bom aproveitamento dos campos \neólicos é preciso considerar a",
       "options": [
-        "energia eólica é uma fonte energética alternativa e renovável.  O vento é um recurso  inesgotável. A origem do emprego do vento como força para as atividades produtivas  tomou forças nas últimas décadas, principalmente devido ao aumento da preocupação  com a conservação do meio ambiente.  O funcionamento de uma usina eólica está condicionado à constância dos ventos.  Sendo assim, apresenta uma grande dependência das condições da natureza para o  seu funcionamento.  Mundo Educação. Disponível em: <https://mundoeducacao.uol.com.br/geografia/energia-eolica.htm>. Acesso em: 23 ago.  2023. Adaptado.    O texto apresenta a energia eólica como uma alternativa renovável para a produção  da energia elétrica. No entanto para que haja um bom aproveitamento dos campos  eólicos é preciso considerar a   A)  origem do emprego dos ventos.",
+        "origem do emprego dos ventos.",
         "conservação do meio ambiente.",
         "velocidade e a frequência dos ventos.",
         "presença de aerogeradores na paisagem."
@@ -242,9 +242,9 @@
     },
     {
       "number": 26,
-      "prompt": "Leia o texto a seguir para responder à questão. \n \nHidrovia do Madeira \nHidrovia do Madeira nos estados do Amazonas e de \nRondônia",
+      "prompt": "Leia o texto a seguir para responder à questão. \n \nHidrovia do Madeira \nHidrovia do Madeira nos estados do Amazonas e de \nRondônia \n \nA hidrovia do Madeira é uma das mais \nimportantes vias de transporte localizadas no \nchamado Corredor Logístico Norte. É, também, \na segunda hidrovia mais importante do Norte, \natrás apenas da hidrovia do rio Amazonas, da \nqual é um dos principais afluentes da margem \ndireita. \n  \nEntre suas características está o fato de ser o principal meio de escoamento \nda produção de grãos, como soja, milho e açúcar proveniente das plantações de Mato \nGrosso. Esses grãos chegam ao porto de Porto Velho (RO), depois de um percurso \nde 800 km pela BR-364. Na hidrovia são realizados os deslocamentos de passageiros \ne o transporte de carga que tem como destino os grandes centros da região Centro-\nOeste. \nMinistério da Infraestrutura. Disponível em: <https://www.gov.br/dnit/pt-br/assuntos/aquaviario/old/hidrovia-do-madeira>. \nAcesso em: 23 ago. 2023. \n \nA Hidrovia do rio Madeira interliga várias cidades das regiões Norte e Centro-oeste. \nAs principais funções do rio Madeira são",
       "options": [
-        "hidrovia do Madeira é uma das mais  importantes vias de transporte localizadas no  chamado Corredor Logístico Norte. É, também,  a segunda hidrovia mais importante do Norte,  atrás apenas da hidrovia do rio Amazonas, da  qual é um dos principais afluentes da margem  direita.     Entre suas características está o fato de ser o principal meio de escoamento  da produção de grãos, como soja, milho e açúcar proveniente das plantações de Mato  Grosso. Esses grãos chegam ao porto de Porto Velho (RO), depois de um percurso  de 800 km pela BR-364. Na hidrovia são realizados os deslocamentos de passageiros  e o transporte de carga que tem como destino os grandes centros da região Centro- Oeste.  Ministério da Infraestrutura. Disponível em: <https://www.gov.br/dnit/pt-br/assuntos/aquaviario/old/hidrovia-do-madeira>.  Acesso em: 23 ago. 2023.    A Hidrovia do rio Madeira interliga várias cidades das regiões Norte e Centro-oeste.  As principais funções do rio Madeira são    A) o deslocamento de passageiros e o transporte de cargas.",
+        "o deslocamento de passageiros e o transporte de cargas.",
         "a interligação com o rio Amazonas e a preservação animal.",
         "a ligação entre o Amazonas e Rondônia e a navegação.",
         "a produção de grãos e uma via de transporte."
@@ -262,9 +262,9 @@
     },
     {
       "number": 28,
-      "prompt": "Leia a tirinha para responder à questão. \n Fonte: Maurício de Sousa Produções (MSP)",
+      "prompt": "Leia a tirinha para responder à questão. \n Fonte: Maurício de Sousa Produções (MSP) \n \nA Tirinha apresenta características marcantes em relação às condições atmosféricas \ndo tempo. As condições apresentadas mostram que o tempo está",
       "options": [
-        "Tirinha apresenta características marcantes em relação às condições atmosféricas  do tempo. As condições apresentadas mostram que o tempo está   A) nublado.",
+        "nublado.",
         "chuvoso.",
         "estável.",
         "instável."
@@ -302,9 +302,9 @@
     },
     {
       "number": 32,
-      "prompt": "“Na Antiguidade, um dos exemplos mais conhecidos de escravidão foi o praticado na \nRoma Antiga, onde as pessoas eram escravizadas por dívidas, por nascimento ou por \nserem prisioneiras de guerra. Nesse cenário, essas pessoas eram excluídas da vida \npolítica, assim como os plebeus que, embora fossem livres, não tinham direitos \npolíticos e poderiam se tornar escravos devido à impossibilidade do pagamento de \ndívidas.” \nSÃO PAULO (Estado). Secretaria da Educação. Currículo em Ação. Coordenadoria Pedagógica – COPED. São Paulo, 2022.",
+      "prompt": "“Na Antiguidade, um dos exemplos mais conhecidos de escravidão foi o praticado na \nRoma Antiga, onde as pessoas eram escravizadas por dívidas, por nascimento ou por \nserem prisioneiras de guerra. Nesse cenário, essas pessoas eram excluídas da vida \npolítica, assim como os plebeus que, embora fossem livres, não tinham direitos \npolíticos e poderiam se tornar escravos devido à impossibilidade do pagamento de \ndívidas.” \nSÃO PAULO (Estado). Secretaria da Educação. Currículo em Ação. Coordenadoria Pedagógica – COPED. São Paulo, 2022. \nA partir do texto acima, sobre a escravidão na Roma Antiga, é correto afirmar que:",
       "options": [
-        "partir do texto acima, sobre a escravidão na Roma Antiga, é correto afirmar que:  A) representava um dos pilares da economia, sendo ampliada depois da  expansão de Roma.",
+        "representava um dos pilares da economia, sendo ampliada depois da  expansão de Roma.",
         "ficava restrita às áreas litorâneas por causa dos portos mediterrâneos.",
         "foi levada para Roma pelos gregos no século VIII a.C.",
         "estava baseada em um critério religioso e racial."
@@ -786,9 +786,9 @@
   "e12": [
     {
       "number": 1,
-      "prompt": "Sonda chinesa coleta amostras inéditas do lado oculto\nda Lua",
+      "prompt": "Sonda chinesa coleta amostras inéditas do lado oculto\nda Lua\nA agência espacial da China anunciou um feito histórico no\ninício de junho de 2024. A sonda Chang’e-6 pousou com\nsucesso no lado oculto da Lua e, pela primeira vez na\nhistória, coletou amostras de rochas e solo dessa região\nmisteriosa. A missão utilizou um braço robótico e uma\nperfuradora para recolher o material. Após a coleta, um\nmódulo da sonda decolou da superfície lunar para iniciar\nsua jornada de volta à Terra, trazendo os materiais que\npodem revelar segredos sobre a formação do nosso\nsatélite natural e do Sistema Solar.\nFonte: Adaptado de https://g1.globo.com/ciencia/noticia/2024/06/04/em-missao-inedita-\nsonda-chinesa-decola-do-lado-oculto-da-lua-com-amostras-de-solo.ghtml \nO fato central apresentado nessa notícia é o/a",
       "options": [
-        "agência espacial da China anunciou um feito histórico no início de junho de 2024. A sonda Chang’e-6 pousou com sucesso no lado oculto da Lua e, pela primeira vez na história, coletou amostras de rochas e solo dessa região misteriosa. A missão utilizou um braço robótico e uma perfuradora para recolher o material. Após a coleta, um módulo da sonda decolou da superfície lunar para iniciar sua jornada de volta à Terra, trazendo os materiais que podem revelar segredos sobre a formação do nosso satélite natural e do Sistema Solar. Fonte: Adaptado de https://g1.globo.com/ciencia/noticia/2024/06/04/em-missao-inedita- sonda-chinesa-decola-do-lado-oculto-da-lua-com-amostras-de-solo.ghtml  O fato central apresentado nessa notícia é o/a A uso de um braço robótico para perfurar a superfície lunar.",
+        "uso de um braço robótico para perfurar a superfície lunar.",
         "revelação de segredos sobre a formação do Sistema Solar.",
         "coleta inédita de material do lado oculto da Lua por uma sonda.",
         "início da viagem de volta de um módulo espacial para o planeta Terra."
@@ -816,13 +816,12 @@
     },
     {
       "number": 4,
-      "prompt": "",
+      "prompt": "A reciclagem é um dos pilares do consumo sustentável.\nSua principal vantagem é a diminuição da extração de\nrecursos naturais. Em casa, a separação correta de cada\nembalagem é uma ação de grande valor. Essa triagem\nsimples agiliza a viagem dos resíduos até as cooperativas,\nonde a mágica da transformação acontece. É uma\nmensagem de responsabilidade e coragem para as futuras\ngerações, garantindo a preservação da paisagem natural.\nFonte: Adaptado de O que é reciclagem e como ela funciona. Portal eCycle. Disponível em:\nhttps://www.ecycle.com.br/reciclagem/. Acesso em: 24 jul. 2024.\nAssinale a alternativa em que a palavra destacada está\nescrita de acordo com a norma-padrão da língua\nportuguesa.",
       "options": [
-        "reciclagem é um dos pilares do consumo sustentável.\nSua principal vantagem é a diminuição da extração de\nrecursos naturais. Em casa, a separação correta de cada\nembalagem é uma ação de grande valor. Essa triagem\nsimples agiliza a viagem dos resíduos até as cooperativas,\nonde a mágica da transformação acontece. É uma\nmensagem de responsabilidade e coragem para as futuras\ngerações, garantindo a preservação da paisagem natural.\nFonte: Adaptado de O que é reciclagem e como ela funciona. Portal eCycle. Disponível em:\nhttps://www.ecycle.com.br/reciclagem/. Acesso em: 24 jul. 2024.\nAssinale a alternativa em que a palavra destacada está\nescrita de acordo com a norma-padrão da língua\nportuguesa.",
-        "A embalajem de vidro pode ser reciclada infinitas\nvezes.",
-        "A longa viagem do lixo até o aterro sanitário pode ser\nevitada.",
-        "É preciso ter corajem para adotar novos hábitos de\nconsumo.",
-        "A reciclagem transmite uma importante mensajem\npara a sociedade."
+        "embalajem de vidro pode ser reciclada infinitas vezes.",
+        "longa viagem do lixo até o aterro sanitário pode ser evitada.",
+        "É preciso ter corajem para adotar novos hábitos de consumo.",
+        "reciclagem transmite uma importante mensajem para a sociedade."
       ]
     },
     {
@@ -847,9 +846,9 @@
     },
     {
       "number": 7,
-      "prompt": "Basquete Master Feminino de Bauru estreia no\nBrasileiro 40+\nPor Douglas Willian | da Redação | 14.11.2025\nPela primeira vez na história, a equipe de Basquete Master\nFeminino de Bauru (ADEMF) participará do Campeonato\nBrasileiro Master na categoria 40+. O torneio será realizado\nentre os dias 14 e 22 de novembro de 2025, em Maceió\n(AL), e marcará também os 40 anos da Federação\nBrasileira de Basquete Master (FBBM).\n“Para nossas jogadoras, essa participação é mais do que\num campeonato. É a realização de um sonho coletivo,\nconstruído com esforço, amizade e paixão pelo basquete”,\nafirma a técnica Tininha.",
+      "prompt": "Basquete Master Feminino de Bauru estreia no\nBrasileiro 40+\nPor Douglas Willian | da Redação | 14.11.2025\nPela primeira vez na história, a equipe de Basquete Master\nFeminino de Bauru (ADEMF) participará do Campeonato\nBrasileiro Master na categoria 40+. O torneio será realizado\nentre os dias 14 e 22 de novembro de 2025, em Maceió\n(AL), e marcará também os 40 anos da Federação\nBrasileira de Basquete Master (FBBM).\n“Para nossas jogadoras, essa participação é mais do que\num campeonato. É a realização de um sonho coletivo,\nconstruído com esforço, amizade e paixão pelo basquete”,\nafirma a técnica Tininha.\nA estreia marca um passo importante para o crescimento\ndo basquete master feminino e celebra a paixão pelo\nesporte que atravessa gerações. O torneio reunirá equipes\nde todo o país nas categorias feminina e masculina.\nDisponível em: https://sampi.net.br/bauru/noticias/2942619/esporte/2025/11/basquete-\nmaster-feminino-de-bauru-estreia-no-brasileiro-40. Acesso em: 14 nov. 2025. Adaptado.\nO fato é algo que pode ser comprovado, e não o que\nalguém pensa, sente ou acredita. Há um fato presente no\nseguinte trecho do texto:",
       "options": [
-        "estreia marca um passo importante para o crescimento do basquete master feminino e celebra a paixão pelo esporte que atravessa gerações. O torneio reunirá equipes de todo o país nas categorias feminina e masculina. Disponível em: https://sampi.net.br/bauru/noticias/2942619/esporte/2025/11/basquete- master-feminino-de-bauru-estreia-no-brasileiro-40. Acesso em: 14 nov. 2025. Adaptado. O fato é algo que pode ser comprovado, e não o que alguém pensa, sente ou acredita. Há um fato presente no seguinte trecho do texto: A “Para nossas jogadoras, essa participação é mais do que um campeonato.”.",
+        "“Para nossas jogadoras, essa participação é mais do que um campeonato.”.",
         "“A equipe de Basquete Master Feminino de Bauru participará do Campeonato”.",
         "“É a realização de um sonho coletivo, construído com esforço, amizade e paixão”.",
         "“A estreia marca um passo importante para o crescimento do basquete master feminino”. 4 de 14 6º ano DIA 1 - Prova Amarela"
@@ -857,9 +856,9 @@
     },
     {
       "number": 8,
-      "prompt": "Leia a oração considerando as sílabas tônicas das palavras para responder\nà questão.\nO grupo treina intensamente no ginásio.\nDisponível em: https://sampi.net.br/bauru/noticias/2942619/esporte/2025/11/basquete-\nmaster-feminino-de-bauru-estreia-no-brasileiro-40. Acesso em: 14 nov. 2025. Adaptado.",
+      "prompt": "Leia a oração considerando as sílabas tônicas das palavras para responder\nà questão.\nO grupo treina intensamente no ginásio.\nDisponível em: https://sampi.net.br/bauru/noticias/2942619/esporte/2025/11/basquete-\nmaster-feminino-de-bauru-estreia-no-brasileiro-40. Acesso em: 14 nov. 2025. Adaptado.\nA palavra a seguir que possui a indicação da sílaba tônica\ncorreta é:",
       "options": [
-        "palavra a seguir que possui a indicação da sílaba tônica correta é: A gru-PO.",
+        "gru-PO.",
         "trei-NA.",
         "intensa-MEN-te.",
         "giná-SIO."
@@ -887,9 +886,9 @@
     },
     {
       "number": 11,
-      "prompt": "No meio do caminho tinha uma pedra\ntinha uma pedra no meio do caminho\ntinha uma pedra\nno meio do caminho tinha uma pedra.\nNunca me esquecerei desse acontecimento\nna vida de minhas retinas tão fatigadas.\nNunca me esquecerei que no meio do caminho\ntinha uma pedra\nTinha uma pedra no meio do caminho\nno meio do caminho tinha uma pedra.\nDRUMMOND de Andrade, Carlos. Alguma Poesia. Rio de Janeiro: José Olympio, 1930. \nVocabulário:\nFatigar: cansar",
+      "prompt": "No meio do caminho tinha uma pedra\ntinha uma pedra no meio do caminho\ntinha uma pedra\nno meio do caminho tinha uma pedra.\nNunca me esquecerei desse acontecimento\nna vida de minhas retinas tão fatigadas.\nNunca me esquecerei que no meio do caminho\ntinha uma pedra\nTinha uma pedra no meio do caminho\nno meio do caminho tinha uma pedra.\nDRUMMOND de Andrade, Carlos. Alguma Poesia. Rio de Janeiro: José Olympio, 1930. \nVocabulário:\nFatigar: cansar\nA palavra “pedra” no poema pode ser entendida como:",
       "options": [
-        "palavra “pedra” no poema pode ser entendida como: A Simbólica, pois a pedra pode ter muitos significados.",
+        "Simbólica, pois a pedra pode ter muitos significados.",
         "Obstáculo, pois uma grande pedra impedia a passagem.",
         "Real, pois o eu-lírico vê um pedaço de rocha que flutua no ar.",
         "Irreal, pois a repetição da palavra demonstra um estado confuso."
@@ -1007,9 +1006,9 @@
     },
     {
       "number": 23,
-      "prompt": "Observe a imagem.\nDisponível em: https://www.ecycle.com.br/paisagem/. Acesso em: 14 nov. 2025.",
+      "prompt": "Observe a imagem.\nDisponível em: https://www.ecycle.com.br/paisagem/. Acesso em: 14 nov. 2025.\nA paisagem é tudo aquilo que podemos perceber em um\nlugar por meio dos nossos sentidos, reunindo aspectos\nnaturais e humanos. Considerando a organização dessa\npaisagem, em primeiro plano identifica-se:",
       "options": [
-        "paisagem é tudo aquilo que podemos perceber em um lugar por meio dos nossos sentidos, reunindo aspectos naturais e humanos. Considerando a organização dessa paisagem, em primeiro plano identifica-se: A O céu.",
+        "O céu.",
         "O barco.",
         "floresta.",
         "montanha."
@@ -1037,9 +1036,9 @@
     },
     {
       "number": 26,
-      "prompt": "Leia o trecho.\nO lugar é onde vivemos nossas experiências do cotidiano. É\nonde conhecemos várias pessoas e somos conhecidos por\nelas. Cada lugar possui características próprias, como\npaisagens formadas por diferentes elementos, como\nconstruções, ruas, praças, vegetação, rios e relevo. Esses\nelementos, naturais e humanos, compõem a organização\ndo espaço e influenciam a forma como as pessoas vivem e\ninteragem. Por isso, podemos dizer que os lugares têm\numa identidade.",
+      "prompt": "Leia o trecho.\nO lugar é onde vivemos nossas experiências do cotidiano. É\nonde conhecemos várias pessoas e somos conhecidos por\nelas. Cada lugar possui características próprias, como\npaisagens formadas por diferentes elementos, como\nconstruções, ruas, praças, vegetação, rios e relevo. Esses\nelementos, naturais e humanos, compõem a organização\ndo espaço e influenciam a forma como as pessoas vivem e\ninteragem. Por isso, podemos dizer que os lugares têm\numa identidade. \nA identidade dos lugares, conforme apresentada no texto,\né construída por",
       "options": [
-        "identidade dos lugares, conforme apresentada no texto, é construída por A pessoas que ali vivem e pelas atividades cotidianas que realizam no espaço.",
+        "pessoas que ali vivem e pelas atividades cotidianas que realizam no espaço.",
         "migrantes que passam rapidamente pelo bairro, sem relação com as práticas locais.",
         "visitantes que frequentam o lugar ocasionalmente, sem participar da vida cotidiana.",
         "trabalhadores que passam diariamente pelo local rumo ao trabalho, sem vínculo com o cotidiano do lugar."
@@ -1209,9 +1208,9 @@
     },
     {
       "number": 3,
-      "prompt": "Leia o texto a seguir.\nQuando nasci, éramos muito pobres. Morávamos numa casinha\nsimples de dois cômodos, do outro lado da rua onde ficava a\nprimeira escola fundada por meu pai e um de seus amigos. Não\ntínhamos banheiro nem cozinha.\nOs homens e os meninos podiam andar livremente pela cidade,\nmas minha mãe não podia sair de casa sem que um homem da\nfamília fosse com ela. É a tradição. Decidi muito cedo que comigo\nas coisas não seriam assim. Meu pai sempre disse: “Malala será\nlivre como um pássaro”.",
+      "prompt": "Leia o texto a seguir.\nQuando nasci, éramos muito pobres. Morávamos numa casinha\nsimples de dois cômodos, do outro lado da rua onde ficava a\nprimeira escola fundada por meu pai e um de seus amigos. Não\ntínhamos banheiro nem cozinha.\nOs homens e os meninos podiam andar livremente pela cidade,\nmas minha mãe não podia sair de casa sem que um homem da\nfamília fosse com ela. É a tradição. Decidi muito cedo que comigo\nas coisas não seriam assim. Meu pai sempre disse: “Malala será\nlivre como um pássaro”.\nA expressão “Decidi muito cedo” indica que a narradora\nYOUSAFZAI, M.; LAMB, C. Eu sou Malala: a história da garota que defendeu o direito à educação e foi baleada pelo Talibã. São\nPaulo: Companhia das Letras, 2013. Disponível em: https://tinyurl.com/3bz45ruk. Acesso em: 24 jun. 2026 (adaptado).",
       "options": [
-        "expressão “Decidi muito cedo” indica que a narradora YOUSAFZAI, M.; LAMB, C. Eu sou Malala: a história da garota que defendeu o direito à educação e foi baleada pelo Talibã. São Paulo: Companhia das Letras, 2013. Disponível em: https://tinyurl.com/3bz45ruk. Acesso em: 24 jun. 2026 (adaptado). A lembra de um lugar onde viveu na infância.",
+        "lembra de um lugar onde viveu na infância.",
         "fala de um costume seguido por sua família.",
         "conta por que seu pai fundou uma escola.",
         "revela uma decisão tomada quando ainda era criança."
@@ -1309,9 +1308,9 @@
     },
     {
       "number": 13,
-      "prompt": "Leia os dois textos abaixo e responda à questão.\nTEXTO 1\nForró, fogueira e muita alegria: o que não pode faltar na Festa\nJunina",
+      "prompt": "Leia os dois textos abaixo e responda à questão.\nTEXTO 1\nForró, fogueira e muita alegria: o que não pode faltar na Festa\nJunina\nA Festa Junina é uma das celebrações mais tradicionais do Brasil.\nDurante o mês de junho, escolas, associações e comunidades se\nreúnem para dançar forró, acender fogueiras e comer comidas\ntípicas, como milho cozido e canjica. A festa tem origem nas\ncomemorações dos santos católicos João, Pedro e Antônio e\nmistura elementos da cultura rural nordestina com a alegria\npopular.\nTEXTO 2\nA Festa Junina e a Copa do Mundo: dois eventos que disputam\natenção em junho\nEm anos de Copa do Mundo, a Festa Junina divide espaço com o\nfutebol nas atenções dos brasileiros. Quadrilhas e fogueiras\ncontinuam acontecendo pelo país, mas a transmissão dos jogos\nacaba reunindo famílias em frente à televisão. Para muitos\norganizadores de festas, o desafio é manter a tradição junina viva\nmesmo em meio à euforia esportiva.\nA principal diferença entre as duas notícias é que\nJUNHO chega com forró, fogueira e histórias do povo brasileiro. Jornal da Criança, 10 jun. 2026. Disponível em:\nhttps://tinyurl.com/4at3pmz3. Acesso em: 25 jun. 2026. (adaptado).\nAPOLINÁRIO, M. A festa junina engolida pela Copa. InfoMoney, 23 jun. 2026. Disponível em: https://tinyurl.com/yrzh5wds.\nAcesso em: 25 jun. 2026. (adaptado).",
       "options": [
-        "Festa Junina é uma das celebrações mais tradicionais do Brasil. Durante o mês de junho, escolas, associações e comunidades se reúnem para dançar forró, acender fogueiras e comer comidas típicas, como milho cozido e canjica. A festa tem origem nas comemorações dos santos católicos João, Pedro e Antônio e mistura elementos da cultura rural nordestina com a alegria popular. TEXTO 2 A Festa Junina e a Copa do Mundo: dois eventos que disputam atenção em junho Em anos de Copa do Mundo, a Festa Junina divide espaço com o futebol nas atenções dos brasileiros. Quadrilhas e fogueiras continuam acontecendo pelo país, mas a transmissão dos jogos acaba reunindo famílias em frente à televisão. Para muitos organizadores de festas, o desafio é manter a tradição junina viva mesmo em meio à euforia esportiva. A principal diferença entre as duas notícias é que JUNHO chega com forró, fogueira e histórias do povo brasileiro. Jornal da Criança, 10 jun. 2026. Disponível em: https://tinyurl.com/4at3pmz3. Acesso em: 25 jun. 2026. (adaptado). APOLINÁRIO, M. A festa junina engolida pela Copa. InfoMoney, 23 jun. 2026. Disponível em: https://tinyurl.com/yrzh5wds. Acesso em: 25 jun. 2026. (adaptado). A a primeira notícia explica características da Festa Junina, e a segunda mostra a relação entre a Festa Junina e a Copa do Mundo.",
+        "a primeira notícia explica características da Festa Junina, e a segunda mostra a relação entre a Festa Junina e a Copa do Mundo.",
         "a primeira notícia fala sobre futebol, e a segunda fala apenas sobre comidas típicas.",
         "as duas notícias falam somente sobre a origem religiosa da Festa Junina.",
         "as duas notícias dizem que a Festa Junina deixou de acontecer no Brasil."
@@ -1339,9 +1338,9 @@
     },
     {
       "number": 16,
-      "prompt": "Leia os textos e observe a fotografia para responder à questão.\nTEXTO 1\nForró, fogueira e muita alegria: o que não pode faltar na Festa\nJunina",
+      "prompt": "Leia os textos e observe a fotografia para responder à questão.\nTEXTO 1\nForró, fogueira e muita alegria: o que não pode faltar na Festa\nJunina\nA Festa Junina é uma das celebrações mais tradicionais do Brasil. Durante o\nmês de junho, escolas, associações e comunidades se reúnem para dançar\nforró, acender fogueiras e comer comidas típicas, como milho cozido e\ncanjica. A festa tem origem nas comemorações dos santos católicos João,\nPedro e Antônio e mistura elementos da cultura rural nordestina com a alegria\npopular.\nTEXTO 2\nOs textos 1 e 2 apresentam informações sobre uma Festa Junina e\nutilizam imagens para comunicar esse acontecimento. A principal\ndiferença é que, no Texto 1, a fotografia e a legenda têm a função\nde\nJUNHO chega com forró, fogueira e histórias do povo brasileiro. Jornal da Criança, 10 jun. 2026. Disponível em:\nhttps://tinyurl.com/4at3pmz3. Acesso em: 25 jun. 2026. (adaptado).",
       "options": [
-        "Festa Junina é uma das celebrações mais tradicionais do Brasil. Durante o mês de junho, escolas, associações e comunidades se reúnem para dançar forró, acender fogueiras e comer comidas típicas, como milho cozido e canjica. A festa tem origem nas comemorações dos santos católicos João, Pedro e Antônio e mistura elementos da cultura rural nordestina com a alegria popular. TEXTO 2 Os textos 1 e 2 apresentam informações sobre uma Festa Junina e utilizam imagens para comunicar esse acontecimento. A principal diferença é que, no Texto 1, a fotografia e a legenda têm a função de JUNHO chega com forró, fogueira e histórias do povo brasileiro. Jornal da Criança, 10 jun. 2026. Disponível em: https://tinyurl.com/4at3pmz3. Acesso em: 25 jun. 2026. (adaptado). A convencer o leitor de que a Festa Junina é a principal comemoração realizada pelas escolas brasileiras.",
+        "convencer o leitor de que a Festa Junina é a principal comemoração realizada pelas escolas brasileiras.",
         "registrar a participação da comunidade escolar em uma tradição cultural, complementando as informações da notícia.",
         "destacar apenas as comidas típicas como principal elemento da Festa Junina.",
         "divulgar a festa para atrair mais participantes para o evento."
@@ -1349,9 +1348,9 @@
     },
     {
       "number": 17,
-      "prompt": "Leia os textos e observe a fotografia para responder à questão.\nTEXTO 1\nForró, fogueira e muita alegria: o que não pode faltar na Festa\nJunina",
+      "prompt": "Leia os textos e observe a fotografia para responder à questão.\nTEXTO 1\nForró, fogueira e muita alegria: o que não pode faltar na Festa\nJunina\nA Festa Junina é uma das celebrações mais tradicionais do Brasil. Durante o\nmês de junho, escolas, associações e comunidades se reúnem para dançar\nforró, acender fogueiras e comer comidas típicas, como milho cozido e\ncanjica. A festa tem origem nas comemorações dos santos católicos João,\nPedro e Antônio e mistura elementos da cultura rural nordestina com a alegria\npopular.\nTEXTO 2\nOs dois textos apresentam informações sobre uma Festa Junina,\nmas foram publicados em mídias diferentes. Considerando os\nelementos apresentados em cada texto, qual deles oferece mais\ninformações que ajudam o leitor a verificar a confiabilidade da\nnotícia?\nJUNHO chega com forró, fogueira e histórias do povo brasileiro. Jornal da Criança, 10 jun. 2026. Disponível em:\nhttps://tinyurl.com/4at3pmz3. Acesso em: 25 jun. 2026. (adaptado).",
       "options": [
-        "Festa Junina é uma das celebrações mais tradicionais do Brasil. Durante o mês de junho, escolas, associações e comunidades se reúnem para dançar forró, acender fogueiras e comer comidas típicas, como milho cozido e canjica. A festa tem origem nas comemorações dos santos católicos João, Pedro e Antônio e mistura elementos da cultura rural nordestina com a alegria popular. TEXTO 2 Os dois textos apresentam informações sobre uma Festa Junina, mas foram publicados em mídias diferentes. Considerando os elementos apresentados em cada texto, qual deles oferece mais informações que ajudam o leitor a verificar a confiabilidade da notícia? JUNHO chega com forró, fogueira e histórias do povo brasileiro. Jornal da Criança, 10 jun. 2026. Disponível em: https://tinyurl.com/4at3pmz3. Acesso em: 25 jun. 2026. (adaptado). A O Texto 2, porque utiliza uma linguagem mais descontraída e apresenta grande número de curtidas e comentários.",
+        "O Texto 2, porque utiliza uma linguagem mais descontraída e apresenta grande número de curtidas e comentários.",
         "O Texto 2, porque reúne fotografias do evento e permite que qualquer pessoa publique informações rapidamente.",
         "Os dois textos apresentam o mesmo grau de confiabilidade, pois tratam do mesmo assunto e utilizam imagens.",
         "O Texto 1, porque informa o veículo de publicação, apresenta a fonte, a data de acesso e organiza os fatos em linguagem jornalística. 7 de 12 6º ano DIA 1 - Prova Amarela - 3º BI"
@@ -1379,9 +1378,9 @@
     },
     {
       "number": 20,
-      "prompt": "Leia o texto a seguir:\nDe acordo com a psicologia, jovens que têm o hábito de leitura\ndesenvolvem habilidades cognitivas superiores na vida adulta.\nPesquisadores explicam que ler com regularidade amplia o\nvocabulário, melhora a capacidade de concentração e fortalece o\nraciocínio lógico. \nAlém disso, o contato frequente com textos escritos ajuda a\ndesenvolver a chamada “teoria da mente” — a capacidade de\ncompreender o ponto de vista de outras pessoas. \nOs especialistas ressaltam que essa vantagem se manifesta tanto\nem situações acadêmicas quanto profissionais, ao longo de toda a\nvida.",
+      "prompt": "Leia o texto a seguir:\nDe acordo com a psicologia, jovens que têm o hábito de leitura\ndesenvolvem habilidades cognitivas superiores na vida adulta.\nPesquisadores explicam que ler com regularidade amplia o\nvocabulário, melhora a capacidade de concentração e fortalece o\nraciocínio lógico. \nAlém disso, o contato frequente com textos escritos ajuda a\ndesenvolver a chamada “teoria da mente” — a capacidade de\ncompreender o ponto de vista de outras pessoas. \nOs especialistas ressaltam que essa vantagem se manifesta tanto\nem situações acadêmicas quanto profissionais, ao longo de toda a\nvida.\nA linguagem utilizada nessa reportagem é adequada ao contexto\njornalístico porque\nSILVA, P. De acordo com a psicologia, as pessoas que leem frequentemente quando jovens desenvolvem uma enorme\nvantagem cognitiva quando adultas. Correio Braziliense, 8 maio 2026. Disponível em: https://tinyurl.com/2p9u3fad. Acesso\nem: 26 jun. 2026 (adaptado).",
       "options": [
-        "linguagem utilizada nessa reportagem é adequada ao contexto jornalístico porque SILVA, P. De acordo com a psicologia, as pessoas que leem frequentemente quando jovens desenvolvem uma enorme vantagem cognitiva quando adultas. Correio Braziliense, 8 maio 2026. Disponível em: https://tinyurl.com/2p9u3fad. Acesso em: 26 jun. 2026 (adaptado). A usa palavras mais formais e organiza as informações com clareza.",
+        "usa palavras mais formais e organiza as informações com clareza.",
         "usa expressões do dia a dia dos jovens, aproximando o texto dos leitores.",
         "mistura palavras científicas com gírias para deixar o texto mais fácil e interessante.",
         "usa linguagem regional e informal, aproximando o texto dos leitores."
@@ -1439,9 +1438,9 @@
     },
     {
       "number": 26,
-      "prompt": "Depois de organizar a cidade, Rômulo criou um conselho formado\npor cem cidadãos escolhidos para atuar como senadores. Esses\nhomens receberam grande prestígio na sociedade romana e\npassaram a ser chamados de patrícios. Seus descendentes\ntambém ficaram conhecidos por esse nome.\nLÍVIO, T. História de Roma: volume primeiro. São Paulo: Paumape, 1989 (adaptado).",
+      "prompt": "Depois de organizar a cidade, Rômulo criou um conselho formado\npor cem cidadãos escolhidos para atuar como senadores. Esses\nhomens receberam grande prestígio na sociedade romana e\npassaram a ser chamados de patrícios. Seus descendentes\ntambém ficaram conhecidos por esse nome.\nLÍVIO, T. História de Roma: volume primeiro. São Paulo: Paumape, 1989 (adaptado).\nA origem dos patrícios na Roma Antiga, apresentada no texto,\nmostra que eles eram um grupo com",
       "options": [
-        "origem dos patrícios na Roma Antiga, apresentada no texto, mostra que eles eram um grupo com A os mesmos direitos políticos.",
+        "os mesmos direitos políticos.",
         "igual participação no governo.",
         "maiores privilégios e prestígio.",
         "poucos privilégios e poder político."
@@ -1459,9 +1458,9 @@
     },
     {
       "number": 28,
-      "prompt": "No final da República Romana, Júlio César, Pompeu e Crasso eram\ntrês dos homens mais influentes de Roma. O Primeiro Triunvirato\nsurgiu nesse período, marcado por disputas e alianças entre os\nlíderes romanos.",
+      "prompt": "No final da República Romana, Júlio César, Pompeu e Crasso eram\ntrês dos homens mais influentes de Roma. O Primeiro Triunvirato\nsurgiu nesse período, marcado por disputas e alianças entre os\nlíderes romanos.\nA análise da imagem permite compreender essa experiência\npolítica como forma de",
       "options": [
-        "análise da imagem permite compreender essa experiência política como forma de A composição democrática de líderes eleitos pelo povo.",
+        "composição democrática de líderes eleitos pelo povo.",
         "governo legislativo e gestão pública no império romano.",
         "organização das leis que regem a república romana.",
         "aliança política entre líderes pelo poder em Roma."
@@ -1549,9 +1548,9 @@
     },
     {
       "number": 37,
-      "prompt": "Observe a imagem.\nDisponível em: https://tinyurl.com/46h498b4. Acesso em: 01 jun. 2026.",
+      "prompt": "Observe a imagem.\nDisponível em: https://tinyurl.com/46h498b4. Acesso em: 01 jun. 2026.\nA imagem representa a incidência dos raios solares sobre a Terra\ne a localização de linhas imaginárias, como o Equador e os\ntrópicos. Essa representação ajuda a compreender por que\ndeterminadas regiões do planeta apresentam temperaturas mais\nelevadas ao longo do ano. Com base na imagem, a zona\nintertropical apresenta predominantemente climas",
       "options": [
-        "imagem representa a incidência dos raios solares sobre a Terra e a localização de linhas imaginárias, como o Equador e os trópicos. Essa representação ajuda a compreender por que determinadas regiões do planeta apresentam temperaturas mais elevadas ao longo do ano. Com base na imagem, a zona intertropical apresenta predominantemente climas A árido e frio polar.",
+        "árido e frio polar.",
         "polar e temperado.",
         "equatorial e tropical.",
         "frio de montanha e mediterrâneo."
