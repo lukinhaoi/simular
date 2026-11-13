@@ -1247,6 +1247,16 @@
       ]
     },
     {
+      "number": 5,
+      "prompt": "Uma embalagem de cereal informa que determinado ingrediente representa 40% da composição total do produto. Qual fração representa corretamente 40%?",
+      "options": [
+        "4/100",
+        "40/100",
+        "100/40",
+        "100/4"
+      ]
+    },
+    {
       "number": 6,
       "prompt": "Durante a feira de materiais escolares da cidade,\numa papelaria ofereceu desconto de 20% em\ntodos os estojos. Um estojo que custava R$ 50,00\nentrou \nna \npromoção \ne \nmuitos \nestudantes\naproveitaram a oportunidade para comprar o\nproduto.\nQual será o preço do estojo após a aplicação do\ndesconto?",
       "options": [
@@ -1274,6 +1284,16 @@
         "R$ 180,00",
         "R$ 210,00",
         "R$ 220,00"
+      ]
+    },
+    {
+      "number": 9,
+      "prompt": "Uma livraria ofereceu desconto de 25% em determinados livros infantis. Qual fração é equivalente a 25%?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
       ]
     },
     {
@@ -1354,6 +1374,16 @@
         "0,15",
         "0,20",
         "0,25"
+      ]
+    },
+    {
+      "number": 18,
+      "prompt": "Durante uma pesquisa na escola, verificou-se que 75% dos estudantes utilizam a biblioteca pelo menos uma vez por semana. Qual alternativa apresenta uma fração irredutível e um número decimal equivalentes a 75%?",
+      "options": [
+        "3/4 e 0,75",
+        "3/4 e 0,075",
+        "75/100 e 0,75",
+        "1/2 e 0,5"
       ]
     },
     {
@@ -2001,13 +2031,33 @@
       ]
     },
     {
-      "number": 4,
-      "prompt": "Observe as frações:\n, \n, \n , \nAssinale a alternativa em que elas estão em ordem\ncrescente.\n3\n4\n2\n5\n5\n8\n1\n2",
+      "number": 3,
+      "prompt": "Durante uma gincana escolar, um aluno consultou o aplicativo de localização no seu celular para verificar o quanto já havia percorrido da trilha do parque. Observe a imagem. Com base na barra “Progresso na trilha”, qual fração indica a posição atual desse aluno?",
       "options": [
-        ",  ,  ,",
-        ",  ,  ,",
-        ",  ,  ,",
-        ",  ,  ,  1 2 2 5 3 4 5 8 1 2 3 4 2 5 5 8 3 4 5 8 1 2 2 5 2 5 1 2 5 8 3 4"
+        "3/4",
+        "2/5",
+        "3/5",
+        "5/3"
+      ]
+    },
+    {
+      "number": 4,
+      "prompt": "Observe as frações 3/4, 2/5, 5/8 e 1/2. Assinale a alternativa em que elas estão em ordem crescente.",
+      "options": [
+        "1/2, 2/5, 3/4, 5/8",
+        "1/2, 3/4, 2/5, 5/8",
+        "3/4, 5/8, 1/2, 2/5",
+        "2/5, 1/2, 5/8, 3/4"
+      ]
+    },
+    {
+      "number": 5,
+      "prompt": "Uma escola disponibilizou três canteiros de mesmo tamanho para o plantio de hortaliças. O primeiro grupo de alunos utilizou três quintos do seu canteiro. O segundo grupo utilizou a metade do seu canteiro. O terceiro grupo utilizou quatro décimos do seu canteiro. Coloque em ordem crescente as frações dos canteiros utilizados pelos grupos.",
+      "options": [
+        "4/10, 1/2, 3/5",
+        "1/2, 3/5, 4/10",
+        "4/10, 3/5, 1/2",
+        "3/5, 1/2, 4/10"
       ]
     },
     {
@@ -2031,23 +2081,133 @@
       ]
     },
     {
-      "number": 15,
-      "prompt": "Mariana fez uma viagem com uma parada para descanso.\nAntes da parada, o trajeto da viagem durou cinco oitavos\nde uma hora. Após a parada, o trajeto restante durou três\noitavos de uma hora.\nQual é a diferença de tempo, em frações de uma hora,\nentre os dois trajetos dessa viagem de Mariana?",
+      "number": 8,
+      "prompt": "Na preparação para um torneio de robótica, os estudantes precisaram programar um robô para percorrer um trajeto em linha reta. O percurso total de teste possui dois metros de comprimento, dividido em partes iguais, com demarcações de fitas na pista. Observando as demarcações na pista de teste, qual é a fração do metro que indica a posição do ponto P onde o robô deve parar?",
       "options": [
-        "de hora.",
-        "de hora.",
-        "de hora.",
-        "de hora. 2 8 8 8 2 16  8 16"
+        "2/5",
+        "2/3",
+        "7/5",
+        "7/4"
+      ]
+    },
+    {
+      "number": 9,
+      "prompt": "Em uma pista de corrida no parque da cidade, existem placas grandes a cada quilômetro percorrido, mas também há marcações menores no chão, dividindo cada quilômetro em partes exatamente iguais. Observando a representação da pista e as subdivisões entre os quilômetros, qual fração representa o ponto onde se encontra a garrafinha de água?",
+      "options": [
+        "3/4",
+        "7/4",
+        "1/3",
+        "7/3"
+      ]
+    },
+    {
+      "number": 10,
+      "prompt": "A coordenação de uma escola organizou uma campanha de arrecadação de livros para a biblioteca e estabeleceu a meta total de sessenta livros. A turma A conseguiu arrecadar três décimos da meta. A turma B arrecadou dois quintos da meta. A turma C arrecadou um quarto da meta. Assinale a alternativa que apresenta as frações correspondentes à arrecadação de cada turma em ordem crescente.",
+      "options": [
+        "1/4, 3/10, 2/5",
+        "1/4, 2/5, 3/10",
+        "2/5, 3/10, 1/4",
+        "3/10, 1/4, 2/5"
+      ]
+    },
+    {
+      "number": 11,
+      "prompt": "Calcule o resultado da adição das frações: 1/2 + 3/4.",
+      "options": [
+        "4/6",
+        "4/4",
+        "5/4",
+        "4/8"
+      ]
+    },
+    {
+      "number": 12,
+      "prompt": "Joana está preparando uma receita de bolo. Na receita estão indicadas 2 1/3 xícaras de farinha de trigo. Como representar essa quantidade na forma de fração imprópria?",
+      "options": [
+        "3/3",
+        "3/7",
+        "2/3",
+        "7/3"
+      ]
+    },
+    {
+      "number": 13,
+      "prompt": "Calcule o resultado da seguinte operação de subtração: 7/8 − 1/4.",
+      "options": [
+        "6/4",
+        "6/8",
+        "3/8",
+        "5/8"
+      ]
+    },
+    {
+      "number": 14,
+      "prompt": "Em um jardim, foram plantadas rosas e margaridas. As rosas ocuparam 1/4 do jardim, as margaridas ocuparam 2/5 dele, e o restante do espaço ficou livre. Qual fração representa a parte livre do jardim?",
+      "options": [
+        "2/3",
+        "13/20",
+        "7/20",
+        "17/20"
+      ]
+    },
+    {
+      "number": 15,
+      "prompt": "Mariana fez uma viagem com uma parada para descanso. Antes da parada, o trajeto durou 5/8 de hora. Após a parada, o trajeto restante durou 3/8 de hora. Qual é a diferença de tempo entre os dois trajetos?",
+      "options": [
+        "2/8 de hora",
+        "8/8 de hora",
+        "2/16 de hora",
+        "8/16 de hora"
+      ]
+    },
+    {
+      "number": 16,
+      "prompt": "Júlia está treinando para uma caminhada. Em um dia, ela caminhou quatro quintos do percurso planejado pela manhã e um terço desse percurso à tarde. Qual fração representa a diferença entre a distância percorrida de manhã e à tarde?",
+      "options": [
+        "3/2",
+        "3/8",
+        "7/15",
+        "17/15"
       ]
     },
     {
       "number": 17,
-      "prompt": "Para a manutenção da fiação elétrica de uma escola, foi\ncomprado um rolo de cabo de cobre com 25 metros de\ncomprimento. Foram realizados quatro serviços, sendo\nutilizados \n e \n do total do rolo.\nA quantidade, em metros, que sobrou do rolo de cabo de\ncobre foi de\n1\n8 ,   1\n6 ,   1\n4\n1\n12",
+      "prompt": "Para a manutenção da fiação elétrica de uma escola, foi comprado um rolo de cabo de cobre de 25 metros. Foram utilizados 1/8, 1/6, 1/4 e 1/12 do total do rolo nos quatro serviços. Qual quantidade de cabo sobrou?",
       "options": [
-        "metros.",
-        "metros.",
-        "metros.",
-        "metros. 15 5 8 21 2 3 3 9 8 9 3 8"
+        "15 5/8 metros",
+        "21 2/3 metros",
+        "3 9/8 metros",
+        "9 3/8 metros"
+      ]
+    },
+    {
+      "number": 18,
+      "prompt": "Uma família preparou uma torta e a dividiu em partes iguais. Durante a refeição, os adultos consumiram 2/9 da torta. Mais tarde, as crianças consumiram 5/9 da mesma torta. Qual fração representa a quantidade total consumida?",
+      "options": [
+        "7/18",
+        "5/9",
+        "7/9",
+        "9/9"
+      ]
+    },
+    {
+      "number": 19,
+      "prompt": "A imagem mostra as etapas de um experimento realizado em uma feira de ciências. De acordo com a sequência de etapas ilustrada, qual fração representa o volume de líquido resultante após a Etapa 3?",
+      "options": [
+        "5/12",
+        "3/4",
+        "1/3",
+        "7/12"
+      ]
+    },
+    {
+      "number": 20,
+      "prompt": "Os moradores de um bairro revitalizaram um terreno para transformá-lo em uma horta comunitária. A plantação de tomates ocupou 5/12 do terreno, e a de cenouras ocupou 3/8. Qual fração representa a quantidade total do terreno utilizada para os dois plantios?",
+      "options": [
+        "8/20",
+        "8/12",
+        "8/24",
+        "19/24"
       ]
     },
     {
@@ -2363,6 +2523,26 @@
       ]
     },
     {
+      "number": 12,
+      "prompt": "Uma embalagem de cereal informa que determinado ingrediente representa 40% da composição total do produto. Qual fração representa corretamente 40%?",
+      "options": [
+        "4/100",
+        "40/100",
+        "100/40",
+        "100/4"
+      ]
+    },
+    {
+      "number": 13,
+      "prompt": "Uma livraria ofereceu desconto de 25% em determinados livros infantis. Qual fração é equivalente a 25%?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ]
+    },
+    {
       "number": 14,
       "prompt": "Durante a semana da volta às aulas, uma\npapelaria do bairro anunciou descontos em\ndiversos materiais escolares. Uma mochila que\ncustava R$ 80,00 recebeu um desconto de 25%,\npara incentivar as vendas antes do início das\naulas.\nQual é o valor do desconto oferecido nessa\nmochila?",
       "options": [
@@ -2390,6 +2570,16 @@
         "R$ 85,00",
         "R$ 78,00",
         "R$ 119,65"
+      ]
+    },
+    {
+      "number": 17,
+      "prompt": "Durante uma pesquisa na escola, verificou-se que 75% dos estudantes utilizam a biblioteca pelo menos uma vez por semana. Qual alternativa apresenta uma fração irredutível e um número decimal equivalentes a 75%?",
+      "options": [
+        "3/4 e 0,75",
+        "3/4 e 0,075",
+        "75/100 e 0,75",
+        "1/2 e 0,5"
       ]
     },
     {
@@ -2655,6 +2845,16 @@
       ]
     },
     {
+      "number": 4,
+      "prompt": "Uma embalagem de cereal informa que determinado ingrediente representa 40% da composição total do produto. Qual fração representa corretamente 40%?",
+      "options": [
+        "4/100",
+        "40/100",
+        "100/40",
+        "100/4"
+      ]
+    },
+    {
       "number": 5,
       "prompt": "Em um mercado, a massa de um pacote foi\nregistrada em uma balança digital como 3,728 kg.\nQual é a ordem do algarismo 2, destacado, nesse\nnúmero decimal?",
       "options": [
@@ -2722,6 +2922,26 @@
         "R$ 18,90",
         "R$ 19,00",
         "R$ 19,45"
+      ]
+    },
+    {
+      "number": 12,
+      "prompt": "Uma livraria ofereceu desconto de 25% em determinados livros infantis. Qual fração é equivalente a 25%?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ]
+    },
+    {
+      "number": 13,
+      "prompt": "Durante uma pesquisa na escola, verificou-se que 75% dos estudantes utilizam a biblioteca pelo menos uma vez por semana. Qual alternativa apresenta uma fração irredutível e um número decimal equivalentes a 75%?",
+      "options": [
+        "3/4 e 0,75",
+        "3/4 e 0,075",
+        "75/100 e 0,75",
+        "1/2 e 0,5"
       ]
     },
     {
