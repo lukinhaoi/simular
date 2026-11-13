@@ -1520,9 +1520,9 @@
     },
     {
       "number": 3,
-      "prompt": "Disponível em: https://familiesforlife.sg/pages/Article/IChooseFamilyTime-ComicStrips. Acesso em: 18 mar. 2025. Adaptado.",
+      "prompt": "Disponível em: https://familiesforlife.sg/pages/Article/IChooseFamilyTime-ComicStrips. Acesso em: 18 mar. 2025. Adaptado.\nA partir dos quadros acima, podemos concluir que há",
       "options": [
-        "partir dos quadros acima, podemos concluir que há A conflitos na relação de trabalho.",
+        "conflitos na relação de trabalho.",
         "importância de estar junto à família.",
         "benefícios em uma refeição balanceada.",
         "melhores maneiras de se fazer reuniões online."
@@ -1610,12 +1610,12 @@
     },
     {
       "number": 16,
-      "prompt": "",
+      "prompt": "A figura a seguir representa as aberturas de dois ângulos. Sabe-se, entretanto, que esses dois ângulos juntos correspondem a um\nângulo raso.\nA medida do ângulo agudo representado pela letra “a” é:",
       "options": [
-        "figura a seguir representa as aberturas de dois ângulos. Sabe-se, entretanto, que esses dois ângulos juntos correspondem a um\nângulo raso.",
-        "medida do ângulo agudo representado pela letra “a” é:",
         "180°",
-        "120°"
+        "120°",
+        "70°",
+        "60º"
       ]
     },
     {
@@ -1640,9 +1640,9 @@
     },
     {
       "number": 19,
-      "prompt": "Na aula de Matemática, a professora Rose trouxe fichas especiais para os estudantes brincarem e aprenderem sobre os polígonos.\nCada ficha tem o desenho de um polígono e informações como o número de lados, vértices, ângulos internos, ângulos externos e\ndiagonais.",
+      "prompt": "Na aula de Matemática, a professora Rose trouxe fichas especiais para os estudantes brincarem e aprenderem sobre os polígonos.\nCada ficha tem o desenho de um polígono e informações como o número de lados, vértices, ângulos internos, ângulos externos e\ndiagonais.\nA professora pediu para os estudantes encontrarem a ficha que tem todas as informações corretas sobre o polígono. A ficha\nescolhida foi:",
       "options": [
-        "professora pediu para os estudantes encontrarem a ficha que tem todas as informações corretas sobre o polígono. A ficha escolhida foi: A Ficha A",
+        "Ficha A",
         "Ficha B",
         "Ficha C",
         "Ficha D"
@@ -1670,32 +1670,32 @@
     },
     {
       "number": 22,
-      "prompt": "",
+      "prompt": "A atmosfera é dividida em diferentes camadas. Aquela que está mais próxima da superfície terrestre é chamada de troposfera.\nConsiderando somente o ar seco (sem vapor de água), a troposfera é composta por diferentes gases, entre eles:\nFonte: Khan Academy. Composição da atmosfera. Adaptado. Disponível em: < https://encurtador.com.br/bRJi9 > Acesso em 24 de março de 2025.\nAssinale a alternativa com o nome correto do gás, representado pela letra X na tabela.",
       "options": [
-        "atmosfera é dividida em diferentes camadas. Aquela que está mais próxima da superfície terrestre é chamada de troposfera.\nConsiderando somente o ar seco (sem vapor de água), a troposfera é composta por diferentes gases, entre eles:\nFonte: Khan Academy. Composição da atmosfera. Adaptado. Disponível em: < https://encurtador.com.br/bRJi9 > Acesso em 24 de março de 2025.\nAssinale a alternativa com o nome correto do gás, representado pela letra X na tabela.",
         "Monóxido de carbono.",
         "Xenônio.",
-        "Oxigênio."
+        "Oxigênio.",
+        "Flúor."
       ]
     },
     {
       "number": 23,
-      "prompt": "",
+      "prompt": "A estratosfera é a camada localizada acima da troposfera, até aproximadamente 50 km de altitude da superfície terrestre. Nessa\ncamada, a temperatura aumenta conforme aumenta a altitude.\nImagem criada por Inteligência Artificial: DeepSeek\nNa estratosfera também há a concentração elevada de um gás, que forma uma camada que filtra os raios ultravioleta (UV) do Sol,\nnocivos aos seres vivos. Como é conhecida essa camada?",
       "options": [
-        "estratosfera é a camada localizada acima da troposfera, até aproximadamente 50 km de altitude da superfície terrestre. Nessa\ncamada, a temperatura aumenta conforme aumenta a altitude.\nImagem criada por Inteligência Artificial: DeepSeek\nNa estratosfera também há a concentração elevada de um gás, que forma uma camada que filtra os raios ultravioleta (UV) do Sol,\nnocivos aos seres vivos. Como é conhecida essa camada?",
         "Camada de hélio.",
         "Camada de oxigênio.",
-        "Camada de subducção."
+        "Camada de subducção.",
+        "Camada de ozônio."
       ]
     },
     {
       "number": 24,
-      "prompt": "",
+      "prompt": "A água é o principal componente do corpo dos seres vivos e está presente em diversos ambientes do planeta Terra. Os 3 (três)\nestados físicos da água, observados nesses ambientes do planeta, são:",
       "options": [
-        "água é o principal componente do corpo dos seres vivos e está presente em diversos ambientes do planeta Terra. Os 3 (três)\nestados físicos da água, observados nesses ambientes do planeta, são:",
         "Sólido, líquido e gasoso.",
         "Sólido, gasoso e pastoso.",
-        "Sólido, líquido e plasma."
+        "Sólido, líquido e plasma.",
+        "Sólido, plasma e gasoso."
       ]
     },
     {
@@ -1710,9 +1710,9 @@
     },
     {
       "number": 26,
-      "prompt": "Analise a notícia a seguir e responda à questão.\nFonte: G1. Desmatamento na Amazônia cai 7% em 2024, mas degradação tem alta de 497% por causa das queimadas. Disponível em: < https://g1.globo.com/meio-\nambiente/noticia/2025/01/24/desmatamento-degradacao-na-amazonia-2024.ghtml > Acesso em 26 março de 2025.",
+      "prompt": "Analise a notícia a seguir e responda à questão.\nFonte: G1. Desmatamento na Amazônia cai 7% em 2024, mas degradação tem alta de 497% por causa das queimadas. Disponível em: < https://g1.globo.com/meio-\nambiente/noticia/2025/01/24/desmatamento-degradacao-na-amazonia-2024.ghtml > Acesso em 26 março de 2025.\nA permanência da floresta em pé é uma luta de diferentes setores, no Brasil e no mundo. Uma consequência que pode ocorrer com\na retirada da cobertura vegetal é",
       "options": [
-        "permanência da floresta em pé é uma luta de diferentes setores, no Brasil e no mundo. Uma consequência que pode ocorrer com a retirada da cobertura vegetal é A Diminuição da evapotranspiração.",
+        "Diminuição da evapotranspiração.",
         "Crescimento natural da floresta.",
         "Redução da quantidade de lixo nos rios.",
         "Aumento das chuvas, que trazem mais nutrientes para o solo."
@@ -1720,9 +1720,9 @@
     },
     {
       "number": 27,
-      "prompt": "Leia o texto abaixo e responda à questão.\nFonte: Humor com Ciência. Ciclo sem fim? Disponível em: < https://encurtador.com.br/ulZzp > Acesso em 26 de março de 2025.",
+      "prompt": "Leia o texto abaixo e responda à questão.\nFonte: Humor com Ciência. Ciclo sem fim? Disponível em: < https://encurtador.com.br/ulZzp > Acesso em 26 de março de 2025.\nA história acima se refere a qual ciclo da natureza?",
       "options": [
-        "história acima se refere a qual ciclo da natureza? A Ciclo do carbono.",
+        "Ciclo do carbono.",
         "Ciclo do nitrogênio.",
         "Ciclo da água.",
         "Ciclo do oxigênio."
@@ -2264,9 +2264,9 @@
     },
     {
       "number": 3,
-      "prompt": "Leia o texto abaixo para responder à questão.",
+      "prompt": "Leia o texto abaixo para responder à questão. \nA origem do sertanejo universitário \nO sertanejo universitário é fruto das transformações pelas quais a música \nsertaneja passou ao longo do tempo. A sua origem está ligada aos jovens que, no \nfinal dos anos 1990, deixaram cidades do interior para ingressar em universidades \nsituadas nas capitais. \nLevando consigo a música sertaneja e outros elementos da cultura interiorana, \neles ajudaram a popularizar o gênero musical entre os estudantes universitários. \nAlguns deles, inclusive, formaram duplas [...]. \n \nDINIZ, Laleska. A origem do sertanejo universitário. In: Sertanejo em cifras. Ed. 45. Novembro de 2020. Fragmento. \n \nOs verbos em destaque no texto pertencem ao tempo:",
       "options": [
-        "origem do sertanejo universitário  O sertanejo universitário é fruto das transformações pelas quais a música  sertaneja passou ao longo do tempo. A sua origem está ligada aos jovens que, no  final dos anos 1990, deixaram cidades do interior para ingressar em universidades  situadas nas capitais.  Levando consigo a música sertaneja e outros elementos da cultura interiorana,  eles ajudaram a popularizar o gênero musical entre os estudantes universitários.  Alguns deles, inclusive, formaram duplas [...].    DINIZ, Laleska. A origem do sertanejo universitário. In: Sertanejo em cifras. Ed. 45. Novembro de 2020. Fragmento.    Os verbos em destaque no texto pertencem ao tempo:  A) Pretérito Perfeito.",
+        "Pretérito Perfeito.",
         "Futuro do Pretérito.",
         "Futuro do Presente.",
         "Presente."
@@ -2274,9 +2274,9 @@
     },
     {
       "number": 4,
-      "prompt": "Leia os Textos I e II para responder à questão. \n \nTexto I \n \nPopulação da Índia deve superar a da China até meados de \n2023, diz ONU \nJuntos, países asiáticos representam mais de um terço da \npopulação global \n19/04/2023 às 07:50 | Atualizado 19/04/2023 às 07:52",
+      "prompt": "Leia os Textos I e II para responder à questão. \n \nTexto I \n \nPopulação da Índia deve superar a da China até meados de \n2023, diz ONU \nJuntos, países asiáticos representam mais de um terço da \npopulação global \n19/04/2023 às 07:50 | Atualizado 19/04/2023 às 07:52 \nA Índia está a caminho de se tornar o país mais populoso do \nmundo, ultrapassando a China com quase 3 milhões de habitantes a \nmais em meados deste ano, mostraram dados divulgados nesta \nquarta-feira (19) pelas Nações Unidas. \nOs dados demográficos do “Relatório do Estado da População \nMundial, 2023” do Fundo de População das Nações Unidas (UNFPA, \nna sigla em inglês) estimam a população da Índia em 1.428,6 milhões \nou 1,4286 bilhão, contra 1,4257 bilhão da China. [...] \nYP Rajesh e Krishn Kaushik. In: Referência CNN Brasil 19.abr.2023. \n \nTexto II \nDisponível: https://countrymeters.info/pt/ . Acesso em: 16 mai. 2023. Adaptado. \n \n \nDe acordo com a comparação entre os textos I e II:",
       "options": [
-        "Índia está a caminho de se tornar o país mais populoso do  mundo, ultrapassando a China com quase 3 milhões de habitantes a  mais em meados deste ano, mostraram dados divulgados nesta  quarta-feira (19) pelas Nações Unidas.  Os dados demográficos do “Relatório do Estado da População  Mundial, 2023” do Fundo de População das Nações Unidas (UNFPA,  na sigla em inglês) estimam a população da Índia em 1.428,6 milhões  ou 1,4286 bilhão, contra 1,4257 bilhão da China. [...]  YP Rajesh e Krishn Kaushik. In: Referência CNN Brasil 19.abr.2023.    Texto II  Disponível: https://countrymeters.info/pt/ . Acesso em: 16 mai. 2023. Adaptado.      De acordo com a comparação entre os textos I e II:  A) A notícia é verdadeira, mas a Índia está em queda populacional até 2100  segundo o Texto II.",
+        "notícia é verdadeira, mas a Índia está em queda populacional até 2100  segundo o Texto II.",
         "O Texto I é fake, já que os dados apresentados no texto II são muito diferentes  daqueles na notícia.",
         "notícia tem dados falsos, pois no Texto II está claro que a China sempre terá  mais habitantes que a Índia.",
         "O texto I apresenta dados muito próximos do texto II, apresentando uma notícia  verídica.      População: China  Dados de 1º de janeiro    População: Índia  Dados de 1º de janeiro  2023 1.458.921.902 hab.     2023 1.425.771.530 hab.  2100 1.020.665.209    2100 1.516.597.388"
@@ -2324,9 +2324,9 @@
     },
     {
       "number": 9,
-      "prompt": "Leia o texto abaixo para responder à questão. \nO dente adequado para cada um",
+      "prompt": "Leia o texto abaixo para responder à questão. \nO dente adequado para cada um \nA dentição dos animais extintos ajuda os cientistas a desvendar como os \ngrupos diferentes surgiram e evoluíram ao longo da história da vida na Terra, pois o \ntipo e as características dos dentes fornecem informações preciosas. Além disso, \ndevido à sua constituição resistente, em muitos casos só os dentes de animais extintos \nforam preservados até os dias atuais. O estudo da dentição de vários mamíferos já \nextintos que viveram na América do Sul mostra como esse grupo era diversificado e \nrevela aspectos surpreendentes dessa fauna. [...] \n \nDisponível em: https://cienciahoje.org.br/artigo/o-dente-adequado-para-cada-um/ . Acesso em: 16 abr. 2023.Fragmento. \n \nHá uma locução adjetiva em:",
       "options": [
-        "dentição dos animais extintos ajuda os cientistas a desvendar como os  grupos diferentes surgiram e evoluíram ao longo da história da vida na Terra, pois o  tipo e as características dos dentes fornecem informações preciosas. Além disso,  devido à sua constituição resistente, em muitos casos só os dentes de animais extintos  foram preservados até os dias atuais. O estudo da dentição de vários mamíferos já  extintos que viveram na América do Sul mostra como esse grupo era diversificado e  revela aspectos surpreendentes dessa fauna. [...]    Disponível em: https://cienciahoje.org.br/artigo/o-dente-adequado-para-cada-um/ . Acesso em: 16 abr. 2023.Fragmento.    Há uma locução adjetiva em:  A) “O dente adequado para cada um”.",
+        "“O dente adequado para cada um”.",
         "“...revela aspectos surpreendentes dessa fauna.”.",
         "“...como os grupos diferentes surgiram...”.",
         "“...só os dentes de animais extintos foram preservados...”."
@@ -2344,9 +2344,9 @@
     },
     {
       "number": 11,
-      "prompt": "Leia o texto abaixo para responder à questão. \nConheça as falhas geológicas que podem causar os terremotos mais \ndevastadores do planeta \nDe separar um continente em dois a elevar montanhas todos os anos, essas \nrachaduras nunca representam algo bom \nTECNOLOGIA E CIÊNCIA | Matheus Borges*, do R7 \n15/05/2023 - 02H00 (ATUALIZADO EM 15/05/2023 - 13H40) \n \nFalhas geológicas são uma espécie de fratura na crosta terrestre, que podem variar \nde tamanho — desde muito pequenas até rachaduras que podem ser vistas do \nespaço. Elas são geradas por tensões acumuladas ao longo de uma ou mais placas \ntectônicas, por se afastarem ou se aproximarem. [...] \n \nMatheus Borges. In: R7. Disponível em: https://encurtador.com.br/qyKQY . Acesso em: 16 mai. 2023.",
+      "prompt": "Leia o texto abaixo para responder à questão. \nConheça as falhas geológicas que podem causar os terremotos mais \ndevastadores do planeta \nDe separar um continente em dois a elevar montanhas todos os anos, essas \nrachaduras nunca representam algo bom \nTECNOLOGIA E CIÊNCIA | Matheus Borges*, do R7 \n15/05/2023 - 02H00 (ATUALIZADO EM 15/05/2023 - 13H40) \n \nFalhas geológicas são uma espécie de fratura na crosta terrestre, que podem variar \nde tamanho — desde muito pequenas até rachaduras que podem ser vistas do \nespaço. Elas são geradas por tensões acumuladas ao longo de uma ou mais placas \ntectônicas, por se afastarem ou se aproximarem. [...] \n \nMatheus Borges. In: R7. Disponível em: https://encurtador.com.br/qyKQY . Acesso em: 16 mai. 2023. \n \nA frase que apresenta uma marca de parcialidade nessa notícia é:",
       "options": [
-        "frase que apresenta uma marca de parcialidade nessa notícia é:  A) fraturas na crosta terrestre podem ser vistas do espaço.",
+        "fraturas na crosta terrestre podem ser vistas do espaço.",
         "falhas causam os terremotos mais devastadores do planeta.",
         "falhas geológicas podem causar terremotos.",
         "tensões acumuladas entre placas tectônicas geram falhas."
@@ -2364,9 +2364,9 @@
     },
     {
       "number": 13,
-      "prompt": "Leia a charge abaixo para responder à questão. \n \n \nDisponível em: https://d.gazetadealagoas.com.br/charges/356728/charge-de-adnael-silva---11-e-12062022 . \nAcesso em: 16 mai. 2023.",
+      "prompt": "Leia a charge abaixo para responder à questão. \n \n \nDisponível em: https://d.gazetadealagoas.com.br/charges/356728/charge-de-adnael-silva---11-e-12062022 . \nAcesso em: 16 mai. 2023. \n \nA crítica presente na charge é",
       "options": [
-        "crítica presente na charge é  A) a emoção de receber presentes.",
+        "a emoção de receber presentes.",
         "a compra de presentes caros.",
         "o aumento do poder de compra.",
         "o alto custo do gás de cozinha."
@@ -2494,9 +2494,9 @@
     },
     {
       "number": 26,
-      "prompt": "Leia o texto abaixo.",
+      "prompt": "Leia o texto abaixo. \n \n \nA Ciência possui diversos campos de estudo, a exemplo são as Ciências \nExatas, as Ciências Humanas e as Ciências da Saúde. Em todos eles os \ncientistas utilizam o método científico para que seu estudo seja validado.  \n \nTexto produzido para Prova Paulista \n \nNesse sentido, o conhecimento científico é",
       "options": [
-        "Ciência possui diversos campos de estudo, a exemplo são as Ciências  Exatas, as Ciências Humanas e as Ciências da Saúde. Em todos eles os  cientistas utilizam o método científico para que seu estudo seja validado.     Texto produzido para Prova Paulista    Nesse sentido, o conhecimento científico é  A) definitivo e nunca muda, pois exige que ele seja aplicado e validado durante a  pesquisa.",
+        "definitivo e nunca muda, pois exige que ele seja aplicado e validado durante a  pesquisa.",
         "algo dinâmico e passível de erros, que exige problematização, levantamento e  teste de hipóteses e colaboração entre pares para construção de explicações.",
         "definitivo e sempre muda, pois exige que ele seja aplicado e validado durante a  pesquisa.",
         "algo dinâmico e sem erros, que não exige problematização nem levantamento e  teste de hipóteses."
@@ -2524,9 +2524,9 @@
     },
     {
       "number": 29,
-      "prompt": "Leia o seguinte trecho:",
+      "prompt": "Leia o seguinte trecho: \n \n \nA toxoplasmose é uma doença que não apresenta sintomas e cerca de 80% \ndos adultos infectados não sabem que têm a doença. Sua detecção só pode \nser feita a partir de exames de sangue. Ela pode ser adquirida pelo contato \ncom fezes de gatos, ingestão de carnes, ovos e alimentos crus ou mal \ncozidos. Também pela ingestão de frutas e legumes sem a higienização \nadequada ou por água contaminada, assim como no manuseio de terra e \nareia, que podem conter os cistos do protozoário.  \n \nFonte: Adaptado do Jornal da USP Disponível em: https://jornal.usp.br/atualidades/toxoplasmose-uma-doenca-silenciosa/ \n \nOs protozoários são unicelulares, mas não podem ser considerados bactérias porque",
       "options": [
-        "toxoplasmose é uma doença que não apresenta sintomas e cerca de 80%  dos adultos infectados não sabem que têm a doença. Sua detecção só pode  ser feita a partir de exames de sangue. Ela pode ser adquirida pelo contato  com fezes de gatos, ingestão de carnes, ovos e alimentos crus ou mal  cozidos. Também pela ingestão de frutas e legumes sem a higienização  adequada ou por água contaminada, assim como no manuseio de terra e  areia, que podem conter os cistos do protozoário.     Fonte: Adaptado do Jornal da USP Disponível em: https://jornal.usp.br/atualidades/toxoplasmose-uma-doenca-silenciosa/    Os protozoários são unicelulares, mas não podem ser considerados bactérias porque   A) são células procarióticas.",
+        "são células procarióticas.",
         "são autótrofos.",
         "pertencem ao reino monera.",
         "são células eucarióticas."
@@ -2617,9 +2617,9 @@
       "prompt": "A imagem abaixo representa a contaminação de um ser vivo por parasitas. \n \n \n \nFonte: Material Digital do 6º Ano - Ciências - Seduc-SP \n \nDentre as alternativas, a que melhor define o parasitismo é:",
       "options": [
         "modo de vida de um ser animal ou vegetal que produz o próprio alimento.",
-        "modo de vida de um ser animal ou vegetal que necessita que seus alimentos\nsejam cozidos ao fogo.",
-        "modo de vida de um ser animal ou vegetal que retira de outro ser vivo sua\nnutrição.",
-        "modo de vida de um ser animal ou vegetal que se alimenta somente de seres\nem decomposição."
+        "modo de vida de um ser animal ou vegetal que necessita que seus alimentos  sejam cozidos ao fogo.",
+        "modo de vida de um ser animal ou vegetal que retira de outro ser vivo sua  nutrição.",
+        "modo de vida de um ser animal ou vegetal que se alimenta somente de seres  em decomposição."
       ]
     },
     {
@@ -2804,7 +2804,7 @@
         "conscientizar sobre a importância de dar mais atenção aos filhos.",
         "informar sobre a troca regular de bateria do aparelho celular.",
         "alertar sobre os celulares defeituosos próximos às crianças.",
-        "debater sobre o excesso de uso do celular por crianças.\n\n\n\n\n\nLeia o texto e responda à questão 17.\nMauricio de Sousa fala dos 61 anos da Turma da Mônica\nNuma entrevista exclusiva, o paulista Mauricio de Sousa fala dos 61 anos da Turma da\nMônica. No bate-papo, junto com seu filho Mauro Sousa, diretor de espetáculos, parques e\neventos da companhia, ambos falam da trajetória de sucesso da marca e contam novidades,\ncomo uma filial no Japão...[...]\nÀs vésperas de completar 85 anos de idade, em 27 de outubro, Mauricio de\nSousa concedeu esta entrevista para a revista Azul por vídeo. Participou da\nconversa também um de seus nove filhos, Mauro Sousa, 33 anos, diretor de\nespetáculos, parques e eventos da Maurício de Sousa Ao Vivo – e inspiração para o\npersonagem Nimbus. Com um eterno sorriso e muita assertividade, Mauricio falou\nda trajetória de seus 61 anos de carreira, de sua (ótima!) relação com as recentes\nplataformas de comunicação e da nova parceria da Turma da Mônica. “Sou suspeito\nporque adoro azul, é uma cor divina”, disse o sorridente Mauricio, usando uma\ncamisa nesse tom, cercado de personagens azuis, como Bidu e o coelhinho Sansão.\nDisponível em: <https://encurtador.com.br/gnruM>. Acesso em: 04 jul. 2023."
+        "debater sobre o excesso de uso do celular por crianças.          Leia o texto e responda à questão 17.  Mauricio de Sousa fala dos 61 anos da Turma da Mônica  Numa entrevista exclusiva, o paulista Mauricio de Sousa fala dos 61 anos da Turma da  Mônica. No bate-papo, junto com seu filho Mauro Sousa, diretor de espetáculos, parques e  eventos da companhia, ambos falam da trajetória de sucesso da marca e contam novidades,  como uma filial no Japão...[...]  Às vésperas de completar 85 anos de idade, em 27 de outubro, Mauricio de  Sousa concedeu esta entrevista para a revista Azul por vídeo. Participou da  conversa também um de seus nove filhos, Mauro Sousa, 33 anos, diretor de  espetáculos, parques e eventos da Maurício de Sousa Ao Vivo – e inspiração para o  personagem Nimbus. Com um eterno sorriso e muita assertividade, Mauricio falou  da trajetória de seus 61 anos de carreira, de sua (ótima!) relação com as recentes  plataformas de comunicação e da nova parceria da Turma da Mônica. “Sou suspeito  porque adoro azul, é uma cor divina”, disse o sorridente Mauricio, usando uma  camisa nesse tom, cercado de personagens azuis, como Bidu e o coelhinho Sansão.  Disponível em: <https://encurtador.com.br/gnruM>. Acesso em: 04 jul. 2023."
       ]
     },
     {
@@ -2824,7 +2824,7 @@
         "a variedade padrão da língua que privilegia uma pequena parte dos falantes.",
         "uma variação da língua que seria adequada em um contexto informal.",
         "uma sequência de gírias que impedem compreender o tema tratado.",
-        "a norma padrão para que seja atingido o maior número possível de falantes.\n\nLeia o texto para responder à questão 19.\nDos babilônios para os gregos, do grego para o latim\nOs antigos gregos, por conta das relações de comércio e das disputas de território,\naprenderam com os babilônios sobre muitos assuntos, incluindo a astronomia e a\nmatemática de base 60.\nPtolomeu – matemático, geógrafo e astrônomo grego, que viveu há dois mil\nanos aproximadamente – aproveitou as descobertas com a base 60 dos babilônios\nem seus estudos. As traduções europeias das expressões usadas por Ptmolomeu\npara o latim (língua internacional da ciência) foram: ‘partes minutae primae’ (minuto)\ne ‘partes minutae secundae’ (segundo). Assim, em uma volta completa do círculo,\ntemos 360 graus, sendo que cada grau contém 60 minutos, e cada minuto, por sua\nvez, 60 segundos.\nDisponível em: <https://chc.org.br/artigo/a-matematica-do-60/>. Acesso em: 3 ago. 2023. Fragmento."
+        "a norma padrão para que seja atingido o maior número possível de falantes.  Leia o texto para responder à questão 19.  Dos babilônios para os gregos, do grego para o latim   Os antigos gregos, por conta das relações de comércio e das disputas de território,  aprenderam com os babilônios sobre muitos assuntos, incluindo a astronomia e a  matemática de base 60.  Ptolomeu – matemático, geógrafo e astrônomo grego, que viveu há dois mil  anos aproximadamente – aproveitou as descobertas com a base 60 dos babilônios  em seus estudos. As traduções europeias das expressões usadas por Ptmolomeu  para o latim (língua internacional da ciência) foram: ‘partes minutae primae’ (minuto)  e ‘partes minutae secundae’ (segundo). Assim, em uma volta completa do círculo,  temos 360 graus, sendo que cada grau contém 60 minutos, e cada minuto, por sua  vez, 60 segundos.  Disponível em: <https://chc.org.br/artigo/a-matematica-do-60/>. Acesso em: 3 ago. 2023. Fragmento."
       ]
     },
     {
@@ -2874,7 +2874,7 @@
         "Hair, eye, belly, leg.",
         "Eye, head, belly, leg.",
         "Hair, eye, finger, neck.",
-        "Eye, finger, neck, head.\n\n\nLeia as horas abaixo para responder à questão 24.\n\nMaterial elaborado para essa atividade"
+        "Eye, finger, neck, head.      Leia as horas abaixo para responder à questão 24.    Material elaborado para essa atividade"
       ]
     },
     {
@@ -2919,9 +2919,9 @@
     },
     {
       "number": 28,
-      "prompt": "Leia o texto abaixo. \nÉ uma solução aquosa que tem como função limpar, lubrificar e umedecer a parte \nexposta do olho evitando seu ressecamento. Em sua composição contém sais, muco \ne algumas enzimas com ação bactericida. \nElaborado para Prova Paulista",
+      "prompt": "Leia o texto abaixo. \nÉ uma solução aquosa que tem como função limpar, lubrificar e umedecer a parte \nexposta do olho evitando seu ressecamento. Em sua composição contém sais, muco \ne algumas enzimas com ação bactericida. \nElaborado para Prova Paulista  \n \nA descrição acima refere-se à(ao):",
       "options": [
-        "descrição acima refere-se à(ao):  A) suor.",
+        "suor.",
         "saliva.",
         "lágrima.",
         "humor líquido."
@@ -2932,9 +2932,9 @@
       "prompt": "A audiodescrição é a tradução de uma imagem em palavras para pessoas cegas ou \ncom baixa visão. Ela descreve a imagem permitindo que as pessoas com deficiência \nvisual possam compreendê-la. \n \nDentre as alternativas abaixo, qual delas apresenta tópicos de uma melhor \naudiodescrição de uma pessoa?",
       "options": [
         "Onde mora, que escola estuda, se faz ou não tarefa.",
-        "A viagem que fez, o passeio preferido ou se teve uma boa noite de sono.",
-        "Alimentação preferida, atividades que desenvolve em casa e o filme que\nassistiu com os pais.",
-        "Tipo e cor dos cabelos, a altura, objetos que usa, tipo de roupa ou se encontra\nsentado(a) ou em pé."
+        "viagem que fez, o passeio preferido ou se teve uma boa noite de sono.",
+        "Alimentação preferida, atividades que desenvolve em casa e o filme que  assistiu com os pais.",
+        "Tipo e cor dos cabelos, a altura, objetos que usa, tipo de roupa ou se encontra  sentado(a) ou em pé."
       ]
     },
     {
@@ -2999,9 +2999,9 @@
     },
     {
       "number": 36,
-      "prompt": "Sabemos que o corpo humano possui mais de 600 músculos esqueléticos e esses \nmúsculos estão associados com os movimentos e a postura do nosso corpo.",
+      "prompt": "Sabemos que o corpo humano possui mais de 600 músculos esqueléticos e esses \nmúsculos estão associados com os movimentos e a postura do nosso corpo.  \nA figura abaixo representa a conexão entre músculo esquelético e osso do calcanhar, \nauxiliando na sustentação do corpo. \n \nFonte: https://www.isonanten.com/lesao-do-tendao-do-calcaneo \n \nO músculo estriado esquelético liga-se ao esqueleto por estruturas denominadas",
       "options": [
-        "figura abaixo representa a conexão entre músculo esquelético e osso do calcanhar,  auxiliando na sustentação do corpo.    Fonte: https://www.isonanten.com/lesao-do-tendao-do-calcaneo    O músculo estriado esquelético liga-se ao esqueleto por estruturas denominadas  A) ossos.",
+        "ossos.",
         "tendões.",
         "polegares.",
         "diafragmas."
