@@ -61,101 +61,33 @@ window.addEventListener('storage',event=>{if(!active||event.key!==draftKey(activ
 
 
 // Modo de questões individuais para todos os cadernos
-let questionBankE1=null,questionIndexE1=0,questionPdfDoc=null,questionPdfExamId=null,questionPageCache={},questionPageLoading=null;
+let questionBankE1=null,questionBanks={},questionIndexE1=0,questionPdfDoc=null,questionPdfExamId=null,questionPageCache={},questionPageLoading=null;
 function hideQuestionExperience(){const panel=$('#questionExperience');if(panel)panel.classList.add('hidden');const layout=$('.exam-layout');if(layout)layout.classList.remove('hidden');const modal=$('#examModal');if(modal)modal.classList.remove('question-mode')}
-async function showQuestionExperience(){
- const panel=$('#questionExperience'),layout=$('.exam-layout');
- if(!panel||!layout||!active)return;
- layout.classList.add('hidden');panel.classList.remove('hidden');$('#examModal').classList.add('question-mode');
- questionIndexE1=0;
- try{
-  if(active.id==='e1'){
-   if(!questionBankE1){const response=await fetch('questions-e1.json');if(!response.ok)throw Error('Não foi possível carregar as questões.');questionBankE1=await response.json();}
-  }
-  await loadQuestionPdf();
-  renderQuestionE1();
- }catch(error){$('#questionPrompt').textContent='Não foi possível abrir o modo de questões: '+error.message;}
+async function loadQuestionBank(id){
+ if(id==='e1'){if(!questionBankE1){const r=await fetch('questions-e1.json');if(!r.ok)throw Error('Banco de questões indisponível');questionBankE1=await r.json()}return questionBankE1}
+ if(!questionBanks[id]){const n=+id.slice(1),file=n<=9?'questions-e2-e9.json':n<=17?'questions-e10-e17.json':'questions-e18-e25.json';const r=await fetch(file);if(!r.ok)throw Error('Banco de questões indisponível');questionBanks[id]=(await r.json())[id]||[]}
+ return questionBanks[id]
 }
+function currentQuestionBank(){return active?.id==='e1'?questionBankE1:(questionBanks[active?.id]||[])}
+async function showQuestionExperience(){const panel=$('#questionExperience'),layout=$('.exam-layout');if(!panel||!layout||!active)return;layout.classList.add('hidden');panel.classList.remove('hidden');$('#examModal').classList.add('question-mode');questionIndexE1=0;try{await loadQuestionBank(active.id);await loadQuestionPdf();renderQuestionE1()}catch(e){$('#questionPrompt').textContent='Não foi possível abrir o modo de questões: '+e.message}}
 function renderQuestionE1(){
- if(!active)return;
- const isFirst=active.id==='e1'&&Array.isArray(questionBankE1);
- const total=questionTotal(active);
- const q=isFirst?questionBankE1[questionIndexE1]:{number:questionIndexE1+1,prompt:'Leia o enunciado e as alternativas da questão no caderno original exibido abaixo.',options:['Alternativa A','Alternativa B','Alternativa C','Alternativa D']};
- if(!q)return;
- const number=q.number,selected=selectedLetters(answers[number]),multi=isMultiQuestion(number);
- $('#questionSubject').textContent='Questão '+number+(multi?' · escolha 2':'');
- $('#questionProgress').textContent=(questionIndexE1+1)+' de '+(isFirst?questionBankE1.length:total);
- $('#questionProgressFill').style.width=((questionIndexE1+1)/(isFirst?questionBankE1.length:total)*100)+'%';
- $('#questionPrompt').textContent=q.prompt;
- $('#questionOptions').innerHTML=q.options.map((option,i)=>{const letter='ABCD'[i],on=selected.includes(letter);return '<button type="button" class="question-option '+(on?'selected':'')+'" data-question-letter="'+letter+'" aria-pressed="'+on+'"><span class="question-letter">'+letter+'</span><span class="question-option-text">'+escapeQuestionHtml(option)+'</span></button>'}).join('');
- $('#questionOptions').querySelectorAll('.question-option').forEach(button=>button.addEventListener('click',()=>chooseQuestionE1(number,button.dataset.questionLetter)));
- $('#questionPrev').disabled=questionIndexE1===0;
- $('#questionNext').textContent=questionIndexE1===(isFirst?questionBankE1.length:total)-1?'Finalizar simulado':'Próxima →';
- $('#questionAnswered').textContent=Object.values(answers).filter(isAnswered).length+' respondidas';
- const imageToggle=$('#questionImageToggle'),imageWrap=$('#questionImageWrap');
- imageToggle.classList.remove('hidden');
- imageToggle.textContent='Ver página original';
- imageWrap.classList.add('hidden');
- $('#questionImageStatus').textContent='Carregando página original…';
- if(!isFirst){
-  imageWrap.classList.remove('hidden');
-  imageToggle.textContent='Ocultar página original';
- }
- renderQuestionPageE1(q).catch(error=>{$('#questionImageStatus').textContent='Não foi possível localizar a página automaticamente. Use o PDF original para consultar a questão.';});
+ if(!active)return;const bank=currentQuestionBank(),total=questionTotal(active),number=questionIndexE1+1,q=bank.find(x=>+x.number===number)||null,selected=selectedLetters(answers[number]),multi=isMultiQuestion(number);
+ $('#questionSubject').textContent='Questão '+number+(multi?' · escolha 2':'');$('#questionProgress').textContent=(questionIndexE1+1)+' de '+total;$('#questionProgressFill').style.width=((questionIndexE1+1)/total*100)+'%';
+ $('#questionPrompt').textContent=q?.prompt||'Esta questão não pôde ser extraída em texto. Consulte a página original abaixo.';
+ const alphabet='ABCDE';$('#questionOptions').innerHTML=q?q.options.map((option,i)=>{const letter=alphabet[i],on=selected.includes(letter);return '<button type="button" class="question-option '+(on?'selected':'')+'" data-question-letter="'+letter+'" aria-pressed="'+on+'"><span class="question-letter">'+letter+'</span><span class="question-option-text">'+escapeQuestionHtml(option)+'</span></button>'}).join(''):'';
+ $('#questionOptions').querySelectorAll('.question-option').forEach(x=>x.addEventListener('click',()=>chooseQuestionE1(number,x.dataset.questionLetter)));
+ $('#questionPrev').disabled=questionIndexE1===0;$('#questionNext').textContent=questionIndexE1===total-1?'Finalizar simulado':'Próxima →';$('#questionAnswered').textContent=Object.values(answers).filter(isAnswered).length+' respondidas';
+ const toggle=$('#questionImageToggle'),wrap=$('#questionImageWrap');toggle.classList.remove('hidden');toggle.textContent='Ver página original';wrap.classList.add('hidden');$('#questionImageStatus').textContent='Carregando página original…';renderQuestionPageE1({number}).catch(()=>{$('#questionImageStatus').textContent='Não foi possível localizar a página automaticamente. Consulte o PDF original.'});
 }
-function escapeQuestionHtml(value){return String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
-function chooseQuestionE1(number,letter){
- const picked=selectedLetters(answers[number]);
- if(isMultiQuestion(number)){
-  const next=picked.includes(letter)?picked.filter(x=>x!==letter):[...picked,letter];
-  if(next.length)answers[number]=next;else delete answers[number];
- }else{
-  if(picked[0]===letter)delete answers[number];else answers[number]=letter;
- }
- saveDraft();renderQuestionE1();updateCount();
-}
-function loadQuestionPdf(){
- if(questionPdfDoc&&questionPdfExamId===active?.id)return Promise.resolve(questionPdfDoc);
- if(questionPageLoading&&questionPdfExamId===active?.id)return questionPageLoading;
- questionPdfExamId=active.id;questionPdfDoc=null;questionPageCache={};
- questionPageLoading=(async()=>{
-  if(!window.pdfjsLib)throw Error('O visualizador de páginas não carregou.');
-  pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
-  const file='provas/'+encodeURIComponent(active.filename);
-  questionPdfDoc=await pdfjsLib.getDocument(file).promise;
-  return questionPdfDoc;
- })();
- return questionPageLoading;
-}
-function normalizeQuestionText(value){return String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();}
-async function findQuestionPageE1(q){
- const doc=await loadQuestionPdf(),number=Number(q.number);
- for(let pageNo=1;pageNo<=doc.numPages;pageNo++){
-  let text=questionPageCache[pageNo];
-  if(text===undefined){
-   const page=await doc.getPage(pageNo),content=await page.getTextContent();
-   text=normalizeQuestionText(content.items.map(x=>x.str).join(' '));
-   questionPageCache[pageNo]=text;
-  }
-  const marker=new RegExp('questao\\s*0?'+number+'\\b');
-  if(marker.test(text))return pageNo;
- }
- const total=questionTotal(active),startPage=doc.numPages>20?3:2;
- return Math.min(doc.numPages,Math.max(1,startPage+Math.ceil((number-1)*Math.max(1,doc.numPages-startPage)/(Math.max(1,total-1)))));
-}
-async function renderQuestionPageE1(q){
- const doc=await loadQuestionPdf(),pageNo=await findQuestionPageE1(q);
- if(!pageNo){$('#questionImageStatus').textContent='Não foi possível localizar a página desta questão. Consulte o PDF original.';return;}
- const page=await doc.getPage(pageNo),canvas=$('#questionImageCanvas'),ctx=canvas.getContext('2d');
- const base=page.getViewport({scale:1}),viewport=page.getViewport({scale:Math.min(1.5,900/base.width)});
- canvas.width=Math.ceil(viewport.width);canvas.height=Math.ceil(viewport.height);
- await page.render({canvasContext:ctx,viewport}).promise;
- $('#questionImageStatus').textContent='Página '+pageNo+' do caderno original (localização aproximada)';
- $('#questionImageToggle').dataset.ready='1';
-}
+function escapeQuestionHtml(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function chooseQuestionE1(n,l){const picked=selectedLetters(answers[n]);if(isMultiQuestion(n)){const next=picked.includes(l)?picked.filter(x=>x!==l):[...picked,l];if(next.length)answers[n]=next;else delete answers[n]}else{if(picked[0]===l)delete answers[n];else answers[n]=l}saveDraft();renderQuestionE1();updateCount()}
+function loadQuestionPdf(){if(questionPdfDoc&&questionPdfExamId===active?.id)return Promise.resolve(questionPdfDoc);if(questionPageLoading&&questionPdfExamId===active?.id)return questionPageLoading;questionPdfExamId=active.id;questionPdfDoc=null;questionPageCache={};questionPageLoading=(async()=>{if(!window.pdfjsLib)throw Error('Visualizador PDF não carregou');pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';questionPdfDoc=await pdfjsLib.getDocument('provas/'+encodeURIComponent(active.filename)).promise;return questionPdfDoc})();return questionPageLoading}
+function normalizeQuestionText(v){return String(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()}
+async function findQuestionPageE1(q){const doc=await loadQuestionPdf(),n=+q.number;for(let p=1;p<=doc.numPages;p++){let t=questionPageCache[p];if(t===undefined){const pg=await doc.getPage(p),c=await pg.getTextContent();t=normalizeQuestionText(c.items.map(x=>x.str).join(' '));questionPageCache[p]=t}if(new RegExp('questao\\s*0?'+n+'\\b').test(t))return p}const total=questionTotal(active),start=doc.numPages>20?3:2;return Math.min(doc.numPages,Math.max(1,start+Math.ceil((n-1)*Math.max(1,doc.numPages-start)/Math.max(1,total-1))))}
+async function renderQuestionPageE1(q){const doc=await loadQuestionPdf(),p=await findQuestionPageE1(q);if(!p)return;const page=await doc.getPage(p),canvas=$('#questionImageCanvas'),ctx=canvas.getContext('2d'),base=page.getViewport({scale:1}),vp=page.getViewport({scale:Math.min(1.5,900/base.width)});canvas.width=Math.ceil(vp.width);canvas.height=Math.ceil(vp.height);await page.render({canvasContext:ctx,viewport:vp}).promise;$('#questionImageStatus').textContent='Página '+p+' do caderno original';$('#questionImageToggle').dataset.ready='1'}
 $('#questionImageToggle').onclick=()=>{$('#questionImageWrap').classList.toggle('hidden');$('#questionImageToggle').textContent=$('#questionImageWrap').classList.contains('hidden')?'Ver página original':'Ocultar página original'};
 $('#questionPrev').onclick=()=>{if(questionIndexE1>0){questionIndexE1--;renderQuestionE1()}};
-$('#questionNext').onclick=()=>{if(!active)return;const total=active.id==='e1'&&questionBankE1?questionBankE1.length:questionTotal(active);if(questionIndexE1<total-1){questionIndexE1++;renderQuestionE1()}else $('#submitExam').click()};
+$('#questionNext').onclick=()=>{if(!active)return;const total=questionTotal(active);if(questionIndexE1<total-1){questionIndexE1++;renderQuestionE1()}else $('#submitExam').click()};
 // Alternância de tema com preferência salva neste navegador
 const THEME_KEY='simulaTheme:v1';
 function applyTheme(theme){
