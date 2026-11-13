@@ -2,12 +2,12 @@
   "e10": [
     {
       "number": 1,
-      "prompt": "A prefeitura do município de Paraiso realizará um campeonato de futebol. Para isso é \nnecessário cortar a grama do seu principal estádio de futebol. João foi contratado para \nrealizar o serviço e, em seu primeiro dia de trabalho, cortou o equivalente a \n5\n12 da área \ntotal do gramado. No dia seguinte, ele cortou mais \n4\n12 do total do gramado. Qual a \nfração que representa o total da região do gramado aparado até o momento por João?",
+      "prompt": "A prefeitura do município de Paraíso realizará um campeonato de futebol. Para isso, é necessário cortar a grama do seu principal estádio de futebol. João foi contratado para realizar o serviço e, em seu primeiro dia de trabalho, cortou o equivalente a 5/12 da área total do gramado. No dia seguinte, ele cortou mais 4/12 do total do gramado. Qual fração representa o total da região do gramado aparado até o momento por João?",
       "options": [
-        "1 12",
-        "3 8",
-        "1 2",
-        "3 4"
+        "1/12",
+        "3/8",
+        "1/2",
+        "3/4"
       ]
     },
     {
@@ -22,22 +22,22 @@
     },
     {
       "number": 3,
-      "prompt": "Carlos possui um álbum de figurinhas de times de futebol. Ele já colou no álbum o \nequivalente a \n4\n9 do total das figurinhas. No final de semana, querendo completar esse \nálbum foi a banca e comprou o equivalente a \n2\n5 do total de figurinhas, e percebeu que \nnenhuma delas eram repetidas. A fração que representa o total de figurinhas que \nainda falta para completar o álbum é:",
+      "prompt": "Carlos possui um álbum de figurinhas de times de futebol. Ele já colou no álbum o equivalente a 4/9 do total das figurinhas. No final de semana, querendo completar esse álbum, foi à banca e comprou o equivalente a 2/5 do total de figurinhas, e percebeu que nenhuma delas era repetida. A fração que representa o total de figurinhas que ainda falta para completar o álbum é:",
       "options": [
-        "6 14",
-        "6 45",
-        "7 45",
-        "38 45"
+        "6/14",
+        "6/45",
+        "7/45",
+        "38/45"
       ]
     },
     {
       "number": 4,
-      "prompt": "Na casa de Mariana o gasto diário de água com descargas correspondia a \n2\n5 da \ncapacidade da caixa d'água. Com a troca por descargas mais econômicas, esse \nconsumo passou a ser de \n1\n4 da capacidade da mesma caixa d'água. Logo a fração da \ncaixa d'água economizada com essa troca foi de:",
+      "prompt": "Na casa de Mariana, o gasto diário de água com descargas correspondia a 2/5 da capacidade da caixa-d'água. Com a troca por descargas mais econômicas, esse consumo passou a ser de 1/4 da capacidade da mesma caixa-d'água. Logo, a fração da caixa-d'água economizada com essa troca foi de:",
       "options": [
-        "1 20",
-        "3 20",
-        "2 4",
-        "1 5"
+        "1/20",
+        "3/20",
+        "2/4",
+        "1/5"
       ]
     },
     {
@@ -52,17 +52,17 @@
     },
     {
       "number": 6,
-      "prompt": "Carla ligou na pizzaria e pediu para entregarem 3 pizzas, do mesmo tamanho, em sua \ncasa, para um jantar em família. No final do jantar, percebeu que todas as pizzas eram \ndivididas em 8 partes iguais e sobraram três pedaços de pizza. Indique a alternativa \nque corresponde à fração mista e à fração imprópria, respectivamente, que \nrepresentam a quantidade de pizza que sua família comeu no jantar.",
+      "prompt": "Carla ligou na pizzaria e pediu para entregarem 3 pizzas, do mesmo tamanho, em sua casa, para um jantar em família. No final do jantar, percebeu que todas as pizzas eram divididas em 8 partes iguais e sobraram três pedaços de pizza. Indique a alternativa que corresponde à fração mista e à fração imprópria, respectivamente, que representam a quantidade de pizza que sua família comeu no jantar.",
       "options": [
-        "2 5 8 ;  21 8",
-        "2 5 24 ;  21 24",
-        "2 5 8 ;  7 8",
-        "3 3 8 ;  27 8"
+        "2 5/8; 21/8",
+        "2 5/24; 21/24",
+        "2 5/8; 7/8",
+        "3 3/8; 27/8"
       ]
     },
     {
       "number": 7,
-      "prompt": "Júlio gosta de fazer caminhada diariamente. Em um determinado dia ele percorreu 3\n3\n4 \nquilômetros no período da manhã e 4\n1\n2 quilômetros no final da tarde. Neste dia, \nquantos quilômetros ele percorreu?",
+      "prompt": "Júlio gosta de fazer caminhada diariamente. Em um determinado dia, ele percorreu 3 3/4 quilômetros no período da manhã e 4 1/2 quilômetros no final da tarde. Nesse dia, quantos quilômetros ele percorreu?",
       "options": [
         "7 km",
         "7,6 km",
@@ -92,7 +92,7 @@
     },
     {
       "number": 10,
-      "prompt": "Os sócios Benedito e Everaldo compraram uma doceria no valor de 78 mil reais. \nBenedito pagou o equivalente a \n1\n3 do valor total da doceria, o restante do valor foi pago \npor Everaldo. Qual foi o valor pago por Everaldo na compra da doceria?",
+      "prompt": "Os sócios Benedito e Everaldo compraram uma doceria no valor de 78 mil reais. Benedito pagou o equivalente a 1/3 do valor total da doceria, e o restante do valor foi pago por Everaldo. Qual foi o valor pago por Everaldo na compra da doceria?",
       "options": [
         "26 mil",
         "39 mil",
