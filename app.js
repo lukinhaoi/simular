@@ -135,3 +135,19 @@ async function renderQuestionPageE1(q){
 $('#questionImageToggle').onclick=()=>{$('#questionImageWrap').classList.toggle('hidden');if($('#questionImageToggle').dataset.ready==='1')$('#questionImageToggle').textContent=$('#questionImageWrap').classList.contains('hidden')?'Ver página original':'Ocultar página original'};
 $('#questionPrev').onclick=()=>{if(questionIndexE1>0){questionIndexE1--;renderQuestionE1()}};
 $('#questionNext').onclick=()=>{if(!questionBankE1)return;if(questionIndexE1<questionBankE1.length-1){questionIndexE1++;renderQuestionE1()}else $('#submitExam').click()};
+
+
+// Alternância de tema com preferência salva neste navegador
+const THEME_KEY='simulaTheme:v1';
+function applyTheme(theme){
+ const dark=theme==='dark';
+ document.body.classList.toggle('dark-theme',dark);
+ const button=$('#themeToggle');
+ if(button){button.textContent=dark?'☀️ Modo claro':'🌙 Modo escuro';button.setAttribute('aria-label',dark?'Ativar modo claro':'Ativar modo escuro');}
+}
+applyTheme(localStorage.getItem(THEME_KEY)||'light');
+$('#themeToggle').addEventListener('click',()=>{
+ const next=document.body.classList.contains('dark-theme')?'light':'dark';
+ localStorage.setItem(THEME_KEY,next);
+ applyTheme(next);
+});
