@@ -59,84 +59,101 @@ $('#openAnswersTab').onclick=()=>{if(!active)return;saveDraft();const url=new UR
 window.addEventListener('storage',event=>{if(!active||event.key!==draftKey(active.id)||!event.newValue)return;try{const draft=JSON.parse(event.newValue);answers=draft.answers||{};document.querySelectorAll('.answer-row').forEach(row=>{const chosen=selectedLetters(answers[row.dataset.q]);row.querySelectorAll('.opt').forEach(button=>{const on=chosen.includes(button.dataset.letter);button.classList.toggle('selected',on);button.setAttribute('aria-pressed',on?'true':'false')})});updateCount()}catch{}});
 
 
-// Modo de questões individuais — ativado somente na primeira prova (e1)
-let questionBankE1=null,questionIndexE1=0,questionPdfDocE1=null,questionPageMapE1={},questionPageLoadingE1=null;
-const questionImageWords=/.+/;
+// Modo de questões individuais para todos os cadernos
+let questionBankE1=null,questionIndexE1=0,questionPdfDoc=null,questionPdfExamId=null,questionPageCache={},questionPageLoading=null;
 function hideQuestionExperience(){const panel=$('#questionExperience');if(panel)panel.classList.add('hidden');const layout=$('.exam-layout');if(layout)layout.classList.remove('hidden');const modal=$('#examModal');if(modal)modal.classList.remove('question-mode')}
 async function showQuestionExperience(){
  const panel=$('#questionExperience'),layout=$('.exam-layout');
- if(!panel||!layout)return;
+ if(!panel||!layout||!active)return;
  layout.classList.add('hidden');panel.classList.remove('hidden');$('#examModal').classList.add('question-mode');
+ questionIndexE1=0;
  try{
-  if(!questionBankE1){const response=await fetch('questions-e1.json');if(!response.ok)throw Error('Não foi possível carregar as questões.');questionBankE1=await response.json();}
-  questionIndexE1=0;
+  if(active.id==='e1'){
+   if(!questionBankE1){const response=await fetch('questions-e1.json');if(!response.ok)throw Error('Não foi possível carregar as questões.');questionBankE1=await response.json();}
+  }
+  await loadQuestionPdf();
   renderQuestionE1();
-  loadQuestionPdfE1().catch(()=>{});
  }catch(error){$('#questionPrompt').textContent='Não foi possível abrir o modo de questões: '+error.message;}
 }
 function renderQuestionE1(){
- if(!active||active.id!=='e1'||!questionBankE1)return;
- const q=questionBankE1[questionIndexE1],selected=selectedLetters(answers[q.number]);
- $('#questionSubject').textContent='Questão '+q.number;
- $('#questionProgress').textContent=(questionIndexE1+1)+' de '+questionBankE1.length;
- $('#questionProgressFill').style.width=((questionIndexE1+1)/questionBankE1.length*100)+'%';
+ if(!active)return;
+ const isFirst=active.id==='e1'&&Array.isArray(questionBankE1);
+ const total=Number(active.questions)||40;
+ const q=isFirst?questionBankE1[questionIndexE1]:{number:questionIndexE1+1,prompt:'Leia o enunciado e as alternativas da questão no caderno original exibido abaixo.',options:['Alternativa A','Alternativa B','Alternativa C','Alternativa D','Alternativa E']};
+ if(!q)return;
+ const number=q.number,selected=selectedLetters(answers[number]),multi=isMultiQuestion(number);
+ $('#questionSubject').textContent='Questão '+number+(multi?' · escolha 2':'');
+ $('#questionProgress').textContent=(questionIndexE1+1)+' de '+(isFirst?questionBankE1.length:total);
+ $('#questionProgressFill').style.width=((questionIndexE1+1)/(isFirst?questionBankE1.length:total)*100)+'%';
  $('#questionPrompt').textContent=q.prompt;
- $('#questionOptions').innerHTML=q.options.map((option,i)=>{const letter='ABCD'[i],on=selected.includes(letter);return '<button type="button" class="question-option '+(on?'selected':'')+'" data-question-letter="'+letter+'" aria-pressed="'+on+'"><span class="question-letter">'+letter+'</span><span class="question-option-text">'+escapeQuestionHtml(option)+'</span></button>'}).join('');
- $('#questionOptions').querySelectorAll('.question-option').forEach(button=>button.addEventListener('click',()=>chooseQuestionE1(q.number,button.dataset.questionLetter)));
+ $('#questionOptions').innerHTML=q.options.map((option,i)=>{const letter='ABCDE'[i],on=selected.includes(letter);return '<button type="button" class="question-option '+(on?'selected':'')+'" data-question-letter="'+letter+'" aria-pressed="'+on+'"><span class="question-letter">'+letter+'</span><span class="question-option-text">'+escapeQuestionHtml(option)+'</span></button>'}).join('');
+ $('#questionOptions').querySelectorAll('.question-option').forEach(button=>button.addEventListener('click',()=>chooseQuestionE1(number,button.dataset.questionLetter)));
  $('#questionPrev').disabled=questionIndexE1===0;
- $('#questionNext').textContent=questionIndexE1===questionBankE1.length-1?'Finalizar simulado':'Próxima →';
+ $('#questionNext').textContent=questionIndexE1===(isFirst?questionBankE1.length:total)-1?'Finalizar simulado':'Próxima →';
  $('#questionAnswered').textContent=Object.values(answers).filter(isAnswered).length+' respondidas';
- $('#questionImageToggle').classList.toggle('hidden',!questionImageWords.test(q.prompt));
- $('#questionImageWrap').classList.add('hidden');
+ const imageToggle=$('#questionImageToggle'),imageWrap=$('#questionImageWrap');
+ imageToggle.classList.remove('hidden');
+ imageToggle.textContent='Ver página original';
+ imageWrap.classList.add('hidden');
  $('#questionImageStatus').textContent='Carregando página original…';
- if(questionImageWords.test(q.prompt))renderQuestionPageE1(q).catch(()=>{});
+ if(!isFirst){
+  imageWrap.classList.remove('hidden');
+  imageToggle.textContent='Ocultar página original';
+ }
+ renderQuestionPageE1(q).catch(error=>{$('#questionImageStatus').textContent='Não foi possível localizar a página automaticamente. Use o PDF original para consultar a questão.';});
 }
 function escapeQuestionHtml(value){return String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function chooseQuestionE1(number,letter){
  const picked=selectedLetters(answers[number]);
- answers[number]=picked.includes(letter)?picked.filter(x=>x!==letter):[letter];
- if(!answers[number].length)delete answers[number];
+ if(isMultiQuestion(number)){
+  const next=picked.includes(letter)?picked.filter(x=>x!==letter):[...picked,letter];
+  if(next.length)answers[number]=next;else delete answers[number];
+ }else{
+  if(picked[0]===letter)delete answers[number];else answers[number]=letter;
+ }
  saveDraft();renderQuestionE1();updateCount();
 }
-function loadQuestionPdfE1(){
- if(questionPdfDocE1)return Promise.resolve(questionPdfDocE1);
- if(questionPageLoadingE1)return questionPageLoadingE1;
- questionPageLoadingE1=(async()=>{
-  if(!window.pdfjsLib)throw Error('O visualizador de imagens não carregou.');
+function loadQuestionPdf(){
+ if(questionPdfDoc&&questionPdfExamId===active?.id)return Promise.resolve(questionPdfDoc);
+ if(questionPageLoading&&questionPdfExamId===active?.id)return questionPageLoading;
+ questionPdfExamId=active.id;questionPdfDoc=null;questionPageCache={};
+ questionPageLoading=(async()=>{
+  if(!window.pdfjsLib)throw Error('O visualizador de páginas não carregou.');
   pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
-  const file='provas/'+encodeURIComponent(exams.find(x=>x.id==='e1').filename);
-  questionPdfDocE1=await pdfjsLib.getDocument(file).promise;
-  return questionPdfDocE1;
+  const file='provas/'+encodeURIComponent(active.filename);
+  questionPdfDoc=await pdfjsLib.getDocument(file).promise;
+  return questionPdfDoc;
  })();
- return questionPageLoadingE1;
+ return questionPageLoading;
 }
 function normalizeQuestionText(value){return String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();}
 async function findQuestionPageE1(q){
- if(questionPageMapE1[q.number])return questionPageMapE1[q.number];
- const doc=await loadQuestionPdfE1(),needle=normalizeQuestionText(q.prompt).split(' ').filter(w=>w.length>4).slice(-12);
- let bestPage=1,bestScore=0;
+ const doc=await loadQuestionPdf(),number=Number(q.number);
  for(let pageNo=1;pageNo<=doc.numPages;pageNo++){
-  const page=await doc.getPage(pageNo),content=await page.getTextContent(),text=normalizeQuestionText(content.items.map(x=>x.str).join(' '));
-  const qtag='questao '+q.number;
-  if(text.includes(qtag)){questionPageMapE1[q.number]=pageNo;return pageNo;}
-  const score=needle.filter(word=>text.includes(word)).length;
-  if(score>bestScore){bestScore=score;bestPage=pageNo;}
+  let text=questionPageCache[pageNo];
+  if(text===undefined){
+   const page=await doc.getPage(pageNo),content=await page.getTextContent();
+   text=normalizeQuestionText(content.items.map(x=>x.str).join(' '));
+   questionPageCache[pageNo]=text;
+  }
+  const marker=new RegExp('questao\\s*0?'+number+'\\b');
+  if(marker.test(text))return pageNo;
  }
- questionPageMapE1[q.number]=bestPage;return bestPage;
+ return null;
 }
 async function renderQuestionPageE1(q){
- const pageNo=await findQuestionPageE1(q),doc=await loadQuestionPdfE1(),page=await doc.getPage(pageNo),canvas=$('#questionImageCanvas'),ctx=canvas.getContext('2d');
- const viewport=page.getViewport({scale:Math.min(1.5,900/page.getViewport({scale:1}).width)});
+ const doc=await loadQuestionPdf(),pageNo=await findQuestionPageE1(q);
+ if(!pageNo){$('#questionImageStatus').textContent='Não encontrei automaticamente a página desta questão. Consulte o PDF original.';return;}
+ const page=await doc.getPage(pageNo),canvas=$('#questionImageCanvas'),ctx=canvas.getContext('2d');
+ const base=page.getViewport({scale:1}),viewport=page.getViewport({scale:Math.min(1.5,900/base.width)});
  canvas.width=Math.ceil(viewport.width);canvas.height=Math.ceil(viewport.height);
  await page.render({canvasContext:ctx,viewport}).promise;
  $('#questionImageStatus').textContent='Página '+pageNo+' do caderno original';
  $('#questionImageToggle').dataset.ready='1';
 }
-$('#questionImageToggle').onclick=()=>{$('#questionImageWrap').classList.toggle('hidden');if($('#questionImageToggle').dataset.ready==='1')$('#questionImageToggle').textContent=$('#questionImageWrap').classList.contains('hidden')?'Ver página original':'Ocultar página original'};
+$('#questionImageToggle').onclick=()=>{$('#questionImageWrap').classList.toggle('hidden');$('#questionImageToggle').textContent=$('#questionImageWrap').classList.contains('hidden')?'Ver página original':'Ocultar página original'};
 $('#questionPrev').onclick=()=>{if(questionIndexE1>0){questionIndexE1--;renderQuestionE1()}};
-$('#questionNext').onclick=()=>{if(!questionBankE1)return;if(questionIndexE1<questionBankE1.length-1){questionIndexE1++;renderQuestionE1()}else $('#submitExam').click()};
-
-
+$('#questionNext').onclick=()=>{if(!active)return;const total=active.id==='e1'&&questionBankE1?questionBankE1.length:Number(active.questions)||40;if(questionIndexE1<total-1){questionIndexE1++;renderQuestionE1()}else $('#submitExam').click()};
 // Alternância de tema com preferência salva neste navegador
 const THEME_KEY='simulaTheme:v1';
 function applyTheme(theme){
