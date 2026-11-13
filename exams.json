@@ -434,7 +434,7 @@
     "bimester": "1º bimestre",
     "series": "Prova Paulista",
     "pages": 31,
-    "questions": 30,
+    "questions": 40,
     "source": "provas",
     "sha256": "d756664a9bcc6723188c7bbb01a67fb6047e17dbc42bc313d46235069ffa1a6f",
     "key": [
@@ -481,7 +481,7 @@
     ],
     "keyStatus": "oficial",
     "keySource": "Caderno de gabarito oficial Prova Paulista, 6º ano, 1º bimestre 2023, Dia 1 (cartão-resposta preenchido; correspondência confirmada por SHA-256 do caderno do aluno)",
-    "questionCountReliable": false
+    "questionCountReliable": true
   },
   {
     "id": "e8",
