@@ -2012,7 +2012,7 @@
   "e23": [
     {
       "number": 1,
-      "prompt": "Um foguete é montado com 24 peças, e \n dessas peças\nsão utilizadas para montar os motores. \nElaborado pelo autor para fins didáticos.\nQuantas peças são utilizadas na montagem dos motores?\n3\n4",
+      "prompt": "Um foguete é montado com 24 peças, e 3/4 dessas peças são utilizadas para montar os motores. Quantas peças são utilizadas na montagem dos motores?",
       "options": [
         "8",
         "18",
