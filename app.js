@@ -88,7 +88,7 @@ function renderQuestionE1(){
  $('#questionNext').textContent=questionIndexE1===total-1?'Finalizar simulado':'Próxima →';
  $('#questionAnswered').textContent=Object.values(answers).filter(isAnswered).length+' respondidas';
  const toggle=$('#questionImageToggle'),wrap=$('#questionImageWrap');
- const promptNeedsPage=!!(q&&/(imagem|figura|tabela|gr[aá]fico|mapa|ilustra[cç][aã]o|quadrinho|tirinha|charge|cartaz|observe)/i.test(q.prompt));
+ const promptNeedsPage=!!(q&&(q.requiresOriginalPage===true||/(imagem|figura|tabela|gr[aá]fico|mapa|ilustra[cç][aã]o|quadrinho|tirinha|charge|cartaz|observe)/i.test(q.prompt)));
  const showOriginal=!q||promptNeedsPage;
  toggle.classList.remove('hidden');
  toggle.textContent=showOriginal?'Ocultar página original':'Ver página original';
