@@ -45,8 +45,8 @@
       "prompt": "O verbete de enciclopédia acima apresenta uma explicação sobre:",
       "options": [
         "O veneno ricina.",
-        "A produção de óleo.",
-        "A planta mamona.",
+        "produção de óleo.",
+        "planta mamona.",
         "O comércio de plantas."
       ]
     },
@@ -54,10 +54,10 @@
       "number": 8,
       "prompt": "Disponível em: https://pt.wikipedia.org/wiki/Categoria:Escritoras_afro-brasileiras. Acesso em: 02 jul. 2025.",
       "options": [
-        "imagem acima é de um índice de uma enciclopédia online, livre e aberta à edição. Ela apresenta uma das características\ndo gênero Verbete de Enciclopédia, que é utilizar a ordem alfabética dos temas para",
-        "estimular a leitura ao dificultar a pesquisa realizada.",
+        "imagem acima é de um índice de uma enciclopédia online, livre e aberta à edição. Ela apresenta uma das características do gênero Verbete de Enciclopédia, que é utilizar a ordem alfabética dos temas para A estimular a leitura ao dificultar a pesquisa realizada.",
         "apresentar as personagens principais da narrativa.",
-        "acrescentar as avaliações pessoais dos leitores."
+        "acrescentar as avaliações pessoais dos leitores.",
+        "facilitar a busca por escritoras afro-brasileiras."
       ]
     },
     {
@@ -74,10 +74,10 @@
       "number": 10,
       "prompt": "Elza Soares\nPor Editores da Enciclopédia Itaú Cultural\nÚltima atualização: 30.07.2024\nElza da Conceição Soares (Rio de Janeiro, Rio de Janeiro, 1937 - Idem, 2022). Cantora, compositora. Com uma voz rouca\nmarcante, Elza contribui com importantes registros de grandes composições da música brasileira, interpretando e\nimprovisando sobre canções de diferentes gêneros.\nDisponível em: https://enciclopedia.itaucultural.org.br/pessoas/22505-elza-soares. Acesso em: 02 jul. 2025.",
       "options": [
-        "palavra em destaque, “marcante”, dá a entender que a voz rouca da cantora",
-        "era considerada irrelevante.",
+        "palavra em destaque, “marcante”, dá a entender que a voz rouca da cantora A era considerada irrelevante.",
         "ficava guardada na memória.",
-        "incomodava as pessoas."
+        "incomodava as pessoas.",
+        "estava próxima do comum."
       ]
     },
     {
@@ -104,9 +104,9 @@
       "number": 13,
       "prompt": "Questões financeiras, equilíbrio entre vida profissional e maternidade e aspectos culturais são os principais fatores que\nresultam em um problema: famílias cada vez menores. Os dados recentemente divulgados pelo IBGE apontam para um\nenvelhecimento – mais acelerado que o previsto – da população brasileira. Isso porque o número de crianças nascidas\nestá menor do que o esperado. O problema é que famílias encolhidas tendem a gerar uma economia encolhida e, se o\nBrasil não começar a pensar em estratégias para enfrentar esse assunto, o panorama pode ficar ainda pior.\nVILELA, Marlice Pinto Os desafios da baixa natalidade: por que as famílias estão encolhendo. Gazeta do Povo, 2023. Disponível em: https://www.gazetadopovo.com.br/. Acesso em: 03\nabr. 2025.\nO tópico frasal do parágrafo aponta que:",
       "options": [
-        "As famílias estão menores devido a questões financeiras, equilíbrio entre vida profissional e maternidade e aspectos\nculturais.",
-        "O IBGE divulgou dados que indicam que o envelhecimento da população brasileira está mais acelerado que o\nprevisto.",
-        "A perspectiva para o envelhecimento da população vai piorar muito mesmo que sejam adotadas estratégias para o\ntema.",
+        "As famílias estão menores devido a questões financeiras, equilíbrio entre vida profissional e maternidade e aspectos culturais.",
+        "O IBGE divulgou dados que indicam que o envelhecimento da população brasileira está mais acelerado que o previsto.",
+        "perspectiva para o envelhecimento da população vai piorar muito mesmo que sejam adotadas estratégias para o tema.",
         "O número de crianças nascidas reduziu muito nos últimos anos e isso pode afetar a economia do país no curto prazo."
       ]
     },
@@ -167,17 +167,17 @@
         "como era a própria aparência.",
         "que o espelho era mágico.",
         "como o espelho havia quebrado.",
-        "que o espelho era um álbum de fotografia.\n\n\n\n\nGeografia"
+        "que o espelho era um álbum de fotografia.       Geografia"
       ]
     },
     {
       "number": 22,
       "prompt": "Observe a sequência das imagens.\nImagem gerada pelo algoritmo de Inteligência Artificial",
       "options": [
-        "Hidrosfera é a camada composta pela água em todos os seus estados físicos no planeta.\nConsiderando a sequência de imagens, é possível identificar:",
-        "A infiltração da água no solo após a chuva.",
-        "A formação do gelo ao ser colocada no freezer.",
-        "O ciclo da água completo, incluindo a infiltração e precipitação."
+        "Hidrosfera é a camada composta pela água em todos os seus estados físicos no planeta. Considerando a sequência de imagens, é possível identificar: A A infiltração da água no solo após a chuva.",
+        "formação do gelo ao ser colocada no freezer.",
+        "O ciclo da água completo, incluindo a infiltração e precipitação.",
+        "O derretimento do gelo, passando do estado sólido para o líquido e depois para o gasoso."
       ]
     },
     {
@@ -187,37 +187,37 @@
         "O movimento de rotação e translação da Terra.",
         "Os terremotos e tsunamis que devastam regiões da Terra.",
         "As chuvas, os ventos, a formação de nuvens e as variações de temperatura.",
-        "A formação de auroras devido à interação do campo magnético da Terra com o vento solar."
+        "formação de auroras devido à interação do campo magnético da Terra com o vento solar."
       ]
     },
     {
       "number": 24,
       "prompt": "Observe a imagem.\nMaterial Digital - SEDUC - 3º bimestre",
       "options": [
-        "imagem mostra as cidades de Campos do Jordão, São Paulo e Santos, localizadas em diferentes altitudes e com\nvariações de temperatura. Essas diferenças de temperatura estão relacionadas ao fato de que:",
-        "As temperaturas variam de acordo com a direção do vento.",
+        "imagem mostra as cidades de Campos do Jordão, São Paulo e Santos, localizadas em diferentes altitudes e com variações de temperatura. Essas diferenças de temperatura estão relacionadas ao fato de que: A As temperaturas variam de acordo com a direção do vento.",
         "Em elevadas altitudes o ar é menos denso, com menor capacidade de reter calor.",
-        "Em baixas altitudes as temperaturas são negativas, por estarem mais perto do mar."
+        "Em baixas altitudes as temperaturas são negativas, por estarem mais perto do mar.",
+        "As cidades localizadas em grandes altitudes são muito quentes, pois estão próximas do sol."
       ]
     },
     {
       "number": 25,
       "prompt": "Observe o climograma abaixo:\nMaterial Digital - SEDUC - 3º bimestre.\nOs climogramas são representações gráficas que reúnem informações sobre os elementos do clima de uma região. Com\nbase na análise do climograma apresentado, assinale a alternativa que indica corretamente os dois elementos climáticos\nrepresentados:",
       "options": [
-        "A umidade e o relevo.",
-        "A luz solar e a qualidade do ar.",
-        "A direção dos ventos e das nuvens.",
-        "A quantidade de chuvas e a temperatura."
+        "umidade e o relevo.",
+        "luz solar e a qualidade do ar.",
+        "direção dos ventos e das nuvens.",
+        "quantidade de chuvas e a temperatura."
       ]
     },
     {
       "number": 26,
       "prompt": "Leia o texto.\nImagens  gerada pelo algoritmo de Inteligência Artificial\nO planeta Terra tem muitos tipos diferentes de clima. Isso acontece porque:",
       "options": [
-        "A quantidade de chuva não é igual em todos os lugares.",
-        "A altitude e a latitude influenciam a temperatura e a umidade.",
-        "A luz solar atinge todas as regiões do planeta com a mesma intensidade.",
-        "A presença de relevo e da vegetação não interferem nas condições climáticas."
+        "quantidade de chuva não é igual em todos os lugares.",
+        "altitude e a latitude influenciam a temperatura e a umidade.",
+        "luz solar atinge todas as regiões do planeta com a mesma intensidade.",
+        "presença de relevo e da vegetação não interferem nas condições climáticas."
       ]
     },
     {
@@ -254,20 +254,20 @@
       "number": 30,
       "prompt": "Observe a imagem.\nDisponível em: http://www.arionaurocartuns.com.br/. Acesso em: 23 jul. 2025.",
       "options": [
-        "imagem retrata o estado momentâneo da atmosfera mudando rapidamente ao longo do dia. Essa alteração rápida e\npassageira é chamada de __________.\nOpções de resposta: precipitação, tempo atmosférico, clima, Sol, estação do ano, temperatura",
-        "Clima.",
+        "imagem retrata o estado momentâneo da atmosfera mudando rapidamente ao longo do dia. Essa alteração rápida e passageira é chamada de __________. Opções de resposta: precipitação, tempo atmosférico, clima, Sol, estação do ano, temperatura A Clima.",
         "Temperatura.",
-        "Estação do ano."
+        "Estação do ano.",
+        "Tempo atmosférico.   História"
       ]
     },
     {
       "number": 33,
       "prompt": "Observe a imagem, leia o texto e responda.\nReprodução–WORLD HISTORY ENCYCLOPEDIA, [s.d.]. Disponível em: https://www.worldhistory.org/uploads/images/1456.jpg?v=1733934785-0. Acesso em: 23 de jul de 2025.\n“A formação de Roma é um processo complexo no qual se misturam a mitologia e a realidade histórica. Os romanos,\nansiosos por construir uma narrativa grandiosa de suas origens, criaram lendas e mitos que se entrelaçam com eventos\nhistóricos.”\nMaterial Digital – Seduc – 3º Bimestre",
       "options": [
-        "imagem acima e o texto estão relacionados a",
-        "ideia de que os romanos eram descendentes do deus grego Apolo.",
+        "imagem acima e o texto estão relacionados a A ideia de que os romanos eram descendentes do deus grego Apolo.",
         "origem lendária de Roma pelos gêmeos Rômulo e Remo.",
-        "criação os deuses que protegiam a cidade de Roma."
+        "criação os deuses que protegiam a cidade de Roma.",
+        "fuga de Enéias, após a  destruição de Tróia."
       ]
     },
     {
@@ -284,18 +284,18 @@
       "number": 35,
       "prompt": "Qual das alternativas apresenta um fato marcante do período da República Romana?",
       "options": [
-        "A República Romana foi marcada pela concentração   do poder nas mãos de um único governante, que tomava\ndecisões sem base em leis escritas.",
-        "A Lei das Doze Tábuas que representou o primeiro código de leis escritas em Roma, assegurando direitos\nfundamentais aos plebeus.",
-        "Durante a República, as pessoas escravizadas e os estrangeiros possuíam os mesmos direitos civis e políticos dos\ncidadãos romanos.",
-        "A revolta de Espártaco que resultou na queda da monarquia e marcou o início do regime republicano em Roma."
+        "República Romana foi marcada pela concentração   do poder nas mãos de um único governante, que tomava decisões sem base em leis escritas.",
+        "Lei das Doze Tábuas que representou o primeiro código de leis escritas em Roma, assegurando direitos fundamentais aos plebeus.",
+        "Durante a República, as pessoas escravizadas e os estrangeiros possuíam os mesmos direitos civis e políticos dos cidadãos romanos.",
+        "revolta de Espártaco que resultou na queda da monarquia e marcou o início do regime republicano em Roma."
       ]
     },
     {
       "number": 36,
       "prompt": "Cidadania é um conceito que se refere aos direitos, deveres e participação de uma pessoa na vida política de uma\nsociedade. Esses direitos variaram de acordo com cada sociedade e momento histórico, a definição de quem poderia ser\nconsiderado cidadão também foi sendo alterada ao longo do tempo. Sobre a cidadania em Roma, é correto afirmar que:",
       "options": [
-        "a cidadania romana concedia direitos políticos, civis e militares, mas inicialmente estava restrita a um grupo limitado\nde homens livres.",
-        "a cidadania romana era concedida automaticamente a todos os habitantes, independentemente da sua origem ou\nstatus social.",
+        "a cidadania romana concedia direitos políticos, civis e militares, mas inicialmente estava restrita a um grupo limitado de homens livres.",
+        "a cidadania romana era concedida automaticamente a todos os habitantes, independentemente da sua origem ou status social.",
         "apenas os patrícios tinham direito à cidadania romana, sendo os plebeus totalmente excluídos da vida política.",
         "mulheres e escravizados participavam ativamente das eleições e ocupavam cargos públicos em Roma."
       ]
@@ -346,10 +346,10 @@
       "number": 1,
       "prompt": "Descrição da imagem: pão feito na chapa, acompanhado de um copo de café com leite.",
       "options": [
-        "imagem reproduz uma ação realizada de manhã que pode ser representada por:",
-        "I go to school in the morning.",
+        "imagem reproduz uma ação realizada de manhã que pode ser representada por: A I go to school in the morning.",
         "I wake up at 6 o’clock in the morning.",
-        "I take a shower in the morning."
+        "I take a shower in the morning.",
+        "I have breakfast at 6:30 in the morning."
       ]
     },
     {
@@ -389,7 +389,7 @@
         "Once a month.",
         "Four times a year.",
         "Twice a week.",
-        "Three times a week.\n\nMatemática\nSEDUC - SP\nPROVA: 6º ANO EF_PROVA PAULISTA 3º BI_DIA 2\nDISCIPLINA: Matemática\nALUNO:\nNº:\nSÉRIE:\nTURMA:\nTURNO:\nPROFESSOR:"
+        "Three times a week. Matemática SEDUC - SP PROVA: 6º ANO EF_PROVA PAULISTA 3º BI_DIA 2 DISCIPLINA: Matemática ALUNO: Nº: SÉRIE: TURMA: TURNO: PROFESSOR:"
       ]
     },
     {
@@ -509,7 +509,7 @@
         "101,90",
         "35,10",
         "25,90",
-        "25,10\n\nCiências\nSEDUC - SP\nPROVA: 6º ANO EF_PROVA PAULISTA 3º BI_DIA 2\nDISCIPLINA: Ciências\nALUNO:\nNº:\nSÉRIE:\nTURMA:\nTURNO:\nPROFESSOR:"
+        "25,10 Ciências SEDUC - SP PROVA: 6º ANO EF_PROVA PAULISTA 3º BI_DIA 2 DISCIPLINA: Ciências ALUNO: Nº: SÉRIE: TURMA: TURNO: PROFESSOR:"
       ]
     },
     {
@@ -518,7 +518,7 @@
       "options": [
         "Somente animais são formados por células.",
         "Todos os seres vivos possuem as mesmas organelas.",
-        "A célula é a unidade estrutural e funcional dos seres vivos.",
+        "célula é a unidade estrutural e funcional dos seres vivos.",
         "Toda célula surge de substâncias químicas inorgânicas espontaneamente."
       ]
     },
@@ -567,9 +567,9 @@
       "prompt": "Considere a seguinte afirmação sobre bactérias:\n“Elas podem ser classificadas como cocos, bacilos e espiralados”.\nEssa classificação leva em conta principalmente:",
       "options": [
         "O tipo de reprodução das bactérias.",
-        "A composição de seu material genético.",
+        "composição de seu material genético.",
         "O tipo de nutrição (autotrófica ou heterotrófica).",
-        "A forma e organização celular observadas ao microscópio."
+        "forma e organização celular observadas ao microscópio."
       ]
     },
     {
@@ -609,7 +609,7 @@
         "o núcleo.",
         "a carioteca.",
         "o citoplasma.",
-        "a membrana plasmática.\n\nEducação financeira - Parte Diversificada\nSEDUC - SP\nPROVA: 6º ANO EF_PROVA PAULISTA 3º BI_DIA 2\nDISCIPLINA: Educação financeira - Parte Diversificada\nALUNO:\nNº:\nSÉRIE:\nTURMA:\nTURNO:\nPROFESSOR:"
+        "a membrana plasmática. Educação financeira - Parte Diversificada SEDUC - SP PROVA: 6º ANO EF_PROVA PAULISTA 3º BI_DIA 2 DISCIPLINA: Educação financeira - Parte Diversificada ALUNO: Nº: SÉRIE: TURMA: TURNO: PROFESSOR:"
       ]
     },
     {
@@ -659,7 +659,7 @@
         "R$ 5,00",
         "R$ 10,00",
         "R$ 25,00",
-        "R$ 50,00\n\nTecnologia e Inovação - Parte Diversificada\nSEDUC - SP\nPROVA: 6º ANO EF_PROVA PAULISTA 3º BI_DIA 2\nDISCIPLINA: Tecnologia e Inovação - Parte Diversificada\nALUNO:\nNº:\nSÉRIE:\nTURMA:\nTURNO:\nPROFESSOR:"
+        "R$ 50,00 Tecnologia e Inovação - Parte Diversificada SEDUC - SP PROVA: 6º ANO EF_PROVA PAULISTA 3º BI_DIA 2 DISCIPLINA: Tecnologia e Inovação - Parte Diversificada ALUNO: Nº: SÉRIE: TURMA: TURNO: PROFESSOR:"
       ]
     },
     {
@@ -688,8 +688,8 @@
       "options": [
         "O carregamento vai acontecer de forma invertida, mostrando os valores de 100 a 0.",
         "O carregamento vai acontecer de forma lenta, mostrando os valores de 0 a 100.",
-        "A porcentagem ficará pausada no valor 100, exibindo somente este valor.",
-        "A porcentagem ficará pausada no valor 1, exibindo somente este valor."
+        "porcentagem ficará pausada no valor 100, exibindo somente este valor.",
+        "porcentagem ficará pausada no valor 1, exibindo somente este valor."
       ]
     },
     {
@@ -706,12 +706,12 @@
   "e4": [
     {
       "number": 1,
-      "prompt": "CORAÇÃO-SOZINHO\nO Leão e a Leoa tiveram três filhos; um deu a si próprio o nome de Coração-Sozinho, o outro escolheu o de Coração-com-",
+      "prompt": "CORAÇÃO-SOZINHO\nO Leão e a Leoa tiveram três filhos; um deu a si próprio o nome de Coração-Sozinho, o outro escolheu o de Coração-com-\na-Mãe e o terceiro o de Coração-com-o-Pai. \nCoração-Sozinho encontrou um porco e apanhou-o, mas não havia quem o ajudasse porque o seu nome era Coração-\nSozinho. \nCoração-com-a-Mãe encontrou um porco, apanhou-o e sua mãe veio logo para o ajudar a matar o animal. Comeram-no\nambos. \nCoração-com-o-Pai apanhou também um porco. O pai veio logo para o ajudar. Mataram o porco e comeram-no os dois. \nCoração-Sozinho encontrou outro porco, apanhou-o, mas não conseguia matá-lo. \nNinguém foi em seu auxílio. Coração-Sozinho continuou nas suas caçadas, sem ajuda de ninguém. Começou a emagrecer,\na emagrecer, até que um dia morreu. \nOs outros continuaram cheios de saúde por não terem um coração sozinho.\nContos Moçambicanos: INLD, 1979. Disponível em: <http://www.historiaviva.org.br/Default/Historias_encantadas/48/conto-africano-coracaosozinho> . Acesso em: 28 nov. 2024.\nNo último parágrafo do texto, o termo em destaque está em letra minúscula pois",
       "options": [
-        "Mãe e o terceiro o de Coração-com-o-Pai.\nCoração-Sozinho encontrou um porco e apanhou-o, mas não havia quem o ajudasse porque o seu nome era Coração-\nSozinho.\nCoração-com-a-Mãe encontrou um porco, apanhou-o e sua mãe veio logo para o ajudar a matar o animal. Comeram-no\nambos.\nCoração-com-o-Pai apanhou também um porco. O pai veio logo para o ajudar. Mataram o porco e comeram-no os dois.\nCoração-Sozinho encontrou outro porco, apanhou-o, mas não conseguia matá-lo.\nNinguém foi em seu auxílio. Coração-Sozinho continuou nas suas caçadas, sem ajuda de ninguém. Começou a emagrecer,",
-        "emagrecer, até que um dia morreu.\nOs outros continuaram cheios de saúde por não terem um coração sozinho.\nContos Moçambicanos: INLD, 1979. Disponível em: <http://www.historiaviva.org.br/Default/Historias_encantadas/48/conto-africano-coracaosozinho> . Acesso em: 28 nov. 2024.\nNo último parágrafo do texto, o termo em destaque está em letra minúscula pois",
         "designa um grupo específico de leões da savana.",
-        "denomina um ser vivo que tem apenas um coração."
+        "denomina um ser vivo que tem apenas um coração.",
+        "representa o nome próprio de uma das personagens.",
+        "possui o sentido de alguém que escolhe viver sozinho."
       ]
     },
     {
@@ -788,10 +788,10 @@
       "number": 9,
       "prompt": "Leia o texto para responder à questão.\nAnimais contribuem para saúde mental de crianças e adolescentes em abrigos ou em processo de adoção em Itu: 'Eles\nsão os terapeutas'\nNesta quinta-feira (10/10/24), Dia Mundial da Saúde Mental, o G1 fala sobre a história da ONG Natureza Conecta, de Itu (SP), e como o trabalho de terapia\nassistida pode ser benéfico para a saúde de jovens e adultos.\nPor Júlia Martins, Gabriela Almeida",
       "options": [
-        "profissional destaca que a terapia assistida por animais consegue proporcionar muitos benefícios emocionais, como, por\nexemplo, uma melhora nas habilidades sociais, nos mecanismos de enfrentamento para situações de estresse, entre\noutros. \"A criança consegue se perceber melhor e perceber o outro. E assim conviver melhor em sociedade\", diz.\nAs sessões são realizadas em grupos e duram cerca de duas horas. Nicole explica que, apesar da ONG trabalhar com\ncrianças e adolescentes, o contato com os animais em terapias assistidas é uma prática para pessoas de todas as idades.\n\"Os nossos terapeutas são os animais, acho que esse já é um grande diferencial. Então, por mais bem treinado que seja o\nterapeuta, ali os animais não passam nenhum tipo de julgamento quando estão com as crianças. Elas, que muitas vezes se\nsentem não pertencentes, encontram acolhimento nestes animais. Eles contribuem demais para as crianças serem\nreinseridas\", finaliza.\nG1 - Sorocaba e Jundiaí. Disponível em: <https://encurtador.com.br/DfuwS>. Acesso em: 28 nov. 2024. Adaptado.\nAo incluir as falas de outras pessoas, entre aspas, na reportagem, a autora do texto",
-        "deixa em dúvida a contribuição da substituição de terapeutas humanos por terapia assistida por animais.",
+        "profissional destaca que a terapia assistida por animais consegue proporcionar muitos benefícios emocionais, como, por exemplo, uma melhora nas habilidades sociais, nos mecanismos de enfrentamento para situações de estresse, entre outros. \"A criança consegue se perceber melhor e perceber o outro. E assim conviver melhor em sociedade\", diz. As sessões são realizadas em grupos e duram cerca de duas horas. Nicole explica que, apesar da ONG trabalhar com crianças e adolescentes, o contato com os animais em terapias assistidas é uma prática para pessoas de todas as idades. \"Os nossos terapeutas são os animais, acho que esse já é um grande diferencial. Então, por mais bem treinado que seja o terapeuta, ali os animais não passam nenhum tipo de julgamento quando estão com as crianças. Elas, que muitas vezes se sentem não pertencentes, encontram acolhimento nestes animais. Eles contribuem demais para as crianças serem reinseridas\", finaliza. G1 - Sorocaba e Jundiaí. Disponível em: <https://encurtador.com.br/DfuwS>. Acesso em: 28 nov. 2024. Adaptado. Ao incluir as falas de outras pessoas, entre aspas, na reportagem, a autora do texto A deixa em dúvida a contribuição da substituição de terapeutas humanos por terapia assistida por animais.",
         "demonstra uma incoerência com os fatos noticiados por se tratar de uma terapia para todas as idades.",
-        "propõe diferentes pontos de vista para discutir sobre os aspectos positivos e negativos da terapia."
+        "propõe diferentes pontos de vista para discutir sobre os aspectos positivos e negativos da terapia.",
+        "assume a responsabilidade de selecionar as opiniões que reforçam o que ela escolhe incluir sobre o assunto."
       ]
     },
     {
@@ -808,30 +808,30 @@
       "number": 11,
       "prompt": "Leia o texto para responder à questão.\nBilhete\nSe tu me amas, ama-me baixinho\nNão o grites de cima dos telhados\nDeixa em paz os passarinhos\nDeixa em paz a mim!\nSe me queres,\nenfim,\ntem de ser bem devagarinho, Amada,\nque a vida é breve, e o amor mais breve ainda...\nDisponível em: https://encurtador.com.br/JZFdR Acesso em: 17 dez. 2024.",
       "options": [
-        "expressividade do poema de Mário Quintana é marcada pelo uso de rimas, presentes em:",
-        "mim/enfim.",
+        "expressividade do poema de Mário Quintana é marcada pelo uso de rimas, presentes em: A mim/enfim.",
         "breve/ainda.",
-        "baixinho/telhados."
+        "baixinho/telhados.",
+        "passarinhos/queres."
       ]
     },
     {
       "number": 12,
       "prompt": "Leia um trecho do poema concreto, sem título, de Arnaldo Antunes para responder à questão.\nDisponível em: https://encurtador.com.br/abj0f  Acesso em: 17 dez. 2024.",
       "options": [
-        "temática do poema é:",
-        "A importância da grama no meio ambiente.",
-        "A relação da natureza com o ser humano.",
-        "O crescimento da planta e da grama."
+        "temática do poema é: A A importância da grama no meio ambiente.",
+        "relação da natureza com o ser humano.",
+        "O crescimento da planta e da grama.",
+        "O ciclo da água nas plantas."
       ]
     },
     {
       "number": 13,
       "prompt": "Leia o texto para responder à questão.\nO conto da mentira\nRogério Augusto\nTodo dia Felipe inventava uma mentira. “Mãe, a vovó tá no telefone!”. A mãe largava a louça na pia e corria até a sala.\nEncontrava o telefone mudo.\nO garoto havia inventado a morte do cachorro, nota dez em matemática, gol de cabeça em campeonato de rua. A mãe\ntentava assustá-lo: “Seu nariz vai ficar igual ao do Pinóquio!”. Felipe ria na cara dela: “Quem tá mentindo é você! Não existe\nninguém de madeira!”.\nO pai de Felipe também conversava com ele: “Um dia você contará uma verdade e ninguém acreditará!”. Felipe ficava\npensativo. Mas no dia seguinte…\nEntão, aconteceu o que seu pai alertara. Felipe assistia a um programa na TV. A apresentadora ligou para o número do\ntelefone da casa dele. Felipe tinha sido sorteado. O prêmio era uma bicicleta: “É verdade, mãe! A moça quer falar com você\nno telefone pra combinar a entrega da bicicleta. É verdade!”.",
       "options": [
-        "mãe de Felipe fingiu não ouvir. Continuou preparando o jantar em silêncio. Resultado: Felipe deixou de ganhar o prêmio.\nEntão, ele começou a reduzir suas mentiras. Até que um dia deixou de contá-las. Bem, Felipe cresceu e tornou-se um\nescritor. Voltou a criar histórias. Agora, sem culpa e sem medo. No momento está escrevendo um conto. É a história de um\nmenino que deixa de ganhar uma bicicleta porque mentia…\nDisponível em: <https://encurtador.com.br/qEvyJ> Acesso em: 19 dez. 2024. Fragmento.\nO personagem principal do texto é",
-        "a mãe do menino.",
+        "mãe de Felipe fingiu não ouvir. Continuou preparando o jantar em silêncio. Resultado: Felipe deixou de ganhar o prêmio. Então, ele começou a reduzir suas mentiras. Até que um dia deixou de contá-las. Bem, Felipe cresceu e tornou-se um escritor. Voltou a criar histórias. Agora, sem culpa e sem medo. No momento está escrevendo um conto. É a história de um menino que deixa de ganhar uma bicicleta porque mentia… Disponível em: <https://encurtador.com.br/qEvyJ> Acesso em: 19 dez. 2024. Fragmento. O personagem principal do texto é A a mãe do menino.",
         "o garoto Felipe.",
-        "a avó do menino."
+        "a avó do menino.",
+        "o pai de Felipe."
       ]
     },
     {
@@ -858,10 +858,10 @@
       "number": 16,
       "prompt": "Leia a charge para responder à questão.\nDisponível em: https://encurtador.com.br/Nyqee . Acesso em: 17 dez. 2024.",
       "options": [
-        "charge acima retrata:",
-        "O impacto do uso das redes sociais no dia a dia.",
+        "charge acima retrata: A O impacto do uso das redes sociais no dia a dia.",
         "O consumo exagerado de aparelhos smartphones.",
-        "A compra de celulares para se desconectar da realidade."
+        "compra de celulares para se desconectar da realidade.",
+        "prática de colecionar aparelhos celulares antigos por lazer."
       ]
     },
     {
@@ -878,30 +878,30 @@
       "number": 18,
       "prompt": "Leia o texto para responder à questão.\nBH e mais 437 cidades de Minas estão sob o 'perigo' de tempestade com granizo; veja lista\nHá a possibilidade de precipitações de até 100 milímetros com rajadas de vento de até 100 km/h\nPor Mateus Pena\nPublicado em 22 de janeiro de 2025 | 10:38 - Atualizado em 22 de janeiro de 2025 | 12:42\nBelo Horizonte e mais 437 cidades de Minas Gerais estão sob o perigo de tempestade com queda de granizo, raios e rajadas\nde vento de até 100 km/h até as 10h de quinta-feira (23 de janeiro). O aviso, emitido pelo Instituto Nacional de\nMeteorologia (Inmet) na manhã desta quarta-feira (22 de janeiro), diz que as precipitações de até 100 milímetros no dia\npodem causar corte de energia elétrica, estragos em plantações, queda de árvores e de alagamentos.\nAs regiões mineiras que podem ser afetadas são: Triângulo Mineiro/Alto Paranaíba, Central, Zona da Mata, Oeste, Campo\ndas Vertentes, Metropolitana de Belo Horizonte, Sul/Sudoeste, Vale do Rio Doce, Noroeste, Norte e Jequitinhonha.\nCom recordes de temperaturas altas nos últimos dias e uma previsão de 33º nos termômetros para hoje, BH pode voltar a\nregistrar chuvas fortes. A última vez que choveu significativamente na capital mineira foi na última quinta-feira (16 de\njaneiro), quando um temporal causou alagamentos e estragos na cidade.\nDisponível em: https://www.em.com.br/gerais/2025/01/7040410-chuva-em-bh-cidade-entra-em-alerta-e-pode-ter-temporais-com-raios.html. Acesso em: 17 dez. 2024. Fragmento.",
       "options": [
-        "finalidade da notícia é a de",
-        "informar sobre os riscos de fortes chuvas que podem prejudicar o povo mineiro.",
+        "finalidade da notícia é a de A informar sobre os riscos de fortes chuvas que podem prejudicar o povo mineiro.",
         "divulgar a previsão do tempo em cidades mineiras para os próximos quinze dias.",
-        "apresentar os estragos causados pela tempestade que atingiu cidades mineiras."
+        "apresentar os estragos causados pela tempestade que atingiu cidades mineiras.",
+        "exigir das autoridades públicas ações de mobilização para enfrentar as chuvas."
       ]
     },
     {
       "number": 19,
       "prompt": "Leia o texto para responder à questão.\nAdolescentes aprendem sobre alimentação saudável\nOficina teve o objetivo de engajar adolescentes e jovens e promover diálogos sobre nutrição entre eles\nUNICEF Brasil",
       "options": [
-        "adolescente Rayana Ribeiro, de 17 anos, já sabe a importância de adotar uma alimentação saudável na sua rotina. Ela\nreconhece não só a necessidade de fazer escolhas cuidadosas em relação aos alimentos que consome, mas também\nentende a importância de prepará-los da maneira adequada.\nEsses aprendizados fazem parte dos seus novos hábitos que conheceu durante a oficina sobre alimentação saudável do\nNúcleo de Cidadania de Adolescentes (Nuca), no último dia 19 de agosto, em Belém. Rayana saiu do município de\nAbaetetuba para participar do evento, que reuniu adolescentes de diversas cidades do Pará.\nO Núcleo de Cidadania de Adolescentes (Nuca) é um grupo formado por meninas e meninos mobilizados por seus direitos,\ne, como parte do Selo UNICEF, são desafiados a realizar ações em temas principais, de forma a estimular e garantir a\nrepresentatividade e a participação na vida comunitária. Um dos temas principais se refere às mudanças climáticas, no qual",
-        "relação entre esse tema e a alimentação saudável foi um dos tópicos principais abordados, com foco especial no espaço\nescolar.\nDisponível em: <https://encurtador.com.br/cnEcc>. Acesso em: 19 dez. 2024. Adaptado.\nSegundo o texto, Rayana Ribeiro aprendeu na oficina sobre alimentação saudável",
-        "a importância de escolher alimentos saudáveis e prepará-los adequadamente.",
-        "a relevância da participação comunitária para a escolha de alimentos na escola."
+        "adolescente Rayana Ribeiro, de 17 anos, já sabe a importância de adotar uma alimentação saudável na sua rotina. Ela reconhece não só a necessidade de fazer escolhas cuidadosas em relação aos alimentos que consome, mas também entende a importância de prepará-los da maneira adequada. Esses aprendizados fazem parte dos seus novos hábitos que conheceu durante a oficina sobre alimentação saudável do Núcleo de Cidadania de Adolescentes (Nuca), no último dia 19 de agosto, em Belém. Rayana saiu do município de Abaetetuba para participar do evento, que reuniu adolescentes de diversas cidades do Pará. O Núcleo de Cidadania de Adolescentes (Nuca) é um grupo formado por meninas e meninos mobilizados por seus direitos, e, como parte do Selo UNICEF, são desafiados a realizar ações em temas principais, de forma a estimular e garantir a representatividade e a participação na vida comunitária. Um dos temas principais se refere às mudanças climáticas, no qual a relação entre esse tema e a alimentação saudável foi um dos tópicos principais abordados, com foco especial no espaço escolar. Disponível em: <https://encurtador.com.br/cnEcc>. Acesso em: 19 dez. 2024. Adaptado. Segundo o texto, Rayana Ribeiro aprendeu na oficina sobre alimentação saudável A a importância de escolher alimentos saudáveis e prepará-los adequadamente.",
+        "a relevância da participação comunitária para a escolha de alimentos na escola.",
+        "o impacto das mudanças climáticas na produção de alimentos no mundo.",
+        "o processo de produção e armazenamento de alimentos para adolescentes."
       ]
     },
     {
       "number": 20,
       "prompt": "Leia o texto para responder à questão.\nIA ajuda a conversar com baleias\nAs últimas semanas trouxeram novidades para os fãs de um dos maiores animais do mundo, as baleias! Isso porque os\ncientistas perceberam um aumento da população dessa espécie no litoral brasileiro. Além disso, pesquisadores dos\nEstados Unidos conseguiram conversar com uma baleia com a ajuda da Inteligência Artificial. […]\nFragmento adaptado. Disponível em: <https://jornaldacrianca.com.br/>. Acesso em: 19 dez. 2024.",
       "options": [
-        "concordância nominal é a relação que se estabelece entre o nome e seus determinantes. A alternativa que apresenta a\nconcordância nominal adequada está em:",
-        "“novidades” está no singular e concorda com o substantivo “fãs”.",
+        "concordância nominal é a relação que se estabelece entre o nome e seus determinantes. A alternativa que apresenta a concordância nominal adequada está em: A “novidades” está no singular e concorda com o substantivo “fãs”.",
         "“cientistas” está no singular e concorda com o verbo “perceberam”.",
-        "“população” está no plural e concorda com o verbo “perceberam”."
+        "“população” está no plural e concorda com o verbo “perceberam”.",
+        "“últimas” está no plural e concorda com o substantivo “semanas”. Geografia"
       ]
     },
     {
@@ -948,10 +948,10 @@
       "number": 25,
       "prompt": "Observe a imagem a seguir.\nDisponível em: https://pixabay.com/pt/photos/crian%C3%A7as-inf%C3%A2ncia-jogos-jogar-5833685/.  Acesso em: 05 dez. 2024 (adaptado)",
       "options": [
-        "imagem retrata um lugar de construção de memórias e experiências. Os lugares como a escola, a rua, nossas casas, são\nlocais onde produzimos significados, que representam",
-        "o espaço geográfico, construído de maneira individual.",
+        "imagem retrata um lugar de construção de memórias e experiências. Os lugares como a escola, a rua, nossas casas, são locais onde produzimos significados, que representam A o espaço geográfico, construído de maneira individual.",
         "os espaços naturais, com elementos criados pela natureza.",
-        "os lugares individuais, onde não há interação com a sociedade."
+        "os lugares individuais, onde não há interação com a sociedade.",
+        "os lugares de vivência, nos quais mantemos relações de afetividade."
       ]
     },
     {
@@ -968,10 +968,10 @@
       "number": 27,
       "prompt": "Observe a imagem a seguir.\nDisponível em: https://infoenem.com.br/espaco-lugar-paisagem-e-territorio-nao-sao-sinonimos/. Acesso em: 05 dez. 2024",
       "options": [
-        "imagem representa o espaço geográfico, organizado e transformado continuamente pela sociedade ao longo do tempo.\nQual o nome se dá ao processo de transformação do espaço pela sociedade a partir da criação de pontes, avenidas,\nindústrias e atividades agropecuárias?",
-        "Preservação do espaço.",
+        "imagem representa o espaço geográfico, organizado e transformado continuamente pela sociedade ao longo do tempo. Qual o nome se dá ao processo de transformação do espaço pela sociedade a partir da criação de pontes, avenidas, indústrias e atividades agropecuárias? A Preservação do espaço.",
         "Alteração do espaço.",
-        "Espaço conservado."
+        "Espaço conservado.",
+        "Espaço natural."
       ]
     },
     {
@@ -991,17 +991,17 @@
         "Setor comercial.",
         "Setor industrial.",
         "Setor primário.",
-        "Setor terciário.\n\nHistória"
+        "Setor terciário. História"
       ]
     },
     {
       "number": 30,
       "prompt": "Observe a imagem a seguir.\nDisponível em: https://pixabay.com/pt/photos/registro-tronco-de-%C3%A1rvore-madeira-3219843/. Acesso em: 12 fev. 2025",
       "options": [
-        "imagem representa um dos tipos de extrativismo, atividade econômica que retira recursos produzidos pela natureza,\ncomo a madeira, por exemplo. Esta atividade pode provocar impactos ambientais, como desmatamento e degradação das\nflorestas. Que tipo de extrativismo a imagem representa?",
-        "Extrativismo animal.",
+        "imagem representa um dos tipos de extrativismo, atividade econômica que retira recursos produzidos pela natureza, como a madeira, por exemplo. Esta atividade pode provocar impactos ambientais, como desmatamento e degradação das florestas. Que tipo de extrativismo a imagem representa? A Extrativismo animal.",
         "Extrativismo vegetal.",
-        "Extrativismo mineral."
+        "Extrativismo mineral.",
+        "Extrativismo industrial."
       ]
     },
     {
@@ -1009,9 +1009,9 @@
       "prompt": "Leia a frase abaixo.\nO tempo cronológico é o que é dividido em horas, dias, meses e anos. Essas divisões foram elaboradas pelos seres\nhumanos, que criaram instrumentos para controlar o tempo, como o relógio e o calendário.\nDisponível em: https://www.todamateria.com.br/contagem-do-tempo-na-historia/ Acesso em: 12 fev. 2025\nAssinale a alternativa que representa um exemplo de tempo cronológico.",
       "options": [
         "O nascer do Sol.",
-        "A Revolução Francesa.",
+        "Revolução Francesa.",
         "O dia do nascimento de uma pessoa.",
-        "A conquista do continente americano pelos espanhóis."
+        "conquista do continente americano pelos espanhóis."
       ]
     },
     {
@@ -1060,38 +1060,38 @@
       "options": [
         "O patrimônio cultural não considera as festividades como importantes para a cultura.",
         "O patrimônio cultural material não é reconhecido pela Unesco como patrimônio histórico da humanidade.",
-        "O patrimônio cultural imaterial é composto por práticas e domínios da vida social, como saberes, ofícios e modos de\nfazer.",
-        "O patrimônio cultural imaterial tem como característica o conjunto de bens materiais palpáveis, como livros,\nestátuas, documentos e prédios."
+        "O patrimônio cultural imaterial é composto por práticas e domínios da vida social, como saberes, ofícios e modos de fazer.",
+        "O patrimônio cultural imaterial tem como característica o conjunto de bens materiais palpáveis, como livros, estátuas, documentos e prédios."
       ]
     },
     {
       "number": 37,
       "prompt": "Observe a imagem abaixo e leia o texto.\nNeandertal – Disponível em: https://www.worldhistory.org/image/5957/neanderthal-man/ Acesso em: 12 fev. 2025\nOs neandertais pareciam semelhantes aos humanos, mas tinham sobrancelhas mais proeminentes, faces salientes e\ncostelas mais curtas, mais profundas e mais largas. Além disso, suas órbitas eram muito maiores, embora não esteja claro\nse sua visão era diferente da nossa. Os pesquisadores acreditam que o cérebro do neandertal era aproximadamente do\nmesmo tamanho que os nossos, embora fossem mais alongados. \nDisponível em: https://www.nationalgeographicbrasil.com/historia/2023/03/como-eram-realmente-os-neandertais-e-por-que-eles-foram-extintos Acesso em: 12 fev. 2025",
       "options": [
-        "respeito dos neandertais, assinale a alternativa correta.",
-        "Demonstravam pouca habilidade cultural.",
+        "respeito dos neandertais, assinale a alternativa correta. A Demonstravam pouca habilidade cultural.",
         "Foram responsáveis pela extinção dos Homo sapiens.",
-        "Eram fisicamente robustos e adaptados a clima frio."
+        "Eram fisicamente robustos e adaptados a clima frio.",
+        "Representavam uma espécie humana extinta que viveu na África."
       ]
     },
     {
       "number": 38,
       "prompt": "Leia o trecho a seguir.\nNa mitologia grega o universo foi feito pelo Caos. Ele vivia em um ambiente de trevas, vazia, sem nada, então resolveu criar\nGaia, a Mãe Terra, Eros (o amor), Nyx (a noite) e o Tártaro (profundezas da Terra).\nDisponível em: https://www.educamaisbrasil.com.br Acesso em: 12 fev. 2025",
       "options": [
-        "respeito do mito de criação do mundo pelos gregos, assinale a alternativa correta.",
-        "O mundo foi criado por um único deus que moldou a terra e o céu.",
-        "A Terra foi formada a partir de fragmentos de estrelas caídas do céu.",
-        "O mundo foi criado por um grande dilúvio, que separou as águas e a terra."
+        "respeito do mito de criação do mundo pelos gregos, assinale a alternativa correta. A O mundo foi criado por um único deus que moldou a terra e o céu.",
+        "Terra foi formada a partir de fragmentos de estrelas caídas do céu.",
+        "O mundo foi criado por um grande dilúvio, que separou as águas e a terra.",
+        "O universo surgiu do caos primordial, que deu origem a deuses e elementos da natureza."
       ]
     },
     {
       "number": 39,
       "prompt": "Migração é o processo de deslocamento de pessoas pelo globo terrestre que pode ocorrer dentro ou fora do território\nnacional, de modo temporário ou permanente, ou ainda, ser espontânea ou forçada. Ao longo da história, muitos grupos\nmigraram por motivos sociais, econômicos, políticos, culturais, naturais ou individuais.\nDisponível em: https://www.todamateria.com.br/tipos-de-migracao/ Acesso em: 12 fev. 2025",
       "options": [
-        "respeito das hipóteses migratórias para a América, assinale a alternativa correta.",
-        "A hipótese asiático-australiana não é muito aceita pela comunidade científica.",
-        "A hipótese da migração costeira considera que os primeiros homens chegaram à América do Sul a nado.",
-        "A hipótese europeia é a mais aceita pela comunidade científica e considera que as migrações ocorreram pelo oceano\nPacífico."
+        "respeito das hipóteses migratórias para a América, assinale a alternativa correta. A A hipótese asiático-australiana não é muito aceita pela comunidade científica.",
+        "hipótese da migração costeira considera que os primeiros homens chegaram à América do Sul a nado.",
+        "hipótese europeia é a mais aceita pela comunidade científica e considera que as migrações ocorreram pelo oceano Pacífico.",
+        "hipótese asiática é a menos aceita pelos arqueólogos, pois considera que a migração dos homens tenha ocorrido pelo Estreito de Bering."
       ]
     },
     {
@@ -1130,20 +1130,20 @@
       "number": 3,
       "prompt": "Leia o texto para responder à questão.\nDisponível em: <https://abre.ai/lHLe>. Acesso em: 17 dez. 2024.",
       "options": [
-        "imagem acima é a capa de um livro. O que o título do livro questiona?",
-        "Altura.",
+        "imagem acima é a capa de um livro. O que o título do livro questiona? A Altura.",
         "Idade.",
-        "Lugar."
+        "Lugar.",
+        "Peso."
       ]
     },
     {
       "number": 4,
       "prompt": "Leia o texto para responder à questão.\nDisponível em: <https://abre.ai/lHSp >. Acesso em: 17 dez. 2024. Fragmento. Adaptado.\n \nQual alternativa corresponde à ordem ABC em que aparecem os números acima?",
       "options": [
-        "A (DEZ) / B (SETE) / C (DEZESSETE).",
-        "A (DEZESSETE) / B (DEZ) / C (SETE).",
-        "A (SETE) / B (DEZESSETE) / C (DEZ).",
-        "A (DEZ) / B (DEZESSETE) / C (SETE)."
+        "(DEZ) / B (SETE) / C (DEZESSETE).",
+        "(DEZESSETE) / B (DEZ) / C (SETE).",
+        "(SETE) / B (DEZESSETE) / C (DEZ).",
+        "(DEZ) / B (DEZESSETE) / C (SETE)."
       ]
     },
     {
@@ -1153,7 +1153,7 @@
         "Tom é americano.",
         "Bob é do Canadá.",
         "Tom é do Brasil.",
-        "Bob é Brasileiro.\n\nMatemática"
+        "Bob é Brasileiro. Matemática"
       ]
     },
     {
@@ -1180,10 +1180,10 @@
       "number": 8,
       "prompt": "De acordo com o Censo Escolar 2023, o número de matrículas no Ensino Fundamental no estado de São Paulo é de 5 343\n271,  incluindo escolas estaduais, municipais e particulares.",
       "options": [
-        "decomposição desse número por meio de adições é:",
-        "5 000 000 + 300 000 + 40 000 + 3 000 + 200 + 70 + 1",
+        "decomposição desse número por meio de adições é: A 5 000 000 + 300 000 + 40 000 + 3 000 + 200 + 70 + 1",
         "5 000 000 + 30 000 + 4 000 + 300 + 20 + 70 + 1",
-        "5 000 000 + 300 000 + 4 000 + 300 + 200 + 70 + 1"
+        "5 000 000 + 300 000 + 4 000 + 300 + 200 + 70 + 1",
+        "5 000 000 + 300 000 + 40 000 + 3 000 + 700 + 10 + 1"
       ]
     },
     {
@@ -1270,10 +1270,10 @@
       "number": 17,
       "prompt": "Rosilaine foi desafiada a encontrar três números primos que, multiplicados, resultem em 30.",
       "options": [
-        "alternativa que contêm esses três números é:",
-        "1, 3, 10",
+        "alternativa que contêm esses três números é: A 1, 3, 10",
         "2, 3, 5",
-        "1, 5, 6"
+        "1, 5, 6",
+        "2, 3, 7"
       ]
     },
     {
@@ -1293,7 +1293,7 @@
         "12 m",
         "8 m",
         "4 m",
-        "2 m\n\nCiências"
+        "2 m Ciências"
       ]
     },
     {
@@ -1310,10 +1310,10 @@
       "number": 21,
       "prompt": "Observe a imagem e responda à questão.\nFonte: http://www.astro.iag.usp.br/~aga210/2024/Aulas/Aula01.pdf. Acesso em 18 de fev. de 2025.",
       "options": [
-        "imagem representa a expansão do Universo, a partir de um ponto que é chamado singularidade até a formação de\nsistemas planetários e outros corpos celestes.\nAssinale a alternativa que apresenta a teoria que explica a origem do Universo citada acima.",
-        "Teoria da Evolução.",
+        "imagem representa a expansão do Universo, a partir de um ponto que é chamado singularidade até a formação de sistemas planetários e outros corpos celestes. Assinale a alternativa que apresenta a teoria que explica a origem do Universo citada acima. A Teoria da Evolução.",
         "Teoria do Big Bang.",
-        "Teoria das Placas Tectônicas."
+        "Teoria das Placas Tectônicas.",
+        "Teoria da Gravitação."
       ]
     },
     {
@@ -1340,10 +1340,10 @@
       "number": 24,
       "prompt": "Observe a imagem abaixo.\nFonte: Canva.\nO que nos mantém presos à Terra, em qualquer lugar onde estivermos, é:",
       "options": [
-        "A Gravidade, uma força de atração que atua somente entre corpos que possuem a mesma distância.",
-        "A Energia, uma força de atração que atua em todos os corpos que possuem massa.",
-        "A Gravidade, uma força de atração que atua em todos os corpos que possuem massa.",
-        "A Energia, uma força de atração que atua somente entre corpos que possuem a mesma distância."
+        "Gravidade, uma força de atração que atua somente entre corpos que possuem a mesma distância.",
+        "Energia, uma força de atração que atua em todos os corpos que possuem massa.",
+        "Gravidade, uma força de atração que atua em todos os corpos que possuem massa.",
+        "Energia, uma força de atração que atua somente entre corpos que possuem a mesma distância."
       ]
     },
     {
@@ -1370,7 +1370,7 @@
       "number": 27,
       "prompt": "Durante uma aula de Ciências os estudantes fizeram algumas afirmações sobre o movimento aparente do Sol.\nAssinale a alternativa que apresenta uma afirmação correta:",
       "options": [
-        "Gustavo disse que o Sol nasce sempre na posição Sul, e por isso podemos usar essa informação para localizar os\npontos cardeais.",
+        "Gustavo disse que o Sol nasce sempre na posição Sul, e por isso podemos usar essa informação para localizar os pontos cardeais.",
         "Isabela disse que o Sol parece se movimentar, mas, na verdade, o que vemos é resultado da rotação da Terra.",
         "Débora disse que o Sol nasce no Polo Norte e se põe no Polo Sul.",
         "Érick disse que o Sol se movimenta mais rápido ao meio-dia porque está mais próximo da Terra nesse momento."
@@ -1383,7 +1383,7 @@
         "gravidade exercida sobre a Terra.",
         "localização aparente da Lua ao longo da noite.",
         "movimentação aparente do Sol ao longo do dia.",
-        "gravidade exercida sobre o Sol.\n\nEducação financeira - Parte Diversificada"
+        "gravidade exercida sobre o Sol. Educação financeira - Parte Diversificada"
       ]
     },
     {
@@ -1440,10 +1440,10 @@
       "number": 34,
       "prompt": "O modelo 5W2H é uma sigla que representa sete palavras utilizadas no planejamento financeiro: What (o que), Why (por\nque), Where (onde), When (quando), Who (quem), How(como) e How Much (quanto).",
       "options": [
-        "palavra How (como) no modelo 5W2H define:",
-        "A tarefa a ser desenvolvida.",
+        "palavra How (como) no modelo 5W2H define: A A tarefa a ser desenvolvida.",
         "O objetivo.",
-        "O orçamento."
+        "O orçamento.",
+        "Os passos a serem seguidos. Tecnologia e Inovação - Parte Diversificada"
       ]
     },
     {
@@ -1454,6 +1454,16 @@
         "A capacidade de produzir algo com o mínimo de erros.",
         "A qualidade do que pode ser realizado ou colocado em prática.",
         "O plano financeiro que detalha as receitas (dinheiro ganho) e as despesas (dinheiro gasto)."
+      ]
+    },
+    {
+      "number": 36,
+      "prompt": "Gustavo deseja criar uma fantasia com um personagem único combinando partes de um carro e um caminhão no ambiente\nde programação usando os recursos de fantasia.  \n \n \n \nFonte: Elaborado para a Prova Paulista. \nQual sequência lógica representa aquela que precisa ser seguida por Gustavo?",
+      "options": [
+        "1- Adicionar os dois atores   2- Duplicar a fantasia caminhão   3- Copiar e colar partes do carro na fantasia duplicada   4- Ajustar e renomear a nova fantasia",
+        "1- Adicionar o caminhão   2- Renomear a fantasia   3- Duplicar sua fantasia   4- Excluir a fantasia original",
+        "1- Adicionar três atores   2- Selecionar um fundo colorido para eles   3- Redesenhar um carro e um caminhão usando o pincel",
+        "1- Adicionar os dois atores   2- Copiar e colar partes do caminhão  3- Renomear apenas o ator original"
       ]
     },
     {
@@ -1512,10 +1522,10 @@
       "number": 3,
       "prompt": "Disponível em: https://familiesforlife.sg/pages/Article/IChooseFamilyTime-ComicStrips. Acesso em: 18 mar. 2025. Adaptado.",
       "options": [
-        "partir dos quadros acima, podemos concluir que há",
-        "conflitos na relação de trabalho.",
+        "partir dos quadros acima, podemos concluir que há A conflitos na relação de trabalho.",
         "importância de estar junto à família.",
-        "benefícios em uma refeição balanceada."
+        "benefícios em uma refeição balanceada.",
+        "melhores maneiras de se fazer reuniões online."
       ]
     },
     {
@@ -1535,7 +1545,7 @@
         "Irmão de Emma Taylor.",
         "Filho de Ava Freeman.",
         "Avô de Amelie O’Connor.",
-        "Pai de Brian O’Connor.\n\nMatemática\nSEDUC - SP\nPROVA: 2025 - PP - 2° BI - ANOS FINAIS - 6º ANO - 2º DIA\nDISCIPLINA: Matemática\nALUNO:\nNº:\nSÉRIE:\nTURMA:\nTURNO:\nPROFESSOR:"
+        "Pai de Brian O’Connor. Matemática SEDUC - SP PROVA: 2025 - PP - 2° BI - ANOS FINAIS - 6º ANO - 2º DIA DISCIPLINA: Matemática ALUNO: Nº: SÉRIE: TURMA: TURNO: PROFESSOR:"
       ]
     },
     {
@@ -1582,10 +1592,10 @@
       "number": 14,
       "prompt": "Um ângulo de um quarto de volta é classificado como ângulo reto. Sendo assim, é correto afirmar que:",
       "options": [
-        "A medida do ângulo reto é menor que 90 graus.",
-        "A medida do ângulo reto é maior que 90 graus.",
-        "A medida do ângulo reto é 90 graus.",
-        "A medida do ângulo reto é 180 graus."
+        "medida do ângulo reto é menor que 90 graus.",
+        "medida do ângulo reto é maior que 90 graus.",
+        "medida do ângulo reto é 90 graus.",
+        "medida do ângulo reto é 180 graus."
       ]
     },
     {
@@ -1612,10 +1622,10 @@
       "number": 17,
       "prompt": "Observe atentamente as figuras a seguir. Em seguida, escolha a alternativa que apresenta uma informação verdadeira sobre elas.",
       "options": [
-        "A figura I é um polígono convexo com 9 lados.",
-        "A figura II é um polígono não convexo com 3 lados.",
-        "A figura III é um polígono não convexo com 6 lados.",
-        "A figura IV é um polígono convexo com 3 lados."
+        "figura I é um polígono convexo com 9 lados.",
+        "figura II é um polígono não convexo com 3 lados.",
+        "figura III é um polígono não convexo com 6 lados.",
+        "figura IV é um polígono convexo com 3 lados."
       ]
     },
     {
@@ -1632,10 +1642,10 @@
       "number": 19,
       "prompt": "Na aula de Matemática, a professora Rose trouxe fichas especiais para os estudantes brincarem e aprenderem sobre os polígonos.\nCada ficha tem o desenho de um polígono e informações como o número de lados, vértices, ângulos internos, ângulos externos e\ndiagonais.",
       "options": [
-        "professora pediu para os estudantes encontrarem a ficha que tem todas as informações corretas sobre o polígono. A ficha\nescolhida foi:",
-        "Ficha A",
+        "professora pediu para os estudantes encontrarem a ficha que tem todas as informações corretas sobre o polígono. A ficha escolhida foi: A Ficha A",
         "Ficha B",
-        "Ficha C"
+        "Ficha C",
+        "Ficha D"
       ]
     },
     {
@@ -1645,7 +1655,7 @@
         "I, II e III",
         "II, III e IV",
         "I, II e IV",
-        "I, III e IV\n\nCiências\nSEDUC - SP\nPROVA: 2025 - PP - 2° BI - ANOS FINAIS - 6º ANO - 2º DIA\nDISCIPLINA: Ciências\nALUNO:\nNº:\nSÉRIE:\nTURMA:\nTURNO:\nPROFESSOR:"
+        "I, III e IV Ciências SEDUC - SP PROVA: 2025 - PP - 2° BI - ANOS FINAIS - 6º ANO - 2º DIA DISCIPLINA: Ciências ALUNO: Nº: SÉRIE: TURMA: TURNO: PROFESSOR:"
       ]
     },
     {
@@ -1702,20 +1712,20 @@
       "number": 26,
       "prompt": "Analise a notícia a seguir e responda à questão.\nFonte: G1. Desmatamento na Amazônia cai 7% em 2024, mas degradação tem alta de 497% por causa das queimadas. Disponível em: < https://g1.globo.com/meio-\nambiente/noticia/2025/01/24/desmatamento-degradacao-na-amazonia-2024.ghtml > Acesso em 26 março de 2025.",
       "options": [
-        "permanência da floresta em pé é uma luta de diferentes setores, no Brasil e no mundo. Uma consequência que pode ocorrer com",
-        "retirada da cobertura vegetal é",
-        "Diminuição da evapotranspiração.",
-        "Crescimento natural da floresta."
+        "permanência da floresta em pé é uma luta de diferentes setores, no Brasil e no mundo. Uma consequência que pode ocorrer com a retirada da cobertura vegetal é A Diminuição da evapotranspiração.",
+        "Crescimento natural da floresta.",
+        "Redução da quantidade de lixo nos rios.",
+        "Aumento das chuvas, que trazem mais nutrientes para o solo."
       ]
     },
     {
       "number": 27,
       "prompt": "Leia o texto abaixo e responda à questão.\nFonte: Humor com Ciência. Ciclo sem fim? Disponível em: < https://encurtador.com.br/ulZzp > Acesso em 26 de março de 2025.",
       "options": [
-        "história acima se refere a qual ciclo da natureza?",
-        "Ciclo do carbono.",
+        "história acima se refere a qual ciclo da natureza? A Ciclo do carbono.",
         "Ciclo do nitrogênio.",
-        "Ciclo da água."
+        "Ciclo da água.",
+        "Ciclo do oxigênio."
       ]
     },
     {
@@ -1745,17 +1755,17 @@
         "Substância pura heterogênea.",
         "Mistura pura composta.",
         "Substância pura simples.",
-        "Mistura heterogênea.\n\nEducação financeira - Parte Diversificada\nSEDUC - SP\nPROVA: 2025 - PP - 2° BI - ANOS FINAIS - 6º ANO - 2º DIA\nDISCIPLINA: Educação financeira - Parte Diversificada\nALUNO:\nNº:\nSÉRIE:\nTURMA:\nTURNO:\nPROFESSOR:"
+        "Mistura heterogênea. Educação financeira - Parte Diversificada SEDUC - SP PROVA: 2025 - PP - 2° BI - ANOS FINAIS - 6º ANO - 2º DIA DISCIPLINA: Educação financeira - Parte Diversificada ALUNO: Nº: SÉRIE: TURMA: TURNO: PROFESSOR:"
       ]
     },
     {
       "number": 31,
       "prompt": "Imagine que você quer comprar um tênis novo na loja. Para entender quanto ele custa para a loja, é importante pensar em tudo que\ninfluencia no preço dele.\nQual das opções abaixo explica melhor o que influencia no custo de um tênis?",
       "options": [
-        "A cor do tênis e o número de pessoas que gostam dele.",
+        "cor do tênis e o número de pessoas que gostam dele.",
         "Os materiais usados para fazer o tênis e o tempo que leva para produzi-lo.",
         "Quantos tênis iguais estão na loja e o quanto as pessoas estão dispostas a pagar por ele.",
-        "A quantidade de anúncios que a loja faz para divulgar o tênis."
+        "quantidade de anúncios que a loja faz para divulgar o tênis."
       ]
     },
     {
@@ -1773,8 +1783,8 @@
       "prompt": "Willian está na loja de eletrodomésticos com seus pais. Eles querem comprar um eletrodoméstico novo, mas sabe que nem sempre\no mais barato é o melhor. Antes de decidir qual eletrodoméstico levar, Willian e seus pais precisam pensar em alguns fatores\nimportantes. Quais dessas opções devem considerar?",
       "options": [
         "Apenas o preço, escolhendo sempre o mais barato.",
-        "A marca do produto, mesmo que não saiba se é de qualidade.",
-        "A qualidade do produto, se ele atende às suas necessidades, se é seguro e se o preço é justo.",
+        "marca do produto, mesmo que não saiba se é de qualidade.",
+        "qualidade do produto, se ele atende às suas necessidades, se é seguro e se o preço é justo.",
         "Quantas pessoas já compraram o mesmo produto, sem verificar sua qualidade."
       ]
     },
@@ -1795,7 +1805,7 @@
         "Criticando por criticar, mesmo sem explicar o que não gostou no produto.",
         "Elogiando o produto sem dizer o motivo, para parecer que gostou bastante.",
         "Utilizando uma linguagem qualquer, pois escrever corretamente não fará diferença para quem está lendo.",
-        "Deixando claro que o produto é bom ou ruim e explicando os motivos.\n\nTecnologia e Inovação - Parte Diversificada\nSEDUC - SP\nPROVA: 2025 - PP - 2° BI - ANOS FINAIS - 6º ANO - 2º DIA\nDISCIPLINA: Tecnologia e Inovação - Parte Diversificada\nALUNO:\nNº:\nSÉRIE:\nTURMA:\nTURNO:\nPROFESSOR:"
+        "Deixando claro que o produto é bom ou ruim e explicando os motivos. Tecnologia e Inovação - Parte Diversificada SEDUC - SP PROVA: 2025 - PP - 2° BI - ANOS FINAIS - 6º ANO - 2º DIA DISCIPLINA: Tecnologia e Inovação - Parte Diversificada ALUNO: Nº: SÉRIE: TURMA: TURNO: PROFESSOR:"
       ]
     },
     {
@@ -2254,9 +2264,9 @@
     },
     {
       "number": 3,
-      "prompt": "Leia o texto abaixo para responder à questão. \nA origem do sertanejo universitário \nO sertanejo universitário é fruto das transformações pelas quais a música \nsertaneja passou ao longo do tempo. A sua origem está ligada aos jovens que, no \nfinal dos anos 1990, deixaram cidades do interior para ingressar em universidades \nsituadas nas capitais. \nLevando consigo a música sertaneja e outros elementos da cultura interiorana, \neles ajudaram a popularizar o gênero musical entre os estudantes universitários. \nAlguns deles, inclusive, formaram duplas [...]. \n \nDINIZ, Laleska. A origem do sertanejo universitário. In: Sertanejo em cifras. Ed. 45. Novembro de 2020. Fragmento. \n \nOs verbos em destaque no texto pertencem ao tempo:",
+      "prompt": "Leia o texto abaixo para responder à questão.",
       "options": [
-        "Pretérito Perfeito.",
+        "origem do sertanejo universitário  O sertanejo universitário é fruto das transformações pelas quais a música  sertaneja passou ao longo do tempo. A sua origem está ligada aos jovens que, no  final dos anos 1990, deixaram cidades do interior para ingressar em universidades  situadas nas capitais.  Levando consigo a música sertaneja e outros elementos da cultura interiorana,  eles ajudaram a popularizar o gênero musical entre os estudantes universitários.  Alguns deles, inclusive, formaram duplas [...].    DINIZ, Laleska. A origem do sertanejo universitário. In: Sertanejo em cifras. Ed. 45. Novembro de 2020. Fragmento.    Os verbos em destaque no texto pertencem ao tempo:  A) Pretérito Perfeito.",
         "Futuro do Pretérito.",
         "Futuro do Presente.",
         "Presente."
@@ -2264,12 +2274,12 @@
     },
     {
       "number": 4,
-      "prompt": "Leia os Textos I e II para responder à questão. \n \nTexto I \n \nPopulação da Índia deve superar a da China até meados de \n2023, diz ONU \nJuntos, países asiáticos representam mais de um terço da \npopulação global \n19/04/2023 às 07:50 | Atualizado 19/04/2023 às 07:52 \nA Índia está a caminho de se tornar o país mais populoso do \nmundo, ultrapassando a China com quase 3 milhões de habitantes a \nmais em meados deste ano, mostraram dados divulgados nesta \nquarta-feira (19) pelas Nações Unidas. \nOs dados demográficos do “Relatório do Estado da População \nMundial, 2023” do Fundo de População das Nações Unidas (UNFPA, \nna sigla em inglês) estimam a população da Índia em 1.428,6 milhões \nou 1,4286 bilhão, contra 1,4257 bilhão da China. [...] \nYP Rajesh e Krishn Kaushik. In: Referência CNN Brasil 19.abr.2023. \n \nTexto II \nDisponível: https://countrymeters.info/pt/ . Acesso em: 16 mai. 2023. Adaptado. \n \n \nDe acordo com a comparação entre os textos I e II:",
+      "prompt": "Leia os Textos I e II para responder à questão. \n \nTexto I \n \nPopulação da Índia deve superar a da China até meados de \n2023, diz ONU \nJuntos, países asiáticos representam mais de um terço da \npopulação global \n19/04/2023 às 07:50 | Atualizado 19/04/2023 às 07:52",
       "options": [
-        "A notícia é verdadeira, mas a Índia está em queda populacional até 2100\nsegundo o Texto II.",
-        "O Texto I é fake, já que os dados apresentados no texto II são muito diferentes\ndaqueles na notícia.",
-        "A notícia tem dados falsos, pois no Texto II está claro que a China sempre terá\nmais habitantes que a Índia.",
-        "O texto I apresenta dados muito próximos do texto II, apresentando uma notícia\nverídica.\n\n\nPopulação: China\nDados de 1º de janeiro\n\nPopulação: Índia\nDados de 1º de janeiro\n2023 1.458.921.902 hab.\n\n2023 1.425.771.530 hab.\n2100 1.020.665.209\n\n2100 1.516.597.388"
+        "Índia está a caminho de se tornar o país mais populoso do  mundo, ultrapassando a China com quase 3 milhões de habitantes a  mais em meados deste ano, mostraram dados divulgados nesta  quarta-feira (19) pelas Nações Unidas.  Os dados demográficos do “Relatório do Estado da População  Mundial, 2023” do Fundo de População das Nações Unidas (UNFPA,  na sigla em inglês) estimam a população da Índia em 1.428,6 milhões  ou 1,4286 bilhão, contra 1,4257 bilhão da China. [...]  YP Rajesh e Krishn Kaushik. In: Referência CNN Brasil 19.abr.2023.    Texto II  Disponível: https://countrymeters.info/pt/ . Acesso em: 16 mai. 2023. Adaptado.      De acordo com a comparação entre os textos I e II:  A) A notícia é verdadeira, mas a Índia está em queda populacional até 2100  segundo o Texto II.",
+        "O Texto I é fake, já que os dados apresentados no texto II são muito diferentes  daqueles na notícia.",
+        "notícia tem dados falsos, pois no Texto II está claro que a China sempre terá  mais habitantes que a Índia.",
+        "O texto I apresenta dados muito próximos do texto II, apresentando uma notícia  verídica.      População: China  Dados de 1º de janeiro    População: Índia  Dados de 1º de janeiro  2023 1.458.921.902 hab.     2023 1.425.771.530 hab.  2100 1.020.665.209    2100 1.516.597.388"
       ]
     },
     {
@@ -2314,9 +2324,9 @@
     },
     {
       "number": 9,
-      "prompt": "Leia o texto abaixo para responder à questão. \nO dente adequado para cada um \nA dentição dos animais extintos ajuda os cientistas a desvendar como os \ngrupos diferentes surgiram e evoluíram ao longo da história da vida na Terra, pois o \ntipo e as características dos dentes fornecem informações preciosas. Além disso, \ndevido à sua constituição resistente, em muitos casos só os dentes de animais extintos \nforam preservados até os dias atuais. O estudo da dentição de vários mamíferos já \nextintos que viveram na América do Sul mostra como esse grupo era diversificado e \nrevela aspectos surpreendentes dessa fauna. [...] \n \nDisponível em: https://cienciahoje.org.br/artigo/o-dente-adequado-para-cada-um/ . Acesso em: 16 abr. 2023.Fragmento. \n \nHá uma locução adjetiva em:",
+      "prompt": "Leia o texto abaixo para responder à questão. \nO dente adequado para cada um",
       "options": [
-        "“O dente adequado para cada um”.",
+        "dentição dos animais extintos ajuda os cientistas a desvendar como os  grupos diferentes surgiram e evoluíram ao longo da história da vida na Terra, pois o  tipo e as características dos dentes fornecem informações preciosas. Além disso,  devido à sua constituição resistente, em muitos casos só os dentes de animais extintos  foram preservados até os dias atuais. O estudo da dentição de vários mamíferos já  extintos que viveram na América do Sul mostra como esse grupo era diversificado e  revela aspectos surpreendentes dessa fauna. [...]    Disponível em: https://cienciahoje.org.br/artigo/o-dente-adequado-para-cada-um/ . Acesso em: 16 abr. 2023.Fragmento.    Há uma locução adjetiva em:  A) “O dente adequado para cada um”.",
         "“...revela aspectos surpreendentes dessa fauna.”.",
         "“...como os grupos diferentes surgiram...”.",
         "“...só os dentes de animais extintos foram preservados...”."
@@ -2326,17 +2336,17 @@
       "number": 10,
       "prompt": "Leia o trecho a seguir para responder à questão. \nLeonardo da Vinci nasceu em 1452 (século XV), em Anchiano, província de Florença \n(atualmente, Itália). Leonardo da Vinci faleceu em Aboise (França), no ano de 1519 \n(século XVI). [...] \n \nTrecho de texto adaptado do original de Madalena Borges, com finalidade pedagógica.  \n \nPara evitar repetições, mas mantermos a coesão, poderíamos aprimorar o trecho \nassim:",
       "options": [
-        "Leonardo da Vinci nasceu em 1452 (século XV), em Anchiano, província de\nFlorença (atualmente, Itália). Ele faleceu em Aboise (França), no ano de 1519\n(século XVI).",
-        "Leonardo da Vinci nasceu em 1452 (século XV), em Anchiano, província de\nFlorença (atualmente, Itália). Leonardo faleceu em Aboise (França), no ano de\n1519 (século XVI).",
-        "Nasceu em 1452 (século XV), em Anchiano, província de Florença (atualmente,\nItália) e faleceu em Aboise (França), no ano de 1519 (século XVI).",
-        "Da Vinci nasceu em 1452 (atualmente, Itália). Leonardo faleceu em Aboise\n(França) no ano de 1519."
+        "Leonardo da Vinci nasceu em 1452 (século XV), em Anchiano, província de  Florença (atualmente, Itália). Ele faleceu em Aboise (França), no ano de 1519  (século XVI).",
+        "Leonardo da Vinci nasceu em 1452 (século XV), em Anchiano, província de  Florença (atualmente, Itália). Leonardo faleceu em Aboise (França), no ano de  1519 (século XVI).",
+        "Nasceu em 1452 (século XV), em Anchiano, província de Florença (atualmente,  Itália) e faleceu em Aboise (França), no ano de 1519 (século XVI).",
+        "Da Vinci nasceu em 1452 (atualmente, Itália). Leonardo faleceu em Aboise  (França) no ano de 1519."
       ]
     },
     {
       "number": 11,
-      "prompt": "Leia o texto abaixo para responder à questão. \nConheça as falhas geológicas que podem causar os terremotos mais \ndevastadores do planeta \nDe separar um continente em dois a elevar montanhas todos os anos, essas \nrachaduras nunca representam algo bom \nTECNOLOGIA E CIÊNCIA | Matheus Borges*, do R7 \n15/05/2023 - 02H00 (ATUALIZADO EM 15/05/2023 - 13H40) \n \nFalhas geológicas são uma espécie de fratura na crosta terrestre, que podem variar \nde tamanho — desde muito pequenas até rachaduras que podem ser vistas do \nespaço. Elas são geradas por tensões acumuladas ao longo de uma ou mais placas \ntectônicas, por se afastarem ou se aproximarem. [...] \n \nMatheus Borges. In: R7. Disponível em: https://encurtador.com.br/qyKQY . Acesso em: 16 mai. 2023. \n \nA frase que apresenta uma marca de parcialidade nessa notícia é:",
+      "prompt": "Leia o texto abaixo para responder à questão. \nConheça as falhas geológicas que podem causar os terremotos mais \ndevastadores do planeta \nDe separar um continente em dois a elevar montanhas todos os anos, essas \nrachaduras nunca representam algo bom \nTECNOLOGIA E CIÊNCIA | Matheus Borges*, do R7 \n15/05/2023 - 02H00 (ATUALIZADO EM 15/05/2023 - 13H40) \n \nFalhas geológicas são uma espécie de fratura na crosta terrestre, que podem variar \nde tamanho — desde muito pequenas até rachaduras que podem ser vistas do \nespaço. Elas são geradas por tensões acumuladas ao longo de uma ou mais placas \ntectônicas, por se afastarem ou se aproximarem. [...] \n \nMatheus Borges. In: R7. Disponível em: https://encurtador.com.br/qyKQY . Acesso em: 16 mai. 2023.",
       "options": [
-        "fraturas na crosta terrestre podem ser vistas do espaço.",
+        "frase que apresenta uma marca de parcialidade nessa notícia é:  A) fraturas na crosta terrestre podem ser vistas do espaço.",
         "falhas causam os terremotos mais devastadores do planeta.",
         "falhas geológicas podem causar terremotos.",
         "tensões acumuladas entre placas tectônicas geram falhas."
@@ -2354,9 +2364,9 @@
     },
     {
       "number": 13,
-      "prompt": "Leia a charge abaixo para responder à questão. \n \n \nDisponível em: https://d.gazetadealagoas.com.br/charges/356728/charge-de-adnael-silva---11-e-12062022 . \nAcesso em: 16 mai. 2023. \n \nA crítica presente na charge é",
+      "prompt": "Leia a charge abaixo para responder à questão. \n \n \nDisponível em: https://d.gazetadealagoas.com.br/charges/356728/charge-de-adnael-silva---11-e-12062022 . \nAcesso em: 16 mai. 2023.",
       "options": [
-        "a emoção de receber presentes.",
+        "crítica presente na charge é  A) a emoção de receber presentes.",
         "a compra de presentes caros.",
         "o aumento do poder de compra.",
         "o alto custo do gás de cozinha."
@@ -2387,9 +2397,9 @@
       "prompt": "Leia o diálogo abaixo para responder à questão. \n \nPrô: Juninho, a merendeira fez umas fornada de pão. Onde está o erro? \nJuninho: O erro está na distribuição. \nPrô: Por quê? \nJuninho: Porque eu não ganhei nenhum pãozinho. \n \nDe acordo com a norma-padrão, a resposta de Juninho esperada pela professora \npoderia ser:",
       "options": [
         "As merendeira fez umas fornada de pão.",
-        "A merendeira fez umas fornada de pães.",
+        "merendeira fez umas fornada de pães.",
         "As merendeira fez uma fornada de pão.",
-        "A merendeira fez uma fornada de pães."
+        "merendeira fez uma fornada de pães."
       ]
     },
     {
@@ -2416,10 +2426,10 @@
       "number": 19,
       "prompt": "Leia o texto abaixo para responder à questão. \n \n \nDisponível em: https://www.ederluiz.com.vc/campanha-busca-\narrecadar-celulares-e-carregadores-usados-para-reciclagem . \nAcesso em: 20 maio 2021. Adaptado. \n \nO tema desse texto é:",
       "options": [
-        "A  degradação do meio ambiente.",
+        "degradação do meio ambiente.",
         "O lançamento de um novo smartphone.",
         "O uso correto de celulares na cidade.",
-        "A reciclagem de aparelhos celulares."
+        "reciclagem de aparelhos celulares."
       ]
     },
     {
@@ -2449,7 +2459,7 @@
         "relatar um fato acontecido entre dois homens.",
         "informar quais são as características de uma boa pesquisa.",
         "transmitir uma mensagem crítica / irônica a respeito do vício em internet.",
-        "noticiar que um homem estava reclamando por falta de internet na cidade.\n\n\n\nLíngua Estrangeira Moderna – Inglês"
+        "noticiar que um homem estava reclamando por falta de internet na cidade.      Língua Estrangeira Moderna – Inglês"
       ]
     },
     {
@@ -2479,17 +2489,17 @@
         "pedir a alguém que seja amigo por correspondência.",
         "descrever uma rotina diária escolar.",
         "convidar um amigo para um campeonato de futebol.",
-        "convencer outra pessoa a andar de bicicleta.\n\n\n\nCiências"
+        "convencer outra pessoa a andar de bicicleta.      Ciências"
       ]
     },
     {
       "number": 26,
-      "prompt": "Leia o texto abaixo. \n \n \nA Ciência possui diversos campos de estudo, a exemplo são as Ciências \nExatas, as Ciências Humanas e as Ciências da Saúde. Em todos eles os \ncientistas utilizam o método científico para que seu estudo seja validado.  \n \nTexto produzido para Prova Paulista \n \nNesse sentido, o conhecimento científico é",
+      "prompt": "Leia o texto abaixo.",
       "options": [
-        "definitivo e nunca muda, pois exige que ele seja aplicado e validado durante a\npesquisa.",
-        "algo dinâmico e passível de erros, que exige problematização, levantamento e\nteste de hipóteses e colaboração entre pares para construção de explicações.",
-        "definitivo e sempre muda, pois exige que ele seja aplicado e validado durante a\npesquisa.",
-        "algo dinâmico e sem erros, que não exige problematização nem levantamento e\nteste de hipóteses."
+        "Ciência possui diversos campos de estudo, a exemplo são as Ciências  Exatas, as Ciências Humanas e as Ciências da Saúde. Em todos eles os  cientistas utilizam o método científico para que seu estudo seja validado.     Texto produzido para Prova Paulista    Nesse sentido, o conhecimento científico é  A) definitivo e nunca muda, pois exige que ele seja aplicado e validado durante a  pesquisa.",
+        "algo dinâmico e passível de erros, que exige problematização, levantamento e  teste de hipóteses e colaboração entre pares para construção de explicações.",
+        "definitivo e sempre muda, pois exige que ele seja aplicado e validado durante a  pesquisa.",
+        "algo dinâmico e sem erros, que não exige problematização nem levantamento e  teste de hipóteses."
       ]
     },
     {
@@ -2514,9 +2524,9 @@
     },
     {
       "number": 29,
-      "prompt": "Leia o seguinte trecho: \n \n \nA toxoplasmose é uma doença que não apresenta sintomas e cerca de 80% \ndos adultos infectados não sabem que têm a doença. Sua detecção só pode \nser feita a partir de exames de sangue. Ela pode ser adquirida pelo contato \ncom fezes de gatos, ingestão de carnes, ovos e alimentos crus ou mal \ncozidos. Também pela ingestão de frutas e legumes sem a higienização \nadequada ou por água contaminada, assim como no manuseio de terra e \nareia, que podem conter os cistos do protozoário.  \n \nFonte: Adaptado do Jornal da USP Disponível em: https://jornal.usp.br/atualidades/toxoplasmose-uma-doenca-silenciosa/ \n \nOs protozoários são unicelulares, mas não podem ser considerados bactérias porque",
+      "prompt": "Leia o seguinte trecho:",
       "options": [
-        "são células procarióticas.",
+        "toxoplasmose é uma doença que não apresenta sintomas e cerca de 80%  dos adultos infectados não sabem que têm a doença. Sua detecção só pode  ser feita a partir de exames de sangue. Ela pode ser adquirida pelo contato  com fezes de gatos, ingestão de carnes, ovos e alimentos crus ou mal  cozidos. Também pela ingestão de frutas e legumes sem a higienização  adequada ou por água contaminada, assim como no manuseio de terra e  areia, que podem conter os cistos do protozoário.     Fonte: Adaptado do Jornal da USP Disponível em: https://jornal.usp.br/atualidades/toxoplasmose-uma-doenca-silenciosa/    Os protozoários são unicelulares, mas não podem ser considerados bactérias porque   A) são células procarióticas.",
         "são autótrofos.",
         "pertencem ao reino monera.",
         "são células eucarióticas."
@@ -2549,7 +2559,7 @@
         "Todas as afirmações.",
         "As afirmações I e II, apenas.",
         "As afirmações I e III, apenas.",
-        "A afirmação III, apenas."
+        "afirmação III, apenas."
       ]
     },
     {
@@ -2596,10 +2606,10 @@
       "number": 37,
       "prompt": "Qual das alternativas apresentam apenas características dos protozoários?",
       "options": [
-        "Possuem formas e dimensões bem diversificadas, com tamanhos que variam\ndesde microscópicos até serem vistos a olho nu.",
-        "A maioria dos protozoários podem ser encontrados em regiões onde somente há\nágua salgada e em solos úmidos.",
-        "No geral, esses seres pluricelulares são solitários, mas podem ser encontrados\ntambém sob a forma de colônias.",
-        "Os protozoários podem ser classificados (a depender do autor) - de acordo com\nseu tipo de alimentação – resultando na sua morfologia diferenciada."
+        "Possuem formas e dimensões bem diversificadas, com tamanhos que variam  desde microscópicos até serem vistos a olho nu.",
+        "maioria dos protozoários podem ser encontrados em regiões onde somente há  água salgada e em solos úmidos.",
+        "No geral, esses seres pluricelulares são solitários, mas podem ser encontrados  também sob a forma de colônias.",
+        "Os protozoários podem ser classificados (a depender do autor) - de acordo com  seu tipo de alimentação – resultando na sua morfologia diferenciada."
       ]
     },
     {
@@ -2641,7 +2651,7 @@
         "“leite de búfala”.",
         "“uma quantidade grande”.",
         "“os benefícios do queijo”.",
-        "“gorgonzola e parmesão”.\n\nLeia o texto para responder à questão 02.\nDicas e curiosidades sobre o fondue\n\n1. A expressão fondue vem do termo francês. Seu significado é derreter ou fundir.\n2. Dizem que a primeira vez que foi feito um fondue de queijo foi na Segunda\nGuerra Mundial. Mas há quem fale que foi bem antes. No século 18, talvez.\n3. Na Suíça, onde tudo começou, para os homens do campo que habitavam as\nregiões montanhosas era praticamente impossível ir para o centro das cidades\nem busca de alimentos. Como eles eram produtores de queijo, derretiam esse\ningrediente pra comer com pão. Desta forma, tinham uma deliciosa comida\nquentinha para se aquecer nos longos invernos.\n4. Comer fondue, seja os três tipos mais conhecidos de uma vez só ou somente\num deles requer todo um ritual. Panela certa, fogareiro no ponto, mesa bonita\ne lotada: de molhinhos para a carne, pãezinhos finamente cortados para o de\nqueijo e frutas e bolachas waffle.\n5. Além de gostoso, o fondue é nutritivo.\n\nDisponível em: <https://hotelrenar.com.br/historia-do-fondue-voce-prefere-de-queijo-carne-ou-chocolate/>.\nAcesso em: 28 jun. 2023 (Adaptado)"
+        "“gorgonzola e parmesão”.    Leia o texto para responder à questão 02.  Dicas e curiosidades sobre o fondue    1. A expressão fondue vem do termo francês. Seu significado é derreter ou fundir.   2. Dizem que a primeira vez que foi feito um fondue de queijo foi na Segunda  Guerra Mundial. Mas há quem fale que foi bem antes. No século 18, talvez.  3. Na Suíça, onde tudo começou, para os homens do campo que habitavam as  regiões montanhosas era praticamente impossível ir para o centro das cidades  em busca de alimentos. Como eles eram produtores de queijo, derretiam esse  ingrediente pra comer com pão. Desta forma, tinham uma deliciosa comida  quentinha para se aquecer nos longos invernos.   4. Comer fondue, seja os três tipos mais conhecidos de uma vez só ou somente  um deles requer todo um ritual. Panela certa, fogareiro no ponto, mesa bonita  e lotada: de molhinhos para a carne, pãezinhos finamente cortados para o de  queijo e frutas e bolachas waffle.  5. Além de gostoso, o fondue é nutritivo.     Disponível em: <https://hotelrenar.com.br/historia-do-fondue-voce-prefere-de-queijo-carne-ou-chocolate/>.   Acesso em: 28 jun. 2023 (Adaptado)"
       ]
     },
     {
@@ -2651,7 +2661,7 @@
         "verbos.",
         "adjetivos.",
         "substantivos.",
-        "locuções adjetivas.\n\nLeia o texto para responder à questão 03.\nNarciso\nMitologia Grega\nCerta vez, no campo, Narciso aproxima-se de uma fonte límpida que nunca\nhomem ou animal algum havia tocado, rodeada por uma erva fresca e macia. Por\ninstantes ele descansa, mas sentindo vontade de beber, debruça-se sobre a água\npara matar a sede. Percebe, então, sua imagem e imediatamente apaixona-se por\nela.\nEle contempla seus olhos, dois astros, a cabeleira digna de Baco e Apolo, as\nbochechas lisas, o pescoço de marfim, a boca graciosa e a pele que une o brilho do\ncobre à brancura da neve.\n\nDisponível em: <https://www.fantasticacultural.com.br/artigo/891/o_mito_de_narciso_-_o_primeiro_narcisista>. Acesso em: 29\njun. 2023."
+        "locuções adjetivas.  Leia o texto para responder à questão 03.  Narciso  Mitologia Grega  Certa vez, no campo, Narciso aproxima-se de uma fonte límpida que nunca  homem ou animal algum havia tocado, rodeada por uma erva fresca e macia. Por  instantes ele descansa, mas sentindo vontade de beber, debruça-se sobre a água  para matar a sede. Percebe, então, sua imagem e imediatamente apaixona-se por  ela.  Ele contempla seus olhos, dois astros, a cabeleira digna de Baco e Apolo, as  bochechas lisas, o pescoço de marfim, a boca graciosa e a pele que une o brilho do  cobre à brancura da neve.    Disponível em: <https://www.fantasticacultural.com.br/artigo/891/o_mito_de_narciso_-_o_primeiro_narcisista>. Acesso em: 29  jun. 2023."
       ]
     },
     {
@@ -2661,7 +2671,7 @@
         "presente do subjuntivo, pois trata-se de uma suposição.",
         "futuro do indicativo, pois indica uma ação que acontecerá com certeza.",
         "pretérito do indicativo, pois indica uma ação que aconteceu no passado.",
-        "presente do indicativo, pois trata-se de uma ação que acontece no momento\nda fala."
+        "presente do indicativo, pois trata-se de uma ação que acontece no momento  da fala."
       ]
     },
     {
@@ -2671,7 +2681,7 @@
         "frescos – necessária.",
         "frescas – necessário.",
         "frescos – necessário.",
-        "frescas – necessária.\n\n\n\n\nLeia o texto e responda à questão 05.\nO Ratinho, o Gato e o Galo\nMonteiro Lobato\n\nCerta manhã, um ratinho saiu do buraco pela primeira vez. Queria conhecer o mundo\ne travar relações com tanta coisa bonita de que falavam seus amigos. Admirou a luz\ndo sol, o verdor das árvores, a correnteza dos ribeirões, a habitação dos homens. E\nacabou penetrando no quintal duma casa da roça.\n[...]\nDisponível em: Ler e escrever: livro de textos do aluno / Secretaria da Educação, Fundação para o Desenvolvimento da\nEducação.. 3. ed. São Paulo: FDE, 2010.p.137 Acesso em: 29 jun. 2023."
+        "frescas – necessária.        Leia o texto e responda à questão 05.  O Ratinho, o Gato e o Galo   Monteiro Lobato    Certa manhã, um ratinho saiu do buraco pela primeira vez. Queria conhecer o mundo  e travar relações com tanta coisa bonita de que falavam seus amigos. Admirou a luz  do sol, o verdor das árvores, a correnteza dos ribeirões, a habitação dos homens. E  acabou penetrando no quintal duma casa da roça.  [...]   Disponível em: Ler e escrever: livro de textos do aluno / Secretaria da Educação, Fundação para o Desenvolvimento da  Educação.. 3. ed. São Paulo: FDE, 2010.p.137 Acesso em: 29 jun. 2023."
       ]
     },
     {
@@ -2681,7 +2691,7 @@
         "Saíam, queriam, admirava, acabara.",
         "Saíam, queria, admiravam, acabaram.",
         "Saíram, queriam, admiravam, acabavam.",
-        "Saíram, queriam, admiraram, acabaram.\n\n\nLeia o texto e responda à questão 06."
+        "Saíram, queriam, admiraram, acabaram.      Leia o texto e responda à questão 06.  A galinha dos ovos de ouro  Era uma vez um fazendeiro que tinha uma galinha. Um dia ele percebeu que a  galinha havia botado um ovo de ouro! Ele então pegou o ovo e foi logo mostrar para  a esposa:  — Olha só! Ficaremos ricos!  Assim, foi até a cidade e vendeu o ovo por um bom valor. [...]  Disponível em: <https://www.culturagenial.com/contos-infantis-que-as-criancas-vao-adorar/>. Acesso em: 30 jun. 2023."
       ]
     },
     {
@@ -2691,7 +2701,8 @@
         "calmo.",
         "com raiva.",
         "animado.",
-        "com medo.\n\n\n\nLeia os textos e responda à questão 07.\nTexto 1 – A Cigarra e a Formiga – Esopo"
+        "com medo.      Leia os textos e responda à questão 07.  Texto 1 – A Cigarra e a Formiga – Esopo    A cigarra passou o verão cantando, enquanto a formiga juntava seus  grãos.  Quando chegou o inverno, a cigarra veio à casa da formiga para pedir  que lhe desse o que comer.  A formiga então perguntou a ela:  — E o que é que você fez durante todo o verão?  — Durante o verão eu cantei — disse a cigarra.",
+        "a formiga respondeu:— Muito bem, pois agora dance!  [...]  Disponível em: <https://encurtador.com.br/eAOV9>. Acesso em: 23 jun. 2023.    Texto 2 – A Cigarra e a Formiga – La Fontaine    Tendo a cigarra em cantigas  Passado todo o verão  Achou-se em penúria extrema  Na tormentosa estação.    Não lhe restando migalha  Que trincasse, a tagarela  Foi valer-se da formiga,  Que morava perto dela.    Rogou-lhe que lhe emprestasse,  Pois tinha riqueza e brilho,  Algum grão com que manter-se  Té voltar o aceso estio.    – “Amiga”, diz a cigarra,  – “Prometo, à fé d’animal,  Pagar-vos antes d’agosto  Os juros e o principal. Disponível em: <https://encurtador.com.br/eAOV9>. Acesso em: 23 jun. 2023."
       ]
     },
     {
@@ -2701,7 +2712,7 @@
         "recriação engraçada de uma ideia.",
         "criação nova com troca de palavras.",
         "intertextualidade explícita.",
-        "intertextualidade implícita.\n\n\nLeia o texto para responder à questão 08.\n\n\nTexto desenvolvido para essa atividade."
+        "intertextualidade implícita.    Leia o texto para responder à questão 08.      Texto desenvolvido para essa atividade."
       ]
     },
     {
@@ -2711,7 +2722,7 @@
         "informal, pois apresenta palavras que impedem o entendimento.",
         "formal, mas a recomendada para utilizar numa conversa familiar.",
         "formal e complexa procurando obedecer às convenções da língua.",
-        "informal e adequada ao dia a dia de uma relação entre familiares.\n\n\n\n\n\nLeia o texto e responda à questão 09.\n\n\nDisponível em: https://www.jatai.go.gov.br/sabado-e-dia-d-de-vacinacao-contra-raiva-animal-leve-seu-amiguinho-\npara-vacinar/ Acesso em: 06 jul. 2023. Adaptado."
+        "informal e adequada ao dia a dia de uma relação entre familiares.          Leia o texto e responda à questão 09.      Disponível em: https://www.jatai.go.gov.br/sabado-e-dia-d-de-vacinacao-contra-raiva-animal-leve-seu-amiguinho- para-vacinar/ Acesso em: 06 jul. 2023. Adaptado."
       ]
     },
     {
@@ -2721,7 +2732,8 @@
         "indicativo, já que trata de uma ação certa de ocorrer no futuro.",
         "subjuntivo, pois expressa uma possível ação para os donos de animais.",
         "imperativo, pois expressa uma recomendação para os donos de animais.",
-        "indicativo, já que trata de uma ação já acontecida em um passado próximo.\n\n\n\n\n\nLeia o texto e responda à questão 10."
+        "indicativo, já que trata de uma ação já acontecida em um passado próximo.           Leia o texto e responda à questão 10.    A Bolsa Amarela  Lygia Bojunga Nunes    [...] E de repente todo o mundo tava lutando pra abrir a minha bolsa. Minha.  Minha. Minha! E eu ali sem poder fazer nada.   Ah, se eu fosse gente grande! Quem é que ia abrir minha bolsa assim à força  se eu fosse grande? Quem?",
+        "aí a minha vontade de ser grande desatou também a engordar.   E quanto mais eu ficava grudada no chão sem poder fazer nada, mais as  minhas vontades iam engordando, e a bolsa crescendo, crescendo, já nem pulava  mais, só crescia, crescia, crescia. [...]  NUNES, Lygia Bojunga. A Bolsa amarela. Rio de Janeiro: Editora Agir, 1993."
       ]
     },
     {
@@ -2731,7 +2743,7 @@
         "subjuntivo.",
         "imperativo.",
         "futuro do indicativo.",
-        "presente do Indicativo.\n\n\n\nLeia os textos 1 e 2 para responder à questão 11.\n\nTexto 1 - O touro e as rãs\nEnquanto dois touros furiosamente lutavam pela posse exclusiva de certa\ncampina, as rãs novas, à beira do brejo, divertiram-se com a cena.\nUma rã velha, porém, suspirou.\n— Não se riam, que o fim da disputa vai ser doloroso para nós.\n— Que tolice! - exclamaram as rãzinhas. - Você está caducando, rã velha!"
+        "presente do Indicativo.      Leia os textos 1 e 2 para responder à questão 11.    Texto 1 - O touro e as rãs  Enquanto dois touros furiosamente lutavam pela posse exclusiva de certa  campina, as rãs novas, à beira do brejo, divertiram-se com a cena.  Uma rã velha, porém, suspirou.  — Não se riam, que o fim da disputa vai ser doloroso para nós.  — Que tolice! - exclamaram as rãzinhas. - Você está caducando, rã velha!  A rã velha explicou-se:  — Brigam os touros. Um deles há de vencer e expulsar da pastagem o vencido.  Que acontece? O animalão surrado vem meter-se aqui em nosso brejo e ai de nós!...  Assim foi. O touro mais forte, à força de marradas, encurralou no brejo o mais  fraco, e as rãzinhas tiveram de dizer adeus ao sossego. Inquietas sempre, sempre  atropeladas, raro era o dia em que não morria alguma sob os pés do bicharoco.    Moral: É sempre assim: brigam os grandes, pagam o pato os pequenos.    Disponível em: <https://www.culturagenial.com/fabulas-monteiro-lobato/>. Acesso em: 04 jul. 2023.      Texto 2 - Interpretação e moral da fábula “O Touro e as Rãs”  Na fábula do touro e das rãs, é a rã velha que aparece como sendo a detentora  da sabedoria por muito ter experienciado. Enquanto as rãs novas se divertem com a  cena inusitada da batalha entre os touros, a rã velha, com base naquilo que viveu no  passado, é capaz de fazer previsões para o futuro alertando os mais jovens no  presente. A anciã, de fato, afinal parece ter razão. A fábula assim ensina os pequenos  a ouvirem atentamente os mais velhos e a aprenderem com eles.  Disponível em: https://www.culturagenial.com/fabulas-monteiro-lobato/. Acesso em: 04 jul. 2023."
       ]
     },
     {
@@ -2741,7 +2753,8 @@
         "faz uma paródia, pois reproduz a fábula “O Touro e as Rãs” de modo cômico.",
         "apresenta as mesmas palavras do autor da fábula utilizando citação direta.",
         "elabora uma adaptação das palavras do autor da fábula em citação indireta.",
-        "é uma paráfrase, pois usa novas palavras para explicar o texto de outro autor.\n\n\n\n\n\n\n\nLeia o texto para responder à questão 12.\n\nMeus oito anos\nCasimiro de Abreu\nOh! que saudades que tenho\nDa aurora da minha vida,\nDa minha infância querida\nQue os anos não trazem mais!\nQue amor, que sonhos, que flores,\nNaquelas tardes fagueiras\nÀ sombra das bananeiras,\nDebaixo dos laranjais! [...]\nQue auroras, que sol, que vida,\nQue noites de melodia\nNaquela doce alegria,\nNaquele ingênuo folgar!\nO céu bordado d’estrelas,"
+        "é uma paráfrase, pois usa novas palavras para explicar o texto de outro autor.              Leia o texto para responder à questão 12.    Meus oito anos  Casimiro de Abreu  Oh! que saudades que tenho  Da aurora da minha vida,  Da minha infância querida  Que os anos não trazem mais!  Que amor, que sonhos, que flores,  Naquelas tardes fagueiras  À sombra das bananeiras,  Debaixo dos laranjais! [...]  Que auroras, que sol, que vida,  Que noites de melodia  Naquela doce alegria,  Naquele ingênuo folgar!  O céu bordado d’estrelas,  A terra de aromas cheia,  As ondas beijando a areia",
+        "a lua beijando o mar!  Disponível em: <https://quiabodoido.com/cultura/meus-oito-anos-poema-de-casimiro-de-abreu/>.   Acesso em: 04 jul. 2023. Fragmento,"
       ]
     },
     {
@@ -2751,7 +2764,7 @@
         "Local próximo à praia.",
         "Fábrica de brinquedos.",
         "Vila nas montanhas.",
-        "Área rural no interior.\n\n\n\n\n\nLeia o texto para responder às questões 13 e 14.\nPRÍNCIPE (levantando-se, esguio e nariz empinado) Eu sou o Príncipe. Você já deve\nter escutado falar de mim. Sempre saio nas revistas mais top dessas bandas.\nCAMAREIRA Hum, e fala “top”? Sei...\nCamareira se vira para a plateia e dá uma risadinha cínica.\nPRÍNCIPE (se achando o cara) Enfim, deve ter escutado também as lendas que\nnossos antigos contavam: que um dia eu subiria na mais alta torre e encontraria a\nprincesa mais bela adormecida por uma maldição de cem anos.\n(Dramático de novo) Eu cheguei, estou aqui! Eu, o Príncipe, cavalguei por mil colinas,\nnaveguei por mil riachos, viajei por mil léguas até esta torre.\nCAMAREIRA Primeiro, que isso parece mentira. Os dados não batem. Segundo: por\nque não pegou a linha 302 que agora passa aqui do ladinho do palácio? Terceiro:\nquando você diz “princesa mais bela adormecida”, se refere à rainha?\nPRÍNCIPE Rainha? Que rainha? Eu subi na mais alta torre para encontrar minha\namada no reino dos sonhos, e, com um beijo de amor verdadeiro, acordar a mais linda\nprincesa. [...]\nCAMAREIRA (voltando a arrumar) Uhum. A Princesa já dormiu, já acordou, já tá\ntomando café. Tá lá embaixo. Já já ela sobe. Justamente hoje ela pediu pra eu arrumar\naqui, porque vai transformar esse quarto numa biblioteca. Este é o antigo quarto dela.\nLESLIE, Cassia. O príncipe atrasado: uma paródia teatral de contos de fadas.\nLondrina: Madreperola, 2018. Pg. 18 e 19. Fragmento.\n\nVocabulário:\nCAMAREIRA: 1. Mulher que faz os serviços solicitados pela princesa. 2. Responsável por arrumar,\nlimpar e higienizar os quartos e áreas comuns."
+        "Área rural no interior.          Leia o texto para responder às questões 13 e 14.  PRÍNCIPE (levantando-se, esguio e nariz empinado) Eu sou o Príncipe. Você já deve  ter escutado falar de mim. Sempre saio nas revistas mais top dessas bandas.  CAMAREIRA Hum, e fala “top”? Sei...  Camareira se vira para a plateia e dá uma risadinha cínica.  PRÍNCIPE (se achando o cara) Enfim, deve ter escutado também as lendas que  nossos antigos contavam: que um dia eu subiria na mais alta torre e encontraria a  princesa mais bela adormecida por uma maldição de cem anos.  (Dramático de novo) Eu cheguei, estou aqui! Eu, o Príncipe, cavalguei por mil colinas,  naveguei por mil riachos, viajei por mil léguas até esta torre.  CAMAREIRA Primeiro, que isso parece mentira. Os dados não batem. Segundo: por  que não pegou a linha 302 que agora passa aqui do ladinho do palácio? Terceiro:  quando você diz “princesa mais bela adormecida”, se refere à rainha?  PRÍNCIPE Rainha? Que rainha? Eu subi na mais alta torre para encontrar minha  amada no reino dos sonhos, e, com um beijo de amor verdadeiro, acordar a mais linda  princesa. [...]  CAMAREIRA (voltando a arrumar) Uhum. A Princesa já dormiu, já acordou, já tá  tomando café. Tá lá embaixo. Já já ela sobe. Justamente hoje ela pediu pra eu arrumar  aqui, porque vai transformar esse quarto numa biblioteca. Este é o antigo quarto dela.  LESLIE, Cassia. O príncipe atrasado: uma paródia teatral de contos de fadas.   Londrina: Madreperola, 2018. Pg. 18 e 19. Fragmento.    Vocabulário:  CAMAREIRA: 1. Mulher que faz os serviços solicitados pela princesa. 2. Responsável por arrumar,  limpar e higienizar os quartos e áreas comuns."
       ]
     },
     {
@@ -2768,10 +2781,10 @@
       "number": 14,
       "prompt": "Nesse fragmento de texto, os protagonistas da história são:",
       "options": [
-        "A Camareira e a Bruxa.",
+        "Camareira e a Bruxa.",
         "O Príncipe e a Camareira.",
         "O Príncipe e a Princesa.",
-        "A Camareira e a Princesa.\n\n\nLeia o texto e responda à questão 15.\n\nDisponível em: <http://cartunista.com.br/abtanteriores.html>. Acesso em: 04 jul. 2023."
+        "Camareira e a Princesa.    Leia o texto e responda à questão 15.    Disponível em: <http://cartunista.com.br/abtanteriores.html>. Acesso em: 04 jul. 2023."
       ]
     },
     {
@@ -2781,7 +2794,7 @@
         "tomar um banho bem demorado.",
         "desistir de esperar que o telefone tocasse.",
         "saber que se entrasse no banho o telefone tocaria.",
-        "decidir trocar a lâmpada ao invés de aguardar o telefonema.\n\n\n\n\nLeia o texto para responder à questão 16.\n\n\nDisponível em: <https://twitter.com/AmigosdoHC/status/860119684309540864>. Acesso em: 3 ago. 2023."
+        "decidir trocar a lâmpada ao invés de aguardar o telefonema.        Leia o texto para responder à questão 16.      Disponível em: <https://twitter.com/AmigosdoHC/status/860119684309540864>. Acesso em: 3 ago. 2023."
       ]
     },
     {
@@ -2801,7 +2814,7 @@
         "Mauricio de Sousa concedeu esta entrevista.",
         "Sou suspeito porque adoro azul, é uma cor divina.",
         "Participou da conversa também um de seus nove filhos.",
-        "Mauricio falou da trajetória de seus 61 anos de carreira.\n\nLeia o texto para responder à questão 18.\nSupercapacitor simples e barato é desenvolvido\nO supercapacitor é produzido a partir de uma mistura de cimento, carbono negro e\nágua, podendo ampliar a utilização de energias renováveis\nPor Mateus Dias, editado por Lucas Soares  01/08/2023 21h28, atualizada em 02/08/2023 21h06\nFontes de energia renováveis, como a eólica, solar e de marés, causam pouco\nimpacto negativo ao meio ambiente, no entanto, suas flutuações de fornecimento\npodem ser um problema. Agora, pesquisadores conseguiram desenvolver um\nsupercapacitor simples e barato, que pode armazenar energia e resolver esse\nproblema. [...]\nDisponível em: <https://encurtador.com.br/wW269>. Acesso em: 03 ago. 2023."
+        "Mauricio falou da trajetória de seus 61 anos de carreira.    Leia o texto para responder à questão 18.  Supercapacitor simples e barato é desenvolvido  O supercapacitor é produzido a partir de uma mistura de cimento, carbono negro e  água, podendo ampliar a utilização de energias renováveis  Por Mateus Dias, editado por Lucas Soares  01/08/2023 21h28, atualizada em 02/08/2023 21h06  Fontes de energia renováveis, como a eólica, solar e de marés, causam pouco  impacto negativo ao meio ambiente, no entanto, suas flutuações de fornecimento  podem ser um problema. Agora, pesquisadores conseguiram desenvolver um  supercapacitor simples e barato, que pode armazenar energia e resolver esse  problema. [...]  Disponível em: <https://encurtador.com.br/wW269>. Acesso em: 03 ago. 2023."
       ]
     },
     {
@@ -2818,10 +2831,10 @@
       "number": 19,
       "prompt": "No primeiro parágrafo, a informação principal é:",
       "options": [
-        "Os antigos gregos, por conta das relações de comércio e das disputas de\nterritório, aprenderam com os babilônios.",
-        "Os antigos gregos aprenderam com os babilônios sobre a astronomia e a\nmatemática de base 60.",
-        "Os antigos aprenderam com os babilônios sobre a astronomia e a matemática\nde base 60.",
-        "Os gregos aprenderam sobre a astronomia e a matemática de base 60.\n\n\n\n\n\n\nLeia o texto e responda à questão 20."
+        "Os antigos gregos, por conta das relações de comércio e das disputas de  território, aprenderam com os babilônios.",
+        "Os antigos gregos aprenderam com os babilônios sobre a astronomia e a  matemática de base 60.",
+        "Os antigos aprenderam com os babilônios sobre a astronomia e a matemática  de base 60.",
+        "Os gregos aprenderam sobre a astronomia e a matemática de base 60.            Leia o texto e responda à questão 20.  A Bolsa Amarela   Lygia Bojunga Nunes  Meu irmão chegou em casa com um embrulho. Gritou da porta:   -— Pacote da tia Brunilda!   Todo o mundo correu, minha irmã falou____ (1)  ____ (2) Olha como vem coisa. Rebentaram o barbante, rasgaram o papel, tudo  se espalhou na mesa.   Aí foi aquela confusão:   -— O vestido vermelho é meu.   — Ih, que colar bacana ____ (3) Vai combinar com o meu suéter.  —  Vê se veio alguma camisa do tio Júlio pra mim.   — Que sapato alinhado, tá com jeito de ser meu número.   Eu fico boba de ver como a tia Brunilda compra roupa. Compra e enjoa. Enjoa  tudo: vestido, bolsa, sapato, blusa. Usa três, quatro vezes e pronto: enjoa. Outro dia  eu perguntei:   — Se ela enjoa tão depressa, pra que que ela compra tanto ____ (4)   É pra  poder enjoar mais?  NUNES, Lygia Bojunga. A Bolsa amarela. Rio de Janeiro: Editora Agir, 1993."
       ]
     },
     {
@@ -2831,7 +2844,7 @@
         "Ponto final, travessão, ponto de interrogação e dois pontos.",
         "Dois pontos, travessão, ponto de exclamação e ponto de interrogação.",
         "Travessão, ponto de interrogação, dois pontos e ponto de exclamação.",
-        "Ponto de exclamação, travessão, ponto final e ponto de interrogação.\n\n\n\n\n\nLÍNGUA INGLESA\nLeia o texto para responder à questão 21."
+        "Ponto de exclamação, travessão, ponto final e ponto de interrogação.          LÍNGUA INGLESA  Leia o texto para responder à questão 21.  A história do filme “Inside Out” (Divertidamente) se concentra na maior parte do tempo  na mente da jovem Riley, de 11 anos, onde vivem cinco emoções, caracterizadas por  personagens de mesmo nome, sendo elas:    Disponível em: <https://www.theorlandodinks.com/blog/disney-pixar-inside-out-movie-review>. Acesso em 20 de jun. 2023."
       ]
     },
     {
@@ -2841,7 +2854,7 @@
         "fear / joy.",
         "sadness / joy.",
         "fear / sadness.",
-        "anger / disgust.\n\n\nLeia o texto para responder à questão 22.\n\nEm uma aula de Inglês do 6º ano, a professora\naplicou o jogo Two truths and a lie (Duas\nverdades e uma mentira) com os estudantes.\nDurante a atividade, a aluna Sophia entregou\numa ficha com as seguintes informações sobre\nela:"
+        "anger / disgust.      Leia o texto para responder à questão 22.    Em uma aula de Inglês do 6º ano, a professora  aplicou o jogo Two truths and a lie (Duas  verdades e uma mentira) com os estudantes.  Durante a atividade, a aluna Sophia entregou  uma ficha com as seguintes informações sobre  ela:"
       ]
     },
     {
@@ -2851,7 +2864,7 @@
         "é brava.",
         "é competitiva.",
         "gosta de café.",
-        "gosta de Taylor Swift.\n\n\nAnalise a imagem abaixo para responder à questão 23.\n\nImagem elaborada para essa atividade."
+        "gosta de Taylor Swift.    Analise a imagem abaixo para responder à questão 23.    Imagem elaborada para essa atividade."
       ]
     },
     {
@@ -2871,7 +2884,7 @@
         "It’s three o’clock./ It’s fifteen past nine.",
         "It’s nine o’clock. / It’s eleven to nine.",
         "It’s two o’clock./ It’s midday.",
-        "It’s six o’clock./ It’s midnight.\n\n\nLeia a tirinha para responder à questão 25.\n\nDisponível em: <http://viptid.blogspot.com/2011/04/comic-strip-monicas-gang.html>. Acesso em 08 ago. 2023."
+        "It’s six o’clock./ It’s midnight.    Leia a tirinha para responder à questão 25.    Disponível em: <http://viptid.blogspot.com/2011/04/comic-strip-monicas-gang.html>. Acesso em 08 ago. 2023."
       ]
     },
     {
@@ -2881,7 +2894,7 @@
         "Uma casquinha de sorvete.",
         "Uma colher de brigadeiro.",
         "Um pedaço de bolo.",
-        "Um pouco de água.\n\n\n\nCIÊNCIAS"
+        "Um pouco de água.      CIÊNCIAS"
       ]
     },
     {
@@ -2906,9 +2919,9 @@
     },
     {
       "number": 28,
-      "prompt": "Leia o texto abaixo. \nÉ uma solução aquosa que tem como função limpar, lubrificar e umedecer a parte \nexposta do olho evitando seu ressecamento. Em sua composição contém sais, muco \ne algumas enzimas com ação bactericida. \nElaborado para Prova Paulista  \n \nA descrição acima refere-se à(ao):",
+      "prompt": "Leia o texto abaixo. \nÉ uma solução aquosa que tem como função limpar, lubrificar e umedecer a parte \nexposta do olho evitando seu ressecamento. Em sua composição contém sais, muco \ne algumas enzimas com ação bactericida. \nElaborado para Prova Paulista",
       "options": [
-        "suor.",
+        "descrição acima refere-se à(ao):  A) suor.",
         "saliva.",
         "lágrima.",
         "humor líquido."
@@ -2986,9 +2999,9 @@
     },
     {
       "number": 36,
-      "prompt": "Sabemos que o corpo humano possui mais de 600 músculos esqueléticos e esses \nmúsculos estão associados com os movimentos e a postura do nosso corpo.  \nA figura abaixo representa a conexão entre músculo esquelético e osso do calcanhar, \nauxiliando na sustentação do corpo. \n \nFonte: https://www.isonanten.com/lesao-do-tendao-do-calcaneo \n \nO músculo estriado esquelético liga-se ao esqueleto por estruturas denominadas",
+      "prompt": "Sabemos que o corpo humano possui mais de 600 músculos esqueléticos e esses \nmúsculos estão associados com os movimentos e a postura do nosso corpo.",
       "options": [
-        "ossos.",
+        "figura abaixo representa a conexão entre músculo esquelético e osso do calcanhar,  auxiliando na sustentação do corpo.    Fonte: https://www.isonanten.com/lesao-do-tendao-do-calcaneo    O músculo estriado esquelético liga-se ao esqueleto por estruturas denominadas  A) ossos.",
         "tendões.",
         "polegares.",
         "diafragmas."
