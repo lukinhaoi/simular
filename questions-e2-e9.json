@@ -1591,7 +1591,8 @@
         "Marcos precisa alterar o valor no bloco [repita] para “5”, pois é o número de transições de fantasia.",
         "Marcos precisa aumentar o número de fantasias na aba “Fantasias” para 10.",
         "Marcos deveria usar o bloco “mude para a fantasia [última fantasia]” ao final do código."
-      ]
+      ],
+      "requiresOriginalPage": true
     },
     {
       "number": 39,
