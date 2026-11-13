@@ -52,9 +52,9 @@
     },
     {
       "number": 8,
-      "prompt": "Disponível em: https://pt.wikipedia.org/wiki/Categoria:Escritoras_afro-brasileiras. Acesso em: 02 jul. 2025.",
+      "prompt": "Disponível em: https://pt.wikipedia.org/wiki/Categoria:Escritoras_afro-brasileiras. Acesso em: 02 jul. 2025.\nA imagem acima é de um índice de uma enciclopédia online, livre e aberta à edição. Ela apresenta uma das características\ndo gênero Verbete de Enciclopédia, que é utilizar a ordem alfabética dos temas para",
       "options": [
-        "imagem acima é de um índice de uma enciclopédia online, livre e aberta à edição. Ela apresenta uma das características do gênero Verbete de Enciclopédia, que é utilizar a ordem alfabética dos temas para A estimular a leitura ao dificultar a pesquisa realizada.",
+        "estimular a leitura ao dificultar a pesquisa realizada.",
         "apresentar as personagens principais da narrativa.",
         "acrescentar as avaliações pessoais dos leitores.",
         "facilitar a busca por escritoras afro-brasileiras."
@@ -72,9 +72,9 @@
     },
     {
       "number": 10,
-      "prompt": "Elza Soares\nPor Editores da Enciclopédia Itaú Cultural\nÚltima atualização: 30.07.2024\nElza da Conceição Soares (Rio de Janeiro, Rio de Janeiro, 1937 - Idem, 2022). Cantora, compositora. Com uma voz rouca\nmarcante, Elza contribui com importantes registros de grandes composições da música brasileira, interpretando e\nimprovisando sobre canções de diferentes gêneros.\nDisponível em: https://enciclopedia.itaucultural.org.br/pessoas/22505-elza-soares. Acesso em: 02 jul. 2025.",
+      "prompt": "Elza Soares\nPor Editores da Enciclopédia Itaú Cultural\nÚltima atualização: 30.07.2024\nElza da Conceição Soares (Rio de Janeiro, Rio de Janeiro, 1937 - Idem, 2022). Cantora, compositora. Com uma voz rouca\nmarcante, Elza contribui com importantes registros de grandes composições da música brasileira, interpretando e\nimprovisando sobre canções de diferentes gêneros.\nDisponível em: https://enciclopedia.itaucultural.org.br/pessoas/22505-elza-soares. Acesso em: 02 jul. 2025.\nA palavra em destaque, “marcante”, dá a entender que a voz rouca da cantora",
       "options": [
-        "palavra em destaque, “marcante”, dá a entender que a voz rouca da cantora A era considerada irrelevante.",
+        "era considerada irrelevante.",
         "ficava guardada na memória.",
         "incomodava as pessoas.",
         "estava próxima do comum."
@@ -172,9 +172,9 @@
     },
     {
       "number": 22,
-      "prompt": "Observe a sequência das imagens.\nImagem gerada pelo algoritmo de Inteligência Artificial",
+      "prompt": "Observe a sequência das imagens.\nImagem gerada pelo algoritmo de Inteligência Artificial\nA Hidrosfera é a camada composta pela água em todos os seus estados físicos no planeta.\nConsiderando a sequência de imagens, é possível identificar:",
       "options": [
-        "Hidrosfera é a camada composta pela água em todos os seus estados físicos no planeta. Considerando a sequência de imagens, é possível identificar: A A infiltração da água no solo após a chuva.",
+        "infiltração da água no solo após a chuva.",
         "formação do gelo ao ser colocada no freezer.",
         "O ciclo da água completo, incluindo a infiltração e precipitação.",
         "O derretimento do gelo, passando do estado sólido para o líquido e depois para o gasoso."
@@ -192,9 +192,9 @@
     },
     {
       "number": 24,
-      "prompt": "Observe a imagem.\nMaterial Digital - SEDUC - 3º bimestre",
+      "prompt": "Observe a imagem.\nMaterial Digital - SEDUC - 3º bimestre\nA imagem mostra as cidades de Campos do Jordão, São Paulo e Santos, localizadas em diferentes altitudes e com\nvariações de temperatura. Essas diferenças de temperatura estão relacionadas ao fato de que:",
       "options": [
-        "imagem mostra as cidades de Campos do Jordão, São Paulo e Santos, localizadas em diferentes altitudes e com variações de temperatura. Essas diferenças de temperatura estão relacionadas ao fato de que: A As temperaturas variam de acordo com a direção do vento.",
+        "As temperaturas variam de acordo com a direção do vento.",
         "Em elevadas altitudes o ar é menos denso, com menor capacidade de reter calor.",
         "Em baixas altitudes as temperaturas são negativas, por estarem mais perto do mar.",
         "As cidades localizadas em grandes altitudes são muito quentes, pois estão próximas do sol."
@@ -252,9 +252,9 @@
     },
     {
       "number": 30,
-      "prompt": "Observe a imagem.\nDisponível em: http://www.arionaurocartuns.com.br/. Acesso em: 23 jul. 2025.",
+      "prompt": "Observe a imagem.\nDisponível em: http://www.arionaurocartuns.com.br/. Acesso em: 23 jul. 2025.\nA imagem retrata o estado momentâneo da atmosfera mudando rapidamente ao longo do dia. Essa alteração rápida e\npassageira é chamada de __________.\nOpções de resposta: precipitação, tempo atmosférico, clima, Sol, estação do ano, temperatura",
       "options": [
-        "imagem retrata o estado momentâneo da atmosfera mudando rapidamente ao longo do dia. Essa alteração rápida e passageira é chamada de __________. Opções de resposta: precipitação, tempo atmosférico, clima, Sol, estação do ano, temperatura A Clima.",
+        "Clima.",
         "Temperatura.",
         "Estação do ano.",
         "Tempo atmosférico.   História"
@@ -262,9 +262,9 @@
     },
     {
       "number": 33,
-      "prompt": "Observe a imagem, leia o texto e responda.\nReprodução–WORLD HISTORY ENCYCLOPEDIA, [s.d.]. Disponível em: https://www.worldhistory.org/uploads/images/1456.jpg?v=1733934785-0. Acesso em: 23 de jul de 2025.\n“A formação de Roma é um processo complexo no qual se misturam a mitologia e a realidade histórica. Os romanos,\nansiosos por construir uma narrativa grandiosa de suas origens, criaram lendas e mitos que se entrelaçam com eventos\nhistóricos.”\nMaterial Digital – Seduc – 3º Bimestre",
+      "prompt": "Observe a imagem, leia o texto e responda.\nReprodução–WORLD HISTORY ENCYCLOPEDIA, [s.d.]. Disponível em: https://www.worldhistory.org/uploads/images/1456.jpg?v=1733934785-0. Acesso em: 23 de jul de 2025.\n“A formação de Roma é um processo complexo no qual se misturam a mitologia e a realidade histórica. Os romanos,\nansiosos por construir uma narrativa grandiosa de suas origens, criaram lendas e mitos que se entrelaçam com eventos\nhistóricos.”\nMaterial Digital – Seduc – 3º Bimestre\nA imagem acima e o texto estão relacionados a",
       "options": [
-        "imagem acima e o texto estão relacionados a A ideia de que os romanos eram descendentes do deus grego Apolo.",
+        "ideia de que os romanos eram descendentes do deus grego Apolo.",
         "origem lendária de Roma pelos gêmeos Rômulo e Remo.",
         "criação os deuses que protegiam a cidade de Roma.",
         "fuga de Enéias, após a  destruição de Tróia."
@@ -344,9 +344,9 @@
   "e3": [
     {
       "number": 1,
-      "prompt": "Descrição da imagem: pão feito na chapa, acompanhado de um copo de café com leite.",
+      "prompt": "Descrição da imagem: pão feito na chapa, acompanhado de um copo de café com leite.\nA imagem reproduz uma ação realizada de manhã que pode ser representada por:",
       "options": [
-        "imagem reproduz uma ação realizada de manhã que pode ser representada por: A I go to school in the morning.",
+        "I go to school in the morning.",
         "I wake up at 6 o’clock in the morning.",
         "I take a shower in the morning.",
         "I have breakfast at 6:30 in the morning."
@@ -414,12 +414,12 @@
     },
     {
       "number": 11,
-      "prompt": "",
+      "prompt": "A professora de Luna escreveu no quadro a seguinte frase:\nEsse número também pode ser escrito como:",
       "options": [
-        "professora de Luna escreveu no quadro a seguinte frase:\nEsse número também pode ser escrito como:",
         "5,000825",
         "5,00825",
-        "5,0825"
+        "5,0825",
+        "5,825"
       ]
     },
     {
@@ -554,12 +554,12 @@
     },
     {
       "number": 25,
-      "prompt": "",
+      "prompt": "A equação simplificada abaixo representa a fotossíntese, um processo essencial para plantas:\nDióxido de carbono + Água → Glicose + Oxigênio (na presença de luz).\nEsse processo ocorre principalmente em qual organela?",
       "options": [
-        "equação simplificada abaixo representa a fotossíntese, um processo essencial para plantas:\nDióxido de carbono + Água → Glicose + Oxigênio (na presença de luz).\nEsse processo ocorre principalmente em qual organela?",
         "Complexo golgiense.",
         "Mitocôndria.",
-        "Cloroplasto."
+        "Cloroplasto.",
+        "Lisossomo."
       ]
     },
     {
@@ -786,9 +786,9 @@
     },
     {
       "number": 9,
-      "prompt": "Leia o texto para responder à questão.\nAnimais contribuem para saúde mental de crianças e adolescentes em abrigos ou em processo de adoção em Itu: 'Eles\nsão os terapeutas'\nNesta quinta-feira (10/10/24), Dia Mundial da Saúde Mental, o G1 fala sobre a história da ONG Natureza Conecta, de Itu (SP), e como o trabalho de terapia\nassistida pode ser benéfico para a saúde de jovens e adultos.\nPor Júlia Martins, Gabriela Almeida",
+      "prompt": "Leia o texto para responder à questão.\nAnimais contribuem para saúde mental de crianças e adolescentes em abrigos ou em processo de adoção em Itu: 'Eles\nsão os terapeutas'\nNesta quinta-feira (10/10/24), Dia Mundial da Saúde Mental, o G1 fala sobre a história da ONG Natureza Conecta, de Itu (SP), e como o trabalho de terapia\nassistida pode ser benéfico para a saúde de jovens e adultos.\nPor Júlia Martins, Gabriela Almeida\nA profissional destaca que a terapia assistida por animais consegue proporcionar muitos benefícios emocionais, como, por\nexemplo, uma melhora nas habilidades sociais, nos mecanismos de enfrentamento para situações de estresse, entre\noutros. \"A criança consegue se perceber melhor e perceber o outro. E assim conviver melhor em sociedade\", diz.\nAs sessões são realizadas em grupos e duram cerca de duas horas. Nicole explica que, apesar da ONG trabalhar com\ncrianças e adolescentes, o contato com os animais em terapias assistidas é uma prática para pessoas de todas as idades.\n\"Os nossos terapeutas são os animais, acho que esse já é um grande diferencial. Então, por mais bem treinado que seja o\nterapeuta, ali os animais não passam nenhum tipo de julgamento quando estão com as crianças. Elas, que muitas vezes se\nsentem não pertencentes, encontram acolhimento nestes animais. Eles contribuem demais para as crianças serem\nreinseridas\", finaliza.\nG1 - Sorocaba e Jundiaí. Disponível em: <https://encurtador.com.br/DfuwS>. Acesso em: 28 nov. 2024. Adaptado.\nAo incluir as falas de outras pessoas, entre aspas, na reportagem, a autora do texto",
       "options": [
-        "profissional destaca que a terapia assistida por animais consegue proporcionar muitos benefícios emocionais, como, por exemplo, uma melhora nas habilidades sociais, nos mecanismos de enfrentamento para situações de estresse, entre outros. \"A criança consegue se perceber melhor e perceber o outro. E assim conviver melhor em sociedade\", diz. As sessões são realizadas em grupos e duram cerca de duas horas. Nicole explica que, apesar da ONG trabalhar com crianças e adolescentes, o contato com os animais em terapias assistidas é uma prática para pessoas de todas as idades. \"Os nossos terapeutas são os animais, acho que esse já é um grande diferencial. Então, por mais bem treinado que seja o terapeuta, ali os animais não passam nenhum tipo de julgamento quando estão com as crianças. Elas, que muitas vezes se sentem não pertencentes, encontram acolhimento nestes animais. Eles contribuem demais para as crianças serem reinseridas\", finaliza. G1 - Sorocaba e Jundiaí. Disponível em: <https://encurtador.com.br/DfuwS>. Acesso em: 28 nov. 2024. Adaptado. Ao incluir as falas de outras pessoas, entre aspas, na reportagem, a autora do texto A deixa em dúvida a contribuição da substituição de terapeutas humanos por terapia assistida por animais.",
+        "deixa em dúvida a contribuição da substituição de terapeutas humanos por terapia assistida por animais.",
         "demonstra uma incoerência com os fatos noticiados por se tratar de uma terapia para todas as idades.",
         "propõe diferentes pontos de vista para discutir sobre os aspectos positivos e negativos da terapia.",
         "assume a responsabilidade de selecionar as opiniões que reforçam o que ela escolhe incluir sobre o assunto."
@@ -806,9 +806,9 @@
     },
     {
       "number": 11,
-      "prompt": "Leia o texto para responder à questão.\nBilhete\nSe tu me amas, ama-me baixinho\nNão o grites de cima dos telhados\nDeixa em paz os passarinhos\nDeixa em paz a mim!\nSe me queres,\nenfim,\ntem de ser bem devagarinho, Amada,\nque a vida é breve, e o amor mais breve ainda...\nDisponível em: https://encurtador.com.br/JZFdR Acesso em: 17 dez. 2024.",
+      "prompt": "Leia o texto para responder à questão.\nBilhete\nSe tu me amas, ama-me baixinho\nNão o grites de cima dos telhados\nDeixa em paz os passarinhos\nDeixa em paz a mim!\nSe me queres,\nenfim,\ntem de ser bem devagarinho, Amada,\nque a vida é breve, e o amor mais breve ainda...\nDisponível em: https://encurtador.com.br/JZFdR Acesso em: 17 dez. 2024.\n \nA expressividade do poema de Mário Quintana é marcada pelo uso de rimas, presentes em:",
       "options": [
-        "expressividade do poema de Mário Quintana é marcada pelo uso de rimas, presentes em: A mim/enfim.",
+        "mim/enfim.",
         "breve/ainda.",
         "baixinho/telhados.",
         "passarinhos/queres."
@@ -816,9 +816,9 @@
     },
     {
       "number": 12,
-      "prompt": "Leia um trecho do poema concreto, sem título, de Arnaldo Antunes para responder à questão.\nDisponível em: https://encurtador.com.br/abj0f  Acesso em: 17 dez. 2024.",
+      "prompt": "Leia um trecho do poema concreto, sem título, de Arnaldo Antunes para responder à questão.\nDisponível em: https://encurtador.com.br/abj0f  Acesso em: 17 dez. 2024.\nA temática do poema é:",
       "options": [
-        "temática do poema é: A A importância da grama no meio ambiente.",
+        "importância da grama no meio ambiente.",
         "relação da natureza com o ser humano.",
         "O crescimento da planta e da grama.",
         "O ciclo da água nas plantas."
@@ -826,9 +826,9 @@
     },
     {
       "number": 13,
-      "prompt": "Leia o texto para responder à questão.\nO conto da mentira\nRogério Augusto\nTodo dia Felipe inventava uma mentira. “Mãe, a vovó tá no telefone!”. A mãe largava a louça na pia e corria até a sala.\nEncontrava o telefone mudo.\nO garoto havia inventado a morte do cachorro, nota dez em matemática, gol de cabeça em campeonato de rua. A mãe\ntentava assustá-lo: “Seu nariz vai ficar igual ao do Pinóquio!”. Felipe ria na cara dela: “Quem tá mentindo é você! Não existe\nninguém de madeira!”.\nO pai de Felipe também conversava com ele: “Um dia você contará uma verdade e ninguém acreditará!”. Felipe ficava\npensativo. Mas no dia seguinte…\nEntão, aconteceu o que seu pai alertara. Felipe assistia a um programa na TV. A apresentadora ligou para o número do\ntelefone da casa dele. Felipe tinha sido sorteado. O prêmio era uma bicicleta: “É verdade, mãe! A moça quer falar com você\nno telefone pra combinar a entrega da bicicleta. É verdade!”.",
+      "prompt": "Leia o texto para responder à questão.\nO conto da mentira\nRogério Augusto\nTodo dia Felipe inventava uma mentira. “Mãe, a vovó tá no telefone!”. A mãe largava a louça na pia e corria até a sala.\nEncontrava o telefone mudo.\nO garoto havia inventado a morte do cachorro, nota dez em matemática, gol de cabeça em campeonato de rua. A mãe\ntentava assustá-lo: “Seu nariz vai ficar igual ao do Pinóquio!”. Felipe ria na cara dela: “Quem tá mentindo é você! Não existe\nninguém de madeira!”.\nO pai de Felipe também conversava com ele: “Um dia você contará uma verdade e ninguém acreditará!”. Felipe ficava\npensativo. Mas no dia seguinte…\nEntão, aconteceu o que seu pai alertara. Felipe assistia a um programa na TV. A apresentadora ligou para o número do\ntelefone da casa dele. Felipe tinha sido sorteado. O prêmio era uma bicicleta: “É verdade, mãe! A moça quer falar com você\nno telefone pra combinar a entrega da bicicleta. É verdade!”.\nA mãe de Felipe fingiu não ouvir. Continuou preparando o jantar em silêncio. Resultado: Felipe deixou de ganhar o prêmio.\nEntão, ele começou a reduzir suas mentiras. Até que um dia deixou de contá-las. Bem, Felipe cresceu e tornou-se um\nescritor. Voltou a criar histórias. Agora, sem culpa e sem medo. No momento está escrevendo um conto. É a história de um\nmenino que deixa de ganhar uma bicicleta porque mentia…\nDisponível em: <https://encurtador.com.br/qEvyJ> Acesso em: 19 dez. 2024. Fragmento.\nO personagem principal do texto é",
       "options": [
-        "mãe de Felipe fingiu não ouvir. Continuou preparando o jantar em silêncio. Resultado: Felipe deixou de ganhar o prêmio. Então, ele começou a reduzir suas mentiras. Até que um dia deixou de contá-las. Bem, Felipe cresceu e tornou-se um escritor. Voltou a criar histórias. Agora, sem culpa e sem medo. No momento está escrevendo um conto. É a história de um menino que deixa de ganhar uma bicicleta porque mentia… Disponível em: <https://encurtador.com.br/qEvyJ> Acesso em: 19 dez. 2024. Fragmento. O personagem principal do texto é A a mãe do menino.",
+        "a mãe do menino.",
         "o garoto Felipe.",
         "a avó do menino.",
         "o pai de Felipe."
@@ -846,19 +846,19 @@
     },
     {
       "number": 15,
-      "prompt": "",
+      "prompt": "A ESCOLA DOS MEUS SONHOS, por Rubem Alves\nEu me levantava às 5h e me punha a andar pela casa fazendo barulho. Queria que os adultos dorminhocos despertassem\ndo seu sono para o mundo maravilhoso que aparecia com a luz do dia. Minha curiosidade me levou a desmontar o relógio\nde pulso de minha mãe, o único que ela tinha. Queria saber como ele funcionava, aquelas engrenagens fascinantes.\nInfelizmente, não consegui montá-lo de novo. [...]\nDisponível em:<https://encurtador.com.br/IiIBD> . Acesso em: 17 dez. 2024.\n \nO fragmento acima é de uma crônica jornalística, que é um tipo de texto que",
       "options": [
-        "ESCOLA DOS MEUS SONHOS, por Rubem Alves\nEu me levantava às 5h e me punha a andar pela casa fazendo barulho. Queria que os adultos dorminhocos despertassem\ndo seu sono para o mundo maravilhoso que aparecia com a luz do dia. Minha curiosidade me levou a desmontar o relógio\nde pulso de minha mãe, o único que ela tinha. Queria saber como ele funcionava, aquelas engrenagens fascinantes.\nInfelizmente, não consegui montá-lo de novo. [...]\nDisponível em:<https://encurtador.com.br/IiIBD> . Acesso em: 17 dez. 2024.\n\nO fragmento acima é de uma crônica jornalística, que é um tipo de texto que",
         "possui um narrador distante dos acontecimentos descritos.",
         "evita tratar sobre emoções ou experiências pessoais.",
-        "retrata temas complexos que promovam longos debates."
+        "retrata temas complexos que promovam longos debates.",
+        "aproxima o leitor das experiências vividas pelo narrador."
       ]
     },
     {
       "number": 16,
-      "prompt": "Leia a charge para responder à questão.\nDisponível em: https://encurtador.com.br/Nyqee . Acesso em: 17 dez. 2024.",
+      "prompt": "Leia a charge para responder à questão.\nDisponível em: https://encurtador.com.br/Nyqee . Acesso em: 17 dez. 2024.\nA charge acima retrata:",
       "options": [
-        "charge acima retrata: A O impacto do uso das redes sociais no dia a dia.",
+        "O impacto do uso das redes sociais no dia a dia.",
         "O consumo exagerado de aparelhos smartphones.",
         "compra de celulares para se desconectar da realidade.",
         "prática de colecionar aparelhos celulares antigos por lazer."
@@ -876,9 +876,9 @@
     },
     {
       "number": 18,
-      "prompt": "Leia o texto para responder à questão.\nBH e mais 437 cidades de Minas estão sob o 'perigo' de tempestade com granizo; veja lista\nHá a possibilidade de precipitações de até 100 milímetros com rajadas de vento de até 100 km/h\nPor Mateus Pena\nPublicado em 22 de janeiro de 2025 | 10:38 - Atualizado em 22 de janeiro de 2025 | 12:42\nBelo Horizonte e mais 437 cidades de Minas Gerais estão sob o perigo de tempestade com queda de granizo, raios e rajadas\nde vento de até 100 km/h até as 10h de quinta-feira (23 de janeiro). O aviso, emitido pelo Instituto Nacional de\nMeteorologia (Inmet) na manhã desta quarta-feira (22 de janeiro), diz que as precipitações de até 100 milímetros no dia\npodem causar corte de energia elétrica, estragos em plantações, queda de árvores e de alagamentos.\nAs regiões mineiras que podem ser afetadas são: Triângulo Mineiro/Alto Paranaíba, Central, Zona da Mata, Oeste, Campo\ndas Vertentes, Metropolitana de Belo Horizonte, Sul/Sudoeste, Vale do Rio Doce, Noroeste, Norte e Jequitinhonha.\nCom recordes de temperaturas altas nos últimos dias e uma previsão de 33º nos termômetros para hoje, BH pode voltar a\nregistrar chuvas fortes. A última vez que choveu significativamente na capital mineira foi na última quinta-feira (16 de\njaneiro), quando um temporal causou alagamentos e estragos na cidade.\nDisponível em: https://www.em.com.br/gerais/2025/01/7040410-chuva-em-bh-cidade-entra-em-alerta-e-pode-ter-temporais-com-raios.html. Acesso em: 17 dez. 2024. Fragmento.",
+      "prompt": "Leia o texto para responder à questão.\nBH e mais 437 cidades de Minas estão sob o 'perigo' de tempestade com granizo; veja lista\nHá a possibilidade de precipitações de até 100 milímetros com rajadas de vento de até 100 km/h\nPor Mateus Pena\nPublicado em 22 de janeiro de 2025 | 10:38 - Atualizado em 22 de janeiro de 2025 | 12:42\nBelo Horizonte e mais 437 cidades de Minas Gerais estão sob o perigo de tempestade com queda de granizo, raios e rajadas\nde vento de até 100 km/h até as 10h de quinta-feira (23 de janeiro). O aviso, emitido pelo Instituto Nacional de\nMeteorologia (Inmet) na manhã desta quarta-feira (22 de janeiro), diz que as precipitações de até 100 milímetros no dia\npodem causar corte de energia elétrica, estragos em plantações, queda de árvores e de alagamentos.\nAs regiões mineiras que podem ser afetadas são: Triângulo Mineiro/Alto Paranaíba, Central, Zona da Mata, Oeste, Campo\ndas Vertentes, Metropolitana de Belo Horizonte, Sul/Sudoeste, Vale do Rio Doce, Noroeste, Norte e Jequitinhonha.\nCom recordes de temperaturas altas nos últimos dias e uma previsão de 33º nos termômetros para hoje, BH pode voltar a\nregistrar chuvas fortes. A última vez que choveu significativamente na capital mineira foi na última quinta-feira (16 de\njaneiro), quando um temporal causou alagamentos e estragos na cidade.\nDisponível em: https://www.em.com.br/gerais/2025/01/7040410-chuva-em-bh-cidade-entra-em-alerta-e-pode-ter-temporais-com-raios.html. Acesso em: 17 dez. 2024. Fragmento.\nA finalidade da notícia é a de",
       "options": [
-        "finalidade da notícia é a de A informar sobre os riscos de fortes chuvas que podem prejudicar o povo mineiro.",
+        "informar sobre os riscos de fortes chuvas que podem prejudicar o povo mineiro.",
         "divulgar a previsão do tempo em cidades mineiras para os próximos quinze dias.",
         "apresentar os estragos causados pela tempestade que atingiu cidades mineiras.",
         "exigir das autoridades públicas ações de mobilização para enfrentar as chuvas."
@@ -886,9 +886,9 @@
     },
     {
       "number": 19,
-      "prompt": "Leia o texto para responder à questão.\nAdolescentes aprendem sobre alimentação saudável\nOficina teve o objetivo de engajar adolescentes e jovens e promover diálogos sobre nutrição entre eles\nUNICEF Brasil",
+      "prompt": "Leia o texto para responder à questão.\nAdolescentes aprendem sobre alimentação saudável\nOficina teve o objetivo de engajar adolescentes e jovens e promover diálogos sobre nutrição entre eles\nUNICEF Brasil\nA adolescente Rayana Ribeiro, de 17 anos, já sabe a importância de adotar uma alimentação saudável na sua rotina. Ela\nreconhece não só a necessidade de fazer escolhas cuidadosas em relação aos alimentos que consome, mas também\nentende a importância de prepará-los da maneira adequada.\nEsses aprendizados fazem parte dos seus novos hábitos que conheceu durante a oficina sobre alimentação saudável do\nNúcleo de Cidadania de Adolescentes (Nuca), no último dia 19 de agosto, em Belém. Rayana saiu do município de\nAbaetetuba para participar do evento, que reuniu adolescentes de diversas cidades do Pará.\nO Núcleo de Cidadania de Adolescentes (Nuca) é um grupo formado por meninas e meninos mobilizados por seus direitos,\ne, como parte do Selo UNICEF, são desafiados a realizar ações em temas principais, de forma a estimular e garantir a\nrepresentatividade e a participação na vida comunitária. Um dos temas principais se refere às mudanças climáticas, no qual\na relação entre esse tema e a alimentação saudável foi um dos tópicos principais abordados, com foco especial no espaço\nescolar.\nDisponível em: <https://encurtador.com.br/cnEcc>. Acesso em: 19 dez. 2024. Adaptado.\nSegundo o texto, Rayana Ribeiro aprendeu na oficina sobre alimentação saudável",
       "options": [
-        "adolescente Rayana Ribeiro, de 17 anos, já sabe a importância de adotar uma alimentação saudável na sua rotina. Ela reconhece não só a necessidade de fazer escolhas cuidadosas em relação aos alimentos que consome, mas também entende a importância de prepará-los da maneira adequada. Esses aprendizados fazem parte dos seus novos hábitos que conheceu durante a oficina sobre alimentação saudável do Núcleo de Cidadania de Adolescentes (Nuca), no último dia 19 de agosto, em Belém. Rayana saiu do município de Abaetetuba para participar do evento, que reuniu adolescentes de diversas cidades do Pará. O Núcleo de Cidadania de Adolescentes (Nuca) é um grupo formado por meninas e meninos mobilizados por seus direitos, e, como parte do Selo UNICEF, são desafiados a realizar ações em temas principais, de forma a estimular e garantir a representatividade e a participação na vida comunitária. Um dos temas principais se refere às mudanças climáticas, no qual a relação entre esse tema e a alimentação saudável foi um dos tópicos principais abordados, com foco especial no espaço escolar. Disponível em: <https://encurtador.com.br/cnEcc>. Acesso em: 19 dez. 2024. Adaptado. Segundo o texto, Rayana Ribeiro aprendeu na oficina sobre alimentação saudável A a importância de escolher alimentos saudáveis e prepará-los adequadamente.",
+        "a importância de escolher alimentos saudáveis e prepará-los adequadamente.",
         "a relevância da participação comunitária para a escolha de alimentos na escola.",
         "o impacto das mudanças climáticas na produção de alimentos no mundo.",
         "o processo de produção e armazenamento de alimentos para adolescentes."
@@ -896,9 +896,9 @@
     },
     {
       "number": 20,
-      "prompt": "Leia o texto para responder à questão.\nIA ajuda a conversar com baleias\nAs últimas semanas trouxeram novidades para os fãs de um dos maiores animais do mundo, as baleias! Isso porque os\ncientistas perceberam um aumento da população dessa espécie no litoral brasileiro. Além disso, pesquisadores dos\nEstados Unidos conseguiram conversar com uma baleia com a ajuda da Inteligência Artificial. […]\nFragmento adaptado. Disponível em: <https://jornaldacrianca.com.br/>. Acesso em: 19 dez. 2024.",
+      "prompt": "Leia o texto para responder à questão.\nIA ajuda a conversar com baleias\nAs últimas semanas trouxeram novidades para os fãs de um dos maiores animais do mundo, as baleias! Isso porque os\ncientistas perceberam um aumento da população dessa espécie no litoral brasileiro. Além disso, pesquisadores dos\nEstados Unidos conseguiram conversar com uma baleia com a ajuda da Inteligência Artificial. […]\nFragmento adaptado. Disponível em: <https://jornaldacrianca.com.br/>. Acesso em: 19 dez. 2024.\nA concordância nominal é a relação que se estabelece entre o nome e seus determinantes. A alternativa que apresenta a\nconcordância nominal adequada está em:",
       "options": [
-        "concordância nominal é a relação que se estabelece entre o nome e seus determinantes. A alternativa que apresenta a concordância nominal adequada está em: A “novidades” está no singular e concorda com o substantivo “fãs”.",
+        "“novidades” está no singular e concorda com o substantivo “fãs”.",
         "“cientistas” está no singular e concorda com o verbo “perceberam”.",
         "“população” está no plural e concorda com o verbo “perceberam”.",
         "“últimas” está no plural e concorda com o substantivo “semanas”. Geografia"
@@ -946,9 +946,9 @@
     },
     {
       "number": 25,
-      "prompt": "Observe a imagem a seguir.\nDisponível em: https://pixabay.com/pt/photos/crian%C3%A7as-inf%C3%A2ncia-jogos-jogar-5833685/.  Acesso em: 05 dez. 2024 (adaptado)",
+      "prompt": "Observe a imagem a seguir.\nDisponível em: https://pixabay.com/pt/photos/crian%C3%A7as-inf%C3%A2ncia-jogos-jogar-5833685/.  Acesso em: 05 dez. 2024 (adaptado)\nA imagem retrata um lugar de construção de memórias e experiências. Os lugares como a escola, a rua, nossas casas, são\nlocais onde produzimos significados, que representam",
       "options": [
-        "imagem retrata um lugar de construção de memórias e experiências. Os lugares como a escola, a rua, nossas casas, são locais onde produzimos significados, que representam A o espaço geográfico, construído de maneira individual.",
+        "o espaço geográfico, construído de maneira individual.",
         "os espaços naturais, com elementos criados pela natureza.",
         "os lugares individuais, onde não há interação com a sociedade.",
         "os lugares de vivência, nos quais mantemos relações de afetividade."
@@ -966,9 +966,9 @@
     },
     {
       "number": 27,
-      "prompt": "Observe a imagem a seguir.\nDisponível em: https://infoenem.com.br/espaco-lugar-paisagem-e-territorio-nao-sao-sinonimos/. Acesso em: 05 dez. 2024",
+      "prompt": "Observe a imagem a seguir.\nDisponível em: https://infoenem.com.br/espaco-lugar-paisagem-e-territorio-nao-sao-sinonimos/. Acesso em: 05 dez. 2024\nA imagem representa o espaço geográfico, organizado e transformado continuamente pela sociedade ao longo do tempo.\nQual o nome se dá ao processo de transformação do espaço pela sociedade a partir da criação de pontes, avenidas,\nindústrias e atividades agropecuárias?",
       "options": [
-        "imagem representa o espaço geográfico, organizado e transformado continuamente pela sociedade ao longo do tempo. Qual o nome se dá ao processo de transformação do espaço pela sociedade a partir da criação de pontes, avenidas, indústrias e atividades agropecuárias? A Preservação do espaço.",
+        "Preservação do espaço.",
         "Alteração do espaço.",
         "Espaço conservado.",
         "Espaço natural."
@@ -996,9 +996,9 @@
     },
     {
       "number": 30,
-      "prompt": "Observe a imagem a seguir.\nDisponível em: https://pixabay.com/pt/photos/registro-tronco-de-%C3%A1rvore-madeira-3219843/. Acesso em: 12 fev. 2025",
+      "prompt": "Observe a imagem a seguir.\nDisponível em: https://pixabay.com/pt/photos/registro-tronco-de-%C3%A1rvore-madeira-3219843/. Acesso em: 12 fev. 2025\nA imagem representa um dos tipos de extrativismo, atividade econômica que retira recursos produzidos pela natureza,\ncomo a madeira, por exemplo. Esta atividade pode provocar impactos ambientais, como desmatamento e degradação das\nflorestas. Que tipo de extrativismo a imagem representa?",
       "options": [
-        "imagem representa um dos tipos de extrativismo, atividade econômica que retira recursos produzidos pela natureza, como a madeira, por exemplo. Esta atividade pode provocar impactos ambientais, como desmatamento e degradação das florestas. Que tipo de extrativismo a imagem representa? A Extrativismo animal.",
+        "Extrativismo animal.",
         "Extrativismo vegetal.",
         "Extrativismo mineral.",
         "Extrativismo industrial."
@@ -1066,9 +1066,9 @@
     },
     {
       "number": 37,
-      "prompt": "Observe a imagem abaixo e leia o texto.\nNeandertal – Disponível em: https://www.worldhistory.org/image/5957/neanderthal-man/ Acesso em: 12 fev. 2025\nOs neandertais pareciam semelhantes aos humanos, mas tinham sobrancelhas mais proeminentes, faces salientes e\ncostelas mais curtas, mais profundas e mais largas. Além disso, suas órbitas eram muito maiores, embora não esteja claro\nse sua visão era diferente da nossa. Os pesquisadores acreditam que o cérebro do neandertal era aproximadamente do\nmesmo tamanho que os nossos, embora fossem mais alongados. \nDisponível em: https://www.nationalgeographicbrasil.com/historia/2023/03/como-eram-realmente-os-neandertais-e-por-que-eles-foram-extintos Acesso em: 12 fev. 2025",
+      "prompt": "Observe a imagem abaixo e leia o texto.\nNeandertal – Disponível em: https://www.worldhistory.org/image/5957/neanderthal-man/ Acesso em: 12 fev. 2025\nOs neandertais pareciam semelhantes aos humanos, mas tinham sobrancelhas mais proeminentes, faces salientes e\ncostelas mais curtas, mais profundas e mais largas. Além disso, suas órbitas eram muito maiores, embora não esteja claro\nse sua visão era diferente da nossa. Os pesquisadores acreditam que o cérebro do neandertal era aproximadamente do\nmesmo tamanho que os nossos, embora fossem mais alongados. \nDisponível em: https://www.nationalgeographicbrasil.com/historia/2023/03/como-eram-realmente-os-neandertais-e-por-que-eles-foram-extintos Acesso em: 12 fev. 2025\nA respeito dos neandertais, assinale a alternativa correta.",
       "options": [
-        "respeito dos neandertais, assinale a alternativa correta. A Demonstravam pouca habilidade cultural.",
+        "Demonstravam pouca habilidade cultural.",
         "Foram responsáveis pela extinção dos Homo sapiens.",
         "Eram fisicamente robustos e adaptados a clima frio.",
         "Representavam uma espécie humana extinta que viveu na África."
@@ -1076,9 +1076,9 @@
     },
     {
       "number": 38,
-      "prompt": "Leia o trecho a seguir.\nNa mitologia grega o universo foi feito pelo Caos. Ele vivia em um ambiente de trevas, vazia, sem nada, então resolveu criar\nGaia, a Mãe Terra, Eros (o amor), Nyx (a noite) e o Tártaro (profundezas da Terra).\nDisponível em: https://www.educamaisbrasil.com.br Acesso em: 12 fev. 2025",
+      "prompt": "Leia o trecho a seguir.\nNa mitologia grega o universo foi feito pelo Caos. Ele vivia em um ambiente de trevas, vazia, sem nada, então resolveu criar\nGaia, a Mãe Terra, Eros (o amor), Nyx (a noite) e o Tártaro (profundezas da Terra).\nDisponível em: https://www.educamaisbrasil.com.br Acesso em: 12 fev. 2025\nA respeito do mito de criação do mundo pelos gregos, assinale a alternativa correta.",
       "options": [
-        "respeito do mito de criação do mundo pelos gregos, assinale a alternativa correta. A O mundo foi criado por um único deus que moldou a terra e o céu.",
+        "O mundo foi criado por um único deus que moldou a terra e o céu.",
         "Terra foi formada a partir de fragmentos de estrelas caídas do céu.",
         "O mundo foi criado por um grande dilúvio, que separou as águas e a terra.",
         "O universo surgiu do caos primordial, que deu origem a deuses e elementos da natureza."
@@ -1086,9 +1086,9 @@
     },
     {
       "number": 39,
-      "prompt": "Migração é o processo de deslocamento de pessoas pelo globo terrestre que pode ocorrer dentro ou fora do território\nnacional, de modo temporário ou permanente, ou ainda, ser espontânea ou forçada. Ao longo da história, muitos grupos\nmigraram por motivos sociais, econômicos, políticos, culturais, naturais ou individuais.\nDisponível em: https://www.todamateria.com.br/tipos-de-migracao/ Acesso em: 12 fev. 2025",
+      "prompt": "Migração é o processo de deslocamento de pessoas pelo globo terrestre que pode ocorrer dentro ou fora do território\nnacional, de modo temporário ou permanente, ou ainda, ser espontânea ou forçada. Ao longo da história, muitos grupos\nmigraram por motivos sociais, econômicos, políticos, culturais, naturais ou individuais.\nDisponível em: https://www.todamateria.com.br/tipos-de-migracao/ Acesso em: 12 fev. 2025\nA respeito das hipóteses migratórias para a América, assinale a alternativa correta.",
       "options": [
-        "respeito das hipóteses migratórias para a América, assinale a alternativa correta. A A hipótese asiático-australiana não é muito aceita pela comunidade científica.",
+        "hipótese asiático-australiana não é muito aceita pela comunidade científica.",
         "hipótese da migração costeira considera que os primeiros homens chegaram à América do Sul a nado.",
         "hipótese europeia é a mais aceita pela comunidade científica e considera que as migrações ocorreram pelo oceano Pacífico.",
         "hipótese asiática é a menos aceita pelos arqueólogos, pois considera que a migração dos homens tenha ocorrido pelo Estreito de Bering."
@@ -1128,9 +1128,9 @@
     },
     {
       "number": 3,
-      "prompt": "Leia o texto para responder à questão.\nDisponível em: <https://abre.ai/lHLe>. Acesso em: 17 dez. 2024.",
+      "prompt": "Leia o texto para responder à questão.\nDisponível em: <https://abre.ai/lHLe>. Acesso em: 17 dez. 2024.\nA imagem acima é a capa de um livro. O que o título do livro questiona?",
       "options": [
-        "imagem acima é a capa de um livro. O que o título do livro questiona? A Altura.",
+        "Altura.",
         "Idade.",
         "Lugar.",
         "Peso."
@@ -1158,12 +1158,12 @@
     },
     {
       "number": 6,
-      "prompt": "",
+      "prompt": "A cidade de Bauru, localizada no interior do estado de São Paulo, é a mais populosa da região Centro-Oeste paulista.\nSegundo os dados mais recentes do Censo de 2022, a população da cidade é de aproximadamente 379 mil habitantes.\nAssinale a alternativa que representa corretamente esse número de habitantes.",
       "options": [
-        "cidade de Bauru, localizada no interior do estado de São Paulo, é a mais populosa da região Centro-Oeste paulista.\nSegundo os dados mais recentes do Censo de 2022, a população da cidade é de aproximadamente 379 mil habitantes.\nAssinale a alternativa que representa corretamente esse número de habitantes.",
         "3 790 000",
         "379 000",
-        "37 900"
+        "37 900",
+        "379"
       ]
     },
     {
@@ -1178,9 +1178,9 @@
     },
     {
       "number": 8,
-      "prompt": "De acordo com o Censo Escolar 2023, o número de matrículas no Ensino Fundamental no estado de São Paulo é de 5 343\n271,  incluindo escolas estaduais, municipais e particulares.",
+      "prompt": "De acordo com o Censo Escolar 2023, o número de matrículas no Ensino Fundamental no estado de São Paulo é de 5 343\n271,  incluindo escolas estaduais, municipais e particulares.\nA decomposição desse número por meio de adições é:",
       "options": [
-        "decomposição desse número por meio de adições é: A 5 000 000 + 300 000 + 40 000 + 3 000 + 200 + 70 + 1",
+        "5 000 000 + 300 000 + 40 000 + 3 000 + 200 + 70 + 1",
         "5 000 000 + 30 000 + 4 000 + 300 + 20 + 70 + 1",
         "5 000 000 + 300 000 + 4 000 + 300 + 200 + 70 + 1",
         "5 000 000 + 300 000 + 40 000 + 3 000 + 700 + 10 + 1"
@@ -1188,32 +1188,32 @@
     },
     {
       "number": 9,
-      "prompt": "",
+      "prompt": "A rede de supermercados “Compre Feliz” fez uma promoção em que, a cada compra, o cliente ganhava cupons numerados\nque lhe dava direito a um sorteio. No dia do sorteio, o cupom contemplado foi o que continha o número cento e cinco mil,\nsetecentos e oito.\nAssinale o número contemplado",
       "options": [
-        "rede de supermercados “Compre Feliz” fez uma promoção em que, a cada compra, o cliente ganhava cupons numerados\nque lhe dava direito a um sorteio. No dia do sorteio, o cupom contemplado foi o que continha o número cento e cinco mil,\nsetecentos e oito.\nAssinale o número contemplado",
         "578",
         "105 708",
-        "105000708"
+        "105000708",
+        "10050007008"
       ]
     },
     {
       "number": 10,
-      "prompt": "",
+      "prompt": "A professora de Lya propôs o seguinte desafio: formar o maior e o menor número natural usando todos os cartões abaixo,\numa única vez e que não possua o zero na posição centena de milhar.\nLya acertou o desafio. O maior e o menor número natural formado por Lya foram, respectivamente:",
       "options": [
-        "professora de Lya propôs o seguinte desafio: formar o maior e o menor número natural usando todos os cartões abaixo,\numa única vez e que não possua o zero na posição centena de milhar.\nLya acertou o desafio. O maior e o menor número natural formado por Lya foram, respectivamente:",
         "796 520 e 025 679",
         "769 520 e 025 697",
-        "967 520 e 205 976"
+        "967 520 e 205 976",
+        "976 520 e 205 679"
       ]
     },
     {
       "number": 11,
-      "prompt": "",
+      "prompt": "A Estação da Luz, localizada no bairro da Luz, em São Paulo, foi inaugurada em MCMI, sendo um importante marco do\ndesenvolvimento da cidade no início do século passado.\nO ano MCMI, expresso em algarismos romanos corresponde a:",
       "options": [
-        "Estação da Luz, localizada no bairro da Luz, em São Paulo, foi inaugurada em MCMI, sendo um importante marco do\ndesenvolvimento da cidade no início do século passado.\nO ano MCMI, expresso em algarismos romanos corresponde a:",
         "1 801",
         "1 901",
-        "1 911"
+        "1 911",
+        "2001"
       ]
     },
     {
@@ -1268,9 +1268,9 @@
     },
     {
       "number": 17,
-      "prompt": "Rosilaine foi desafiada a encontrar três números primos que, multiplicados, resultem em 30.",
+      "prompt": "Rosilaine foi desafiada a encontrar três números primos que, multiplicados, resultem em 30.\nA alternativa que contêm esses três números é:",
       "options": [
-        "alternativa que contêm esses três números é: A 1, 3, 10",
+        "1, 3, 10",
         "2, 3, 5",
         "1, 5, 6",
         "2, 3, 7"
@@ -1308,9 +1308,9 @@
     },
     {
       "number": 21,
-      "prompt": "Observe a imagem e responda à questão.\nFonte: http://www.astro.iag.usp.br/~aga210/2024/Aulas/Aula01.pdf. Acesso em 18 de fev. de 2025.",
+      "prompt": "Observe a imagem e responda à questão.\nFonte: http://www.astro.iag.usp.br/~aga210/2024/Aulas/Aula01.pdf. Acesso em 18 de fev. de 2025.\nA imagem representa a expansão do Universo, a partir de um ponto que é chamado singularidade até a formação de\nsistemas planetários e outros corpos celestes.\nAssinale a alternativa que apresenta a teoria que explica a origem do Universo citada acima.",
       "options": [
-        "imagem representa a expansão do Universo, a partir de um ponto que é chamado singularidade até a formação de sistemas planetários e outros corpos celestes. Assinale a alternativa que apresenta a teoria que explica a origem do Universo citada acima. A Teoria da Evolução.",
+        "Teoria da Evolução.",
         "Teoria do Big Bang.",
         "Teoria das Placas Tectônicas.",
         "Teoria da Gravitação."
@@ -1388,12 +1388,12 @@
     },
     {
       "number": 29,
-      "prompt": "",
+      "prompt": "A Lua, satélite natural da Terra, apresenta diversas fases ao longo de um ciclo completo. A imagem abaixo mostra algumas\nfases da Lua.\nFonte: Site Significados. Disponível em <https://www.significados.com.br/fases-da-lua/> Acesso em 18 de fevereiro de 2025.\nSobre as fases da Lua é correto afirmar que:",
       "options": [
-        "Lua, satélite natural da Terra, apresenta diversas fases ao longo de um ciclo completo. A imagem abaixo mostra algumas\nfases da Lua.\nFonte: Site Significados. Disponível em <https://www.significados.com.br/fases-da-lua/> Acesso em 18 de fevereiro de 2025.\nSobre as fases da Lua é correto afirmar que:",
-        "Durante a fase de Lua Cheia, a Lua fica posicionada entre a Terra e o Sol, o que faz com que sua face voltada para\nTerra esteja totalmente iluminada.",
-        "As fases da Lua ocorrem porque a Terra projeta sua sombra sobre a Lua em diferentes posições ao longo de\naproximadamente 365 dias.",
-        "A Lua apresenta suas fases porque realiza um movimento de rotação mais rápido do que a sua revolução em torno da\nTerra."
+        "Durante a fase de Lua Cheia, a Lua fica posicionada entre a Terra e o Sol, o que faz com que sua face voltada para Terra esteja totalmente iluminada.",
+        "As fases da Lua ocorrem porque a Terra projeta sua sombra sobre a Lua em diferentes posições ao longo de aproximadamente 365 dias.",
+        "Lua apresenta suas fases porque realiza um movimento de rotação mais rápido do que a sua revolução em torno da Terra.",
+        "As fases da Lua estão diretamente relacionadas ao movimento de revolução da Lua e à forma como a luz solar a atinge em diferentes momentos."
       ]
     },
     {
@@ -1438,9 +1438,9 @@
     },
     {
       "number": 34,
-      "prompt": "O modelo 5W2H é uma sigla que representa sete palavras utilizadas no planejamento financeiro: What (o que), Why (por\nque), Where (onde), When (quando), Who (quem), How(como) e How Much (quanto).",
+      "prompt": "O modelo 5W2H é uma sigla que representa sete palavras utilizadas no planejamento financeiro: What (o que), Why (por\nque), Where (onde), When (quando), Who (quem), How(como) e How Much (quanto).\nA palavra How (como) no modelo 5W2H define:",
       "options": [
-        "palavra How (como) no modelo 5W2H define: A A tarefa a ser desenvolvida.",
+        "tarefa a ser desenvolvida.",
         "O objetivo.",
         "O orçamento.",
         "Os passos a serem seguidos. Tecnologia e Inovação - Parte Diversificada"
@@ -1448,12 +1448,12 @@
     },
     {
       "number": 35,
-      "prompt": "",
+      "prompt": "A análise de planejamentos financeiros envolve critérios como eficiência, viabilidade, orçamento e viabilidade financeira.\nEm relação à viabilidade financeira, pode-se afirmar que é",
       "options": [
-        "análise de planejamentos financeiros envolve critérios como eficiência, viabilidade, orçamento e viabilidade financeira.\nEm relação à viabilidade financeira, pode-se afirmar que é",
-        "A capacidade de produzir algo com o mínimo de erros.",
-        "A qualidade do que pode ser realizado ou colocado em prática.",
-        "O plano financeiro que detalha as receitas (dinheiro ganho) e as despesas (dinheiro gasto)."
+        "capacidade de produzir algo com o mínimo de erros.",
+        "qualidade do que pode ser realizado ou colocado em prática.",
+        "O plano financeiro que detalha as receitas (dinheiro ganho) e as despesas (dinheiro gasto).",
+        "capacidade de um projeto gerar dinheiro suficiente para cobrir os custos e ainda ter lucro."
       ]
     },
     {
