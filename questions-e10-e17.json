@@ -553,7 +553,8 @@
         "13,5 litros.",
         "8 000 litros.",
         "13 500 litros."
-      ]
+      ],
+      "requiresOriginalPage": true
     },
     {
       "number": 16,
@@ -587,7 +588,7 @@
     },
     {
       "number": 19,
-      "prompt": "9\n4 . \n \n\n \n O número 10 pode ser escrito de duas formas como soma de dois números primos: 10 = 5 + 5 \ne 10 = 7 + 3. Seguindo esse mesmo critério, de quantas maneiras podemos expressar o número \n25 como uma soma de dois números primos?",
+      "prompt": " O número 10 pode ser escrito de duas formas como soma de dois números primos: 10 = 5 + 5 \ne 10 = 7 + 3. Seguindo esse mesmo critério, de quantas maneiras podemos expressar o número \n25 como uma soma de dois números primos?",
       "options": [
         "Nenhuma.",
         "1.",
