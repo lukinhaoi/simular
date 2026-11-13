@@ -62,11 +62,11 @@ window.addEventListener('storage',event=>{if(!active||event.key!==draftKey(activ
 // Modo de questões individuais — ativado somente na primeira prova (e1)
 let questionBankE1=null,questionIndexE1=0,questionPdfDocE1=null,questionPageMapE1={},questionPageLoadingE1=null;
 const questionImageWords=/.+/;
-function hideQuestionExperience(){const panel=$('#questionExperience');if(panel)panel.classList.add('hidden');const layout=$('.exam-layout');if(layout)layout.classList.remove('hidden')}
+function hideQuestionExperience(){const panel=$('#questionExperience');if(panel)panel.classList.add('hidden');const layout=$('.exam-layout');if(layout)layout.classList.remove('hidden');const modal=$('#examModal');if(modal)modal.classList.remove('question-mode')}
 async function showQuestionExperience(){
  const panel=$('#questionExperience'),layout=$('.exam-layout');
  if(!panel||!layout)return;
- layout.classList.add('hidden');panel.classList.remove('hidden');
+ layout.classList.add('hidden');panel.classList.remove('hidden');$('#examModal').classList.add('question-mode');
  try{
   if(!questionBankE1){const response=await fetch('questions-e1.json');if(!response.ok)throw Error('Não foi possível carregar as questões.');questionBankE1=await response.json();}
   questionIndexE1=0;
@@ -143,7 +143,7 @@ function applyTheme(theme){
  const dark=theme==='dark';
  document.body.classList.toggle('dark-theme',dark);
  const button=$('#themeToggle');
- if(button){button.textContent=dark?'☀️ Modo claro':'🌙 Modo escuro';button.setAttribute('aria-label',dark?'Ativar modo claro':'Ativar modo escuro');}
+ if(button){button.textContent=dark?'☀️ Modo claro':'🌙 Modo escuro';button.setAttribute('aria-label',dark?'Ativar modo claro':'Ativar modo escuro');button.title=dark?'Mudar para tema claro':'Mudar para tema escuro';}
 }
 applyTheme(localStorage.getItem(THEME_KEY)||'light');
 $('#themeToggle').addEventListener('click',()=>{
