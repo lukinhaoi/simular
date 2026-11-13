@@ -42,12 +42,12 @@
     },
     {
       "number": 5,
-      "prompt": "A fração mista 6\n5\n10  pode ser representada pela fração imprópria:",
+      "prompt": "A fração mista 6 5/10 pode ser representada pela fração imprópria:",
       "options": [
-        "11 10",
-        "30 10",
-        "65 10",
-        "80 10"
+        "11/10",
+        "30/10",
+        "65/10",
+        "80/10"
       ]
     },
     {
@@ -184,7 +184,7 @@
       "number": 19,
       "prompt": "As figuras 1, 2 e 3 correspondem, respectivamente, às planificações dos sólidos:",
       "options": [
-        "Cubo, Pirâmide, Prima Hexagonal",
+        "Cubo, Pirâmide, Prisma Hexagonal",
         "Pirâmide, Prisma Hexagonal, Cubo",
         "Cubo, Prisma Hexagonal, Pirâmide",
         "Prisma Hexagonal, Pirâmide, Cubo"
@@ -517,7 +517,7 @@
     },
     {
       "number": 12,
-      "prompt": "Subtraindo uma unidade de 17  𝑋  17 , encontramos:",
+      "prompt": "Subtraindo uma unidade de 17 × 17, encontramos:",
       "options": [
         "Um número divisível por 5.",
         "Um número divisível por 8.",
