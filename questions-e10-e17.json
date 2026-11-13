@@ -168,7 +168,8 @@
         "Prisma Pentagonal; Faces = 6; Arestas =10; Vértices = 6; Polígonos= 1  pentágono e 5 triângulos.",
         "Pirâmide Pentagonal; Faces = 6; Arestas =10; Vértices = 6; Polígonos= 1  pentágono e 5 triângulos.",
         "Prisma Pentagonal; Faces = 3; Arestas =7; Vértices = 5; Polígonos= 1  pentágono e 3 triângulos."
-      ]
+      ],
+      "requiresOriginalPage": true
     },
     {
       "number": 18,
