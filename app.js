@@ -61,7 +61,7 @@ window.addEventListener('storage',event=>{if(!active||event.key!==draftKey(activ
 
 // Modo de questões individuais — ativado somente na primeira prova (e1)
 let questionBankE1=null,questionIndexE1=0,questionPdfDocE1=null,questionPageMapE1={},questionPageLoadingE1=null;
-const questionImageWords=/imagem|mapa|tirinha|cartaz|foto|infográfico|figura|charge|desenho|Observe|Leia a tirinha/i;
+const questionImageWords=/.+/;
 function hideQuestionExperience(){const panel=$('#questionExperience');if(panel)panel.classList.add('hidden');const layout=$('.exam-layout');if(layout)layout.classList.remove('hidden')}
 async function showQuestionExperience(){
  const panel=$('#questionExperience'),layout=$('.exam-layout');
@@ -132,6 +132,6 @@ async function renderQuestionPageE1(q){
  $('#questionImageStatus').textContent='Página '+pageNo+' do caderno original';
  $('#questionImageToggle').dataset.ready='1';
 }
-$('#questionImageToggle').onclick=()=>{$('#questionImageWrap').classList.toggle('hidden');if($('#questionImageToggle').dataset.ready==='1')$('#questionImageToggle').textContent=$('#questionImageWrap').classList.contains('hidden')?'Ver imagem / página original':'Ocultar página original'};
+$('#questionImageToggle').onclick=()=>{$('#questionImageWrap').classList.toggle('hidden');if($('#questionImageToggle').dataset.ready==='1')$('#questionImageToggle').textContent=$('#questionImageWrap').classList.contains('hidden')?'Ver página original':'Ocultar página original'};
 $('#questionPrev').onclick=()=>{if(questionIndexE1>0){questionIndexE1--;renderQuestionE1()}};
 $('#questionNext').onclick=()=>{if(!questionBankE1)return;if(questionIndexE1<questionBankE1.length-1){questionIndexE1++;renderQuestionE1()}else $('#submitExam').click()};
