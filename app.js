@@ -30,7 +30,7 @@ function selectedLetters(value){return Array.isArray(value)?value:(value?[value]
 function isAnswered(value){return selectedLetters(value).length>0}
 function answerLabel(value){return selectedLetters(value).join(' + ')}
 function isCorrectAnswer(given,expected){const a=selectedLetters(given).slice().sort(),b=selectedLetters(expected).slice().sort();return a.length===b.length&&a.every((v,i)=>v===b[i])}
-function openExam(id){active=exams.find(x=>x.id===id);let draft={};try{draft=JSON.parse(localStorage.getItem(draftKey(id))||'{}')}catch{};answers=draft.answers||{};startedAt=draft.startedAt||Date.now();$('#modalTitle').textContent=pretty(active.title);$('#modalMeta').textContent=[active.series,active.grade,active.bimester].filter(x=>x&&x!=='Não identificado').join(' · ').toUpperCase();const status=active.keyStatus||(active.key?'oficial':'pendente');$('#keyStatus').className='status-pill '+status;$('#keyStatus').textContent=status==='oficial'?'✓ Gabarito oficial associado a esta prova':status==='autoral'?'⚠ Gabarito autoral resolvido manualmente':'◷ Gabarito desta prova ainda está em preparação';const pdf='provas/'+encodeURIComponent(active.filename);$('#pdfFrame').src=pdf;$('#openPdf').href=pdf;$('#answerGrid').innerHTML=Array.from({length:active.questions||40},(_,i)=>{const n=i+1,multi=isMultiQuestion(n),chosen=selectedLetters(answers[n]);return `<div class="answer-row ${multi?'multi-answer':''}" data-q="${n}"><span class="qnum">${String(n).padStart(2,'0')}${multi?'<small class="multi-hint">2 resp.</small>':''}</span><div class="options">${letters.map(l=>`<button class="opt ${chosen.includes(l)?'selected':''}" data-letter="${l}" aria-label="Questão ${n}, alternativa ${l}" aria-pressed="${chosen.includes(l)}">${l}</button>`).join('')}</div></div>`}).join('');document.querySelectorAll('.opt').forEach(b=>b.onclick=()=>choose(b));$('#resultPanel').classList.add('hidden');$('#correctionNote').textContent=active.key?(status==='autoral'?'Correção por gabarito autoral. ':'Ao finalizar, você verá sua nota e quais questões acertou. Nas questões marcadas “2 resp.”, selecione as duas alternativas. ')+(active.keyNotes||''):'Suas respostas ficam salvas. A nota só aparece quando houver gabarito associado com segurança.';updateCount();$('#examModal').classList.remove('hidden');document.body.classList.add('modal-open');startClock();}
+function openExam(id){active=exams.find(x=>x.id===id);let draft={};try{draft=JSON.parse(localStorage.getItem(draftKey(id))||'{}')}catch{};answers=draft.answers||{};startedAt=draft.startedAt||Date.now();$('#modalTitle').textContent=pretty(active.title);$('#modalMeta').textContent=[active.series,active.grade,active.bimester].filter(x=>x&&x!=='Não identificado').join(' · ').toUpperCase();const status=active.keyStatus||(active.key?'oficial':'pendente');$('#keyStatus').className='status-pill '+status;$('#keyStatus').textContent=status==='oficial'?'✓ Gabarito oficial associado a esta prova':status==='autoral'?'⚠ Gabarito autoral resolvido manualmente':'◷ Gabarito desta prova ainda está em preparação';const pdf='provas/'+encodeURIComponent(active.filename);$('#pdfFrame').src=pdf;$('#openPdf').href=pdf;$('#answerGrid').innerHTML=Array.from({length:active.questions||40},(_,i)=>{const n=i+1,multi=isMultiQuestion(n),chosen=selectedLetters(answers[n]);return `<div class="answer-row ${multi?'multi-answer':''}" data-q="${n}"><span class="qnum">${String(n).padStart(2,'0')}${multi?'<small class="multi-hint">2 resp.</small>':''}</span><div class="options">${letters.map(l=>`<button class="opt ${chosen.includes(l)?'selected':''}" data-letter="${l}" aria-label="Questão ${n}, alternativa ${l}" aria-pressed="${chosen.includes(l)}">${l}</button>`).join('')}</div></div>`}).join('');document.querySelectorAll('.opt').forEach(b=>b.onclick=()=>choose(b));$('#resultPanel').classList.add('hidden');$('#correctionNote').textContent=active.key?(status==='autoral'?'Correção por gabarito autoral. ':'Ao finalizar, você verá sua nota e quais questões acertou. Nas questões marcadas “2 resp.”, selecione as duas alternativas. ')+(active.keyNotes||''):'Suas respostas ficam salvas. A nota só aparece quando houver gabarito associado com segurança.';updateCount();$('#examModal').classList.remove('hidden');document.body.classList.add('modal-open');startClock();if(active.id==='e1')showQuestionExperience();else hideQuestionExperience();}
 function choose(button){const row=button.closest('.answer-row'),n=row.dataset.q,letter=button.dataset.letter;if(isMultiQuestion(n)){const picked=selectedLetters(answers[n]);answers[n]=picked.includes(letter)?picked.filter(x=>x!==letter):[...picked,letter];if(!answers[n].length)delete answers[n]}else{answers[n]=letter}const chosen=selectedLetters(answers[n]);row.querySelectorAll('.opt').forEach(x=>{const on=chosen.includes(x.dataset.letter);x.classList.toggle('selected',on);x.setAttribute('aria-pressed',on?'true':'false')});saveDraft();updateCount()}
 function updateCount(){if(!active)return;const total=active.questions||40,filled=Object.values(answers).filter(isAnswered).length;$('#answeredCount').textContent=`${filled} de ${total} respondidas`;$('#progressFill').style.width=(filled/total*100)+'%';$('#progressText').textContent=Math.round(filled/total*100)+'% concluído';}
 function startClock(){clearInterval(elapsedTicker);const tick=()=>{const sec=Math.max(0,Math.floor((Date.now()-startedAt)/1000));$('#timer').textContent=`${String(Math.floor(sec/60)).padStart(2,'0')}:${String(sec%60).padStart(2,'0')}`};tick();elapsedTicker=setInterval(tick,1000)}
@@ -57,3 +57,81 @@ document.querySelectorAll('.view-choice').forEach(b=>b.addEventListener('click',
 $('#pdfFullBtn').onclick=async()=>{const pane=$('.pdf-pane');try{if(document.fullscreenElement)await document.exitFullscreen();else await pane.requestFullscreen()}catch(e){alert('Não foi possível abrir em tela cheia neste navegador. Use o botão de tela cheia do próprio visualizador de PDF.')}};
 $('#openAnswersTab').onclick=()=>{if(!active)return;saveDraft();const url=new URL(location.href);url.searchParams.set('exam',active.id);url.searchParams.set('view','answers');window.open(url.toString(),'_blank')};
 window.addEventListener('storage',event=>{if(!active||event.key!==draftKey(active.id)||!event.newValue)return;try{const draft=JSON.parse(event.newValue);answers=draft.answers||{};document.querySelectorAll('.answer-row').forEach(row=>{const chosen=selectedLetters(answers[row.dataset.q]);row.querySelectorAll('.opt').forEach(button=>{const on=chosen.includes(button.dataset.letter);button.classList.toggle('selected',on);button.setAttribute('aria-pressed',on?'true':'false')})});updateCount()}catch{}});
+
+
+// Modo de questões individuais — ativado somente na primeira prova (e1)
+let questionBankE1=null,questionIndexE1=0,questionPdfDocE1=null,questionPageMapE1={},questionPageLoadingE1=null;
+const questionImageWords=/imagem|mapa|tirinha|cartaz|foto|infográfico|figura|charge|desenho|Observe|Leia a tirinha/i;
+function hideQuestionExperience(){const panel=$('#questionExperience');if(panel)panel.classList.add('hidden');const layout=$('.exam-layout');if(layout)layout.classList.remove('hidden')}
+async function showQuestionExperience(){
+ const panel=$('#questionExperience'),layout=$('.exam-layout');
+ if(!panel||!layout)return;
+ layout.classList.add('hidden');panel.classList.remove('hidden');
+ try{
+  if(!questionBankE1){const response=await fetch('questions-e1.json');if(!response.ok)throw Error('Não foi possível carregar as questões.');questionBankE1=await response.json();}
+  questionIndexE1=0;
+  renderQuestionE1();
+  loadQuestionPdfE1().catch(()=>{});
+ }catch(error){$('#questionPrompt').textContent='Não foi possível abrir o modo de questões: '+error.message;}
+}
+function renderQuestionE1(){
+ if(!active||active.id!=='e1'||!questionBankE1)return;
+ const q=questionBankE1[questionIndexE1],selected=selectedLetters(answers[q.number]);
+ $('#questionSubject').textContent='Questão '+q.number;
+ $('#questionProgress').textContent=(questionIndexE1+1)+' de '+questionBankE1.length;
+ $('#questionProgressFill').style.width=((questionIndexE1+1)/questionBankE1.length*100)+'%';
+ $('#questionPrompt').textContent=q.prompt;
+ $('#questionOptions').innerHTML=q.options.map((option,i)=>{const letter='ABCD'[i],on=selected.includes(letter);return '<button type="button" class="question-option '+(on?'selected':'')+'" data-question-letter="'+letter+'" aria-pressed="'+on+'"><span class="question-letter">'+letter+'</span><span class="question-option-text">'+escapeQuestionHtml(option)+'</span></button>'}).join('');
+ $('#questionOptions').querySelectorAll('.question-option').forEach(button=>button.addEventListener('click',()=>chooseQuestionE1(q.number,button.dataset.questionLetter)));
+ $('#questionPrev').disabled=questionIndexE1===0;
+ $('#questionNext').textContent=questionIndexE1===questionBankE1.length-1?'Finalizar simulado':'Próxima →';
+ $('#questionAnswered').textContent=Object.values(answers).filter(isAnswered).length+' respondidas';
+ $('#questionImageToggle').classList.toggle('hidden',!questionImageWords.test(q.prompt));
+ $('#questionImageWrap').classList.add('hidden');
+ $('#questionImageStatus').textContent='Carregando página original…';
+ if(questionImageWords.test(q.prompt))renderQuestionPageE1(q).catch(()=>{});
+}
+function escapeQuestionHtml(value){return String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+function chooseQuestionE1(number,letter){
+ const picked=selectedLetters(answers[number]);
+ answers[number]=picked.includes(letter)?picked.filter(x=>x!==letter):[letter];
+ if(!answers[number].length)delete answers[number];
+ saveDraft();renderQuestionE1();updateCount();
+}
+function loadQuestionPdfE1(){
+ if(questionPdfDocE1)return Promise.resolve(questionPdfDocE1);
+ if(questionPageLoadingE1)return questionPageLoadingE1;
+ questionPageLoadingE1=(async()=>{
+  if(!window.pdfjsLib)throw Error('O visualizador de imagens não carregou.');
+  pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+  const file='provas/'+encodeURIComponent(exams.find(x=>x.id==='e1').filename);
+  questionPdfDocE1=await pdfjsLib.getDocument(file).promise;
+  return questionPdfDocE1;
+ })();
+ return questionPageLoadingE1;
+}
+function normalizeQuestionText(value){return String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();}
+async function findQuestionPageE1(q){
+ if(questionPageMapE1[q.number])return questionPageMapE1[q.number];
+ const doc=await loadQuestionPdfE1(),needle=normalizeQuestionText(q.prompt).split(' ').filter(w=>w.length>4).slice(-12);
+ let bestPage=1,bestScore=0;
+ for(let pageNo=1;pageNo<=doc.numPages;pageNo++){
+  const page=await doc.getPage(pageNo),content=await page.getTextContent(),text=normalizeQuestionText(content.items.map(x=>x.str).join(' '));
+  const qtag='questao '+q.number;
+  if(text.includes(qtag)){questionPageMapE1[q.number]=pageNo;return pageNo;}
+  const score=needle.filter(word=>text.includes(word)).length;
+  if(score>bestScore){bestScore=score;bestPage=pageNo;}
+ }
+ questionPageMapE1[q.number]=bestPage;return bestPage;
+}
+async function renderQuestionPageE1(q){
+ const pageNo=await findQuestionPageE1(q),doc=await loadQuestionPdfE1(),page=await doc.getPage(pageNo),canvas=$('#questionImageCanvas'),ctx=canvas.getContext('2d');
+ const viewport=page.getViewport({scale:Math.min(1.5,900/page.getViewport({scale:1}).width)});
+ canvas.width=Math.ceil(viewport.width);canvas.height=Math.ceil(viewport.height);
+ await page.render({canvasContext:ctx,viewport}).promise;
+ $('#questionImageStatus').textContent='Página '+pageNo+' do caderno original';
+ $('#questionImageToggle').dataset.ready='1';
+}
+$('#questionImageToggle').onclick=()=>{$('#questionImageWrap').classList.toggle('hidden');if($('#questionImageToggle').dataset.ready==='1')$('#questionImageToggle').textContent=$('#questionImageWrap').classList.contains('hidden')?'Ver imagem / página original':'Ocultar página original'};
+$('#questionPrev').onclick=()=>{if(questionIndexE1>0){questionIndexE1--;renderQuestionE1()}};
+$('#questionNext').onclick=()=>{if(!questionBankE1)return;if(questionIndexE1<questionBankE1.length-1){questionIndexE1++;renderQuestionE1()}else $('#submitExam').click()};
