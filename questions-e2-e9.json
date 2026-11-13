@@ -1354,7 +1354,7 @@
     },
     {
       "number": 15,
-      "prompt": "Assinale a alternativa que contenha um número que é múltiplo de 4 e de 8:",
+      "prompt": "Assinale a alternativa que contenha um número maior que 50 e que seja múltiplo de 4 e de 8:",
       "options": [
         "12",
         "44",
