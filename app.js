@@ -71,13 +71,28 @@ async function loadQuestionBank(id){
 function currentQuestionBank(){return active?.id==='e1'?questionBankE1:(questionBanks[active?.id]||[])}
 async function showQuestionExperience(){const panel=$('#questionExperience'),layout=$('.exam-layout');if(!panel||!layout||!active)return;layout.classList.add('hidden');panel.classList.remove('hidden');$('#examModal').classList.add('question-mode');questionIndexE1=0;try{await loadQuestionBank(active.id);await loadQuestionPdf();renderQuestionE1()}catch(e){$('#questionPrompt').textContent='Não foi possível abrir o modo de questões: '+e.message}}
 function renderQuestionE1(){
- if(!active)return;const bank=currentQuestionBank(),total=questionTotal(active),number=questionIndexE1+1,q=bank.find(x=>+x.number===number)||null,selected=selectedLetters(answers[number]),multi=isMultiQuestion(number);
- $('#questionSubject').textContent='Questão '+number+(multi?' · escolha 2':'');$('#questionProgress').textContent=(questionIndexE1+1)+' de '+total;$('#questionProgressFill').style.width=((questionIndexE1+1)/total*100)+'%';
- $('#questionPrompt').textContent=q?.prompt||'Esta questão não pôde ser extraída em texto. Consulte a página original abaixo.';
- const alphabet='ABCDE',options=q?q.options:alphabet.split('');$('#questionOptions').innerHTML=options.map((option,i)=>{const letter=alphabet[i],on=selected.includes(letter);return '<button type="button" class="question-option '+(on?'selected':'')+'" data-question-letter="'+letter+'" aria-pressed="'+on+'"><span class="question-letter">'+letter+'</span>'+(q?'<span class="question-option-text">'+escapeQuestionHtml(option)+'</span>':'')+'</button>'}).join('');
+ if(!active)return;
+ const bank=currentQuestionBank(),total=questionTotal(active),number=questionIndexE1+1;
+ const candidate=bank.find(x=>+x.number===number)||null;
+ const hasQuestionText=!!(candidate&&typeof candidate.prompt==="string"&&candidate.prompt.trim().length>5&&Array.isArray(candidate.options)&&candidate.options.length>=4&&candidate.options.length<=5&&candidate.options.every(x=>typeof x==="string"&&x.trim().length>0));
+ const q=hasQuestionText?candidate:null,selected=selectedLetters(answers[number]),multi=isMultiQuestion(number);
+ $('#questionSubject').textContent='Questão '+number+(multi?' · escolha 2':'');
+ $('#questionProgress').textContent=(questionIndexE1+1)+' de '+total;
+ $('#questionProgressFill').style.width=((questionIndexE1+1)/total*100)+'%';
+ $('#questionPrompt').textContent=q.prompt:'Questão disponível no caderno original abaixo. Marque a alternativa pela letra.';
+ const examNumber=Number(String(active.id||'').replace(/[^0-9]/g,''));
+ const alphabet=examNumber>=12?'ABCDE':'ABCD',options=q?q.options:alphabet.split('');
+ $('#questionOptions').innerHTML=options.map((option,i)=>{const letter=alphabet[i],on=selected.includes(letter);return '<button type="button" class="question-option '+(on?'selected':'')+'" data-question-letter="'+letter+'" aria-pressed="'+on+'"><span class="question-letter">'+letter+'</span>'+(q?'<span class="question-option-text">'+escapeQuestionHtml(option)+'</span>':'')+'</button>'}).join('');
  $('#questionOptions').querySelectorAll('.question-option').forEach(x=>x.addEventListener('click',()=>chooseQuestionE1(number,x.dataset.questionLetter)));
- $('#questionPrev').disabled=questionIndexE1===0;$('#questionNext').textContent=questionIndexE1===total-1?'Finalizar simulado':'Próxima →';$('#questionAnswered').textContent=Object.values(answers).filter(isAnswered).length+' respondidas';
- const toggle=$('#questionImageToggle'),wrap=$('#questionImageWrap');toggle.classList.remove('hidden');toggle.textContent=q?'Ver página original':'Ocultar página original';wrap.classList.toggle('hidden',!!q);$('#questionImageStatus').textContent='Carregando página original…';renderQuestionPageE1({number}).catch(()=>{$('#questionImageStatus').textContent='Não foi possível localizar a página automaticamente. Consulte o PDF original.'});
+ $('#questionPrev').disabled=questionIndexE1===0;
+ $('#questionNext').textContent=questionIndexE1===total-1?'Finalizar simulado':'Próxima →';
+ $('#questionAnswered').textContent=Object.values(answers).filter(isAnswered).length+' respondidas';
+ const toggle=$('#questionImageToggle'),wrap=$('#questionImageWrap');
+ toggle.classList.remove('hidden');
+ toggle.textContent=q?'Ver página original':'Ocultar página original';
+ wrap.classList.toggle('hidden',!!q);
+ $('#questionImageStatus').textContent='Carregando página original…';
+ renderQuestionPageE1({number}).catch(()=>{$('#questionImageStatus').textContent='Não foi possível localizar a página automaticamente. Consulte o PDF original.'});
 }
 function escapeQuestionHtml(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 function chooseQuestionE1(n,l){const picked=selectedLetters(answers[n]);if(isMultiQuestion(n)){const next=picked.includes(l)?picked.filter(x=>x!==l):[...picked,l];if(next.length)answers[n]=next;else delete answers[n]}else{if(picked[0]===l)delete answers[n];else answers[n]=l}saveDraft();renderQuestionE1();updateCount()}
