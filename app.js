@@ -64,8 +64,8 @@ window.addEventListener('storage',event=>{if(!active||event.key!==draftKey(activ
 let questionBankE1=null,questionBanks={},questionIndexE1=0,questionPdfDoc=null,questionPdfExamId=null,questionPageCache={},questionPageLoading=null;
 function hideQuestionExperience(){const panel=$('#questionExperience');if(panel)panel.classList.add('hidden');const layout=$('.exam-layout');if(layout)layout.classList.remove('hidden');const modal=$('#examModal');if(modal)modal.classList.remove('question-mode')}
 async function loadQuestionBank(id){
- if(id==='e1'){if(!questionBankE1){const r=await fetch('questions-e1.json?v=20261113');if(!r.ok)throw Error('Banco de questões indisponível');questionBankE1=await r.json()}return questionBankE1}
- if(!questionBanks[id]){const n=+id.slice(1),file=n<=9?'questions-e2-e9.json':n<=17?'questions-e10-e17.json':'questions-e18-e25.json';const r=await fetch(file+'?v=20261113');if(!r.ok)throw Error('Banco de questões indisponível');questionBanks[id]=(await r.json())[id]||[]}
+ if(id==='e1'){if(!questionBankE1){const r=await fetch('questions-e1.json?v=20261113b');if(!r.ok)throw Error('Banco de questões indisponível');questionBankE1=await r.json()}return questionBankE1}
+ if(!questionBanks[id]){const n=+id.slice(1),file=n<=9?'questions-e2-e9.json':n<=17?'questions-e10-e17.json':'questions-e18-e25.json';const r=await fetch(file+'?v=20261113b');if(!r.ok)throw Error('Banco de questões indisponível');questionBanks[id]=(await r.json())[id]||[]}
  return questionBanks[id]
 }
 function currentQuestionBank(){return active?.id==='e1'?questionBankE1:(questionBanks[active?.id]||[])}
@@ -88,7 +88,7 @@ function renderQuestionE1(){
  $('#questionNext').textContent=questionIndexE1===total-1?'Finalizar simulado':'Próxima →';
  $('#questionAnswered').textContent=Object.values(answers).filter(isAnswered).length+' respondidas';
  const toggle=$('#questionImageToggle'),wrap=$('#questionImageWrap');
- const promptNeedsPage=!!(q&&(q.requiresOriginalPage===true||/(imagem|figura|tabela|gr[aá]fico|mapa|ilustra[cç][aã]o|quadrinho|tirinha|charge|cartaz|observe)/i.test(q.prompt)));
+ const promptNeedsPage=!!(q&&(q.requiresOriginalPage===true||/(imagem|figura|tabela|gr[aá]fico|mapa|ilustra[cç][aã]o|quadrinho|tirinha|charge|cartaz|observe|malha quadriculada|reta num[eé]rica|demarca[cç][aã]o|ponto [A-P]|[áa]baco|balan[cç]a|placa|cart[oõ]es|cen[aá]rio|vista superior|desenhar|desenh|s[ií]mbolo|pista)/i.test(q.prompt)));
  const showOriginal=!q||promptNeedsPage;
  toggle.classList.remove('hidden');
  toggle.textContent=showOriginal?'Ocultar página original':'Ver página original';
