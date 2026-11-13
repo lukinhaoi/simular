@@ -403,16 +403,6 @@
       ]
     },
     {
-      "number": 10,
-      "prompt": "",
-      "options": [
-        "398",
-        "39,8",
-        "3,98",
-        "0,398"
-      ]
-    },
-    {
       "number": 11,
       "prompt": "A professora de Luna escreveu no quadro a seguinte frase:\nEsse número também pode ser escrito como:",
       "options": [
@@ -1566,26 +1556,6 @@
         "16",
         "24",
         "20"
-      ]
-    },
-    {
-      "number": 11,
-      "prompt": "",
-      "options": [
-        "Marcelo e Bene",
-        "Lia e sua amiga",
-        "Marcelo e Lia",
-        "Bene e a amiga de Lia"
-      ]
-    },
-    {
-      "number": 12,
-      "prompt": "",
-      "options": [
-        "Na quarta-feira Benedito colocou a maior quantidade de cerâmica.",
-        "Na quinta-feira Benedito colocou a maior quantidade de cerâmica.",
-        "A quantidade de cerâmica colocada na quarta-feira e na quinta-feira foi a mesma.",
-        "Na quinta-feira Benedito colocou a menor quantidade de cerâmica."
       ]
     },
     {
@@ -3057,16 +3027,6 @@
         "Q.",
         "R.",
         "S."
-      ]
-    },
-    {
-      "number": 2,
-      "prompt": "O professor da Paula desenhou uma reta numérica como mostra abaixo. \n \n \n \nQual figura representa o número 22,5?",
-      "options": [
-        "",
-        "",
-        "",
-        ""
       ]
     },
     {
