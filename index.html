@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#101a2b"><title>Simula — Simulados escolares</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body class="auth-mode">
+<section id="authGate" class="auth-screen" aria-labelledby="authTitle">
+  <div class="auth-card">
+    <a class="brand auth-brand" href="#inicio"><span class="brand-mark">S</span><span>simula<span class="brand-dot">.</span><small>PLATAFORMA DE SIMULADOS</small></span></a>
+    <div class="eyebrow dark">SEU ESPAÇO DE ESTUDOS</div>
+    <h1 id="authTitle">Entre para continuar.</h1>
+    <p class="auth-intro">Crie seu acesso com um nome e uma senha. Sem e-mail e sem complicação.</p>
+    <div class="auth-tabs"><button type="button" class="auth-tab active" id="loginTab">Entrar</button><button type="button" class="auth-tab" id="registerTab">Criar conta</button></div>
+    <form id="authForm" autocomplete="on">
+      <label for="authName">Nome de usuário</label>
+      <input id="authName" name="username" type="text" minlength="3" maxlength="32" autocomplete="username" placeholder="Como você quer ser chamado?" required>
+      <label for="authPassword">Senha</label>
+      <input id="authPassword" name="password" type="password" minlength="8" maxlength="128" autocomplete="current-password" placeholder="Sua senha" required>
+      <p id="authHint" class="auth-hint">Digite seu nome e sua senha para entrar.</p>
+      <button id="authSubmit" class="primary auth-submit" type="submit">Entrar</button>
+      <p id="authMessage" class="auth-message" role="status" aria-live="polite"></p>
+    </form>
+    <div class="auth-footnote"><span>🔒</span> A senha é protegida por hash no navegador. As contas e o progresso ficam neste dispositivo.</div>
+  </div>
+</section>
+<div id="appShell" class="hidden">
+<header class="topbar"><a class="brand" href="#inicio"><span class="brand-mark">S</span><span>simula<span class="brand-dot">.</span><small>PLATAFORMA DE SIMULADOS</small></span></a><div class="top-actions"><span class="local-tag"><i></i> <span id="accountLabel">Conta</span></span><button class="ghost" id="historyBtn">Meu histórico</button><button class="ghost logout-btn" id="logoutBtn">Sair</button></div></header>
+<main id="inicio">
+<section class="hero"><div class="hero-copy"><div class="eyebrow"><span></span> ESTUDE NO SEU RITMO</div><h1>Seu próximo<br><em>acerto começa aqui.</em></h1><p>Escolha uma prova, abra o caderno e responda direto pelo computador. Seu progresso fica salvo neste dispositivo.</p><div class="hero-stats"><div><b id="examCount">25</b><span>provas disponíveis</span></div><div><b>6º ano</b><span>acervo inicial</span></div><div><b>2</b><span>gabaritos oficiais conferidos</span></div></div></div><div class="hero-art" aria-hidden="true"><div class="orbit orbit-a"></div><div class="orbit orbit-b"></div><div class="paper"><div class="paper-top"><span>SIMULADO</span><span>2025</span></div><div class="paper-lines"><i></i><i></i><i></i><i></i></div><div class="paper-answers"><b>A</b><b class="chosen">B</b><b>C</b><b>D</b><b>E</b></div><div class="paper-check">✓</div></div><div class="float-chip chip-one">+ foco</div><div class="float-chip chip-two">✦ progresso</div></div></section>
+<section class="library" id="biblioteca"><div class="section-head"><div><div class="eyebrow dark">BIBLIOTECA</div><h2>Encontre sua prova</h2><p>Filtre por ano, bimestre ou matéria.</p></div><div class="search-wrap"><span>⌕</span><input id="search" placeholder="Buscar prova..." aria-label="Buscar prova"></div></div>
+<div class="filters"><select id="yearFilter"><option value="">Todos os anos</option></select><select id="biFilter"><option value="">Todos os bimestres</option></select><select id="subjectFilter"><option value="">Todas as matérias</option></select><select id="statusFilter"><option value="">Todos os gabaritos</option><option value="oficial">Gabarito oficial</option><option value="autoral">Gabarito autoral</option><option value="pendente">Sem gabarito conferido</option></select></div>
+<div id="draftNotice" class="draft-notice hidden"></div><div class="result-line"><span id="resultCount">Carregando provas…</span><span class="legend"><i class="dot official"></i> Oficial <i class="dot pending"></i> Pendente</span></div><div class="exam-grid" id="examGrid"></div><div class="empty hidden" id="empty">Nenhuma prova encontrada com esses filtros.</div></section>
+<section class="how"><div><div class="eyebrow dark">COMO FUNCIONA</div><h2>Uma prova de cada vez.<br><em>Sem complicação.</em></h2></div><div class="how-steps"><div><b>01</b><span><strong>Escolha o caderno</strong><small>Abra o PDF da prova na própria plataforma.</small></span></div><div><b>02</b><span><strong>Marque suas respostas</strong><small>Use a folha interativa com alternativas A a E.</small></span></div><div><b>03</b><span><strong>Confira seu resultado</strong><small>Quando houver gabarito confiável, veja acertos, erros e nota.</small></span></div></div></section>
+<footer><span class="brand-mini">simula<span>.</span></span><span>Feito para estudar melhor · Versão local</span><span id="footerCount">25 cadernos</span></footer>
+</main>
+<div class="modal hidden" id="examModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal-card exam-modal-card"><div class="modal-head"><div><div class="eyebrow dark" id="modalMeta">SIMULADO</div><h2 id="modalTitle">Prova</h2><div id="keyStatus" class="status-pill"></div></div><button class="close" id="closeExam" aria-label="Fechar">×</button></div><div class="exam-layout"><div class="pdf-pane"><div class="pane-title">CADERNO DA PROVA <a id="openPdf" target="_blank" rel="noopener">Abrir em nova aba ↗</a></div><iframe id="pdfFrame" title="Caderno da prova em PDF"></iframe></div><div class="answer-pane"><div class="answer-head"><div><strong>Folha de respostas</strong><small id="answeredCount">0 de 40 respondidas</small></div><div class="answer-tools"><span id="timer">00:00</span><button class="text-btn" id="clearAnswers">Limpar</button></div></div><div class="progress-wrap"><div class="progress-track"><i id="progressFill"></i></div><small id="progressText">0% concluído</small></div><div id="answerGrid" class="answer-grid"></div><div class="answer-actions"><button class="primary" id="submitExam">Finalizar simulado</button><p id="correctionNote">O resultado será calculado após finalizar.</p></div><div id="resultPanel" class="result-panel hidden"></div></div></div></div></div>
+<div class="modal hidden" id="historyModal" role="dialog" aria-modal="true" aria-labelledby="historyTitle"><div class="modal-card history-card"><div class="modal-head"><div><div class="eyebrow dark">SEU DESEMPENHO</div><h2 id="historyTitle">Histórico de tentativas</h2></div><button class="close" id="closeHistory" aria-label="Fechar">×</button></div><div id="historyList" class="history-list"></div><div class="history-actions"><button class="text-btn" id="exportHistory">Baixar meu histórico</button><button class="danger-link" id="clearHistory">Apagar histórico deste computador</button></div></div></div>
+</div>
+<script src="app.js"></script>
+</body></html>

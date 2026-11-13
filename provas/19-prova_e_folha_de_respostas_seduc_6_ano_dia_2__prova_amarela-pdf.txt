@@ -1,0 +1,930 @@
+CADERNO AMARELO
+Orientações
+Use caneta preta ou azul-escuro e pinte a bolinha inteira.
+Mantenha o QR Code visível.
+Marque apenas uma alternativa por questão.
+Não rasure, não amasse nem escreva fora dos campos.
+Cole aqui sua etiqueta
+Preencha os círculos deste cartão resposta com nitidez,
+completamente e utilizando caneta esferográfica de cor preta,
+conforme exemplo ao lado:
+Respostas
+1
+A
+B
+C
+D
+E
+2
+A
+B
+C
+D
+E
+3
+A
+B
+C
+D
+E
+4
+A
+B
+C
+D
+E
+5
+A
+B
+C
+D
+E
+6
+A
+B
+C
+D
+E
+7
+A
+B
+C
+D
+E
+8
+A
+B
+C
+D
+E
+9
+A
+B
+C
+D
+E
+10
+A
+B
+C
+D
+E
+11
+A
+B
+C
+D
+E
+12
+A
+B
+C
+D
+E
+13
+A
+B
+C
+D
+E
+14
+A
+B
+C
+D
+E
+15
+A
+B
+C
+D
+E
+16
+A
+B
+C
+D
+E
+17
+A
+B
+C
+D
+E
+18
+A
+B
+C
+D
+E
+19
+A
+B
+C
+D
+E
+20
+A
+B
+C
+D
+E
+21
+A
+B
+C
+D
+E
+22
+A
+B
+C
+D
+E
+23
+A
+B
+C
+D
+E
+24
+A
+B
+C
+D
+E
+25
+A
+B
+C
+D
+E
+26
+A
+B
+C
+D
+E
+27
+A
+B
+C
+D
+E
+28
+A
+B
+C
+D
+E
+29
+A
+B
+C
+D
+E
+30
+A
+B
+C
+D
+E
+31
+A
+B
+C
+D
+E
+32
+A
+B
+C
+D
+E
+33
+A
+B
+C
+D
+E
+34
+A
+B
+C
+D
+E
+35
+A
+B
+C
+D
+E
+36
+A
+B
+C
+D
+E
+37
+A
+B
+C
+D
+E
+38
+A
+B
+C
+D
+E
+39
+A
+B
+C
+D
+E
+40
+A
+B
+C
+D
+E
+2026
+#S1:40:84797386#
+Secretaria de Educação do Estado de São Paulo
+Escola:
+Turma:
+Prova: 6º ano DIA 2 - Prova Amarela (ID: 84797386)
+Aluno:
+Assinatura do aluno
+
+1 de 14
+6º ano DIA 2 - Prova Amarela
+Matemática
+Questão 1
+A tabela a seguir mostra o total de atletas brasileiros que
+participaram das últimas edições dos Jogos Olímpicos:
+Fonte: Elaborada para fins didáticos.
+Sabendo que a reta numérica abaixo está dividida em
+partes iguais, o ponto que melhor corresponde ao total de
+atletas brasileiros nos Jogos Olímpicos de Paris é o ponto
+A K
+B L
+C M
+D N
+Questão 2
+No número 638 145, o algarismo que ocupa a ordem da
+unidade de milhar é:
+A 1
+B 5
+C 6
+D 8
+Questão 3
+O ábaco a seguir representa o número 473, formado por:
+Fonte: Elaborada para fins didáticos.
+4 argolas na haste das centenas
+7 argolas na haste das dezenas
+3 argolas na haste das unidades
+Qual 
+das 
+alternativas 
+apresenta 
+corretamente 
+a
+decomposição desse número?
+A 400 + 7 + 3
+B 40 + 70 + 3
+C 400 + 70 + 3
+D 4 + 70 + 300
+Questão 4
+Durante uma campanha ambiental, os estudantes de uma
+escola registraram que, ao longo dos últimos anos, foram
+coletados 3.482.600 kg de papel para reciclagem.
+Esse número pode ser decomposto como
+A
+3 ⋅ 1000000 + 4 ⋅ 100000 + 8 ⋅ 10000 + 2 ⋅ 1000 + 6 ⋅
+100
+B
+3 ⋅ 1000000 + 4 ⋅ 10000 + 8 ⋅ 100000 + 2 ⋅ 1000 + 6 ⋅
+100
+C
+3 ⋅ 1000000 + 4 ⋅ 100000 + 8 ⋅ 1000 + 2 ⋅ 10000 + 6 ⋅
+100
+D
+3 ⋅ 1000000 + 4 ⋅ 10000 + 8 ⋅ 10000 + 2 ⋅ 10000 + 6 ⋅
+100
+
+2 de 14
+6º ano DIA 2 - Prova Amarela
+Questão 5
+Um levantamento foi realizado para apontar a quantidade
+de visitantes que passaram pela Festa do Peão de Barretos
+no último final de semana. No relatório, foi identificada a
+presença de 297.345 visitantes.
+Com base nesse registro, responda: qual é o valor
+posicional do algarismo 3 nesse número?
+A 3 unidades
+B 30 unidades (3 dezenas)
+C 300 unidades (3 centenas)
+D 3 000 unidades (3 unidades de milhar)
+Questão 6
+A tabela a seguir apresenta a população de algumas
+cidades da região de Ribeirão Preto, de acordo com o
+Censo 2022.
+Fonte: IBGE. Disponível em: https://www.ibge.gov.br/cidades-e-estados
+Acesso em: 11 dez. 2025
+Colocando as populações em ordem crescente, temos as
+cidades de
+A Barretos, Bebedouro, Franca e Sertãozinho.
+B Bebedouro, Barretos, Sertãozinho e Franca.
+C Franca, Sertãozinho, Barretos e Bebedouro.
+D Sertãozinho, Franca, Bebedouro e Barretos.
+Questão 7
+Uma fábrica de caixas produziu, em 2025, 18.250
+unidades em julho, 16.780 em agosto e 14.965 em
+setembro. Quantas caixas foram produzidas nesse
+trimestre?
+A 49.900
+B 50.000
+C 49.995
+D 48.800
+Questão 8
+A tabela abaixo informa a distância entre Bauru e outras
+cidades brasileiras.
+Fonte: Elaborada para fins didáticos.
+Das cidades que aparecem na tabela, a mais próxima de
+Bauru é
+A Araçatuba.
+B José Bonifácio.
+C Marília.
+D Lins.
+
+3 de 14
+6º ano DIA 2 - Prova Amarela
+Questão 9
+Em um centro de reciclagem, os funcionários registram
+diariamente a quantidade de papel e plástico processados
+em cada setor. Observe a tabela da última coleta:
+Fonte: Elaborada para fins didáticos.
+Segundo a tabela, qual é a diferença, em quilos, entre o
+plástico e o papel processados no setor D?
+A 120 Kg.
+B 140 Kg.
+C 150 Kg.
+D 160 Kg.
+Questão 10
+Considere a operação apresentada a seguir:
+Resultado dessa operação é
+A 2506
+B 256
+C 1542
+D 2516
+Questão 11
+Os alunos das turmas do 6º ano de uma escola
+organizaram 
+uma 
+gincana 
+solidária 
+para 
+arrecadar
+produtos de higiene pessoal destinados à doação. A tabela
+abaixo apresenta a quantidade de itens arrecadados por
+cada turma:
+Fonte: Elaborada para fins didáticos.
+Os produtos arrecadados serão distribuídos igualmente
+para 7 instituições de caridade. A quantidade de “pasta de
+dente”, “sabonete” e “desodorante”, respectivamente, que
+cada instituição irá receber é
+A 16, 15 e 19.
+B 14, 16 e 19.
+C 16, 16 e 22.
+D 16, 16 e 19.
+
+4 de 14
+6º ano DIA 2 - Prova Amarela
+Questão 12
+No supermercado “COMPRE BARATO”, toda quarta-feira
+tem promoção de frutas. Na tabela abaixo estão expressos
+os preços das frutas por quilograma (kg) nessa semana:
+Fonte: Elaborada para fins didáticos.
+Everaldo pediu para seu filho ir ao supermercado e
+comprar 2kg de banana, 1kg de maçã, 3kg de melancia,
+500g de uva e 1kg de mamão.
+Qual o valor total, em reais, a ser pago?
+A 42
+B 49
+C 55
+D 58
+Questão 13
+A distância média da Terra à Lua é de 384.400 km.
+Fonte: Elaborada para fins didáticos.
+Essa medida é fundamental para estudos astronômicos e
+para 
+o 
+planejamento 
+de 
+missões 
+espaciais. 
+A
+representação correta deste número através de sua
+decomposição em ordens e classes é:
+A 3 x 100 000  8 x 10 000  4 x 100 
+B 3 x 100 000  8 x 10 000  4 x 1 000  4 x 100
+C 3 x 1 000 000  8 x 100 000  4 x 10 000  4 x 100
+D 38 x 10 000  4 x 1 000  4 x 10
+
+5 de 14
+6º ano DIA 2 - Prova Amarela
+Questão 14
+Dividindo 369 por 3 obtemos:
+A 321
+B 231
+C 213
+D 123
+Questão 15
+(Matriz de referência SARESP 2009) Subtraindo 429 de
+2.362, obtemos:
+A 1.241
+B 1.933
+C 2.147
+D 2.943
+Questão 16
+(Matriz de referência SARESP 2009) Bete precisa pesar seu
+cachorrinho, mas ele não para quieto na balança. Então
+Bete subiu na balança com ele. Observe quanto a balança
+marcou.
+Fonte: Elaborada para fins didáticos.
+Como Bete pesa 29 kg então seu cachorrinho pesa
+A 61 kg
+B 51 kg
+C 5 kg
+D 3 kg
+Questão 17
+João e Pedro, dois amigos apaixonados por futebol, estão
+colecionando as figurinhas do álbum da Copa do Mundo.
+João possui 131 figurinhas e Pedro tem 142. Ao juntarem
+suas coleções, eles perceberam que 20 figurinhas eram
+repetidas.
+Qual o número total de figurinhas diferentes que os dois
+amigos possuem juntos?
+ 
+A 233 figurinhas.
+B 253 figurinhas.
+C 273 figurinhas.
+D 293 figurinhas.
+
+6 de 14
+6º ano DIA 2 - Prova Amarela
+Questão 18
+A produção de grãos na safra 2022/2023 pode chegar a
+322.457.821 toneladas, segundo estimativa da Companhia
+Nacional de Abastecimento (Conab). Esse volume, um
+recorde histórico, consolida o Brasil como um dos maiores
+produtores agrícolas do mundo. O número expressivo
+demonstra a força do agronegócio nacional e a capacidade
+de produção em larga escala do país.
+Fonte: 
+Adaptado 
+de 
+COMPANHIA 
+NACIONAL 
+DE
+ABASTECIMENTO – CONAB. Com novo recorde, produção
+de grãos na safra 2022/23 chega a 322,8 milhões de
+toneladas. 
+Gov.br, 
+06 
+set. 
+2023. 
+Disponível 
+em:
+https://www.gov.br/conab/pt-br/assuntos/noticias/com-
+novo-recorde-producao-de-graos-na-safra-2022-23-
+chega-a-322-8-milhoes-de-toneladas. Acesso em: 27 jan.
+2026.
+A decomposição do número 322.457.821, que representa
+a estimativa da safra de grãos, é:
+ 
+A
+30.000.000 + 20.000.000 + 2.000.000 + 400.000 +
+50.000 + 7.000 + 800 + 20 + 1
+B
+300.000.000 + 20.000.000 + 2.000.000 + 400.000 +
+50.000 + 7.000 + 800 + 20 + 1
+C 312.000.000 + 457.000 + 821
+D
+300.000.000 + 20.000.000 + 2.000.000 + 400.000 +
+50.000 + 7.000 + 80 + 2 + 1
+Questão 19
+O Censo Demográfico de 2022 apresentou dados sobre a
+população de alguns municípios brasileiros. Observe as
+informações a seguir:
+Araguainha (MT): 1.010 habitantes
+Serra da Saudade (MG): 833 habitantes
+Anhanguera (GO): 924 habitantes
+Borá (SP): 907 habitantes
+Fonte: G1. Censo 2022: veja a população de cada cidade
+do 
+Brasil. 
+2023. 
+Disponível 
+em:
+https://g1.globo.com/economia/censo/noticia/2023/06/2
+8/censo-2022-veja-a-populacao-de-cada-cidade-do-
+brasil.ghtml. Acesso em: 23 jan. 2026. (Adaptado).
+A ordem crescente do número de habitantes das cidades
+apresentadas no texto, da menos para a mais populosa, é:
+ 
+A Araguainha, Anhanguera, Borá, Serra da Saudade.
+B Borá, Anhanguera, Serra da Saudade, Araguainha.
+C Serra da Saudade, Anhanguera, Borá, Araguainha.
+D Serra da Saudade, Borá, Anhanguera, Araguainha.
+
+7 de 14
+6º ano DIA 2 - Prova Amarela
+Ciências
+Questão 20
+Com a chegada do frio, a solidariedade se multiplica em
+diversas cidades. Em uma cidade, por exemplo, uma
+grande empresa realizou a doação de 12 mil peças de
+agasalhos para a Campanha de Inverno de 2025.
+Inspirados por essa ação, os alunos de uma escola local
+decidiram organizar sua própria campanha. A escola
+possui 18 turmas, e a meta estabelecida é que cada turma
+consiga arrecadar 35 peças de roupa, entre agasalhos e
+cobertores, para ajudar a comunidade.
+Se todas as turmas da escola atingirem a meta
+estabelecida, o número total de peças arrecadadas na
+campanha será de
+ 
+A 53 peças.
+B 540 peças.
+C 590 peças.
+D 630 peças.
+Questão 21
+Em uma aula de Ciências, a turma assistiu a uma animação em
+que todo o Universo cabia em um ponto minúsculo, muito
+quente e muito apertado. De repente, esse ponto começou a se
+expandir rapidamente, espalhando matéria e energia por todos
+os lados, formando mais tarde galáxias, estrelas e planetas,
+conforme ilustrado.
+Imagem elaborada para a Prova Paulista.
+A teoria científica apresentada nesta animação para
+explicar a origem do Universo é a Teoria
+A do Geocentrismo.
+B do Big Bang.
+C da Deriva Continental.
+D da Gravidade.
+
+8 de 14
+6º ano DIA 2 - Prova Amarela
+Questão 22
+Um jogo de memória sobre o Sistema Solar contém cartas que
+mostram tipos de corpos celestes (como "estrela", "planeta" ou
+"planeta anão"), que devem ser relacionadas à outras cartas
+com exemplos específicos de cada tipo de corpo celeste. Sobre
+a mesa há uma carta chamada "Planeta" e outras quatro cartas
+com tipos diferentes de corpos celestes, como mostra a
+imagem abaixo:
+Elaborado para a Prova Paulista.
+A carta que corresponde corretamente a um exemplo de
+planeta é:
+A Lua.
+B Sol.
+C Marte.
+D Plutão.
+Questão 23
+Leia o texto abaixo sobre as características da Terra em um
+determinado período de tempo.
+“Superfície da Terra muito quente, formada por rocha derretida
+em muitos lugares, com intensa atividade vulcânica e queda de
+meteoritos. Atmosfera composta principalmente por gases
+como gás carbônico, metano, amônia e vapor de água, quase
+sem oxigênio livre.”
+Fonte: Olhar digital. Disponível em < http://bit.ly/4pfSLmV> Acesso em 04 de dezembro de
+2025
+Este texto apresenta condições típicas do planeta em seu
+período conhecido como:
+A Planetesimal.
+B Protoplaneta.
+C Terra Primitiva.
+D Terra Atual.
+
+9 de 14
+6º ano DIA 2 - Prova Amarela
+Questão 24
+No nosso dia a dia, medir o tempo é importante para organizar
+a vida. Usamos relógios e calendários para marcar horas, dias
+e anos. Na História, utilizamos o tempo para entender quando
+aconteceram fatos importantes para um povo, em décadas ou
+séculos. Já os cientistas usam o tempo geológico para
+organizar os acontecimentos da história da Terra.
+O evento em que é adequado usarmos o tempo geológico para
+medir sua duração é:
+A Registrar os horários das aulas em um dia de escola.
+B
+Contar quantos anos faltam para terminar o Ensino
+Fundamental.
+C
+Estudar há quantos séculos o Brasil foi “descoberto”
+pelos portugueses.
+D
+Investigar em quais períodos os dinossauros surgiram e
+foram extintos na Terra.
+Questão 25
+Para estudar a longa história da Terra, os cientistas
+organizaram o tempo geológico em divisões hierárquicas.
+Essas divisões ajudam a compreender a ordem dos
+acontecimentos geológicos e biológicos ao longo do tempo.
+Com base nessa organização, assinale a alternativa correta.
+A
+Os períodos são a maior divisão do tempo geológico e
+englobam várias eras diferentes.
+B
+As eras são maiores que os éons e reúnem
+acontecimentos ocorridos em bilhões de anos.
+C
+As épocas são divisões maiores que os períodos e
+marcam o surgimento do planeta Terra.
+D
+O éon é a maior divisão do tempo geológico e pode ser
+subdividido em eras, que se dividem em períodos.
+Questão 26
+Na Terra, quando um objeto é solto de determinada altura, ele
+se desloca em direção ao chão. Já os planetas, mesmo se
+movendo pelo espaço, seguem uma trajetória definida ao redor
+do Sol sem se perderem pelo espaço.
+Esses dois movimentos acontecem em contextos muito
+diferentes, mas têm algo em comum, pois
+A
+acontecem sob a ação da gravidade, uma força que atrai
+um objeto em direção a outro.
+B
+ocorrem porque a gravidade do Sol empurra os corpos
+em direção aos seus trajetos.
+C
+acontecem porque a gravidade dos corpos maiores
+afasta os menores ao seu redor.
+D
+ocorrem sem qualquer força atuando e os corpos
+simplesmente seguem seus caminhos naturais.
+Questão 27
+Por volta de 240 a.C., Eratóstenes realizou um experimento
+comparando as sombras projetadas por estacas em duas
+cidades do Egito, Syene e Alexandria. No mesmo horário, em
+Syene, uma estaca não produzia sombra, enquanto em
+Alexandria, a estaca projetava uma sombra inclinada.
+Elaborado para a Prova Paulista.
+Eratóstenes mediu o ângulo da sombra e a distância entre as
+cidades para interpretar o fenômeno observado. Os resultados
+do experimento de Eratóstenes permitiram concluir que
+A
+o Sol gira ao redor da Terra, projetando sombras
+diferentes conforme sua posição.
+B
+a superfície da Terra é curva, indicando que o planeta
+possui formato esférico.
+C
+a atmosfera da Terra impede a formação de sombras
+iguais em diferentes regiões.
+D
+a cidade de Syene recebe mais luz do Sol que
+Alexandria por estar mais próxima do Sol.
+
+10 de 14
+6º ano DIA 2 - Prova Amarela
+Questão 28
+Corpos celestes podem apresentar formatos diferentes durante
+sua formação. O planeta Terra, composto inicialmente por
+grande quantidade de material, tende a atrair mais matéria ao
+seu redor. Já um pequeno asteroide, por possuir massa muito
+menor, não agrega tanta matéria.
+Fonte: Planeta Terra – Toda Matéria. Disponível em < https://www.todamateria.com.br/planeta-
+terra/>. Asteroide Itokawa - Ciência Hoje das Crianças. Disponível em < https://chc.org.br/de-
+que-e-feito-um-asteroide/> Acesso em 04 de dezembro de 2025. Imagens fora de escala.
+Essa diferença entre o formato do Planeta Terra e dos
+asteroides deve-se ao fato de que
+A
+a Terra sofre maior gravidade do Sol, que molda sua
+superfície em um formato esférico, diferente dos
+asteroides.
+B
+os asteroides giram mais rapidamente que a Terra,
+impedindo que a gravidade atue para que assumam um
+formato arredondado.
+C
+a Terra possui maior massa que o asteroide, o que faz
+com que sua matéria seja atraída para o centro, por
+gravidade, moldando-a em formato arredondado.
+D
+a distância ao Sol determina o formato dos corpos
+celestes: quanto mais longe, menor a gravidade e mais
+irregular o formato.
+Questão 29
+Em uma viagem de carro durante a madrugada, uma família
+observou que o céu escuro começou a clarear aos poucos, até
+que o Sol apareceu no horizonte. Horas depois, ao fim do dia,
+perceberam o Sol “descendo” e a paisagem voltando a
+escurecer. Apesar de parecer que o Sol se move no céu, o
+motorista explicou que é a Terra que está em movimento.
+A alternância entre o dia e a noite observada pela família
+durante a viagem é causada pela
+A
+aproximação e o afastamento da Terra em relação ao Sol
+ao longo do dia.
+B
+mudança de posição da Lua, que controla a quantidade
+de luz solar que chega à Terra.
+C
+translação da Terra ao redor do Sol, que faz com que o
+Sol “nasça” e “se ponha” todos os dias.
+D
+rotação da Terra em torno de seu próprio eixo, que faz
+diferentes regiões receberem luz solar em momentos
+distintos.
+Questão 30
+Ao analisar registros climáticos de diferentes regiões do
+planeta, é possível observar que, em um mesmo dia do ano,
+alguns lugares do planeta apresentam dia mais longo e noite
+mais curta, enquanto outros lugares, dia mais curto e noite
+mais longa.
+O que explica a ocorrência da variação da duração do dia e da
+noite em diferentes regiões do planeta num mesmo dia do ano
+é:
+A
+A inclinação do eixo da Terra, que faz cada região do
+planeta receber mais ou menos luz solar durante a
+translação.
+B
+A variação da distância entre a Terra e o Sol ao longo do
+ano, fazendo alguns períodos serem mais quentes que
+outros.
+C
+A mudança do sentido de rotação da Terra, que altera a
+quantidade de luz solar recebida em cada período.
+D
+A quantidade de nebulosidade na atmosfera, que
+determina se haverá maior ou menor aquecimento em
+cada região.
+
+11 de 14
+6º ano DIA 2 - Prova Amarela
+Questão 31
+À medida que a Terra se desloca ao redor do Sol, a inclinação
+do seu eixo de rotação permanece orientada na mesma
+direção, fazendo com que cada região receba quantidades
+diferentes de luz ao longo desse percurso. Em certos períodos,
+uma região recebe mais iluminação, enquanto a outra recebe
+menos.
+Fonte: IAG-USP. Disponível em < http://www.astro.iag.usp.br/~aga210/2020b/Roteiro3-
+2020.pdf> Acesso em 04 de dezembro de 2025.
+Essa combinação entre a inclinação do eixo terrestre e o
+movimento de translação dá origem
+A ao eclipse solar.
+B às estações do ano.
+C à sucessão dia-noite.
+D à duração do dia de 24h.
+Questão 32
+Um grupo de trilheiros percorre uma área de mata fechada
+quando percebe que sua bússola parou de funcionar. Eles
+precisam caminhar na direção norte para alcançar o ponto de
+apoio onde está o restante do grupo. Para não se perderem,
+decidem usar a posição do Sol como referência. Durante a
+manhã, observam o Sol surgindo no horizonte. Um dos
+trilheiros decide estender o braço direito apontando para o local
+do nascer do Sol.
+Com base nessa orientação, qual parte do corpo deles estará
+voltada para o Norte?
+A A frente do corpo.
+B As costas.
+C O braço esquerdo.
+D O braço direito.
+Questão 33
+A Lua sempre mostra praticamente a mesma face para quem
+está na Terra. O “lado oculto” da Lua, região que não
+conseguimos observar diretamente da Terra, foi fotografada por
+sondas espaciais. Ela apresenta muito mais crateras do que o
+lado visível, quase não possui “mares” escuros de lava e tem
+uma superfície mais antiga e acidentada.
+Fonte: BBC News Brasil. Disponível em <
+https://www.bbc.com/portuguese/articles/c3ggpx3gn35o> Acesso em 04 de dezembro de 2025.
+Esse fenômeno ocorre devido ao fato de que a Lua
+A
+não tem movimento de rotação e apenas realiza o
+movimento de revolução ao redor da Terra.
+B
+leva o mesmo tempo para realizar os movimentos de
+rotação e revolução ao redor da Terra.
+C
+tem rotação mais rápida do que a revolução e por isso
+não percebemos seu giro.
+D
+é iluminada sempre no mesmo lado, porque sua
+revolução é maior que a rotação.
+
+12 de 14
+6º ano DIA 2 - Prova Amarela
+Questão 34
+Em noites de Lua cheia, a Lua aparece totalmente iluminada no
+céu quando vista da Terra.
+Fonte: USP São Carlos. Disponível em < https://saocarlos.usp.br/observatorio-fara-
+transmissao-ao-vivo-de-imagens-da-lua-cheia-nesta-terca-feira/> Acesso em 04 de dezembro
+de 2025.
+Considerando as posições relativas entre Sol, Terra e Lua, a
+Lua cheia é causada quando a
+A
+Lua está na região entre o Sol e a Terra e a face da Lua
+voltada para a Terra está iluminada.
+B
+Lua está na região entre o Sol e a Terra e a face da Lua
+voltada para a Terra está escura.
+C
+Terra está na região entre o Sol e a Lua e a face da Lua
+voltada para a Terra está iluminada.
+D
+Terra está na região entre o Sol e a Lua e a face da Lua
+voltada para a Terra está escura.
+Questão 35
+Leia a reportagem.
+Eclipse solar mais longo do século: data, hora e onde
+será visível
+"Fenômeno natural terá cerca de seis minutos e 23
+segundos e poderá ser observado principalmente em países
+como Tunísia, Líbia e Egito.
+A data do maior eclipse solar do século 21 já foi anunciada:
+será em 2 de agosto de 2027. Segundo a Nasa, a Lua
+ocultará o Sol por cerca de seis minutos e 23 segundos e
+poderá ser observado principalmente no Hemisfério
+Oriental.”
+Fonte: https://www.metropoles.com/brasil/eclipse-solar-mais-longo-do-seculo-data-hora-e-
+onde-sera-visivel. Acesso em 09 fev 2026.
+Considerando as posições relativas entre Sol, Terra e Lua, esse
+eclipse solar total deve ocorrer porque
+A
+a Terra irá bloquear a luz da Lua, fazendo com que a
+superfície terrestre escureça.
+B
+a Lua vai se alinhar entre o Sol e a Terra, bloqueando a
+luz solar em algumas regiões.
+C
+o Sol vai se aproximar da Lua, diminuindo a quantidade
+de luz enviada à Terra.
+D
+a Lua e a Terra irão se afastar do Sol, recebendo menos
+luz e escurecendo o dia.
+
+13 de 14
+6º ano DIA 2 - Prova Amarela
+Língua Inglesa
+Questão 36
+Disponível em: https://sme.goiania.go.gov.br/conexaoescola/ensino_fundamental/lingua-
+inglesa-classroom-greetings-and-farewells/. Acesso em: 02 dez. 2025.
+No primeiro quadrinho, percebe-se que a professora está:
+A Celebrando uma data comemorativa.
+B Cumprimentando seus alunos.
+C Encerrando o período de aula.
+D Pedindo que os livros sejam abertos.
+Questão 37
+Disponível em: https://abre.ai/ocAm . Acesso em: 02 dez. 2025.
+Joaquim está com vontade de ir ao banheiro, como ele
+pode pedir isso à professora em inglês?
+A What is your name?
+B May I drink some water please?
+C May I go to the restroom, please?
+D How do you say “água” in English, please?
+Questão 38
+Teacher Lisa: Good morning, class!
+Students: Good morning, teacher!
+Teacher Lisa: Open your notebook, please!
+Texto elaborado para essa atividade.
+Segundo o diálogo acima, a professora Lisa pede aos
+alunos que
+A abram seus cadernos.
+B respondam a chamada.
+C arrumem suas mesas.
+D façam silêncio.
+
+14 de 14
+6º ano DIA 2 - Prova Amarela
+Questão 39
+Anna: Hi, guys! My name is Anna, and I am 12. How
+old are you?
+Pedro: I am Pedro, and I’m 13.
+Nicolas: My name is Nicolas, and I’m 12.
+Anna: What about you, Noah? How old are you?
+Noah: I’m 14 years old.
+Fonte: Material Digital Adaptado.
+O diálogo acima trata sobre:
+A O prato favorito de cada pessoa.
+B A rotina de cada pessoas.
+C O local onde cada um mora.
+D A idade das pessoas.
+Questão 40
+Observe o número e responda:
+Adaptado de https://abre.ai/ocBQ. Acesso em: 02 dez. 2025.
+O número 19, pode ser escrito, em inglês, da seguinte
+maneira:
+A Nine.
+B Ninety.
+C Nineteen.
+D Nini.
