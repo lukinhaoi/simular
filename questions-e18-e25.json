@@ -2031,14 +2031,6 @@
       ]
     },
     {
-      "number": 10,
-      "prompt": "",
-      "options": [
-        "coordenação de uma escola organizou uma campanha\nde arrecadação de livros para a biblioteca e estabeleceu a\nmeta total de sessenta livros. Três turmas participaram\nativamente do projeto. A turma A conseguiu arrecadar três\ndécimos da meta. A turma B arrecadou dois quintos da\nmeta. Por fim, a turma C arrecadou um quarto da meta.\nAssinale",
-        "alternativa\nque\napresenta\nas\nfrações\ncorrespondentes à arrecadação de cada turma organizadas\nem ordem crescente, ou seja, da menor para a maior\nquantidade.\nA\nB\nC\nD\n1\n4 ,   3\n10 ,   2\n5\n1\n4 ,   2\n5 ,   3\n10\n2\n5 ,   3\n10 ,   1\n4\n3\n10 ,   1\n4 ,   2\n5"
-      ]
-    },
-    {
       "number": 15,
       "prompt": "Mariana fez uma viagem com uma parada para descanso.\nAntes da parada, o trajeto da viagem durou cinco oitavos\nde uma hora. Após a parada, o trajeto restante durou três\noitavos de uma hora.\nQual é a diferença de tempo, em frações de uma hora,\nentre os dois trajetos dessa viagem de Mariana?",
       "options": [
