@@ -403,16 +403,6 @@
       ]
     },
     {
-      "number": 2,
-      "prompt": "O professor da Paula desenhou uma reta numérica como mostra abaixo. \n \n \n \nQual figura representa o número 22,5?",
-      "options": [
-        "",
-        "",
-        "",
-        ""
-      ]
-    },
-    {
       "number": 3,
       "prompt": "A professora da 4º ano desenhou uma reta numérica no quadro negro. Ela marcou alguns \npontos. \nObserve os pontos R, S, T, U que ela marcou. \n \n \n \nO ponto que representa o número decimal 0,5 é o ponto",
       "options": [
