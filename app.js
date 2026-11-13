@@ -88,9 +88,11 @@ function renderQuestionE1(){
  $('#questionNext').textContent=questionIndexE1===total-1?'Finalizar simulado':'Próxima →';
  $('#questionAnswered').textContent=Object.values(answers).filter(isAnswered).length+' respondidas';
  const toggle=$('#questionImageToggle'),wrap=$('#questionImageWrap');
+ const promptNeedsPage=!!(q&&/(imagem|figura|tabela|gr[aá]fico|mapa|ilustra[cç][aã]o|quadrinho|tirinha|charge|cartaz|observe)/i.test(q.prompt));
+ const showOriginal=!q||promptNeedsPage;
  toggle.classList.remove('hidden');
- toggle.textContent=q?'Ver página original':'Ocultar página original';
- wrap.classList.toggle('hidden',!!q);
+ toggle.textContent=showOriginal?'Ocultar página original':'Ver página original';
+ wrap.classList.toggle('hidden',!showOriginal);
  $('#questionImageStatus').textContent='Carregando página original…';
  renderQuestionPageE1({number}).catch(()=>{$('#questionImageStatus').textContent='Não foi possível localizar a página automaticamente. Consulte o PDF original.'});
 }
