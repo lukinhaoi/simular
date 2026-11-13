@@ -1977,7 +1977,8 @@
         "garantir que qualquer item digitado seja considerado disponível na lista de compras.",
         "comparar o item digitado pelo usuário com o que está na lista e exibir uma mensagem caso estejam corretos.",
         "fazer com que o programa sempre exiba a mensagem \"Item encontrado!\", independentemente do que for digitado."
-      ]
+      ],
+      "requiresOriginalPage": true
     },
     {
       "number": 37,
@@ -1987,7 +1988,8 @@
         "repetir a pergunta até que a resposta seja igual à esperada.",
         "fazer com que a resposta errada cause o fim imediato do jogo.",
         "permitir que o jogo mostre sempre a mensagem final, mesmo com resposta errada."
-      ]
+      ],
+      "requiresOriginalPage": true
     },
     {
       "number": 38,
@@ -1997,7 +1999,8 @@
         "mantendo a dica escondida até que o jogador clique no botão.",
         "mostrando a dica aleatoriamente durante o jogo.",
         "mantendo a dica visível mesmo após o clique no botão."
-      ]
+      ],
+      "requiresOriginalPage": true
     },
     {
       "number": 39,
@@ -2007,7 +2010,8 @@
         "Uma mensagem de “Vamos cozinhar 🍕” será exibida.",
         "Será redefinido a variável tempo para um novo valor.",
         "Uma mensagem de “O tempo acabou!” será exibida."
-      ]
+      ],
+      "requiresOriginalPage": true
     },
     {
       "number": 40,
@@ -2017,7 +2021,8 @@
         "finalizar todas as animações de todos os personagens do jogo.",
         "impedir que qualquer outro código seja executado no projeto.",
         "fazer com que a mensagem de acerto desapareça da tela."
-      ]
+      ],
+      "requiresOriginalPage": true
     }
   ],
   "e7": [
