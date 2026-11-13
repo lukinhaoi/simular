@@ -1,6 +1,26 @@
 {
   "e2": [
     {
+      "number": 1,
+      "prompt": "Até a adolescência, a memória tem mais interesse no futuro do que no passado e, portanto, minhas recordações da aldeia não estavam ainda idealizadas pela nostalgia. Recordava-a como era: um lugar bom para viver, onde toda a gente se conhecia, na margem de um rio de águas transparentes que se precipitavam por um leito de pedras polidas, brancas e enormes como ovos pré-históricos. A palavra “transparentes” no texto significa que:",
+      "options": [
+        "o rio era muito limpo.",
+        "a margem do rio era grande.",
+        "a correnteza era forte.",
+        "o rio era profundo."
+      ]
+    },
+    {
+      "number": 2,
+      "prompt": "A verdade que enfim descobri foi que minha mãe e meu pai, Rose e Jack Clapp, de fato eram meus avós, Adrian era meu tio, e Patrícia, filha de Rose de um casamento anterior, era minha verdadeira mãe e havia me dado o nome de Clapton. Na metade da década de 1920, Rose Mitchell conheceu e se apaixonou por Reginald Cecil Clapton, conhecido por Rex. Casaram-se em fevereiro de 1927, muito a contragosto dos pais dele, que julgavam que Rex estava se unindo a alguém de condição inferior. A expressão “alguém de condição inferior” foi utilizada para:",
+      "options": [
+        "demonstrar o preconceito com a noiva por ela ser de uma família sem riquezas.",
+        "indicar que a noiva era uma oficial do exército com baixo rendimento físico.",
+        "apontar que o casamento faria bem ao noivo ao unir duas famílias poderosas.",
+        "mostrar que a noiva possuía pouca beleza comparada ao jovem oficial."
+      ]
+    },
+    {
       "number": 3,
       "prompt": "PILKEY, DAV. Homem-Cão. Companhia das Letrinhas: São Paulo, 2017\nO ponto de exclamação repetido em “O meu sofá novo chegou!!!” é um recurso expressivo que foi usado para demonstrar",
       "options": [
@@ -171,6 +191,27 @@
       ]
     },
     {
+      "number": 20,
+      "prompt": "Era uma vez uma viúva que tinha um filho chamado Pedro. O menino era forte e são, mas não gostava de ir à escola e passava o tempo sonhando acordado. A professora perguntava com o que ele estava sonhando. Ele respondia que pensava no que seria quando crescesse. Ao parafrasear o trecho “Seja paciente”, a expressão que mantém o sentido original do texto é:",
+      "options": [
+        "Se apresse.",
+        "Tenha calma.",
+        "Fique parado.",
+        "Sonhe acordado."
+      ]
+    },
+    {
+      "number": 21,
+      "prompt": "Observe a imagem. A litosfera é a parte mais sólida da Terra, formada pela crosta terrestre e pela parte superior do manto. É nessa camada que vivemos e desenvolvemos nossas atividades diárias. A litosfera tem como principais componentes:",
+      "options": [
+        "Água e ar.",
+        "Fogo e gases.",
+        "Gelo e nuvens.",
+        "Rochas e solos."
+      ],
+      "requiresOriginalPage": true
+    },
+    {
       "number": 22,
       "prompt": "Observe a sequência das imagens.\nImagem gerada pelo algoritmo de Inteligência Artificial\nA Hidrosfera é a camada composta pela água em todos os seus estados físicos no planeta.\nConsiderando a sequência de imagens, é possível identificar:",
       "options": [
@@ -258,6 +299,27 @@
         "Temperatura.",
         "Estação do ano.",
         "Tempo atmosférico.   História"
+      ]
+    },
+    {
+      "number": 31,
+      "prompt": "Observe o mapa e leia o texto. “Alexandre, então com apenas 18 anos, lutou ao lado de Filipe na Batalha de Queroneia e obteve grande destaque, comandando a cavalaria. Quando Filipe II foi assassinado em uma cerimônia pública, em 336 a.C., Alexandre herdou um reino já unificado com um exército experiente e poderoso.” Sobre as conquistas militares de Alexandre, o Grande, é correto afirmar que:",
+      "options": [
+        "as campanhas militares não conseguiram sucesso em regiões como o Egito e a Pérsia.",
+        "Alexandre possuía pouca experiência militar, por isso seu império teve pequena duração.",
+        "as conquistas de Alexandre acabaram enfraquecendo a cultura grega, que desapareceu na Europa.",
+        "Alexandre criou um império que se estendia da Grécia ao Egito, passando pela Pérsia, até alcançar o rio Indo, na Índia."
+      ],
+      "requiresOriginalPage": true
+    },
+    {
+      "number": 32,
+      "prompt": "O Helenismo foi um período histórico caracterizado pelo(a):",
+      "options": [
+        "baixa produção artística por conta das guerras que aconteceram no período.",
+        "fim do poder dos reinos e aumento da influência política das cidades-estado.",
+        "domínio da cultura grega sobre as demais, o que levou ao fim de outras culturas.",
+        "interação entre a cultura grega e as culturas dos povos conquistados, que gerou novas formas de arte, filosofia e religião."
       ]
     },
     {
@@ -393,6 +455,38 @@
       ]
     },
     {
+      "number": 6,
+      "prompt": "Uma nave espacial possui dois tanques de combustível de mesma capacidade: o principal e o reserva. No painel de comando, o tanque principal está com 6/8 de sua capacidade e o tanque reserva com 1/8. Assinale a alternativa que indica a fração de um tanque que corresponde ao total de combustível disponível na nave:",
+      "options": [
+        "7/8",
+        "5/8",
+        "8/7",
+        "8/16"
+      ],
+      "requiresOriginalPage": true
+    },
+    {
+      "number": 7,
+      "prompt": "Para obter um tom específico de verde, uma mistura deve conter 5/10 de tinta azul, 4/10 de tinta amarela e 1/10 de tinta branca. Assinale a alternativa que indica quanto a mais de tinta azul deve ser usada na mistura em relação à tinta branca:",
+      "options": [
+        "1/10",
+        "4/10",
+        "5/10",
+        "6/10"
+      ]
+    },
+    {
+      "number": 8,
+      "prompt": "Uma horta foi dividida em 4 partes iguais e em 1/4 dela foi plantado alface. O agricultor redividiu a mesma horta em 8 partes iguais. Assinale a alternativa que indica a fração equivalente a 1/4 quando a horta foi dividida em 8 partes:",
+      "options": [
+        "4/8",
+        "2/4",
+        "2/8",
+        "1/8"
+      ],
+      "requiresOriginalPage": true
+    },
+    {
       "number": 9,
       "prompt": "Luna foi ao médico e viu um número no termômetro: 37,9 graus Celsius.\nEsse número mostra a temperatura do corpo dela naquele momento.\nQual algarismo representa a parte decimal nesse número?",
       "options": [
@@ -403,14 +497,25 @@
       ]
     },
     {
+      "number": 10,
+      "prompt": "Assinale a alternativa que apresenta o número decimal que corresponde à fração 398/100:",
+      "options": [
+        "398",
+        "39,8",
+        "3,98",
+        "0,398"
+      ]
+    },
+    {
       "number": 11,
-      "prompt": "A professora de Luna escreveu no quadro a seguinte frase:\nEsse número também pode ser escrito como:",
+      "prompt": "A professora de Luna escreveu no quadro a seguinte frase: “O dólar está sendo cotado a cinco reais e oitocentos e vinte e cinco milésimos de real.” Esse número também pode ser escrito como:",
       "options": [
         "5,000825",
         "5,00825",
         "5,0825",
         "5,825"
-      ]
+      ],
+      "requiresOriginalPage": true
     },
     {
       "number": 12,
@@ -544,7 +649,7 @@
     },
     {
       "number": 25,
-      "prompt": "A equação simplificada abaixo representa a fotossíntese, um processo essencial para plantas:\nDióxido de carbono + Água → Glicose + Oxigênio (na presença de luz).\nEsse processo ocorre principalmente em qual organela?",
+      "prompt": "A equação simplificada abaixo representa a fotossíntese, um processo essencial para plantas: Dióxido de carbono + Água → Glicose + Oxigênio (na presença de luz). Esse processo ocorre principalmente em qual organela?",
       "options": [
         "Complexo golgiense.",
         "Mitocôndria.",
@@ -1457,6 +1562,17 @@
       ]
     },
     {
+      "number": 37,
+      "prompt": "João está programando o ator “heróis” para trocar de fantasia ao longo do tempo. Ele deseja que o personagem troque de fantasia com breves pausas entre as trocas, na ordem: 1. Comece com a fantasia “homem-aranha”; 2. Troque para a fantasia “batman”; 3. Em seguida para a fantasia “superman”. Qual sequência de blocos João deve usar?",
+      "options": [
+        "Ao clicar na bandeira, muda imediatamente para homem-aranha, batman e superman, sem pausas.",
+        "Ao clicar na bandeira, muda para homem-aranha, espera 2 segundos, muda para batman, espera 2 segundos e muda para superman.",
+        "Ao clicar na bandeira, muda para superman, espera 2 segundos e muda para batman.",
+        "Ao clicar na bandeira, espera 2 segundos e depois muda para homem-aranha, batman e superman, sem pausas."
+      ],
+      "requiresOriginalPage": true
+    },
+    {
       "number": 38,
       "prompt": "Marcos deseja criar um código para alternar entre seis fantasias de personagens, onde cada fantasia aparece apenas uma\nvez e na ordem correta. Seu código ficou da seguinte forma: \nAo rodar este código, Marcos verificou que o algoritmo não funcionou como esperado. Qual ajuste Marcos deve fazer para corrigir\no problema?",
       "options": [
@@ -1539,6 +1655,27 @@
       ]
     },
     {
+      "number": 6,
+      "prompt": "(SARESP) Observe a figura: uma malha quadrada dividida em 9 partes iguais, com 2 partes pintadas. A fração que representa a parte pintada em relação ao total é:",
+      "options": [
+        "1/8",
+        "2/8",
+        "1/9",
+        "2/9"
+      ],
+      "requiresOriginalPage": true
+    },
+    {
+      "number": 7,
+      "prompt": "Marcelo, Willian e Everaldo pediram uma pizza que foi dividida em 8 pedaços. Juntos, eles comeram 6 fatias. A fração que representa a quantidade de pizza que eles comeram em relação ao total de fatias é:",
+      "options": [
+        "6/8",
+        "2/6",
+        "2/8",
+        "8/6"
+      ]
+    },
+    {
       "number": 8,
       "prompt": "Natália está lendo um livro de aventura que tem 100 páginas. Até agora, ela já leu 35 páginas. A escrita como se lê da fração que\nrepresenta a parte do livro que ainda falta para ela ler é",
       "options": [
@@ -1549,6 +1686,17 @@
       ]
     },
     {
+      "number": 9,
+      "prompt": "Na festa de aniversário da Lia, havia 24 balões. Ela quer dividir esses balões igualmente entre 8 amigas. Qual fração representa essa divisão e quantos balões cada amiga vai ganhar?",
+      "options": [
+        "8/24, cada amiga ganhará 4 balões.",
+        "8/24, cada amiga ganhará 3 balões.",
+        "24/8, cada amiga ganhará 4 balões.",
+        "24/8, cada amiga ganhará 3 balões."
+      ],
+      "requiresOriginalPage": true
+    },
+    {
       "number": 10,
       "prompt": "Inês quis comemorar seu aniversário na escola. Sua mãe preparou brigadeiros como mostra a imagem a seguir.\nFonte: Figura elaborada para fins pedagógicos.\nLogo após cantarem os “Parabéns para você”, já haviam comido três quintos dos brigadeiros. O número de brigadeiros que\nsobraram foi",
       "options": [
@@ -1556,6 +1704,36 @@
         "16",
         "24",
         "20"
+      ]
+    },
+    {
+      "number": 11,
+      "prompt": "A mãe de Marcelo fez uma torta de frango e cortou-a em 12 pedaços iguais. Marcelo comeu 1/3, seu amigo Bene comeu 3/12, sua irmã Lia comeu 4/12 e a amiga de Lia comeu 1/12. Os dois que comeram a mesma quantidade de bolo foram:",
+      "options": [
+        "Marcelo e Bene.",
+        "Lia e sua amiga.",
+        "Marcelo e Lia.",
+        "Bene e a amiga de Lia."
+      ]
+    },
+    {
+      "number": 12,
+      "prompt": "Benedito é pedreiro e está terminando a construção de uma casa. Na quarta-feira ele colocou 3/6 de uma caixa de cerâmicas e, na quinta-feira, colocou 2/3 de outra caixa. Comparando as frações que representam a quantidade de cerâmica colocada nos dois dias, é correto afirmar que:",
+      "options": [
+        "Na quarta-feira Benedito colocou a maior quantidade de cerâmica.",
+        "Na quinta-feira Benedito colocou a maior quantidade de cerâmica.",
+        "A quantidade colocada na quarta-feira e na quinta-feira foi a mesma.",
+        "Na quinta-feira Benedito colocou a menor quantidade de cerâmica."
+      ]
+    },
+    {
+      "number": 13,
+      "prompt": "João está preparando uma salada e a receita pede que ele adicione seis décimos de xícara de azeite. A fração irredutível que representa a quantidade de azeite que João deve usar na receita da salada é:",
+      "options": [
+        "3/5",
+        "2/5",
+        "2/3",
+        "3/10"
       ]
     },
     {
@@ -2209,6 +2387,28 @@
         "Desprendimento de um gás.",
         "Alteração da coloração."
       ]
+    },
+    {
+      "number": 39,
+      "prompt": "Ao preparar um achocolatado, Pedro mistura leite e chocolate em pó. Com o passar do tempo, Pedro observa a situação apresentada na imagem abaixo. De acordo com essa imagem, qual foi o método de separação que Pedro observou nesse procedimento?",
+      "options": [
+        "Filtração simples.",
+        "Evaporação.",
+        "Destilação simples.",
+        "Decantação."
+      ],
+      "requiresOriginalPage": true
+    },
+    {
+      "number": 40,
+      "prompt": "Observe, na imagem abaixo, o acompanhamento da transformação química de uma fatia de pão após ser deixada na torradeira em três intervalos de tempo. Qual evidência permite identificar que a fatia de pão passou por uma transformação química no tempo de 2 minutos?",
+      "options": [
+        "Liberação de luz.",
+        "Formação de um sólido.",
+        "Desprendimento de um gás.",
+        "Alteração da coloração."
+      ],
+      "requiresOriginalPage": true
     }
   ],
   "e8": [
