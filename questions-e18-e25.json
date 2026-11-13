@@ -2022,7 +2022,7 @@
     },
     {
       "number": 2,
-      "prompt": "Durante a organização de um evento na escola, um grupo\nde alunos ficou responsável por preparar as lembrancinhas\nque serão entregues aos convidados. Para que tudo\nocorresse conforme o planejado, eles precisaram separar\numa parte específica do total de itens disponíveis no\nestoque para montar os primeiros kits.\nElaborado pelo autor para fins didáticos.\nOs alunos tinham um total de 60 itens e separaram \ndessa quantidade para a montagem. Qual foi a quantidade\nde itens separados pelos alunos?\n2\n3",
+      "prompt": "Durante a organização de um evento na escola, um grupo de alunos ficou responsável por preparar as lembrancinhas que serão entregues aos convidados. Para isso, eles tinham um total de 60 itens e separaram 2/3 dessa quantidade para montar os primeiros kits. Qual foi a quantidade de itens separados pelos alunos?",
       "options": [
         "30",
         "40",
