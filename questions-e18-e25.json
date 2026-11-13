@@ -1580,9 +1580,9 @@
   "e22": [
     {
       "number": 1,
-      "prompt": "Em uma aula de Ciências, a turma assistiu a uma animação em\nque todo o Universo cabia em um ponto minúsculo, muito\nquente e muito apertado. De repente, esse ponto começou a se\nexpandir rapidamente, espalhando matéria e energia por todos\nos lados, formando mais tarde galáxias, estrelas e planetas,\nconforme ilustrado.\nImagem elaborada para a Prova Paulista.",
+      "prompt": "Em uma aula de Ciências, a turma assistiu a uma animação em\nque todo o Universo cabia em um ponto minúsculo, muito\nquente e muito apertado. De repente, esse ponto começou a se\nexpandir rapidamente, espalhando matéria e energia por todos\nos lados, formando mais tarde galáxias, estrelas e planetas,\nconforme ilustrado.\nImagem elaborada para a Prova Paulista.\nA teoria científica apresentada nesta animação\npara explicar a origem do Universo é a Teoria",
       "options": [
-        "teoria científica apresentada nesta animação para explicar a origem do Universo é a Teoria A do Geocentrismo.",
+        "do Geocentrismo.",
         "do Big Bang.",
         "da Deriva Continental.",
         "da Gravidade."
@@ -1590,9 +1590,9 @@
     },
     {
       "number": 2,
-      "prompt": "Um jogo de memória sobre o Sistema Solar contém cartas que\nmostram tipos de corpos celestes (como \"estrela\", \"planeta\" ou\n\"planeta anão\"), que devem ser relacionadas à outras cartas\ncom exemplos específicos de cada tipo de corpo celeste. Sobre\na mesa há uma carta chamada \"Planeta\" e outras quatro cartas\ncom tipos diferentes de corpos celestes, como mostra a\nimagem abaixo:\nElaborado para a Prova Paulista.",
+      "prompt": "Um jogo de memória sobre o Sistema Solar contém cartas que\nmostram tipos de corpos celestes (como \"estrela\", \"planeta\" ou\n\"planeta anão\"), que devem ser relacionadas à outras cartas\ncom exemplos específicos de cada tipo de corpo celeste. Sobre\na mesa há uma carta chamada \"Planeta\" e outras quatro cartas\ncom tipos diferentes de corpos celestes, como mostra a\nimagem abaixo:\nElaborado para a Prova Paulista.\nA carta que corresponde corretamente a um exemplo de\nplaneta é:",
       "options": [
-        "carta que corresponde corretamente a um exemplo de planeta é: A Lua.",
+        "Lua.",
         "Sol.",
         "Marte.",
         "Plutão. 2 de 14 6º ano DIA 2 - Prova Roxa"
@@ -1660,9 +1660,9 @@
     },
     {
       "number": 9,
-      "prompt": "Em uma viagem de carro durante a madrugada, uma família\nobservou que o céu escuro começou a clarear aos poucos, até\nque o Sol apareceu no horizonte. Horas depois, ao fim do dia,\nperceberam o Sol “descendo” e a paisagem voltando a\nescurecer. Apesar de parecer que o Sol se move no céu, o\nmotorista explicou que é a Terra que está em movimento.",
+      "prompt": "Em uma viagem de carro durante a madrugada, uma família\nobservou que o céu escuro começou a clarear aos poucos, até\nque o Sol apareceu no horizonte. Horas depois, ao fim do dia,\nperceberam o Sol “descendo” e a paisagem voltando a\nescurecer. Apesar de parecer que o Sol se move no céu, o\nmotorista explicou que é a Terra que está em movimento.\nA alternância entre o dia e a noite observada pela família\ndurante a viagem é causada pela",
       "options": [
-        "alternância entre o dia e a noite observada pela família durante a viagem é causada pela A aproximação e o afastamento da Terra em relação ao Sol ao longo do dia.",
+        "aproximação e o afastamento da Terra em relação ao Sol ao longo do dia.",
         "mudança de posição da Lua, que controla a quantidade de luz solar que chega à Terra.",
         "translação da Terra ao redor do Sol, que faz com que o Sol “nasça” e “se ponha” todos os dias.",
         "rotação da Terra em torno de seu próprio eixo, que faz diferentes regiões receberem luz solar em momentos distintos. 4 de 14 6º ano DIA 2 - Prova Roxa"
@@ -1699,6 +1699,16 @@
       ]
     },
     {
+      "number": 13,
+      "prompt": "A Lua sempre mostra praticamente a mesma face para quem\nestá na Terra. O “lado oculto” da Lua, região que não\nconseguimos observar diretamente da Terra, foi fotografada por\nsondas espaciais. Ela apresenta muito mais crateras do que o\nlado visível, quase não possui “mares” escuros de lava e tem\numa superfície mais antiga e acidentada.\nFonte: BBC News Brasil. Disponível em <\nhttps://www.bbc.com/portuguese/articles/c3ggpx3gn35o> Acesso em 04 de dezembro de 2025.\nEsse fenômeno ocorre devido ao fato de que a Lua",
+      "options": [
+        "não tem movimento de rotação e apenas realiza o movimento de revolução ao redor da Terra.",
+        "leva o mesmo tempo para realizar os movimentos de rotação e revolução ao redor da Terra.",
+        "tem rotação mais rápida do que a revolução e por isso não percebemos seu giro.",
+        "é iluminada sempre no mesmo lado, porque sua revolução é maior que a rotação."
+      ]
+    },
+    {
       "number": 14,
       "prompt": "Em noites de Lua cheia, a Lua aparece totalmente iluminada no\ncéu quando vista da Terra.\nFonte: USP São Carlos. Disponível em < https://saocarlos.usp.br/observatorio-fara-\ntransmissao-ao-vivo-de-imagens-da-lua-cheia-nesta-terca-feira/> Acesso em 04 de dezembro\nde 2025.\nConsiderando as posições relativas entre Sol, Terra e Lua, a\nLua cheia é causada quando a",
       "options": [
@@ -1710,9 +1720,9 @@
     },
     {
       "number": 15,
-      "prompt": "Leia a reportagem.\nEclipse solar mais longo do século: data, hora e\nonde será visível\n\"Fenômeno natural terá cerca de seis minutos e 23\nsegundos e poderá ser observado principalmente\nem países como Tunísia, Líbia e Egito.",
+      "prompt": "Leia a reportagem.\nEclipse solar mais longo do século: data, hora e\nonde será visível\n\"Fenômeno natural terá cerca de seis minutos e 23\nsegundos e poderá ser observado principalmente\nem países como Tunísia, Líbia e Egito.\nA data do maior eclipse solar do século 21 já foi\nanunciada: será em 2 de agosto de 2027. Segundo\na Nasa, a Lua ocultará o Sol por cerca de seis\nminutos e 23 segundos e poderá ser observado\nprincipalmente no Hemisfério Oriental.”\nFonte: https://www.metropoles.com/brasil/eclipse-solar-mais-longo-do-seculo-data-hora-e-\nonde-sera-visivel. Acesso em 09 fev 2026.\nConsiderando as posições relativas entre Sol, Terra e Lua, esse\neclipse solar total deve ocorrer porque",
       "options": [
-        "data do maior eclipse solar do século 21 já foi anunciada: será em 2 de agosto de 2027. Segundo a Nasa, a Lua ocultará o Sol por cerca de seis minutos e 23 segundos e poderá ser observado principalmente no Hemisfério Oriental.” Fonte: https://www.metropoles.com/brasil/eclipse-solar-mais-longo-do-seculo-data-hora-e- onde-sera-visivel. Acesso em 09 fev 2026. Considerando as posições relativas entre Sol, Terra e Lua, esse eclipse solar total deve ocorrer porque A a Terra irá bloquear a luz da Lua, fazendo com que a superfície terrestre escureça.",
+        "a Terra irá bloquear a luz da Lua, fazendo com que a superfície terrestre escureça.",
         "a Lua vai se alinhar entre o Sol e a Terra, bloqueando a luz solar em algumas regiões.",
         "o Sol vai se aproximar da Lua, diminuindo a quantidade de luz enviada à Terra.",
         "a Lua e a Terra irão se afastar do Sol, recebendo menos luz e escurecendo o dia."
@@ -1770,9 +1780,8 @@
     },
     {
       "number": 21,
-      "prompt": "",
+      "prompt": "A tabela a seguir mostra o total de atletas\nbrasileiros que participaram das últimas edições\ndos Jogos Olímpicos:\nFonte: Elaborada para fins didáticos.\nSabendo que a reta numérica abaixo está dividida\nem partes iguais, o ponto que melhor corresponde\nao total de atletas brasileiros nos Jogos Olímpicos\nde Paris é o ponto",
       "options": [
-        "tabela a seguir mostra o total de atletas\nbrasileiros que participaram das últimas edições\ndos Jogos Olímpicos:\nFonte: Elaborada para fins didáticos.\nSabendo que a reta numérica abaixo está dividida\nem partes iguais, o ponto que melhor corresponde\nao total de atletas brasileiros nos Jogos Olímpicos\nde Paris é o ponto",
         "K",
         "L",
         "M",
@@ -1831,9 +1840,8 @@
     },
     {
       "number": 27,
-      "prompt": "",
+      "prompt": "A tabela a seguir apresenta a população de\nalgumas cidades da região de Ribeirão Preto, de\nacordo com o Censo 2022.\nFonte: IBGE. Disponível em: https://www.ibge.gov.br/cidades-e-estados\nAcesso em: 11 dez. 2025\nColocando as populações em ordem crescente,\ntemos as cidades de",
       "options": [
-        "tabela a seguir apresenta a população de\nalgumas cidades da região de Ribeirão Preto, de\nacordo com o Censo 2022.\nFonte: IBGE. Disponível em: https://www.ibge.gov.br/cidades-e-estados\nAcesso em: 11 dez. 2025\nColocando as populações em ordem crescente,\ntemos as cidades de",
         "Barretos, Bebedouro, Franca e Sertãozinho.",
         "Bebedouro, Barretos, Sertãozinho e Franca.",
         "Franca, Sertãozinho, Barretos e Bebedouro.",
@@ -1852,9 +1860,8 @@
     },
     {
       "number": 29,
-      "prompt": "",
+      "prompt": "A tabela abaixo informa a distância entre Bauru e\noutras cidades brasileiras.\nFonte: Elaborada para fins didáticos.\nDas cidades que aparecem na tabela, a mais\npróxima de Bauru é",
       "options": [
-        "tabela abaixo informa a distância entre Bauru e\noutras cidades brasileiras.\nFonte: Elaborada para fins didáticos.\nDas cidades que aparecem na tabela, a mais\npróxima de Bauru é",
         "Araçatuba.",
         "José Bonifácio.",
         "Marília.",
@@ -1873,9 +1880,9 @@
     },
     {
       "number": 31,
-      "prompt": "Os alunos das turmas do 6º ano de uma escola\norganizaram uma gincana solidária para arrecadar\nprodutos de higiene pessoal destinados à doação.",
+      "prompt": "Os alunos das turmas do 6º ano de uma escola\norganizaram uma gincana solidária para arrecadar\nprodutos de higiene pessoal destinados à doação.\nA tabela abaixo apresenta a quantidade de itens\narrecadados por cada turma:\nFonte: Elaborada para fins didáticos.\nOs produtos arrecadados serão distribuídos\nigualmente para 7 instituições de caridade. A\nquantidade de “pasta de dente”, “sabonete” e\n“desodorante”, \nrespectivamente, \nque \ncada\ninstituição irá receber é",
       "options": [
-        "tabela abaixo apresenta a quantidade de itens arrecadados por cada turma: Fonte: Elaborada para fins didáticos. Os produtos arrecadados serão distribuídos igualmente para 7 instituições de caridade. A quantidade de “pasta de dente”, “sabonete” e “desodorante”,  respectivamente,  que  cada instituição irá receber é A 16, 15 e 19.",
+        "16, 15 e 19.",
         "14, 16 e 19.",
         "16, 16 e 22.",
         "16, 16 e 19. 11 de 14 6º ano DIA 2 - Prova Roxa"
@@ -1893,20 +1900,19 @@
     },
     {
       "number": 33,
-      "prompt": "",
+      "prompt": "A Cidade de Júlio realizou uma festa beneficente\nna qual houve uma brincadeira de bingo para\narrecadar fundos destinados a uma instituição de\ncaridade. Muitas pessoas participaram do evento.\nAs cartelas foram vendidas apenas em blocos e\ncada bloco custava R$ 20,00. Ao final da festa, as\npessoas deveriam escrever, em uma ficha, sua\nopinião para o valor exato arrecadado no bingo.\nQuem acertasse o valor, ganharia um prêmio. Júlio\nescreveu o valor de R$ 6.700,00, Pedro escreveu\no valor de R$ 5.135,00, Aldo escreveu R$ 936,00\ne Paulo escreveu R$ 2.230,00.\nQual deles teve chance de acertar?",
       "options": [
-        "Cidade de Júlio realizou uma festa beneficente\nna qual houve uma brincadeira de bingo para\narrecadar fundos destinados a uma instituição de\ncaridade. Muitas pessoas participaram do evento.\nAs cartelas foram vendidas apenas em blocos e\ncada bloco custava R$ 20,00. Ao final da festa, as\npessoas deveriam escrever, em uma ficha, sua\nopinião para o valor exato arrecadado no bingo.\nQuem acertasse o valor, ganharia um prêmio. Júlio\nescreveu o valor de R$ 6.700,00, Pedro escreveu\no valor de R$ 5.135,00, Aldo escreveu R$ 936,00",
-        "Paulo escreveu R$ 2.230,00.\nQual deles teve chance de acertar?",
         "Júlio",
         "Pedro",
-        "Aldo"
+        "Aldo",
+        "Paulo 12 de 14 6º ano DIA 2 - Prova Roxa"
       ]
     },
     {
       "number": 34,
-      "prompt": "Uma doceira produziu 120 brigadeiros e 150\nbeijinhos para uma festa. Ela precisa colocar\nesses doces em bandejas com a mesma\nquantidade de doces, de modo que todas as\nbandejas tenham apenas um tipo de doce e com a\nmaior quantidade possível.\nFonte: Elaborada para fins didáticos.",
+      "prompt": "Uma doceira produziu 120 brigadeiros e 150\nbeijinhos para uma festa. Ela precisa colocar\nesses doces em bandejas com a mesma\nquantidade de doces, de modo que todas as\nbandejas tenham apenas um tipo de doce e com a\nmaior quantidade possível.\nFonte: Elaborada para fins didáticos.\nA quantidade de bandejas necessárias será",
       "options": [
-        "quantidade de bandejas necessárias será A 9",
+        "9",
         "10",
         "27",
         "30"
@@ -1914,23 +1920,21 @@
     },
     {
       "number": 35,
-      "prompt": "",
+      "prompt": "A professora Ana comprou 24 lápis de cor para\ndistribuir entre grupos de alunos para uma\natividade de arte. Ela precisa que todos os grupos\nrecebam a mesma quantidade de material.\nFonte: Elaborada para fins didáticos.\nPara atender a todos os estudantes, a distribuição\npossível é",
       "options": [
-        "professora Ana comprou 24 lápis de cor para\ndistribuir entre grupos de alunos para uma\natividade de arte. Ela precisa que todos os grupos\nrecebam a mesma quantidade de material.\nFonte: Elaborada para fins didáticos.\nPara atender a todos os estudantes, a distribuição\npossível é",
         "3 grupos com 8 lápis.",
         "5 grupos com 5 lápis.",
         "4 grupos com 7 lápis.",
-        "2 grupos com 11 lápis.\n\n13 de 14\n6º ano DIA 2 - Prova Roxa"
+        "2 grupos com 11 lápis. 13 de 14 6º ano DIA 2 - Prova Roxa"
       ]
     },
     {
       "number": 36,
-      "prompt": "",
+      "prompt": "A distância média da Terra à Lua é de 384.400\nkm.\nFonte: Elaborada para fins didáticos.\nEssa \nmedida \né \nfundamental \npara \nestudos\nastronômicos e para o planejamento de missões\nespaciais. A representação correta deste número\natravés de sua decomposição em ordens e\nclasses é:",
       "options": [
-        "distância média da Terra à Lua é de 384.400\nkm.\nFonte: Elaborada para fins didáticos.\nEssa\nmedida\né\nfundamental\npara\nestudos\nastronômicos e para o planejamento de missões\nespaciais. A representação correta deste número\natravés de sua decomposição em ordens e\nclasses é:",
         "3 x 100 000  8 x 10 000  4 x 100",
         "3 x 100 000  8 x 10 000  4 x 1 000  4 x 100",
-        "3 x 1 000 000  8 x 100 000  4 x 10 000  4 x\n100",
+        "3 x 1 000 000  8 x 100 000  4 x 10 000  4 x 100",
         "38 x 10 000  4 x 1 000  4 x 10"
       ]
     },
@@ -2046,9 +2050,9 @@
     },
     {
       "number": 17,
-      "prompt": "Para a manutenção da fiação elétrica de uma escola, foi\ncomprado um rolo de cabo de cobre com 25 metros de\ncomprimento. Foram realizados quatro serviços, sendo\nutilizados \n e \n do total do rolo.",
+      "prompt": "Para a manutenção da fiação elétrica de uma escola, foi\ncomprado um rolo de cabo de cobre com 25 metros de\ncomprimento. Foram realizados quatro serviços, sendo\nutilizados \n e \n do total do rolo.\nA quantidade, em metros, que sobrou do rolo de cabo de\ncobre foi de\n1\n8 ,   1\n6 ,   1\n4\n1\n12",
       "options": [
-        "quantidade, em metros, que sobrou do rolo de cabo de cobre foi de 1 8 ,   1 6 ,   1 4 1 12 A  metros.",
+        "metros.",
         "metros.",
         "metros.",
         "metros. 15 5 8 21 2 3 3 9 8 9 3 8"
@@ -2056,13 +2060,12 @@
     },
     {
       "number": 21,
-      "prompt": "",
+      "prompt": "A água da superfície da Terra evapora com o calor do Sol,\nformando vapor d’água. Esse vapor sobe, forma nuvens e,\nao condensar-se, retorna à superfície terrestre em forma\nde chuva no estado líquido, compondo rios, lagos,\noceanos, outros corpos d’água e reservatórios. Esse\nprocesso faz parte do ciclo da água, responsável pela\ncirculação da água no planeta.\nElaborado pelo autor para fins didáticos.\nA esfera da Terra diretamente relacionada ao fenômeno\ndescrito é a",
       "options": [
-        "água da superfície da Terra evapora com o calor do Sol,\nformando vapor d’água. Esse vapor sobe, forma nuvens e,\nao condensar-se, retorna à superfície terrestre em forma\nde chuva no estado líquido, compondo rios, lagos,\noceanos, outros corpos d’água e reservatórios. Esse\nprocesso faz parte do ciclo da água, responsável pela\ncirculação da água no planeta.\nElaborado pelo autor para fins didáticos.",
-        "esfera da Terra diretamente relacionada ao fenômeno\ndescrito é a",
         "hidrosfera.",
         "atmosfera.",
-        "biosfera."
+        "biosfera.",
+        "litosfera. 7 de 13 6º ano DIA 2 - Prova Roxa - 2º BI"
       ]
     },
     {
@@ -2097,9 +2100,9 @@
     },
     {
       "number": 25,
-      "prompt": "Ao preparar suco de frutas, uma pessoa colocou cubos de gelo\nem um copo já cheio de líquido. Após ela adicionar o gelo,\nparte do suco transbordou do copo. Isso ocorreu porque o\ngelo ocupou espaço dentro do recipiente, deslocando o líquido\nque já estava ali.\nElaborado pelo autor para fins didáticos.",
+      "prompt": "Ao preparar suco de frutas, uma pessoa colocou cubos de gelo\nem um copo já cheio de líquido. Após ela adicionar o gelo,\nparte do suco transbordou do copo. Isso ocorreu porque o\ngelo ocupou espaço dentro do recipiente, deslocando o líquido\nque já estava ali.\nElaborado pelo autor para fins didáticos.\nA propriedade geral da matéria evidenciada na situação\ndescrita é a",
       "options": [
-        "propriedade geral da matéria evidenciada na situação descrita é a A impenetrabilidade, relacionada ao espaço ocupado pela matéria.",
+        "impenetrabilidade, relacionada ao espaço ocupado pela matéria.",
         "elasticidade, relacionada à capacidade da matéria de voltar ao seu estado inicial depois que uma força é aplicada a ela.",
         "densidade, relacionada à relação entre massa e volume.",
         "solubilidade, relacionada à capacidade de dissolver substâncias."
@@ -2107,9 +2110,9 @@
     },
     {
       "number": 26,
-      "prompt": "Após um banho quente, uma pessoa percebe que o\nespelho do banheiro fica embaçado e, depois de alguns\ninstantes, pequenas gotas de água se formam em sua\nsuperfície. Isso acontece porque o vapor de água presente\nno ar entra em contato com o espelho mais frio.",
+      "prompt": "Após um banho quente, uma pessoa percebe que o\nespelho do banheiro fica embaçado e, depois de alguns\ninstantes, pequenas gotas de água se formam em sua\nsuperfície. Isso acontece porque o vapor de água presente\nno ar entra em contato com o espelho mais frio.\nA transformação descrita corresponde ao processo de",
       "options": [
-        "transformação descrita corresponde ao processo de A sublimação, passagem do estado sólido para o gasoso.",
+        "sublimação, passagem do estado sólido para o gasoso.",
         "condensação, passagem do estado gasoso para o líquido.",
         "evaporação, passagem do estado líquido para o gasoso.",
         "solidificação, passagem do estado líquido para o sólido."
@@ -2137,9 +2140,9 @@
     },
     {
       "number": 29,
-      "prompt": "Em uma área próxima a uma cidade, uma região de mata\nfoi desmatada para a construção de moradias. Com o\ntempo, os moradores perceberam a diminuição de animais\ncomo aves e preás perto das residências e o aumento de\ninsetos como moscas e mosquitos. Esses efeitos mostram\ncomo as ações humanas podem interferir nas relações\nentre os seres vivos e o ambiente.",
+      "prompt": "Em uma área próxima a uma cidade, uma região de mata\nfoi desmatada para a construção de moradias. Com o\ntempo, os moradores perceberam a diminuição de animais\ncomo aves e preás perto das residências e o aumento de\ninsetos como moscas e mosquitos. Esses efeitos mostram\ncomo as ações humanas podem interferir nas relações\nentre os seres vivos e o ambiente.\nA esfera da Terra que está diretamente relacionada à\nsituação descrita é a",
       "options": [
-        "esfera da Terra que está diretamente relacionada à situação descrita é a A hidrosfera: o conjunto das águas do planeta, onde ocorre toda a vida.",
+        "hidrosfera: o conjunto das águas do planeta, onde ocorre toda a vida.",
         "biosfera: o conjunto de todas as regiões do planeta onde há seres vivos.",
         "atmosfera: a camada de gases da Terra, onde vivem todos os seres vivos.",
         "litosfera: a camada sólida da Terra, onde vivem apenas organismos do solo."
@@ -2147,24 +2150,22 @@
     },
     {
       "number": 30,
-      "prompt": "",
+      "prompt": "A ilustração mostra como os fósseis ficam conservados\nprincipalmente \nem \nrochas \nformadas \npor \nacúmulo \ne\ncompactação de areia, argila e calcário ao longo do tempo.\nEssa formação permite que os restos orgânicos de animais e\nvegetais sejam preservados, sem destruição por altas\ntemperaturas ou transformações intensas.\n© Freepik.\nO tipo de rocha descrito é",
       "options": [
-        "ilustração mostra como os fósseis ficam conservados\nprincipalmente\nem\nrochas\nformadas\npor\nacúmulo\ne\ncompactação de areia, argila e calcário ao longo do tempo.\nEssa formação permite que os restos orgânicos de animais e\nvegetais sejam preservados, sem destruição por altas\ntemperaturas ou transformações intensas.\n© Freepik.\nO tipo de rocha descrito é",
         "metamórfica.",
         "sedimentar.",
         "vulcânica.",
-        "ígnea.\n\n10 de 13\n6º ano DIA 2 - Prova Roxa - 2º BI"
+        "ígnea. 10 de 13 6º ano DIA 2 - Prova Roxa - 2º BI"
       ]
     },
     {
       "number": 31,
-      "prompt": "",
+      "prompt": "A rocha matriz é a rocha que dá origem ao solo. O calor, a\nágua, o vento e os seres vivos contribuem para a\nfragmentação das rochas em partículas menores. Essas\npartículas se acumulam e se misturam com matéria orgânica\nproveniente da decomposição de seres vivos, originando\ndiferentes camadas no perfil do solo, como no esquema.\n© Freepik.\nO processo descrito ocorre",
       "options": [
-        "rocha matriz é a rocha que dá origem ao solo. O calor, a\nágua, o vento e os seres vivos contribuem para a\nfragmentação das rochas em partículas menores. Essas\npartículas se acumulam e se misturam com matéria orgânica\nproveniente da decomposição de seres vivos, originando\ndiferentes camadas no perfil do solo, como no esquema.\n© Freepik.\nO processo descrito ocorre",
-        "ao longo do tempo, por meio do intemperismo com\nação de diversos fatores.",
-        "rapidamente, a partir do acúmulo de materiais\ntransportados pelo vento.",
-        "em pouco tempo, pela ação humana que transforma\nas rochas em solo.",
-        "demoradamente, apenas pela decomposição de\nmatéria orgânica."
+        "ao longo do tempo, por meio do intemperismo com ação de diversos fatores.",
+        "rapidamente, a partir do acúmulo de materiais transportados pelo vento.",
+        "em pouco tempo, pela ação humana que transforma as rochas em solo.",
+        "demoradamente, apenas pela decomposição de matéria orgânica."
       ]
     },
     {
@@ -2189,13 +2190,12 @@
     },
     {
       "number": 34,
-      "prompt": "",
+      "prompt": "A tragédia de Brumadinho aconteceu em janeiro de 2019\ncausando \no \nvazamento \nde \n12 \nmilhões \nde \nmetros\ncúbicos (m³) de rejeitos de minérios, uma avalanche de lama\ncontendo substâncias tóxicas.\nFERREIRA, Ivanir. Brumadinho, tragédia em curso: crescem adoecimentos psíquicos após\nrompimento de barragem. Jornal da USP, 5 nov. 2024. Disponível em:\nhttps://jornal.usp.br/ciencias/brumadinho-tragedia-em-curso-crescem-adoecimentos-\npsiquicos-apos-rompimento-de-barragem/. Acesso em: 27 mar. 2026 (adaptado).\nO \nvazamento \nde \nrejeitos \ndecorrentes \nda \nmineração,\nmencionado no texto, ocasiona",
       "options": [
-        "tragédia de Brumadinho aconteceu em janeiro de 2019\ncausando\no\nvazamento\nde\n12\nmilhões\nde\nmetros\ncúbicos (m³) de rejeitos de minérios, uma avalanche de lama\ncontendo substâncias tóxicas.\nFERREIRA, Ivanir. Brumadinho, tragédia em curso: crescem adoecimentos psíquicos após\nrompimento de barragem. Jornal da USP, 5 nov. 2024. Disponível em:\nhttps://jornal.usp.br/ciencias/brumadinho-tragedia-em-curso-crescem-adoecimentos-\npsiquicos-apos-rompimento-de-barragem/. Acesso em: 27 mar. 2026 (adaptado).\nO\nvazamento\nde\nrejeitos\ndecorrentes\nda\nmineração,\nmencionado no texto, ocasiona",
-        "recuperação do solo com a incorporação natural dos\nrejeitos de minérios.",
-        "contaminação do solo e da água pela presença de\nsubstâncias tóxicas.",
-        "melhoria da qualidade da água pela diluição dos\nrejeitos na avalanche.",
-        "aumento da fertilidade do solo devido à deposição\nde minerais."
+        "recuperação do solo com a incorporação natural dos rejeitos de minérios.",
+        "contaminação do solo e da água pela presença de substâncias tóxicas.",
+        "melhoria da qualidade da água pela diluição dos rejeitos na avalanche.",
+        "aumento da fertilidade do solo devido à deposição de minerais."
       ]
     },
     {
@@ -2342,9 +2342,9 @@
     },
     {
       "number": 9,
-      "prompt": "Durante a organização de uma olimpíada escolar,\na equipe responsável pelas inscrições preparou\num quadro com 120 vagas para os participantes.\nApós a primeira semana de inscrições, 30 vagas\njá haviam sido preenchidas.",
+      "prompt": "Durante a organização de uma olimpíada escolar,\na equipe responsável pelas inscrições preparou\num quadro com 120 vagas para os participantes.\nApós a primeira semana de inscrições, 30 vagas\njá haviam sido preenchidas.\nA \nporcentagem \nde \nvagas \npreenchidas\ncorresponde a:",
       "options": [
-        "porcentagem  de  vagas  preenchidas corresponde a: A 0,25%",
+        "0,25%",
         "2,5%",
         "4%",
         "25% 3 de 13 6º ano DIA 2 - Prova Roxa - 3º BI"
@@ -2352,9 +2352,9 @@
     },
     {
       "number": 10,
-      "prompt": "Em uma atividade de Ciências, os estudantes\nobservaram \no \nconsumo \nde \nágua \nde \num\nreservatório utilizado para irrigar a horta da\nescola. No início do dia, o reservatório continha\n200 litros de água. Ao final da atividade, verificou-\nse que 100 litros haviam sido utilizados.",
+      "prompt": "Em uma atividade de Ciências, os estudantes\nobservaram \no \nconsumo \nde \nágua \nde \num\nreservatório utilizado para irrigar a horta da\nescola. No início do dia, o reservatório continha\n200 litros de água. Ao final da atividade, verificou-\nse que 100 litros haviam sido utilizados.\nA porcentagem de água utilizada corresponde a:",
       "options": [
-        "porcentagem de água utilizada corresponde a: A 25%",
+        "25%",
         "50%",
         "75%",
         "100%"
@@ -2452,13 +2452,12 @@
     },
     {
       "number": 23,
-      "prompt": "",
+      "prompt": "A imagem representa as principais estruturas de\numa célula.\nO componente indicado pelo número 3\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa as principais estruturas de\numa célula.\nO componente indicado pelo número 3\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
         "confere proteção para a célula.",
         "delimita o meio intra e extracelular.",
         "controla o funcionamento da célula.",
-        "preenche os espaços internos da célula.\n\n7 de 13\n6º ano DIA 2 - Prova Roxa - 3º BI"
+        "preenche os espaços internos da célula. 7 de 13 6º ano DIA 2 - Prova Roxa - 3º BI"
       ]
     },
     {
@@ -2473,9 +2472,9 @@
     },
     {
       "number": 25,
-      "prompt": "O quadro apresenta as principais características\nde dois tipos de células.",
+      "prompt": "O quadro apresenta as principais características\nde dois tipos de células.\nA célula procarionte é descrita em",
       "options": [
-        "célula procarionte é descrita em A 1, pela presença de núcleo delimitado por membrana.",
+        "1, pela presença de núcleo delimitado por membrana.",
         "2, pela ocorrência de material genético dentro do núcleo.",
         "1, pela ausência de núcleo delimitado por uma membrana.",
         "2, pela presença de membrana plasmática delimitando a célula."
@@ -2483,24 +2482,22 @@
     },
     {
       "number": 26,
-      "prompt": "",
+      "prompt": "A imagem representa o paramécio, um tipo de\nprotozoário.\nConsiderando a estrutura indicada na imagem,\npode-se classificar esse ser vivo como\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa o paramécio, um tipo de\nprotozoário.\nConsiderando a estrutura indicada na imagem,\npode-se classificar esse ser vivo como\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
-        "procarionte, pela presença da membrana\nplasmática celular.",
-        "eucarionte, pela delimitação do núcleo por\numa membrana.",
-        "eucarionte,\npela\nausência\nde\nmaterial\ngenético na célula.",
-        "procarionte, pela ocorrência de organelas\nmembranosas.\n\n8 de 13\n6º ano DIA 2 - Prova Roxa - 3º BI"
+        "procarionte, pela presença da membrana plasmática celular.",
+        "eucarionte, pela delimitação do núcleo por uma membrana.",
+        "eucarionte,  pela  ausência  de  material genético na célula.",
+        "procarionte, pela ocorrência de organelas membranosas. 8 de 13 6º ano DIA 2 - Prova Roxa - 3º BI"
       ]
     },
     {
       "number": 27,
-      "prompt": "",
+      "prompt": "A imagem representa uma célula animal.\nA organela indicada pelo número 3 corresponde\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa uma célula animal.",
-        "organela indicada pelo número 3 corresponde\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
-        "à mitocôndria, que participa da produção de\nenergia.",
-        "ao centríolo, que atua na degradação de\nsubstâncias da célula.",
-        "ao complexo golgiense, que participa da\nprodução de proteínas."
+        "à mitocôndria, que participa da produção de energia.",
+        "ao centríolo, que atua na degradação de substâncias da célula.",
+        "ao complexo golgiense, que participa da produção de proteínas.",
+        "ao retículo endoplasmático granuloso, que armazena substâncias."
       ]
     },
     {
@@ -2515,20 +2512,19 @@
     },
     {
       "number": 29,
-      "prompt": "",
+      "prompt": "A ilustração mostra as principais estruturas de\numa célula vegetal.\nA organela indicada pelo número 3 e sua\nrespectiva função é\nDisponível em: https://www.magnific.com/. Acesso em: 05 jun. 2026.",
       "options": [
-        "ilustração mostra as principais estruturas de\numa célula vegetal.",
-        "organela indicada pelo número 3 e sua\nrespectiva função é\nDisponível em: https://www.magnific.com/. Acesso em: 05 jun. 2026.",
-        "o cloroplasto, que capta a luz solar durante a\nfotossíntese.",
-        "o centríolo, que participa da produção de\nenergia na célula.",
-        "a parede celular, que confere resistência e\nproteção à célula."
+        "o cloroplasto, que capta a luz solar durante a fotossíntese.",
+        "o centríolo, que participa da produção de energia na célula.",
+        "a parede celular, que confere resistência e proteção à célula.",
+        "o vacúolo, que atua no transporte e no processamento de proteínas."
       ]
     },
     {
       "number": 30,
-      "prompt": "Durante o desenvolvimento dos frutos de uma\nplanta, \nobservou-se \nque \nmuitas \ncélulas\naumentaram de tamanho devido à expansão de\nseus vacúolos centrais. Esse processo contribui\npara o crescimento dos frutos.",
+      "prompt": "Durante o desenvolvimento dos frutos de uma\nplanta, \nobservou-se \nque \nmuitas \ncélulas\naumentaram de tamanho devido à expansão de\nseus vacúolos centrais. Esse processo contribui\npara o crescimento dos frutos.\nA função dos vacúolos relacionada a esse\nprocesso é",
       "options": [
-        "função dos vacúolos relacionada a esse processo é A produzir energia para a célula.",
+        "produzir energia para a célula.",
         "armazenar água e outras substâncias.",
         "controlar a divisão celular.",
         "realizar a fotossíntese."
@@ -2546,9 +2542,9 @@
     },
     {
       "number": 32,
-      "prompt": "É natural que todo alimento tenha um prazo\nadequado para consumo, afinal tudo se deteriora.\nQuando você percebe que o pão mofou, por\nexemplo, é natural que haja dúvidas acerca do\nque fazer com o item nesse estado.\nQuando o mofo chega ao alimento, a única\nalternativa recomendada é o descarte, pois, como\nmencionado anteriormente, o alimento pode estar\ncontaminado por inteiro, ainda que apenas\nalgumas partes estejam visivelmente afetadas.",
+      "prompt": "É natural que todo alimento tenha um prazo\nadequado para consumo, afinal tudo se deteriora.\nQuando você percebe que o pão mofou, por\nexemplo, é natural que haja dúvidas acerca do\nque fazer com o item nesse estado.\nQuando o mofo chega ao alimento, a única\nalternativa recomendada é o descarte, pois, como\nmencionado anteriormente, o alimento pode estar\ncontaminado por inteiro, ainda que apenas\nalgumas partes estejam visivelmente afetadas.\nA situação descrita no texto é causada por\nRADAR. O pão mofou, e agora? Saiba o que fazer. Disponível em: https://tinyurl.com/fw9t5jka. Acesso em: 05 jun. 2026\n(adaptado).",
       "options": [
-        "situação descrita no texto é causada por RADAR. O pão mofou, e agora? Saiba o que fazer. Disponível em: https://tinyurl.com/fw9t5jka. Acesso em: 05 jun. 2026 (adaptado). A bactérias,  seres  procariontes  que transmitem doenças.",
+        "bactérias,  seres  procariontes  que transmitem doenças.",
         "plantas, seres procariontes que produzem os alimentos.",
         "fungos, seres eucariontes que decompõem a matéria orgânica.",
         "protozoários, seres eucariontes que fazem a ciclagem de nutrientes."
@@ -2556,13 +2552,12 @@
     },
     {
       "number": 33,
-      "prompt": "",
+      "prompt": "A \ndoença \nde \nChagas \né \ncausada \npelo\ntripanossomo, que está representado na imagem\na seguir.\nConsiderando as características celulares desse\norganismo, pode-se classificá-lo como um ser vivo\nDisponível em: https://tinyurl.com/59a27mvk. Acesso em: 05 jun. 2026.",
       "options": [
-        "doença\nde\nChagas\né\ncausada\npelo\ntripanossomo, que está representado na imagem",
-        "seguir.\nConsiderando as características celulares desse\norganismo, pode-se classificá-lo como um ser vivo\nDisponível em: https://tinyurl.com/59a27mvk. Acesso em: 05 jun. 2026.",
         "unicelular procarionte, sendo um fungo.",
         "multicelular eucarionte, sendo uma alga.",
-        "multicelular\nprocarionte,\nsendo\numa\nbactéria."
+        "multicelular  procarionte,  sendo  uma bactéria.",
+        "unicelular eucarionte, sendo um protozoário. 11 de 13 6º ano DIA 2 - Prova Roxa - 3º BI"
       ]
     },
     {
@@ -2577,13 +2572,12 @@
     },
     {
       "number": 35,
-      "prompt": "",
+      "prompt": "A ilustração representa algumas estruturas do\ncorpo humano.\nA seta indica para uma estrutura que corresponde\nao nível hierárquico denominado\nDisponível em: https://www.magnific.com. Acesso em: 05 jun. 2026.",
       "options": [
-        "ilustração representa algumas estruturas do\ncorpo humano.",
-        "seta indica para uma estrutura que corresponde\nao nível hierárquico denominado\nDisponível em: https://www.magnific.com. Acesso em: 05 jun. 2026.",
         "órgão.",
         "célula.",
-        "tecido."
+        "tecido.",
+        "organismo. 12 de 13 6º ano DIA 2 - Prova Roxa - 3º BI Língua Inglesa"
       ]
     },
     {
@@ -2628,9 +2622,9 @@
     },
     {
       "number": 40,
-      "prompt": "Carlos has a simple daily routine. First, he wakes\nup at 6:30 a.m. and brushes his teeth. He has\nbreakfast at 7:00 a.m. After that, he goes to\nschool with his sister. Then, he does his homework\nin the afternoon. Finally, he has dinner and goes to\nbed at 9:30 p.m.\nElaborado pelo autor para fins didáticos.",
+      "prompt": "Carlos has a simple daily routine. First, he wakes\nup at 6:30 a.m. and brushes his teeth. He has\nbreakfast at 7:00 a.m. After that, he goes to\nschool with his sister. Then, he does his homework\nin the afternoon. Finally, he has dinner and goes to\nbed at 9:30 p.m.\nElaborado pelo autor para fins didáticos.\nA expressão em destaque after that  foi utilizada\npara:",
       "options": [
-        "expressão em destaque after that  foi utilizada para: A indicar a primeira atividade que Carlos faz ao acordar.",
+        "indicar a primeira atividade que Carlos faz ao acordar.",
         "mostrar o que Carlos faz depois de tomar café da manhã.",
         "apresentar a última atividade do dia de Carlos.",
         "explicar por que Carlos vai para a escola com a irmã."
@@ -2760,9 +2754,9 @@
     },
     {
       "number": 16,
-      "prompt": "Durante a organização de uma olimpíada escolar,\na equipe responsável pelas inscrições preparou\num quadro com 120 vagas para os participantes.\nApós a primeira semana de inscrições, 30 vagas\njá haviam sido preenchidas.",
+      "prompt": "Durante a organização de uma olimpíada escolar,\na equipe responsável pelas inscrições preparou\num quadro com 120 vagas para os participantes.\nApós a primeira semana de inscrições, 30 vagas\njá haviam sido preenchidas.\nA \nporcentagem \nde \nvagas \npreenchidas\ncorresponde a:",
       "options": [
-        "porcentagem  de  vagas  preenchidas corresponde a: A 0,25%",
+        "0,25%",
         "2,5%",
         "4%",
         "25%"
@@ -2790,9 +2784,9 @@
     },
     {
       "number": 19,
-      "prompt": "Em uma atividade de Ciências, os estudantes\nobservaram \no \nconsumo \nde \nágua \nde \num\nreservatório utilizado para irrigar a horta da\nescola. No início do dia, o reservatório continha\n200 litros de água. Ao final da atividade, verificou-\nse que 100 litros haviam sido utilizados.",
+      "prompt": "Em uma atividade de Ciências, os estudantes\nobservaram \no \nconsumo \nde \nágua \nde \num\nreservatório utilizado para irrigar a horta da\nescola. No início do dia, o reservatório continha\n200 litros de água. Ao final da atividade, verificou-\nse que 100 litros haviam sido utilizados.\nA porcentagem de água utilizada corresponde a:",
       "options": [
-        "porcentagem de água utilizada corresponde a: A 25%",
+        "25%",
         "50%",
         "75%",
         "100%"
@@ -2820,31 +2814,29 @@
     },
     {
       "number": 22,
-      "prompt": "",
+      "prompt": "A imagem representa o paramécio, um tipo de\nprotozoário.\nConsiderando a estrutura indicada na imagem,\npode-se classificar esse ser vivo como\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa o paramécio, um tipo de\nprotozoário.\nConsiderando a estrutura indicada na imagem,\npode-se classificar esse ser vivo como\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
-        "procarionte, pela presença da membrana\nplasmática celular.",
-        "eucarionte, pela delimitação do núcleo por\numa membrana.",
-        "eucarionte,\npela\nausência\nde\nmaterial\ngenético na célula.",
-        "procarionte, pela ocorrência de organelas\nmembranosas."
+        "procarionte, pela presença da membrana plasmática celular.",
+        "eucarionte, pela delimitação do núcleo por uma membrana.",
+        "eucarionte,  pela  ausência  de  material genético na célula.",
+        "procarionte, pela ocorrência de organelas membranosas."
       ]
     },
     {
       "number": 23,
-      "prompt": "",
+      "prompt": "A ilustração mostra as principais estruturas de\numa célula vegetal.\nA organela indicada pelo número 3 e sua\nrespectiva função é\nDisponível em: https://www.magnific.com/. Acesso em: 05 jun. 2026.",
       "options": [
-        "ilustração mostra as principais estruturas de\numa célula vegetal.",
-        "organela indicada pelo número 3 e sua\nrespectiva função é\nDisponível em: https://www.magnific.com/. Acesso em: 05 jun. 2026.",
-        "o cloroplasto, que capta a luz solar durante a\nfotossíntese.",
-        "o centríolo, que participa da produção de\nenergia na célula.",
-        "a parede celular, que confere resistência e\nproteção à célula."
+        "o cloroplasto, que capta a luz solar durante a fotossíntese.",
+        "o centríolo, que participa da produção de energia na célula.",
+        "a parede celular, que confere resistência e proteção à célula.",
+        "o vacúolo, que atua no transporte e no processamento de proteínas. 7 de 13 6º ano DIA 2 - Prova Verde - 3º BI"
       ]
     },
     {
       "number": 24,
-      "prompt": "É natural que todo alimento tenha um prazo\nadequado para consumo, afinal tudo se deteriora.\nQuando você percebe que o pão mofou, por\nexemplo, é natural que haja dúvidas acerca do\nque fazer com o item nesse estado.\nQuando o mofo chega ao alimento, a única\nalternativa recomendada é o descarte, pois, como\nmencionado anteriormente, o alimento pode estar\ncontaminado por inteiro, ainda que apenas\nalgumas partes estejam visivelmente afetadas.",
+      "prompt": "É natural que todo alimento tenha um prazo\nadequado para consumo, afinal tudo se deteriora.\nQuando você percebe que o pão mofou, por\nexemplo, é natural que haja dúvidas acerca do\nque fazer com o item nesse estado.\nQuando o mofo chega ao alimento, a única\nalternativa recomendada é o descarte, pois, como\nmencionado anteriormente, o alimento pode estar\ncontaminado por inteiro, ainda que apenas\nalgumas partes estejam visivelmente afetadas.\nA situação descrita no texto é causada por\nRADAR. O pão mofou, e agora? Saiba o que fazer. Disponível em: https://tinyurl.com/fw9t5jka. Acesso em: 05 jun. 2026\n(adaptado).",
       "options": [
-        "situação descrita no texto é causada por RADAR. O pão mofou, e agora? Saiba o que fazer. Disponível em: https://tinyurl.com/fw9t5jka. Acesso em: 05 jun. 2026 (adaptado). A bactérias,  seres  procariontes  que transmitem doenças.",
+        "bactérias,  seres  procariontes  que transmitem doenças.",
         "plantas, seres procariontes que produzem os alimentos.",
         "fungos, seres eucariontes que decompõem a matéria orgânica.",
         "protozoários, seres eucariontes que fazem a ciclagem de nutrientes."
@@ -2872,9 +2864,8 @@
     },
     {
       "number": 27,
-      "prompt": "",
+      "prompt": "A imagem representa as principais estruturas de\numa célula.\nO componente indicado pelo número 3\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa as principais estruturas de\numa célula.\nO componente indicado pelo número 3\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
         "confere proteção para a célula.",
         "delimita o meio intra e extracelular.",
         "controla o funcionamento da célula.",
@@ -2893,24 +2884,22 @@
     },
     {
       "number": 29,
-      "prompt": "",
+      "prompt": "A imagem representa uma célula animal.\nA organela indicada pelo número 3 corresponde\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa uma célula animal.",
-        "organela indicada pelo número 3 corresponde\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
-        "à mitocôndria, que participa da produção de\nenergia.",
-        "ao centríolo, que atua na degradação de\nsubstâncias da célula.",
-        "ao complexo golgiense, que participa da\nprodução de proteínas."
+        "à mitocôndria, que participa da produção de energia.",
+        "ao centríolo, que atua na degradação de substâncias da célula.",
+        "ao complexo golgiense, que participa da produção de proteínas.",
+        "ao retículo endoplasmático granuloso, que armazena substâncias."
       ]
     },
     {
       "number": 30,
-      "prompt": "",
+      "prompt": "A ilustração representa algumas estruturas do\ncorpo humano.\nA seta indica para uma estrutura que corresponde\nao nível hierárquico denominado\nDisponível em: https://www.magnific.com. Acesso em: 05 jun. 2026.",
       "options": [
-        "ilustração representa algumas estruturas do\ncorpo humano.",
-        "seta indica para uma estrutura que corresponde\nao nível hierárquico denominado\nDisponível em: https://www.magnific.com. Acesso em: 05 jun. 2026.",
         "órgão.",
         "célula.",
-        "tecido."
+        "tecido.",
+        "organismo. 10 de 13 6º ano DIA 2 - Prova Verde - 3º BI"
       ]
     },
     {
@@ -2925,9 +2914,9 @@
     },
     {
       "number": 32,
-      "prompt": "Durante o desenvolvimento dos frutos de uma\nplanta, \nobservou-se \nque \nmuitas \ncélulas\naumentaram de tamanho devido à expansão de\nseus vacúolos centrais. Esse processo contribui\npara o crescimento dos frutos.",
+      "prompt": "Durante o desenvolvimento dos frutos de uma\nplanta, \nobservou-se \nque \nmuitas \ncélulas\naumentaram de tamanho devido à expansão de\nseus vacúolos centrais. Esse processo contribui\npara o crescimento dos frutos.\nA função dos vacúolos relacionada a esse\nprocesso é",
       "options": [
-        "função dos vacúolos relacionada a esse processo é A produzir energia para a célula.",
+        "produzir energia para a célula.",
         "armazenar água e outras substâncias.",
         "controlar a divisão celular.",
         "realizar a fotossíntese."
@@ -2945,20 +2934,19 @@
     },
     {
       "number": 34,
-      "prompt": "",
+      "prompt": "A \ndoença \nde \nChagas \né \ncausada \npelo\ntripanossomo, que está representado na imagem\na seguir.\nConsiderando as características celulares desse\norganismo, pode-se classificá-lo como um ser vivo\nDisponível em: https://tinyurl.com/59a27mvk. Acesso em: 05 jun. 2026.",
       "options": [
-        "doença\nde\nChagas\né\ncausada\npelo\ntripanossomo, que está representado na imagem",
-        "seguir.\nConsiderando as características celulares desse\norganismo, pode-se classificá-lo como um ser vivo\nDisponível em: https://tinyurl.com/59a27mvk. Acesso em: 05 jun. 2026.",
         "unicelular procarionte, sendo um fungo.",
         "multicelular eucarionte, sendo uma alga.",
-        "multicelular\nprocarionte,\nsendo\numa\nbactéria."
+        "multicelular  procarionte,  sendo  uma bactéria.",
+        "unicelular eucarionte, sendo um protozoário."
       ]
     },
     {
       "number": 35,
-      "prompt": "O quadro apresenta as principais características\nde dois tipos de células.",
+      "prompt": "O quadro apresenta as principais características\nde dois tipos de células.\nA célula procarionte é descrita em",
       "options": [
-        "célula procarionte é descrita em A 1, pela presença de núcleo delimitado por membrana.",
+        "1, pela presença de núcleo delimitado por membrana.",
         "2, pela ocorrência de material genético dentro do núcleo.",
         "1, pela ausência de núcleo delimitado por uma membrana.",
         "2, pela presença de membrana plasmática delimitando a célula. 12 de 13 6º ano DIA 2 - Prova Verde - 3º BI Língua Inglesa"
@@ -2966,9 +2954,9 @@
     },
     {
       "number": 36,
-      "prompt": "Carlos has a simple daily routine. First, he wakes\nup at 6:30 a.m. and brushes his teeth. He has\nbreakfast at 7:00 a.m. After that, he goes to\nschool with his sister. Then, he does his homework\nin the afternoon. Finally, he has dinner and goes to\nbed at 9:30 p.m.\nElaborado pelo autor para fins didáticos.",
+      "prompt": "Carlos has a simple daily routine. First, he wakes\nup at 6:30 a.m. and brushes his teeth. He has\nbreakfast at 7:00 a.m. After that, he goes to\nschool with his sister. Then, he does his homework\nin the afternoon. Finally, he has dinner and goes to\nbed at 9:30 p.m.\nElaborado pelo autor para fins didáticos.\nA expressão em destaque after that  foi utilizada\npara:",
       "options": [
-        "expressão em destaque after that  foi utilizada para: A indicar a primeira atividade que Carlos faz ao acordar.",
+        "indicar a primeira atividade que Carlos faz ao acordar.",
         "mostrar o que Carlos faz depois de tomar café da manhã.",
         "apresentar a última atividade do dia de Carlos.",
         "explicar por que Carlos vai para a escola com a irmã."
