@@ -1660,9 +1660,9 @@
     },
     {
       "number": 8,
-      "prompt": "Leia as manchetes para responder à questão.\nTexto 1\nEntre quadras e pausas: esportes viram refúgio da\nvida online\nMARIANA, P. Entre quadras e pausas: esportes viram refúgio da vida online. Giro, 27 maio\n2026. Disponível em: https://tinyurl.com/3a8davhw. Acesso em: 05 jun. 2026.\nTexto 2",
+      "prompt": "Leia as manchetes para responder à questão.\nTexto 1\nEntre quadras e pausas: esportes viram refúgio da\nvida online\nMARIANA, P. Entre quadras e pausas: esportes viram refúgio da vida online. Giro, 27 maio\n2026. Disponível em: https://tinyurl.com/3a8davhw. Acesso em: 05 jun. 2026.\nTexto 2\nA história de um “Jordan”: como o esporte é fuga\nde vícios e muda vidas na sociedade\nSASSO, L. A história de um \"Jordan\": como o esporte é fuga de vícios e muda vidas na\nsociedade. \nContraponto \nDigital, \n11 \nmaio \n2020. \nDisponível \nem:\nhttps://tinyurl.com/4we68r2r. Acesso em: 05 jun. 2026.\nAo comparar as duas manchetes, entende-se que o Texto 2",
       "options": [
-        "história de um “Jordan”: como o esporte é fuga de vícios e muda vidas na sociedade SASSO, L. A história de um \"Jordan\": como o esporte é fuga de vícios e muda vidas na sociedade.  Contraponto  Digital,  11  maio  2020.  Disponível  em: https://tinyurl.com/4we68r2r. Acesso em: 05 jun. 2026. Ao comparar as duas manchetes, entende-se que o Texto 2 A contraria as informações apresentadas no Texto 1.",
+        "contraria as informações apresentadas no Texto 1.",
         "apresenta um exemplo relacionado ao tema do Texto 1.",
         "desmente as informações apresentadas no Texto 1.",
         "apresenta um assunto sem relação com o Texto 1."
@@ -1710,9 +1710,9 @@
     },
     {
       "number": 13,
-      "prompt": "Leia o trecho de uma autobiografia para responder à questão.\nSem rumo, sem dinheiro, sem condições nenhuma para\nnos criar, minha mãe fazia bicos de trabalho. Nossa comida\nbásica era arroz, feijão e ovos e, às vezes, salsichas. Foi,\nentão, que meu tio me ajudou e me efetivou na feira. A\npartir disso, meus horários mudaram.\nEu iniciava minha jornada de trabalho 3h30 da manhã e\nmuitas vezes passava frio, pois o inverno de Curitiba era\nmuito rigoroso. Eu e o irmão do meu tio, Nencho, fazíamos\ntudo \nlogo \ncedo: \ndescarregávamos \no \ncaminhão \ne\nmontávamos a barraca recheada de frutas. Meu tio\nchegava às 7h00 com sua garrafa de café e rapidamente\nme mandava buscar pastel. Eu sempre ficava torcendo\npara ele chegar logo; era o melhor momento do meu dia:\ncomer pastel! E até hoje, quando vejo uma feira, paro para\ncomer pelo menos um pastel.\nAMARAL, Amarildo Souza do. 1%: a vitória do Improvável. Curitiba: Appris, 2025. [E-book]",
+      "prompt": "Leia o trecho de uma autobiografia para responder à questão.\nSem rumo, sem dinheiro, sem condições nenhuma para\nnos criar, minha mãe fazia bicos de trabalho. Nossa comida\nbásica era arroz, feijão e ovos e, às vezes, salsichas. Foi,\nentão, que meu tio me ajudou e me efetivou na feira. A\npartir disso, meus horários mudaram.\nEu iniciava minha jornada de trabalho 3h30 da manhã e\nmuitas vezes passava frio, pois o inverno de Curitiba era\nmuito rigoroso. Eu e o irmão do meu tio, Nencho, fazíamos\ntudo \nlogo \ncedo: \ndescarregávamos \no \ncaminhão \ne\nmontávamos a barraca recheada de frutas. Meu tio\nchegava às 7h00 com sua garrafa de café e rapidamente\nme mandava buscar pastel. Eu sempre ficava torcendo\npara ele chegar logo; era o melhor momento do meu dia:\ncomer pastel! E até hoje, quando vejo uma feira, paro para\ncomer pelo menos um pastel.\nAMARAL, Amarildo Souza do. 1%: a vitória do Improvável. Curitiba: Appris, 2025. [E-book]\nA expressão figurada “o melhor momento do meu dia”,\nutilizada por Amarildo, demonstra que ele",
       "options": [
-        "expressão figurada “o melhor momento do meu dia”, utilizada por Amarildo, demonstra que ele A ficava muito feliz quando podia comer pastel.",
+        "ficava muito feliz quando podia comer pastel.",
         "sentia orgulho por acordar de madrugada.",
         "considerava o trabalho na feira divertido.",
         "gostava mais de descarregar o caminhão do tio."
@@ -1750,9 +1750,9 @@
     },
     {
       "number": 17,
-      "prompt": "Autobiografia, de Agatha Christie\nÉ difícil saber qual é nossa primeira recordação. Lembro\ndistintamente o dia em que completei três anos. Lembro-me\nde quanto me senti importante. Tomávamos o chá no jardim –\numa parte do jardim em que, anos mais tarde, uma rede\nbalançava, suspensa entre duas árvores.",
+      "prompt": "Autobiografia, de Agatha Christie\nÉ difícil saber qual é nossa primeira recordação. Lembro\ndistintamente o dia em que completei três anos. Lembro-me\nde quanto me senti importante. Tomávamos o chá no jardim –\numa parte do jardim em que, anos mais tarde, uma rede\nbalançava, suspensa entre duas árvores.\nA mesa estava repleta de doces, o bolo de aniversário era\ncoberto de glacê e exibia as tradicionais velas. Três velas. E\numa excitante ocorrência: uma minúscula aranha vermelha,\ntão pequena que eu mal podia enxergá-la, surgira correndo\npela toalha. Encantador, seguro e, no entanto, excitante\nmundo da infância! Em meu mundo, talvez a coisa mais\nabsorvente fosse o jardim. Cada ano que passava, esse jardim\nsignificava mais para mim.\nFonte: CHRISTIE, A. Autobiografia. Tradução Maria Helena Trigueiros. São Paulo: Círculo do\nLivro, 1985.\nEsse texto é uma autobiografia porque apresenta",
       "options": [
-        "mesa estava repleta de doces, o bolo de aniversário era coberto de glacê e exibia as tradicionais velas. Três velas. E uma excitante ocorrência: uma minúscula aranha vermelha, tão pequena que eu mal podia enxergá-la, surgira correndo pela toalha. Encantador, seguro e, no entanto, excitante mundo da infância! Em meu mundo, talvez a coisa mais absorvente fosse o jardim. Cada ano que passava, esse jardim significava mais para mim. Fonte: CHRISTIE, A. Autobiografia. Tradução Maria Helena Trigueiros. São Paulo: Círculo do Livro, 1985. Esse texto é uma autobiografia porque apresenta A instruções sobre como organizar uma festa de aniversário.",
+        "instruções sobre como organizar uma festa de aniversário.",
         "lembranças da infância narradas pela própria autora.",
         "informações sobre a vida da autora narradas por outra pessoa.",
         "fatos recentes da vida da autora para informar os leitores."
@@ -1820,9 +1820,9 @@
     },
     {
       "number": 24,
-      "prompt": "No final da República Romana, Júlio César, Pompeu e\nCrasso eram três dos homens mais influentes de Roma. O\nPrimeiro Triunvirato surgiu nesse período, marcado por\ndisputas e alianças entre os líderes romanos.",
+      "prompt": "No final da República Romana, Júlio César, Pompeu e\nCrasso eram três dos homens mais influentes de Roma. O\nPrimeiro Triunvirato surgiu nesse período, marcado por\ndisputas e alianças entre os líderes romanos.\nA \nanálise \nda \nimagem \npermite \ncompreender \nessa\nexperiência política como forma de",
       "options": [
-        "análise  da  imagem  permite  compreender  essa experiência política como forma de A composição democrática de líderes eleitos pelo povo.",
+        "composição democrática de líderes eleitos pelo povo.",
         "governo legislativo e gestão pública no império romano.",
         "organização das leis que regem a república romana.",
         "aliança política entre líderes pelo poder em Roma."
@@ -1880,9 +1880,9 @@
     },
     {
       "number": 30,
-      "prompt": "Depois de organizar a cidade, Rômulo criou um conselho\nformado por cem cidadãos escolhidos para atuar como\nsenadores. Esses homens receberam grande prestígio na\nsociedade romana e passaram a ser chamados de\npatrícios. Seus descendentes também ficaram conhecidos\npor esse nome.\nLÍVIO, T. História de Roma: volume primeiro. São Paulo: Paumape, 1989 (adaptado).",
+      "prompt": "Depois de organizar a cidade, Rômulo criou um conselho\nformado por cem cidadãos escolhidos para atuar como\nsenadores. Esses homens receberam grande prestígio na\nsociedade romana e passaram a ser chamados de\npatrícios. Seus descendentes também ficaram conhecidos\npor esse nome.\nLÍVIO, T. História de Roma: volume primeiro. São Paulo: Paumape, 1989 (adaptado).\nA origem dos patrícios na Roma Antiga, apresentada no\ntexto, mostra que eles eram um grupo com",
       "options": [
-        "origem dos patrícios na Roma Antiga, apresentada no texto, mostra que eles eram um grupo com A os mesmos direitos políticos.",
+        "os mesmos direitos políticos.",
         "igual participação no governo.",
         "maiores privilégios e prestígio.",
         "poucos privilégios e poder político."
@@ -1950,9 +1950,9 @@
     },
     {
       "number": 37,
-      "prompt": "Observe a imagem.\nDisponível em: https://tinyurl.com/46h498b4. Acesso em: 01 jun. 2026.",
+      "prompt": "Observe a imagem.\nDisponível em: https://tinyurl.com/46h498b4. Acesso em: 01 jun. 2026.\nA imagem representa a incidência dos raios solares sobre a\nTerra e a localização de linhas imaginárias, como o\nEquador e os trópicos. Essa representação ajuda a\ncompreender por que determinadas regiões do planeta\napresentam temperaturas mais elevadas ao longo do ano.\nCom base na imagem, a zona intertropical apresenta\npredominantemente climas",
       "options": [
-        "imagem representa a incidência dos raios solares sobre a Terra e a localização de linhas imaginárias, como o Equador e os trópicos. Essa representação ajuda a compreender por que determinadas regiões do planeta apresentam temperaturas mais elevadas ao longo do ano. Com base na imagem, a zona intertropical apresenta predominantemente climas A árido e frio polar.",
+        "árido e frio polar.",
         "polar e temperado.",
         "equatorial e tropical.",
         "frio de montanha e mediterrâneo."
@@ -2012,9 +2012,9 @@
     },
     {
       "number": 3,
-      "prompt": "Leia o texto para responder à questão.\nRobô da criadora do ChatGPT que gera vídeos com IA a\npartir de textos comete gafes\nPor g1 | 16/02/2024 08h47",
+      "prompt": "Leia o texto para responder à questão.\nRobô da criadora do ChatGPT que gera vídeos com IA a\npartir de textos comete gafes\nPor g1 | 16/02/2024 08h47\nA OpenAI, dona do robô ChatGPT, anunciou seu mais novo\nmodelo de inteligência artificial (IA) que gera vídeos de até\n60 segundos a partir de texto curtos. A tecnologia,\nbatizada de Sora, impressiona por criar imagens realistas,\nsó que, em alguns casos, ela apresenta erros bizarros. [...]\nSegundo a OpenAI, o Sora pode ter dificuldade para\nreproduzir a física de uma cena complexa e pode não\nentender lógicas de causa e efeito. \"Por exemplo, uma\npessoa pode dar uma mordida em um biscoito, mas depois\no biscoito não ter marca de mordida\", explica.\n\"O modelo também pode confundir detalhes espaciais de\num 'prompt', por exemplo, misturando direita e esquerda, e\npode ter dificuldades com descrições precisas de eventos\nque ocorrem ao longo do tempo, como seguir uma\ntrajetória específica de câmera.\"\nDisponível em: <https://encurtador.com.br/sDEN9>. Acesso em: 14 nov. 2025. Adaptado.\nO tema abordado no texto é:",
       "options": [
-        "OpenAI, dona do robô ChatGPT, anunciou seu mais novo modelo de inteligência artificial (IA) que gera vídeos de até 60 segundos a partir de texto curtos. A tecnologia, batizada de Sora, impressiona por criar imagens realistas, só que, em alguns casos, ela apresenta erros bizarros. [...] Segundo a OpenAI, o Sora pode ter dificuldade para reproduzir a física de uma cena complexa e pode não entender lógicas de causa e efeito. \"Por exemplo, uma pessoa pode dar uma mordida em um biscoito, mas depois o biscoito não ter marca de mordida\", explica. \"O modelo também pode confundir detalhes espaciais de um 'prompt', por exemplo, misturando direita e esquerda, e pode ter dificuldades com descrições precisas de eventos que ocorrem ao longo do tempo, como seguir uma trajetória específica de câmera.\" Disponível em: <https://encurtador.com.br/sDEN9>. Acesso em: 14 nov. 2025. Adaptado. O tema abordado no texto é: A A dificuldade de um robô em criar conteúdo textual realista.",
+        "dificuldade de um robô em criar conteúdo textual realista.",
         "O impacto da inteligência artificial para empresas de marketing.",
         "inteligência artificial pode criar alguns vídeos com erros.",
         "O prejuízo financeiro gerado pelos erros bizarros de um robô."
@@ -2022,9 +2022,9 @@
     },
     {
       "number": 4,
-      "prompt": "Leia o texto para responder à questão.\nOs perfumes da terra\nJá falei do perfume de jasmim? Já falei do cheiro do mar?",
+      "prompt": "Leia o texto para responder à questão.\nOs perfumes da terra\nJá falei do perfume de jasmim? Já falei do cheiro do mar?\nA terra é perfumada. E eu me perfumo para intensificar o\nque sou.\nDisponível em: https://encurtador.com.br/szng4 . Acesso em: 28 nov. 2024.\nNa crônica jornalística de Clarice Lispector, sentimentos\nsão despertados no leitor por meio de um substantivo,\ncomo a palavra",
       "options": [
-        "terra é perfumada. E eu me perfumo para intensificar o que sou. Disponível em: https://encurtador.com.br/szng4 . Acesso em: 28 nov. 2024. Na crônica jornalística de Clarice Lispector, sentimentos são despertados no leitor por meio de um substantivo, como a palavra A falei.",
+        "falei.",
         "intensificar.",
         "para.",
         "perfumes. 3 de 14 6º ano DIA 1 - Prova Roxa"
@@ -2032,9 +2032,9 @@
     },
     {
       "number": 5,
-      "prompt": "Basquete Master Feminino de Bauru estreia no\nBrasileiro 40+\nPor Douglas Willian | da Redação | 14.11.2025\nPela primeira vez na história, a equipe de Basquete Master\nFeminino de Bauru (ADEMF) participará do Campeonato\nBrasileiro Master na categoria 40+. O torneio será realizado\nentre os dias 14 e 22 de novembro de 2025, em Maceió\n(AL), e marcará também os 40 anos da Federação\nBrasileira de Basquete Master (FBBM).\n“Para nossas jogadoras, essa participação é mais do que\num campeonato. É a realização de um sonho coletivo,\nconstruído com esforço, amizade e paixão pelo basquete”,\nafirma a técnica Tininha.",
+      "prompt": "Basquete Master Feminino de Bauru estreia no\nBrasileiro 40+\nPor Douglas Willian | da Redação | 14.11.2025\nPela primeira vez na história, a equipe de Basquete Master\nFeminino de Bauru (ADEMF) participará do Campeonato\nBrasileiro Master na categoria 40+. O torneio será realizado\nentre os dias 14 e 22 de novembro de 2025, em Maceió\n(AL), e marcará também os 40 anos da Federação\nBrasileira de Basquete Master (FBBM).\n“Para nossas jogadoras, essa participação é mais do que\num campeonato. É a realização de um sonho coletivo,\nconstruído com esforço, amizade e paixão pelo basquete”,\nafirma a técnica Tininha.\nA estreia marca um passo importante para o crescimento\ndo basquete master feminino e celebra a paixão pelo\nesporte que atravessa gerações. O torneio reunirá equipes\nde todo o país nas categorias feminina e masculina.\nDisponível em: https://sampi.net.br/bauru/noticias/2942619/esporte/2025/11/basquete-\nmaster-feminino-de-bauru-estreia-no-brasileiro-40. Acesso em: 14 nov. 2025. Adaptado.\nO fato é algo que pode ser comprovado, e não o que\nalguém pensa, sente ou acredita. Há um fato presente no\nseguinte trecho do texto:",
       "options": [
-        "estreia marca um passo importante para o crescimento do basquete master feminino e celebra a paixão pelo esporte que atravessa gerações. O torneio reunirá equipes de todo o país nas categorias feminina e masculina. Disponível em: https://sampi.net.br/bauru/noticias/2942619/esporte/2025/11/basquete- master-feminino-de-bauru-estreia-no-brasileiro-40. Acesso em: 14 nov. 2025. Adaptado. O fato é algo que pode ser comprovado, e não o que alguém pensa, sente ou acredita. Há um fato presente no seguinte trecho do texto: A “Para nossas jogadoras, essa participação é mais do que um campeonato.”.",
+        "“Para nossas jogadoras, essa participação é mais do que um campeonato.”.",
         "“A equipe de Basquete Master Feminino de Bauru participará do Campeonato”.",
         "“É a realização de um sonho coletivo, construído com esforço, amizade e paixão”.",
         "“A estreia marca um passo importante para o crescimento do basquete master feminino”."
@@ -2042,9 +2042,9 @@
     },
     {
       "number": 6,
-      "prompt": "Leia a oração considerando as sílabas tônicas das palavras para responder\nà questão.\nO grupo treina intensamente no ginásio.\nDisponível em: https://sampi.net.br/bauru/noticias/2942619/esporte/2025/11/basquete-\nmaster-feminino-de-bauru-estreia-no-brasileiro-40. Acesso em: 14 nov. 2025. Adaptado.",
+      "prompt": "Leia a oração considerando as sílabas tônicas das palavras para responder\nà questão.\nO grupo treina intensamente no ginásio.\nDisponível em: https://sampi.net.br/bauru/noticias/2942619/esporte/2025/11/basquete-\nmaster-feminino-de-bauru-estreia-no-brasileiro-40. Acesso em: 14 nov. 2025. Adaptado.\nA palavra a seguir que possui a indicação da sílaba tônica\ncorreta é:",
       "options": [
-        "palavra a seguir que possui a indicação da sílaba tônica correta é: A gru-PO.",
+        "gru-PO.",
         "trei-NA.",
         "intensa-MEN-te.",
         "giná-SIO. 4 de 14 6º ano DIA 1 - Prova Roxa"
@@ -2072,9 +2072,9 @@
     },
     {
       "number": 9,
-      "prompt": "No meio do caminho tinha uma pedra\ntinha uma pedra no meio do caminho\ntinha uma pedra\nno meio do caminho tinha uma pedra.\nNunca me esquecerei desse acontecimento\nna vida de minhas retinas tão fatigadas.\nNunca me esquecerei que no meio do caminho\ntinha uma pedra\nTinha uma pedra no meio do caminho\nno meio do caminho tinha uma pedra.\nDRUMMOND de Andrade, Carlos. Alguma Poesia. Rio de Janeiro: José Olympio, 1930. \nVocabulário:\nFatigar: cansar",
+      "prompt": "No meio do caminho tinha uma pedra\ntinha uma pedra no meio do caminho\ntinha uma pedra\nno meio do caminho tinha uma pedra.\nNunca me esquecerei desse acontecimento\nna vida de minhas retinas tão fatigadas.\nNunca me esquecerei que no meio do caminho\ntinha uma pedra\nTinha uma pedra no meio do caminho\nno meio do caminho tinha uma pedra.\nDRUMMOND de Andrade, Carlos. Alguma Poesia. Rio de Janeiro: José Olympio, 1930. \nVocabulário:\nFatigar: cansar\nA palavra “pedra” no poema pode ser entendida como:",
       "options": [
-        "palavra “pedra” no poema pode ser entendida como: A Simbólica, pois a pedra pode ter muitos significados.",
+        "Simbólica, pois a pedra pode ter muitos significados.",
         "Obstáculo, pois uma grande pedra impedia a passagem.",
         "Real, pois o eu-lírico vê um pedaço de rocha que flutua no ar.",
         "Irreal, pois a repetição da palavra demonstra um estado confuso. 5 de 14 6º ano DIA 1 - Prova Roxa"
@@ -2132,9 +2132,9 @@
     },
     {
       "number": 15,
-      "prompt": "Disponível em: http://www.arionaurocartuns.com.br/2025/03/charge-desmatamento-\ncalor.html. Acesso em: 17 nov. 2025.",
+      "prompt": "Disponível em: http://www.arionaurocartuns.com.br/2025/03/charge-desmatamento-\ncalor.html. Acesso em: 17 nov. 2025.\nA charge tem a finalidade de",
       "options": [
-        "charge tem a finalidade de A fazer uma crítica ao homem que deseja sombra após a derrubada das árvores.",
+        "fazer uma crítica ao homem que deseja sombra após a derrubada das árvores.",
         "gerar humor ao mostrar a paciência do homem para derrubar a próxima árvore.",
         "informar o tempo médio de crescimento das árvores para que forneçam sombra.",
         "reclamar das condições de trabalho por não haver equipamentos de segurança."
@@ -2212,9 +2212,9 @@
     },
     {
       "number": 23,
-      "prompt": "Observe a imagem.\nDisponível em: https://www.ecycle.com.br/paisagem/. Acesso em: 14 nov. 2025.",
+      "prompt": "Observe a imagem.\nDisponível em: https://www.ecycle.com.br/paisagem/. Acesso em: 14 nov. 2025.\nA paisagem é tudo aquilo que podemos perceber em um\nlugar por meio dos nossos sentidos, reunindo aspectos\nnaturais e humanos. Considerando a organização dessa\npaisagem, em primeiro plano identifica-se:",
       "options": [
-        "paisagem é tudo aquilo que podemos perceber em um lugar por meio dos nossos sentidos, reunindo aspectos naturais e humanos. Considerando a organização dessa paisagem, em primeiro plano identifica-se: A O céu.",
+        "O céu.",
         "O barco.",
         "floresta.",
         "montanha. 10 de 14 6º ano DIA 1 - Prova Roxa"
@@ -2242,9 +2242,9 @@
     },
     {
       "number": 26,
-      "prompt": "Leia o trecho.\nO lugar é onde vivemos nossas experiências do cotidiano. É\nonde conhecemos várias pessoas e somos conhecidos por\nelas. Cada lugar possui características próprias, como\npaisagens formadas por diferentes elementos, como\nconstruções, ruas, praças, vegetação, rios e relevo. Esses\nelementos, naturais e humanos, compõem a organização\ndo espaço e influenciam a forma como as pessoas vivem e\ninteragem. Por isso, podemos dizer que os lugares têm\numa identidade.",
+      "prompt": "Leia o trecho.\nO lugar é onde vivemos nossas experiências do cotidiano. É\nonde conhecemos várias pessoas e somos conhecidos por\nelas. Cada lugar possui características próprias, como\npaisagens formadas por diferentes elementos, como\nconstruções, ruas, praças, vegetação, rios e relevo. Esses\nelementos, naturais e humanos, compõem a organização\ndo espaço e influenciam a forma como as pessoas vivem e\ninteragem. Por isso, podemos dizer que os lugares têm\numa identidade. \nA identidade dos lugares, conforme apresentada no texto,\né construída por",
       "options": [
-        "identidade dos lugares, conforme apresentada no texto, é construída por A pessoas que ali vivem e pelas atividades cotidianas que realizam no espaço.",
+        "pessoas que ali vivem e pelas atividades cotidianas que realizam no espaço.",
         "migrantes que passam rapidamente pelo bairro, sem relação com as práticas locais.",
         "visitantes que frequentam o lugar ocasionalmente, sem participar da vida cotidiana.",
         "trabalhadores que passam diariamente pelo local rumo ao trabalho, sem vínculo com o cotidiano do lugar."
@@ -2444,13 +2444,12 @@
     },
     {
       "number": 6,
-      "prompt": "",
+      "prompt": "A PORTA\nEu sou feita de madeira\nMadeira, matéria morta\nMas não há coisa no mundo\nMais viva do que uma porta.\nEu abro devagarinho\nPra passar o menininho\nEu abro bem com cuidado\nPra passar o namorado\nEu abro bem prazenteira\nPra passar a cozinheira [...]\nDisponível em: https://www.viniciusdemoraes.com.br/musica/musica/14/a-porta. Acesso\nem: mar. 2026.\nNo poema, a expressão “mais viva” indica que a porta",
       "options": [
-        "PORTA\nEu sou feita de madeira\nMadeira, matéria morta\nMas não há coisa no mundo\nMais viva do que uma porta.\nEu abro devagarinho\nPra passar o menininho\nEu abro bem com cuidado\nPra passar o namorado\nEu abro bem prazenteira\nPra passar a cozinheira [...]\nDisponível em: https://www.viniciusdemoraes.com.br/musica/musica/14/a-porta. Acesso\nem: mar. 2026.\nNo poema, a expressão “mais viva” indica que a porta",
-        "foi produzida com um material resistente, que vai durar\nanos.",
-        "é muito utilizada no cotidiano, atendendo a diferentes\npessoas.",
-        "apresenta diferentes formatos de abertura conforme o\nuso.",
-        "engana as pessoas, escondendo o que sente por quem\npassa."
+        "foi produzida com um material resistente, que vai durar anos.",
+        "é muito utilizada no cotidiano, atendendo a diferentes pessoas.",
+        "apresenta diferentes formatos de abertura conforme o uso.",
+        "engana as pessoas, escondendo o que sente por quem passa."
       ]
     },
     {
@@ -2465,9 +2464,9 @@
     },
     {
       "number": 8,
-      "prompt": "Texto I\nPor que o Roblox pode se tornar um risco para os menores\nde idade?\nPlataforma anunciou sistema de verificação de idade no chat,\nmas apresenta falhas que se acumulam a problemas antigos.",
+      "prompt": "Texto I\nPor que o Roblox pode se tornar um risco para os menores\nde idade?\nPlataforma anunciou sistema de verificação de idade no chat,\nmas apresenta falhas que se acumulam a problemas antigos.\n     A popular plataforma de jogos Roblox teve mais de 151\nmilhões de usuários ativos no último ano, sendo 56%\nmenores de 17 anos, de acordo com relatório da empresa de\ntecnologia Takeaway Reality. Diante da liberdade de conexão\nentre \nas \ncrianças \ne \nadolescentes \ncom \ncompletos\ndesconhecidos, a empresa lançou um sistema de verificação\nde idade, para restringir a comunicação de menores de idade\ncom adultos. No entanto, o método apresenta falhas que\nescancaram os riscos que os mais jovens ainda correm no\nmundo virtual. \nDisponível em: https://veja.abril.com.br/tecnologia/. Acesso em: 18 mar. 2026 (adaptado).\nTexto II\nA revolta do Roblox: jogadores fazem protesto virtual após\nrestrição do chat para crianças\nMedida não agradou parte do público, que passou a protestar\nvirtualmente.\n    A plataforma de jogos Roblox alterou as regras restringindo\no uso do chat para crianças. A medida não agradou parte do\npúblico, que começou uma série de protestos virtuais na\nplataforma. Vários prints da “Revolta do Roblox” começaram\na circular nas redes sociais. Com seus avatares, usuários\nlevam “cartazes” às “ruas” do jogo, que simula ambientes\nreais.\nDisponível em: https://g1.globo.com/pop-arte/games/noticia/2026/01/15/a-revolta-do-\nroblox-jogadores-fazem-protesto-virtual-apos-restricao-do-chat-para-criancas.ghtml.\nAcesso em: 18 mar. 2026 (adaptado).\nOs dois textos apresentam informações sobre mudanças no\nuso do chat na plataforma Roblox. A diferença na forma como\nesse tema é abordado está no fato de que o",
       "options": [
-        "popular plataforma de jogos Roblox teve mais de 151 milhões de usuários ativos no último ano, sendo 56% menores de 17 anos, de acordo com relatório da empresa de tecnologia Takeaway Reality. Diante da liberdade de conexão entre  as  crianças  e  adolescentes  com  completos desconhecidos, a empresa lançou um sistema de verificação de idade, para restringir a comunicação de menores de idade com adultos. No entanto, o método apresenta falhas que escancaram os riscos que os mais jovens ainda correm no mundo virtual.  Disponível em: https://veja.abril.com.br/tecnologia/. Acesso em: 18 mar. 2026 (adaptado). Texto II A revolta do Roblox: jogadores fazem protesto virtual após restrição do chat para crianças Medida não agradou parte do público, que passou a protestar virtualmente.     A plataforma de jogos Roblox alterou as regras restringindo o uso do chat para crianças. A medida não agradou parte do público, que começou uma série de protestos virtuais na plataforma. Vários prints da “Revolta do Roblox” começaram a circular nas redes sociais. Com seus avatares, usuários levam “cartazes” às “ruas” do jogo, que simula ambientes reais. Disponível em: https://g1.globo.com/pop-arte/games/noticia/2026/01/15/a-revolta-do- roblox-jogadores-fazem-protesto-virtual-apos-restricao-do-chat-para-criancas.ghtml. Acesso em: 18 mar. 2026 (adaptado). Os dois textos apresentam informações sobre mudanças no uso do chat na plataforma Roblox. A diferença na forma como esse tema é abordado está no fato de que o A texto I alerta sobre os riscos à segurança dos jovens, enquanto o texto II mostra a insatisfação e o protesto dos jogadores.",
+        "texto I alerta sobre os riscos à segurança dos jovens, enquanto o texto II mostra a insatisfação e o protesto dos jogadores.",
         "texto I defende a liberdade de conversa entre usuários, enquanto o texto II explica as regras técnicas de verificação de idade.",
         "texto I apresenta dados para elogiar a plataforma, enquanto o texto II demonstra os impactos do jogo na vida das crianças.",
         "texto I elogia o sistema de verificação de idade, enquanto o texto II critica a restrição do uso do chat na plataforma de jogos.  4 de 14 6º ano DIA 1 - Prova Roxa - 2º BI"
@@ -2485,9 +2484,9 @@
     },
     {
       "number": 10,
-      "prompt": "O voo de Gabriel Medina registrado quadro a quadro\nO fotógrafo francês Jerome Brouillet sabia que tinha a chance\nde capturar algo especial quando o surfista brasileiro Gabriel\nMedina pegou uma das maiores ondas do dia, durante uma\ncompetição no Taiti.\nQuando Medina finalizou sua manobra, ele surgiu da onda\napontando \no \ndedo \npara \no \nalto, \ncomemorando \nsua\nperformance. Nesse instante, o fotógrafo registrou o atleta\nsuspenso no ar, como se estivesse em terra firme, enquanto\nsua prancha voava.",
+      "prompt": "O voo de Gabriel Medina registrado quadro a quadro\nO fotógrafo francês Jerome Brouillet sabia que tinha a chance\nde capturar algo especial quando o surfista brasileiro Gabriel\nMedina pegou uma das maiores ondas do dia, durante uma\ncompetição no Taiti.\nQuando Medina finalizou sua manobra, ele surgiu da onda\napontando \no \ndedo \npara \no \nalto, \ncomemorando \nsua\nperformance. Nesse instante, o fotógrafo registrou o atleta\nsuspenso no ar, como se estivesse em terra firme, enquanto\nsua prancha voava.\nA imagem foi enviada rapidamente aos editores e passou a\ncircular na internet, sendo considerada por muitas pessoas\ncomo uma das fotografias mais marcantes dos Jogos\nOlímpicos de 2024.\nDisponível em: https://www.bbc.com/portuguese/articles/c2x0vjkykkpo. Acesso em: 17\nabr. 2026 (adaptado).\nNo texto, a fotografia serve para",
       "options": [
-        "imagem foi enviada rapidamente aos editores e passou a circular na internet, sendo considerada por muitas pessoas como uma das fotografias mais marcantes dos Jogos Olímpicos de 2024. Disponível em: https://www.bbc.com/portuguese/articles/c2x0vjkykkpo. Acesso em: 17 abr. 2026 (adaptado). No texto, a fotografia serve para A acrescentar  novas  informações  que  não  estão presentes no texto da notícia.",
+        "acrescentar  novas  informações  que  não  estão presentes no texto da notícia.",
         "permitir que o leitor visualize a cena da manobra do surfista relatada no texto.",
         "reforçar os riscos dos surfistas em meio a grandes ondas durante a competição.",
         "sugerir que a imagem foi manipulada para criar um efeito que não ocorreu. 5 de 14 6º ano DIA 1 - Prova Roxa - 2º BI"
@@ -2515,9 +2514,9 @@
     },
     {
       "number": 13,
-      "prompt": "Um pé de milho\nOs americanos, através do radar, entraram em contato com a\nLua, o que não deixa de ser emocionante. Mas o fato mais\nimportante da semana aconteceu com o meu pé de milho.\nAconteceu que no meu quintal, em um monte de terra trazido\npelo jardineiro, nasceu alguma coisa que podia ser um pé de\ncapim mas descobri que era um pé de milho. Transplantei-o\npara o exíguo canteiro na frente da casa. Secaram as\npequenas folhas, pensei que fosse morrer. Mas ele reagiu.\nQuando estava do tamanho de um palmo veio um amigo e\ndeclarou desdenhosamente que na verdade aquilo era capim.\nQuando estava com dois palmos veio outro amigo e afirmou\nque era cana.\nSou um ignorante, um pobre homem de cidade. Mas eu tinha\nrazão. Ele cresceu, está com dois metros, lança as suas folhas\nalém do muro e é um esplêndido pé de milho. Já viu o leitor\num pé de milho? Eu nunca tinha visto. Tinha visto centenas de\nmilharais mas é diferente. Um pé de milho sozinho, em um\ncanteiro, espremido, junto do portão, numa esquina de rua\nnão é um número numa lavoura, é um ser vivo e\nindependente. Suas raízes roxas se agarram no chão e suas\nfolhas longas e verdes nunca estão imóveis. Detesto\ncomparações surrealistas mas na glória de seu crescimento,\ntal como o vi em uma noite de luar, o pé de milho parecia um\ncavalo empinado, as crinas ao vento e em outra madrugada\nparecia um galo cantando.\nAnteontem aconteceu o que era inevitável, mas que nos\nencantou como se fosse inesperado: meu pé de milho\npendoou. Há muitas flores belas no mundo, e a flor de milho\nnão será a mais linda. Mas aquele pendão firme, vertical,\nbeijado pelo vento do mar, veio enriquecer nosso canteirinho\nvulgar com uma força e uma alegria que fazem bem. É alguma\ncoisa de vivo que se afirma com ímpeto e certeza. Meu pé de\nmilho é um belo gesto da terra. E eu não sou mais um\nmedíocre homem que vive atrás de uma chata máquina de\nescrever: sou um rico lavrador da rua Júlio de Castilhos.\nBRAGA, R. Um pé de milho. Rubem, 15 abr. 2023. Disponível em:\nhttps://rubem.wordpress.com/2023/04/15/um-pe-de-milho-rubem-braga/. Acesso em: 17\nabr. 2026 (adaptado).",
+      "prompt": "Um pé de milho\nOs americanos, através do radar, entraram em contato com a\nLua, o que não deixa de ser emocionante. Mas o fato mais\nimportante da semana aconteceu com o meu pé de milho.\nAconteceu que no meu quintal, em um monte de terra trazido\npelo jardineiro, nasceu alguma coisa que podia ser um pé de\ncapim mas descobri que era um pé de milho. Transplantei-o\npara o exíguo canteiro na frente da casa. Secaram as\npequenas folhas, pensei que fosse morrer. Mas ele reagiu.\nQuando estava do tamanho de um palmo veio um amigo e\ndeclarou desdenhosamente que na verdade aquilo era capim.\nQuando estava com dois palmos veio outro amigo e afirmou\nque era cana.\nSou um ignorante, um pobre homem de cidade. Mas eu tinha\nrazão. Ele cresceu, está com dois metros, lança as suas folhas\nalém do muro e é um esplêndido pé de milho. Já viu o leitor\num pé de milho? Eu nunca tinha visto. Tinha visto centenas de\nmilharais mas é diferente. Um pé de milho sozinho, em um\ncanteiro, espremido, junto do portão, numa esquina de rua\nnão é um número numa lavoura, é um ser vivo e\nindependente. Suas raízes roxas se agarram no chão e suas\nfolhas longas e verdes nunca estão imóveis. Detesto\ncomparações surrealistas mas na glória de seu crescimento,\ntal como o vi em uma noite de luar, o pé de milho parecia um\ncavalo empinado, as crinas ao vento e em outra madrugada\nparecia um galo cantando.\nAnteontem aconteceu o que era inevitável, mas que nos\nencantou como se fosse inesperado: meu pé de milho\npendoou. Há muitas flores belas no mundo, e a flor de milho\nnão será a mais linda. Mas aquele pendão firme, vertical,\nbeijado pelo vento do mar, veio enriquecer nosso canteirinho\nvulgar com uma força e uma alegria que fazem bem. É alguma\ncoisa de vivo que se afirma com ímpeto e certeza. Meu pé de\nmilho é um belo gesto da terra. E eu não sou mais um\nmedíocre homem que vive atrás de uma chata máquina de\nescrever: sou um rico lavrador da rua Júlio de Castilhos.\nBRAGA, R. Um pé de milho. Rubem, 15 abr. 2023. Disponível em:\nhttps://rubem.wordpress.com/2023/04/15/um-pe-de-milho-rubem-braga/. Acesso em: 17\nabr. 2026 (adaptado).\nA partir das falas e reações do narrador ao longo da crônica,\nentende-se que ele passa a enxergar o pé de milho como",
       "options": [
-        "partir das falas e reações do narrador ao longo da crônica, entende-se que ele passa a enxergar o pé de milho como A um  elemento  comum  do  quintal,  sem  grande importância em sua rotina.",
+        "um  elemento  comum  do  quintal,  sem  grande importância em sua rotina.",
         "uma prova de que seus amigos tinham razão sobre o crescimento da planta.",
         "um acontecimento especial que transforma sua forma de perceber a própria vida.",
         "um problema inesperado que ocupa espaço e atrapalha o ambiente da casa."
@@ -2535,9 +2534,9 @@
     },
     {
       "number": 15,
-      "prompt": "FOTO: Nasa divulga primeira imagem da Terra vista\nda missão Artemis II",
+      "prompt": "FOTO: Nasa divulga primeira imagem da Terra vista\nda missão Artemis II\nA cápsula Orion, da missão Artemis II, executou com sucesso na noite desta\nquinta-feira (2) uma queima de motor considerada decisiva para colocar sua\ntripulação em rota para a Lua.\nA Nasa divulgou nesta sexta (3) as primeiras imagens da Terra\ncapturadas pelos astronautas da missão Artemis II, após a\nmanobra de injeção translunar.\nSegundo a agência espacial, o registro, feito pelo comandante\nReid Wiseman, mostra duas auroras (no canto superior direito\ne no canto inferior esquerdo), e a luz zodiacal (no canto\ninferior direito) é visível enquanto a Terra eclipsa o Sol. Já a\nfaixa marrom visível do lado esquerdo se trata do continente\nafricano.\nOutra imagem divulgada mostra o planeta visto de uma das\njanelas da cápsula Orion.\nEssa é a 1ª vez desde 1972 que astronautas deixam a órbita\nterrestre rumo ao satélite.\nDisponível em: https://g1.globo.com/ciencia/noticia/2026/04/03/foto-nasa-divulga-\nprimeira-imagem-da-terra-vista-da-missao-artemis-ii.ghtml. Acesso em: 18 abr. 2026\n(adaptado).\nAo analisar a fotorreportagem, identifica-se que a combinação\nentre linguagem verbal e não verbal tem como finalidade",
       "options": [
-        "cápsula Orion, da missão Artemis II, executou com sucesso na noite desta quinta-feira (2) uma queima de motor considerada decisiva para colocar sua tripulação em rota para a Lua. A Nasa divulgou nesta sexta (3) as primeiras imagens da Terra capturadas pelos astronautas da missão Artemis II, após a manobra de injeção translunar. Segundo a agência espacial, o registro, feito pelo comandante Reid Wiseman, mostra duas auroras (no canto superior direito e no canto inferior esquerdo), e a luz zodiacal (no canto inferior direito) é visível enquanto a Terra eclipsa o Sol. Já a faixa marrom visível do lado esquerdo se trata do continente africano. Outra imagem divulgada mostra o planeta visto de uma das janelas da cápsula Orion. Essa é a 1ª vez desde 1972 que astronautas deixam a órbita terrestre rumo ao satélite. Disponível em: https://g1.globo.com/ciencia/noticia/2026/04/03/foto-nasa-divulga- primeira-imagem-da-terra-vista-da-missao-artemis-ii.ghtml. Acesso em: 18 abr. 2026 (adaptado). Ao analisar a fotorreportagem, identifica-se que a combinação entre linguagem verbal e não verbal tem como finalidade A detalhar exclusivamente os procedimentos técnicos da missão, utilizando as imagens como apoio secundário.",
+        "detalhar exclusivamente os procedimentos técnicos da missão, utilizando as imagens como apoio secundário.",
         "informar o acontecimento ao articular o texto escrito com imagens que mostram o que está descrito.",
         "provocar suspense no leitor por meio de imagens que criam dúvidas sobre as informações apresentadas.",
         "entreter o leitor com imagens impactantes, sem compromisso com a explicação do fato apresentado."
@@ -2545,9 +2544,9 @@
     },
     {
       "number": 16,
-      "prompt": "De baixo para cima: o outro ângulo da foto histórica da\ndesigualdade social de Paraisópolis/Morumbi\nDuas décadas depois da imagem que escancarou o abismo\nsocial, moradores de Paraisópolis dizem que o contraste\nsegue o mesmo, e que os dois mundos, tão próximos, ainda\nnão se encontraram.",
+      "prompt": "De baixo para cima: o outro ângulo da foto histórica da\ndesigualdade social de Paraisópolis/Morumbi\nDuas décadas depois da imagem que escancarou o abismo\nsocial, moradores de Paraisópolis dizem que o contraste\nsegue o mesmo, e que os dois mundos, tão próximos, ainda\nnão se encontraram.\nA fotografia feita de helicóptero, em 2004, por Tuca Vieira\npara a “Folha de S.Paulo“ ganhou destaque internacional,\nsendo publicada em jornais de vários países. A imagem\ntambém passou a ilustrar livros escolares como exemplo do\nÍndice de Gini – indicador que mede a desigualdade na\ndistribuição de renda.\nDe baixo, o prédio parece ainda mais imponente, fazendo\nsombra na segunda maior favela de São Paulo. De cima,\nParaisópolis é quem parece ameaçar tomar tudo ao redor.\nDisponível em: https://g1.globo.com/sp/sao-paulo/noticia/2025/11/06/de-baixo-para-\ncima-o-outro-angulo-da-foto-historica-da-desigualdade-social-de-\nparaisopolismorumbi.ghtml. Acesso em: 18 abr. 2026 (adaptado).\nAo relacionar o texto com a imagem da fotorreportagem,\nidentifica-se que a função dessa combinação é",
       "options": [
-        "fotografia feita de helicóptero, em 2004, por Tuca Vieira para a “Folha de S.Paulo“ ganhou destaque internacional, sendo publicada em jornais de vários países. A imagem também passou a ilustrar livros escolares como exemplo do Índice de Gini – indicador que mede a desigualdade na distribuição de renda. De baixo, o prédio parece ainda mais imponente, fazendo sombra na segunda maior favela de São Paulo. De cima, Paraisópolis é quem parece ameaçar tomar tudo ao redor. Disponível em: https://g1.globo.com/sp/sao-paulo/noticia/2025/11/06/de-baixo-para- cima-o-outro-angulo-da-foto-historica-da-desigualdade-social-de- paraisopolismorumbi.ghtml. Acesso em: 18 abr. 2026 (adaptado). Ao relacionar o texto com a imagem da fotorreportagem, identifica-se que a função dessa combinação é A evidenciar o contraste entre diferentes espaços urbanos, reforçando a desigualdade apresentada.",
+        "evidenciar o contraste entre diferentes espaços urbanos, reforçando a desigualdade apresentada.",
         "apresentar uma paisagem urbana, sem relação com o tema discutido na reportagem.",
         "destacar a arquitetura do prédio influenciada pelas habitações da comunidade.",
         "substituir as informações do texto, já que a imagem apresenta os dados necessários. 8 de 14 6º ano DIA 1 - Prova Roxa - 2º BI"
@@ -2555,9 +2554,9 @@
     },
     {
       "number": 17,
-      "prompt": "Disponível em: https://dedica.org.br/conecte-se-ao-que-importa/. Acesso em: 30 mar.\n2026.",
+      "prompt": "Disponível em: https://dedica.org.br/conecte-se-ao-que-importa/. Acesso em: 30 mar.\n2026.\nA imagem e as frases transmitem a ideia de que o celular",
       "options": [
-        "imagem e as frases transmitem a ideia de que o celular A pode ficar irritado quando não é utilizado pelas pessoas.",
+        "pode ficar irritado quando não é utilizado pelas pessoas.",
         "é a preferência das crianças para brincar com os adultos.",
         "deve ser deixado de lado para dar mais atenção à família.",
         "deve ser usado no modo vibratório para a família conversar."
@@ -2595,9 +2594,9 @@
     },
     {
       "number": 21,
-      "prompt": "Observe a imagem.\nElaborado pelo autor para fins didáticos.",
+      "prompt": "Observe a imagem.\nElaborado pelo autor para fins didáticos.\nA imagem contém uma forma de representação da Terra que\nmostra quais partes do planeta estão iluminadas pelo Sol e\nquais estão no escuro, ajudando a compreender a organização\ndo tempo em diferentes lugares.\nCom base na interpretação dessa representação, essa\nsituação ocorre principalmente devido ao",
       "options": [
-        "imagem contém uma forma de representação da Terra que mostra quais partes do planeta estão iluminadas pelo Sol e quais estão no escuro, ajudando a compreender a organização do tempo em diferentes lugares. Com base na interpretação dessa representação, essa situação ocorre principalmente devido ao A movimento de translação da Terra, que ocorre ao longo do ano.",
+        "movimento de translação da Terra, que ocorre ao longo do ano.",
         "movimento de nutação, que representa uma oscilação do eixo da Terra.",
         "movimento aparente do Sol ao longo do dia, observado da superfície terrestre.",
         "movimento de rotação da Terra em torno de seu próprio eixo, que ocorre continuamente. 10 de 14 6º ano DIA 1 - Prova Roxa - 2º BI"
@@ -2635,9 +2634,9 @@
     },
     {
       "number": 25,
-      "prompt": "O globo terrestre e o planisfério são duas formas de\nrepresentação do planeta Terra utilizadas pela cartografia.\nElaborado pelo autor para fins didáticos.",
+      "prompt": "O globo terrestre e o planisfério são duas formas de\nrepresentação do planeta Terra utilizadas pela cartografia.\nElaborado pelo autor para fins didáticos.\nA principal diferença entre essas duas representações é que",
       "options": [
-        "principal diferença entre essas duas representações é que A o planisfério não utiliza símbolos nem legendas.",
+        "o planisfério não utiliza símbolos nem legendas.",
         "o globo é feito apenas para estudos científicos avançados.",
         "o globo permite ver toda a superfície da Terra ao mesmo tempo.",
         "o planisfério representa o planeta em uma superfície plana, com possíveis distorções."
@@ -2665,20 +2664,19 @@
     },
     {
       "number": 28,
-      "prompt": "",
+      "prompt": "A planta de uma casa apresenta muitos detalhes, como a\nposição de portas, janelas e móveis, enquanto um mapa do\nBrasil mostra elementos gerais, como estados, capitais e\ngrandes rios.\nEssa diferença no nível de detalhamento pode ser explicada\npelo fato de que",
       "options": [
-        "planta de uma casa apresenta muitos detalhes, como a\nposição de portas, janelas e móveis, enquanto um mapa do\nBrasil mostra elementos gerais, como estados, capitais e\ngrandes rios.\nEssa diferença no nível de detalhamento pode ser explicada\npelo fato de que",
-        "a planta utiliza escala pequena, representando uma\nárea menor com menor nível de detalhamento.",
-        "a planta utiliza escala grande, representando uma área\nmenor com maior nível de detalhamento.",
-        "o mapa do Brasil utiliza escala grande, representando\numa área maior com maior nível de detalhamento.",
-        "o mapa do Brasil utiliza escala pequena, representando\numa área menor com menor nível de detalhamento.\n\n12 de 14\n6º ano DIA 1 - Prova Roxa - 2º BI\nHistória"
+        "a planta utiliza escala pequena, representando uma área menor com menor nível de detalhamento.",
+        "a planta utiliza escala grande, representando uma área menor com maior nível de detalhamento.",
+        "o mapa do Brasil utiliza escala grande, representando uma área maior com maior nível de detalhamento.",
+        "o mapa do Brasil utiliza escala pequena, representando uma área menor com menor nível de detalhamento. 12 de 14 6º ano DIA 1 - Prova Roxa - 2º BI História"
       ]
     },
     {
       "number": 29,
-      "prompt": "Observe o mapa.\nDisponível em:\nhttp://marte2.sid.inpe.br/col/sid.inpe.br/marte2/2017/10.27.15.49.26/doc/59514.pdf.\nAcesso em: 30 mar. 2026.",
+      "prompt": "Observe o mapa.\nDisponível em:\nhttp://marte2.sid.inpe.br/col/sid.inpe.br/marte2/2017/10.27.15.49.26/doc/59514.pdf.\nAcesso em: 30 mar. 2026.\nA análise do mapa permite compreender que a representação\nda declividade do relevo é feita por meio da",
       "options": [
-        "análise do mapa permite compreender que a representação da declividade do relevo é feita por meio da A utilização da escala cartográfica, que indica a proporção entre o espaço real e o representado.",
+        "utilização da escala cartográfica, que indica a proporção entre o espaço real e o representado.",
         "delimitação de áreas administrativas, que organizam o espaço urbano da cidade.",
         "utilização de cores, que expressam diferentes níveis de inclinação do relevo.",
         "indicação dos pontos cardeais, que orientam a localização no mapa."
@@ -2686,9 +2684,9 @@
     },
     {
       "number": 30,
-      "prompt": "Na cartografia, os meridianos são linhas imaginárias traçadas\ndo Polo Norte ao Polo Sul e fazem parte do sistema de\ncoordenadas geográficas.",
+      "prompt": "Na cartografia, os meridianos são linhas imaginárias traçadas\ndo Polo Norte ao Polo Sul e fazem parte do sistema de\ncoordenadas geográficas.\nA importância dos meridianos para a compreensão e\nrepresentação do espaço geográfico está no fato de que eles\npermitem",
       "options": [
-        "importância dos meridianos para a compreensão e representação do espaço geográfico está no fato de que eles permitem A determinar a longitude e organizar os fusos horários.",
+        "determinar a longitude e organizar os fusos horários.",
         "representar a divisão da Terra em diferentes zonas climáticas.",
         "expressar a distância, em graus, em relação à Linha do Equador.",
         "indicar a proporção entre o espaço representado e o espaço real."
@@ -2736,9 +2734,9 @@
     },
     {
       "number": 35,
-      "prompt": "Observe a imagem.\nDisponível em: https://aventurasnahistoria.com.br/noticias/almanaque/ritual-e-magia-o-\nimpressionante-livro-dos-mortos-do-egito-antigo.phtml. Acesso em: 18 mar. 2026.",
+      "prompt": "Observe a imagem.\nDisponível em: https://aventurasnahistoria.com.br/noticias/almanaque/ritual-e-magia-o-\nimpressionante-livro-dos-mortos-do-egito-antigo.phtml. Acesso em: 18 mar. 2026.\nA imagem acima, retirada do Livro dos Mortos, contém um\ntexto religioso do Egito Antigo registrado com escrita\nhieroglífica. Essa imagem e esse tipo de registro estavam\nrelacionados",
       "options": [
-        "imagem acima, retirada do Livro dos Mortos, contém um texto religioso do Egito Antigo registrado com escrita hieroglífica. Essa imagem e esse tipo de registro estavam relacionados A ao controle da produção agrícola.",
+        "ao controle da produção agrícola.",
         "ao registro da administração do faraó.",
         "à organização das atividades comerciais.",
         "às crenças e aos rituais da vida após a morte."
@@ -2746,9 +2744,9 @@
     },
     {
       "number": 36,
-      "prompt": "Entre os séculos IX e V a.C, vemos o desenvolvimento, aos\npoucos, da ideia de adorar apenas  uma divindade, conhecida\npelo nome de Yahveh. Essa ideia aparece, no início, como\npedidos de adoração exclusiva a um único Deus, feitos por\npessoas chamadas de “profetas”. Segundo esses profetas, a\nprática de adorar apenas esse Deus deveria servir para\nidentificar quem fazia parte desse grupo religioso, mesmo\nvivendo junto a pessoas que seguiam outras crenças.\nDisponível em: http://periodicos.est.edu.br/index.php/nepp/article/viewFile/2054/1966.\nAcesso em: 31 mar. 2026 (adaptado).\nVocabulário: Yahveh: única divindade do povo hebreu.",
+      "prompt": "Entre os séculos IX e V a.C, vemos o desenvolvimento, aos\npoucos, da ideia de adorar apenas  uma divindade, conhecida\npelo nome de Yahveh. Essa ideia aparece, no início, como\npedidos de adoração exclusiva a um único Deus, feitos por\npessoas chamadas de “profetas”. Segundo esses profetas, a\nprática de adorar apenas esse Deus deveria servir para\nidentificar quem fazia parte desse grupo religioso, mesmo\nvivendo junto a pessoas que seguiam outras crenças.\nDisponível em: http://periodicos.est.edu.br/index.php/nepp/article/viewFile/2054/1966.\nAcesso em: 31 mar. 2026 (adaptado).\nVocabulário: Yahveh: única divindade do povo hebreu.\nA religiosidade do povo hebreu, descrita no texto, caracteriza-\nse por ser",
       "options": [
-        "religiosidade do povo hebreu, descrita no texto, caracteriza- se por ser A pagã.",
+        "pagã.",
         "dualista.",
         "politeísta.",
         "monoteísta. 14 de 14 6º ano DIA 1 - Prova Roxa - 2º BI"
@@ -2766,9 +2764,9 @@
     },
     {
       "number": 38,
-      "prompt": "Analise a imagem.\nGriots de Sambala, rei de Medina, 1890. Disponível em: https://upload.wikimedia.org/.\nAcesso em: 29 mar. 2026.",
+      "prompt": "Analise a imagem.\nGriots de Sambala, rei de Medina, 1890. Disponível em: https://upload.wikimedia.org/.\nAcesso em: 29 mar. 2026.\nA imagem acima retrata os griots, que tinham uma função\nespecial nas sociedades africanas por serem",
       "options": [
-        "imagem acima retrata os griots, que tinham uma função especial nas sociedades africanas por serem A escribas reais.",
+        "escribas reais.",
         "chefes militares.",
         "lideranças políticas.",
         "guardiões da memória."
@@ -2776,9 +2774,9 @@
     },
     {
       "number": 39,
-      "prompt": "Leia a canção potiguara:\nCaboclas de Pena\nChama as Caboclas de Pena,\nEu chamei elas pra vir me ajudar,\nChama as Caboclas de Pena,\nEu chamei elas pra vir me ajudar.\nPra ver a força da jurema,\nCadê a força que a jurema dá\nPra ver a força da jurema,\nCadê a força que a jurema dá.\nAi, Caboclas de Pena, ai Caboclas de Pena,\nTem pena de mim, tem dó\nAi, Caboclas de Pena, ai Caboclas de Pena,\nTem pena de mim, tem dó.\nDisponível em:\nhttps://repositorio.ufpb.br/jspui/bitstream/123456789/28020/1/LeandrodaSilvaRamos__T\nCC.pdf. Acesso em: 29 mar. 2026.",
+      "prompt": "Leia a canção potiguara:\nCaboclas de Pena\nChama as Caboclas de Pena,\nEu chamei elas pra vir me ajudar,\nChama as Caboclas de Pena,\nEu chamei elas pra vir me ajudar.\nPra ver a força da jurema,\nCadê a força que a jurema dá\nPra ver a força da jurema,\nCadê a força que a jurema dá.\nAi, Caboclas de Pena, ai Caboclas de Pena,\nTem pena de mim, tem dó\nAi, Caboclas de Pena, ai Caboclas de Pena,\nTem pena de mim, tem dó.\nDisponível em:\nhttps://repositorio.ufpb.br/jspui/bitstream/123456789/28020/1/LeandrodaSilvaRamos__T\nCC.pdf. Acesso em: 29 mar. 2026.\nA canção dos indígenas potiguara, transmitida oralmente\nentre gerações, cumpre a função de",
       "options": [
-        "canção dos indígenas potiguara, transmitida oralmente entre gerações, cumpre a função de A preservar as tradições culturais desse povo.",
+        "preservar as tradições culturais desse povo.",
         "investigar cientificamente a história local.",
         "registrar informações por meio da escrita.",
         "organizar as leis e as normas dessa sociedade."
@@ -2786,9 +2784,9 @@
     },
     {
       "number": 40,
-      "prompt": "As chinampas são ilhas artificiais que alimentam os povos da\nMesoamérica [...]. Por vezes chamadas de “jardins flutuantes”,\nas \nchinampas \nsobrevivem \ncomo \num \ntestemunho \nda\nengenhosidade da civilização asteca e dos seus antepassados\nque viviam nos lagos, [...].\nDisponível em: https://www.worldhistory.org/trans/pt/1-25418/chinampas/. Acesso em: 29\nmar. 2026 (adaptado).\nVocabulário: Mesoamérica: região do México e da América Central.",
+      "prompt": "As chinampas são ilhas artificiais que alimentam os povos da\nMesoamérica [...]. Por vezes chamadas de “jardins flutuantes”,\nas \nchinampas \nsobrevivem \ncomo \num \ntestemunho \nda\nengenhosidade da civilização asteca e dos seus antepassados\nque viviam nos lagos, [...].\nDisponível em: https://www.worldhistory.org/trans/pt/1-25418/chinampas/. Acesso em: 29\nmar. 2026 (adaptado).\nVocabulário: Mesoamérica: região do México e da América Central.\nA \nconstrução \ndas \nchinampas \ncontribuiu \npara \no\ndesenvolvimento da civilização asteca ao",
       "options": [
-        "construção  das  chinampas  contribuiu  para  o desenvolvimento da civilização asteca ao A permitir a defesa militar.",
+        "permitir a defesa militar.",
         "aumentar a produção de alimentos.",
         "possibilitar a navegação marítima.",
         "facilitar a estruturação de moradias."
@@ -2798,9 +2796,9 @@
   "e17": [
     {
       "number": 1,
-      "prompt": "Autobiografia, de Agatha Christie\nÉ difícil saber qual é nossa primeira recordação. Lembro\ndistintamente o dia em que completei três anos. Lembro-me\nde quanto me senti importante. Tomávamos o chá no jardim –\numa parte do jardim em que, anos mais tarde, uma rede\nbalançava, suspensa entre duas árvores.",
+      "prompt": "Autobiografia, de Agatha Christie\nÉ difícil saber qual é nossa primeira recordação. Lembro\ndistintamente o dia em que completei três anos. Lembro-me\nde quanto me senti importante. Tomávamos o chá no jardim –\numa parte do jardim em que, anos mais tarde, uma rede\nbalançava, suspensa entre duas árvores.\nA mesa estava repleta de doces, o bolo de aniversário era\ncoberto de glacê e exibia as tradicionais velas. Três velas. E\numa excitante ocorrência: uma minúscula aranha vermelha,\ntão pequena que eu mal podia enxergá-la, surgira correndo\npela toalha. Encantador, seguro e, no entanto, excitante\nmundo da infância! Em meu mundo, talvez a coisa mais\nabsorvente fosse o jardim. Cada ano que passava, esse jardim\nsignificava mais para mim.\nFonte: CHRISTIE, A. Autobiografia. Tradução Maria Helena Trigueiros. São Paulo: Círculo do\nLivro, 1985.\nEsse texto é uma autobiografia porque apresenta",
       "options": [
-        "mesa estava repleta de doces, o bolo de aniversário era coberto de glacê e exibia as tradicionais velas. Três velas. E uma excitante ocorrência: uma minúscula aranha vermelha, tão pequena que eu mal podia enxergá-la, surgira correndo pela toalha. Encantador, seguro e, no entanto, excitante mundo da infância! Em meu mundo, talvez a coisa mais absorvente fosse o jardim. Cada ano que passava, esse jardim significava mais para mim. Fonte: CHRISTIE, A. Autobiografia. Tradução Maria Helena Trigueiros. São Paulo: Círculo do Livro, 1985. Esse texto é uma autobiografia porque apresenta A instruções sobre como organizar uma festa de aniversário.",
+        "instruções sobre como organizar uma festa de aniversário.",
         "lembranças da infância narradas pela própria autora.",
         "informações sobre a vida da autora narradas por outra pessoa.",
         "fatos recentes da vida da autora para informar os leitores."
@@ -2828,9 +2826,9 @@
     },
     {
       "number": 4,
-      "prompt": "Leia o trecho de uma autobiografia para responder à questão.\nSem rumo, sem dinheiro, sem condições nenhuma para\nnos criar, minha mãe fazia bicos de trabalho. Nossa comida\nbásica era arroz, feijão e ovos e, às vezes, salsichas. Foi,\nentão, que meu tio me ajudou e me efetivou na feira. A\npartir disso, meus horários mudaram.\nEu iniciava minha jornada de trabalho 3h30 da manhã e\nmuitas vezes passava frio, pois o inverno de Curitiba era\nmuito rigoroso. Eu e o irmão do meu tio, Nencho, fazíamos\ntudo \nlogo \ncedo: \ndescarregávamos \no \ncaminhão \ne\nmontávamos a barraca recheada de frutas. Meu tio\nchegava às 7h00 com sua garrafa de café e rapidamente\nme mandava buscar pastel. Eu sempre ficava torcendo\npara ele chegar logo; era o melhor momento do meu dia:\ncomer pastel! E até hoje, quando vejo uma feira, paro para\ncomer pelo menos um pastel.\nAMARAL, Amarildo Souza do. 1%: a vitória do Improvável. Curitiba: Appris, 2025. [E-book]",
+      "prompt": "Leia o trecho de uma autobiografia para responder à questão.\nSem rumo, sem dinheiro, sem condições nenhuma para\nnos criar, minha mãe fazia bicos de trabalho. Nossa comida\nbásica era arroz, feijão e ovos e, às vezes, salsichas. Foi,\nentão, que meu tio me ajudou e me efetivou na feira. A\npartir disso, meus horários mudaram.\nEu iniciava minha jornada de trabalho 3h30 da manhã e\nmuitas vezes passava frio, pois o inverno de Curitiba era\nmuito rigoroso. Eu e o irmão do meu tio, Nencho, fazíamos\ntudo \nlogo \ncedo: \ndescarregávamos \no \ncaminhão \ne\nmontávamos a barraca recheada de frutas. Meu tio\nchegava às 7h00 com sua garrafa de café e rapidamente\nme mandava buscar pastel. Eu sempre ficava torcendo\npara ele chegar logo; era o melhor momento do meu dia:\ncomer pastel! E até hoje, quando vejo uma feira, paro para\ncomer pelo menos um pastel.\nAMARAL, Amarildo Souza do. 1%: a vitória do Improvável. Curitiba: Appris, 2025. [E-book]\nA expressão figurada “o melhor momento do meu dia”,\nutilizada por Amarildo, demonstra que ele",
       "options": [
-        "expressão figurada “o melhor momento do meu dia”, utilizada por Amarildo, demonstra que ele A ficava muito feliz quando podia comer pastel.",
+        "ficava muito feliz quando podia comer pastel.",
         "sentia orgulho por acordar de madrugada.",
         "considerava o trabalho na feira divertido.",
         "gostava mais de descarregar o caminhão do tio. 3 de 14 6º ano DIA 1 - Prova Roxa - 3º BI"
@@ -2988,9 +2986,9 @@
     },
     {
       "number": 20,
-      "prompt": "Leia as manchetes para responder à questão.\nTexto 1\nEntre quadras e pausas: esportes viram refúgio da\nvida online\nMARIANA, P. Entre quadras e pausas: esportes viram refúgio da vida online. Giro, 27 maio\n2026. Disponível em: https://tinyurl.com/3a8davhw. Acesso em: 05 jun. 2026.\nTexto 2",
+      "prompt": "Leia as manchetes para responder à questão.\nTexto 1\nEntre quadras e pausas: esportes viram refúgio da\nvida online\nMARIANA, P. Entre quadras e pausas: esportes viram refúgio da vida online. Giro, 27 maio\n2026. Disponível em: https://tinyurl.com/3a8davhw. Acesso em: 05 jun. 2026.\nTexto 2\nA história de um “Jordan”: como o esporte é fuga\nde vícios e muda vidas na sociedade\nSASSO, L. A história de um \"Jordan\": como o esporte é fuga de vícios e muda vidas na\nsociedade. \nContraponto \nDigital, \n11 \nmaio \n2020. \nDisponível \nem:\nhttps://tinyurl.com/4we68r2r. Acesso em: 05 jun. 2026.\nAo comparar as duas manchetes, entende-se que o Texto 2",
       "options": [
-        "história de um “Jordan”: como o esporte é fuga de vícios e muda vidas na sociedade SASSO, L. A história de um \"Jordan\": como o esporte é fuga de vícios e muda vidas na sociedade.  Contraponto  Digital,  11  maio  2020.  Disponível  em: https://tinyurl.com/4we68r2r. Acesso em: 05 jun. 2026. Ao comparar as duas manchetes, entende-se que o Texto 2 A contraria as informações apresentadas no Texto 1.",
+        "contraria as informações apresentadas no Texto 1.",
         "apresenta um exemplo relacionado ao tema do Texto 1.",
         "desmente as informações apresentadas no Texto 1.",
         "apresenta um assunto sem relação com o Texto 1."
@@ -3038,9 +3036,9 @@
     },
     {
       "number": 25,
-      "prompt": "Depois de organizar a cidade, Rômulo criou um conselho\nformado por cem cidadãos escolhidos para atuar como\nsenadores. Esses homens receberam grande prestígio na\nsociedade romana e passaram a ser chamados de\npatrícios. Seus descendentes também ficaram conhecidos\npor esse nome.\nLÍVIO, T. História de Roma: volume primeiro. São Paulo: Paumape, 1989 (adaptado).",
+      "prompt": "Depois de organizar a cidade, Rômulo criou um conselho\nformado por cem cidadãos escolhidos para atuar como\nsenadores. Esses homens receberam grande prestígio na\nsociedade romana e passaram a ser chamados de\npatrícios. Seus descendentes também ficaram conhecidos\npor esse nome.\nLÍVIO, T. História de Roma: volume primeiro. São Paulo: Paumape, 1989 (adaptado).\nA origem dos patrícios na Roma Antiga, apresentada no\ntexto, mostra que eles eram um grupo com",
       "options": [
-        "origem dos patrícios na Roma Antiga, apresentada no texto, mostra que eles eram um grupo com A os mesmos direitos políticos.",
+        "os mesmos direitos políticos.",
         "igual participação no governo.",
         "maiores privilégios e prestígio.",
         "poucos privilégios e poder político."
@@ -3068,9 +3066,9 @@
     },
     {
       "number": 28,
-      "prompt": "No final da República Romana, Júlio César, Pompeu e\nCrasso eram três dos homens mais influentes de Roma. O\nPrimeiro Triunvirato surgiu nesse período, marcado por\ndisputas e alianças entre os líderes romanos.",
+      "prompt": "No final da República Romana, Júlio César, Pompeu e\nCrasso eram três dos homens mais influentes de Roma. O\nPrimeiro Triunvirato surgiu nesse período, marcado por\ndisputas e alianças entre os líderes romanos.\nA \nanálise \nda \nimagem \npermite \ncompreender \nessa\nexperiência política como forma de",
       "options": [
-        "análise  da  imagem  permite  compreender  essa experiência política como forma de A composição democrática de líderes eleitos pelo povo.",
+        "composição democrática de líderes eleitos pelo povo.",
         "governo legislativo e gestão pública no império romano.",
         "organização das leis que regem a república romana.",
         "aliança política entre líderes pelo poder em Roma."
@@ -3098,9 +3096,9 @@
     },
     {
       "number": 31,
-      "prompt": "Observe a imagem.\nDisponível em: https://tinyurl.com/46h498b4. Acesso em: 01 jun. 2026.",
+      "prompt": "Observe a imagem.\nDisponível em: https://tinyurl.com/46h498b4. Acesso em: 01 jun. 2026.\nA imagem representa a incidência dos raios solares sobre a\nTerra e a localização de linhas imaginárias, como o\nEquador e os trópicos. Essa representação ajuda a\ncompreender por que determinadas regiões do planeta\napresentam temperaturas mais elevadas ao longo do ano.\nCom base na imagem, a zona intertropical apresenta\npredominantemente climas",
       "options": [
-        "imagem representa a incidência dos raios solares sobre a Terra e a localização de linhas imaginárias, como o Equador e os trópicos. Essa representação ajuda a compreender por que determinadas regiões do planeta apresentam temperaturas mais elevadas ao longo do ano. Com base na imagem, a zona intertropical apresenta predominantemente climas A árido e frio polar.",
+        "árido e frio polar.",
         "polar e temperado.",
         "equatorial e tropical.",
         "frio de montanha e mediterrâneo."
