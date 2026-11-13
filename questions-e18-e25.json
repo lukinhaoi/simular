@@ -22,9 +22,9 @@
     },
     {
       "number": 3,
-      "prompt": "Leia o trecho de uma autobiografia para responder à questão.\nSem rumo, sem dinheiro, sem condições nenhuma para\nnos criar, minha mãe fazia bicos de trabalho. Nossa comida\nbásica era arroz, feijão e ovos e, às vezes, salsichas. Foi,\nentão, que meu tio me ajudou e me efetivou na feira. A\npartir disso, meus horários mudaram.\nEu iniciava minha jornada de trabalho 3h30 da manhã e\nmuitas vezes passava frio, pois o inverno de Curitiba era muito\nrigoroso. Eu e o irmão do meu tio, Nencho, fazíamos tudo logo\ncedo: descarregávamos o caminhão e montávamos a barraca\nrecheada de frutas. Meu tio chegava às 7h00 com sua garrafa\nde café e rapidamente me mandava buscar pastel. Eu sempre\nficava torcendo para ele chegar logo; era o melhor momento\ndo meu dia: comer pastel! E até hoje, quando vejo uma feira,\nparo para comer pelo menos um pastel.\nAMARAL, Amarildo Souza do. 1%: a vitória do Improvável. Curitiba: Appris, 2025. [E-book]",
+      "prompt": "Leia o trecho de uma autobiografia para responder à questão.\nSem rumo, sem dinheiro, sem condições nenhuma para\nnos criar, minha mãe fazia bicos de trabalho. Nossa comida\nbásica era arroz, feijão e ovos e, às vezes, salsichas. Foi,\nentão, que meu tio me ajudou e me efetivou na feira. A\npartir disso, meus horários mudaram.\nEu iniciava minha jornada de trabalho 3h30 da manhã e\nmuitas vezes passava frio, pois o inverno de Curitiba era muito\nrigoroso. Eu e o irmão do meu tio, Nencho, fazíamos tudo logo\ncedo: descarregávamos o caminhão e montávamos a barraca\nrecheada de frutas. Meu tio chegava às 7h00 com sua garrafa\nde café e rapidamente me mandava buscar pastel. Eu sempre\nficava torcendo para ele chegar logo; era o melhor momento\ndo meu dia: comer pastel! E até hoje, quando vejo uma feira,\nparo para comer pelo menos um pastel.\nAMARAL, Amarildo Souza do. 1%: a vitória do Improvável. Curitiba: Appris, 2025. [E-book]\nA expressão figurada “o melhor momento do meu dia”,\nutilizada por Amarildo, demonstra que ele",
       "options": [
-        "expressão figurada “o melhor momento do meu dia”, utilizada por Amarildo, demonstra que ele A ficava muito feliz quando podia comer pastel.",
+        "ficava muito feliz quando podia comer pastel.",
         "sentia orgulho por acordar de madrugada.",
         "considerava o trabalho na feira divertido.",
         "gostava mais de descarregar o caminhão do tio."
@@ -32,9 +32,9 @@
     },
     {
       "number": 4,
-      "prompt": "Leia as manchetes para responder à questão.\nTexto 1\nEntre quadras e pausas: esportes viram refúgio da\nvida online\nMARIANA, P. Entre quadras e pausas: esportes viram refúgio da vida online. Giro, 27 maio\n2026. Disponível em: https://tinyurl.com/3a8davhw. Acesso em: 05 jun. 2026.\nTexto 2",
+      "prompt": "Leia as manchetes para responder à questão.\nTexto 1\nEntre quadras e pausas: esportes viram refúgio da\nvida online\nMARIANA, P. Entre quadras e pausas: esportes viram refúgio da vida online. Giro, 27 maio\n2026. Disponível em: https://tinyurl.com/3a8davhw. Acesso em: 05 jun. 2026.\nTexto 2\nA história de um “Jordan”: como o esporte é fuga\nde vícios e muda vidas na sociedade\nSASSO, L. A história de um \"Jordan\": como o esporte é fuga de vícios e muda vidas na\nsociedade. \nContraponto \nDigital, \n11 \nmaio \n2020. \nDisponível \nem:\nhttps://tinyurl.com/4we68r2r. Acesso em: 05 jun. 2026.\nAo comparar as duas manchetes, entende-se que o Texto 2",
       "options": [
-        "história de um “Jordan”: como o esporte é fuga de vícios e muda vidas na sociedade SASSO, L. A história de um \"Jordan\": como o esporte é fuga de vícios e muda vidas na sociedade.  Contraponto  Digital,  11  maio  2020.  Disponível  em: https://tinyurl.com/4we68r2r. Acesso em: 05 jun. 2026. Ao comparar as duas manchetes, entende-se que o Texto 2 A contraria as informações apresentadas no Texto 1.",
+        "contraria as informações apresentadas no Texto 1.",
         "apresenta um exemplo relacionado ao tema do Texto 1.",
         "desmente as informações apresentadas no Texto 1.",
         "apresenta um assunto sem relação com o Texto 1. 2 de 14 6º ano DIA 1 - Prova Verde - 3º BI"
@@ -52,9 +52,9 @@
     },
     {
       "number": 6,
-      "prompt": "Autobiografia, de Agatha Christie\nÉ difícil saber qual é nossa primeira recordação. Lembro\ndistintamente o dia em que completei três anos. Lembro-me\nde quanto me senti importante. Tomávamos o chá no jardim –\numa parte do jardim em que, anos mais tarde, uma rede\nbalançava, suspensa entre duas árvores.",
+      "prompt": "Autobiografia, de Agatha Christie\nÉ difícil saber qual é nossa primeira recordação. Lembro\ndistintamente o dia em que completei três anos. Lembro-me\nde quanto me senti importante. Tomávamos o chá no jardim –\numa parte do jardim em que, anos mais tarde, uma rede\nbalançava, suspensa entre duas árvores.\nA mesa estava repleta de doces, o bolo de aniversário era\ncoberto de glacê e exibia as tradicionais velas. Três velas. E\numa excitante ocorrência: uma minúscula aranha vermelha,\ntão pequena que eu mal podia enxergá-la, surgira correndo\npela toalha. Encantador, seguro e, no entanto, excitante\nmundo da infância! Em meu mundo, talvez a coisa mais\nabsorvente fosse o jardim. Cada ano que passava, esse jardim\nsignificava mais para mim.\nFonte: CHRISTIE, A. Autobiografia. Tradução Maria Helena Trigueiros. São Paulo: Círculo do\nLivro, 1985.\nEsse texto é uma autobiografia porque apresenta",
       "options": [
-        "mesa estava repleta de doces, o bolo de aniversário era coberto de glacê e exibia as tradicionais velas. Três velas. E uma excitante ocorrência: uma minúscula aranha vermelha, tão pequena que eu mal podia enxergá-la, surgira correndo pela toalha. Encantador, seguro e, no entanto, excitante mundo da infância! Em meu mundo, talvez a coisa mais absorvente fosse o jardim. Cada ano que passava, esse jardim significava mais para mim. Fonte: CHRISTIE, A. Autobiografia. Tradução Maria Helena Trigueiros. São Paulo: Círculo do Livro, 1985. Esse texto é uma autobiografia porque apresenta A instruções sobre como organizar uma festa de aniversário.",
+        "instruções sobre como organizar uma festa de aniversário.",
         "lembranças da infância narradas pela própria autora.",
         "informações sobre a vida da autora narradas por outra pessoa.",
         "fatos recentes da vida da autora para informar os leitores. 3 de 14 6º ano DIA 1 - Prova Verde - 3º BI"
@@ -232,9 +232,9 @@
     },
     {
       "number": 24,
-      "prompt": "Depois de organizar a cidade, Rômulo criou um conselho\nformado por cem cidadãos escolhidos para atuar como\nsenadores. Esses homens receberam grande prestígio na\nsociedade romana e passaram a ser chamados de\npatrícios. Seus descendentes também ficaram conhecidos\npor esse nome.\nLÍVIO, T. História de Roma: volume primeiro. São Paulo: Paumape, 1989 (adaptado).",
+      "prompt": "Depois de organizar a cidade, Rômulo criou um conselho\nformado por cem cidadãos escolhidos para atuar como\nsenadores. Esses homens receberam grande prestígio na\nsociedade romana e passaram a ser chamados de\npatrícios. Seus descendentes também ficaram conhecidos\npor esse nome.\nLÍVIO, T. História de Roma: volume primeiro. São Paulo: Paumape, 1989 (adaptado).\nA origem dos patrícios na Roma Antiga, apresentada no\ntexto, mostra que eles eram um grupo com",
       "options": [
-        "origem dos patrícios na Roma Antiga, apresentada no texto, mostra que eles eram um grupo com A os mesmos direitos políticos.",
+        "os mesmos direitos políticos.",
         "igual participação no governo.",
         "maiores privilégios e prestígio.",
         "poucos privilégios e poder político."
@@ -272,9 +272,9 @@
     },
     {
       "number": 28,
-      "prompt": "No final da República Romana, Júlio César, Pompeu e\nCrasso eram três dos homens mais influentes de Roma. O\nPrimeiro Triunvirato surgiu nesse período, marcado por\ndisputas e alianças entre os líderes romanos.",
+      "prompt": "No final da República Romana, Júlio César, Pompeu e\nCrasso eram três dos homens mais influentes de Roma. O\nPrimeiro Triunvirato surgiu nesse período, marcado por\ndisputas e alianças entre os líderes romanos.\nA \nanálise \nda \nimagem \npermite \ncompreender \nessa\nexperiência política como forma de",
       "options": [
-        "análise  da  imagem  permite  compreender  essa experiência política como forma de A composição democrática de líderes eleitos pelo povo.",
+        "composição democrática de líderes eleitos pelo povo.",
         "governo legislativo e gestão pública no império romano.",
         "organização das leis que regem a república romana.",
         "aliança política entre líderes pelo poder em Roma."
@@ -392,9 +392,9 @@
     },
     {
       "number": 40,
-      "prompt": "Observe a imagem.\nDisponível em: https://tinyurl.com/46h498b4. Acesso em: 01 jun. 2026.",
+      "prompt": "Observe a imagem.\nDisponível em: https://tinyurl.com/46h498b4. Acesso em: 01 jun. 2026.\nA imagem representa a incidência dos raios solares sobre a\nTerra e a localização de linhas imaginárias, como o\nEquador e os trópicos. Essa representação ajuda a\ncompreender por que determinadas regiões do planeta\napresentam temperaturas mais elevadas ao longo do ano.\nCom base na imagem, a zona intertropical apresenta\npredominantemente climas",
       "options": [
-        "imagem representa a incidência dos raios solares sobre a Terra e a localização de linhas imaginárias, como o Equador e os trópicos. Essa representação ajuda a compreender por que determinadas regiões do planeta apresentam temperaturas mais elevadas ao longo do ano. Com base na imagem, a zona intertropical apresenta predominantemente climas A árido e frio polar.",
+        "árido e frio polar.",
         "polar e temperado.",
         "equatorial e tropical.",
         "frio de montanha e mediterrâneo."
@@ -404,9 +404,8 @@
   "e19": [
     {
       "number": 1,
-      "prompt": "",
+      "prompt": "A tabela a seguir mostra o total de atletas brasileiros que\nparticiparam das últimas edições dos Jogos Olímpicos:\nFonte: Elaborada para fins didáticos.\nSabendo que a reta numérica abaixo está dividida em\npartes iguais, o ponto que melhor corresponde ao total de\natletas brasileiros nos Jogos Olímpicos de Paris é o ponto",
       "options": [
-        "tabela a seguir mostra o total de atletas brasileiros que\nparticiparam das últimas edições dos Jogos Olímpicos:\nFonte: Elaborada para fins didáticos.\nSabendo que a reta numérica abaixo está dividida em\npartes iguais, o ponto que melhor corresponde ao total de\natletas brasileiros nos Jogos Olímpicos de Paris é o ponto",
         "K",
         "L",
         "M",
@@ -455,9 +454,8 @@
     },
     {
       "number": 6,
-      "prompt": "",
+      "prompt": "A tabela a seguir apresenta a população de algumas\ncidades da região de Ribeirão Preto, de acordo com o\nCenso 2022.\nFonte: IBGE. Disponível em: https://www.ibge.gov.br/cidades-e-estados\nAcesso em: 11 dez. 2025\nColocando as populações em ordem crescente, temos as\ncidades de",
       "options": [
-        "tabela a seguir apresenta a população de algumas\ncidades da região de Ribeirão Preto, de acordo com o\nCenso 2022.\nFonte: IBGE. Disponível em: https://www.ibge.gov.br/cidades-e-estados\nAcesso em: 11 dez. 2025\nColocando as populações em ordem crescente, temos as\ncidades de",
         "Barretos, Bebedouro, Franca e Sertãozinho.",
         "Bebedouro, Barretos, Sertãozinho e Franca.",
         "Franca, Sertãozinho, Barretos e Bebedouro.",
@@ -476,13 +474,12 @@
     },
     {
       "number": 8,
-      "prompt": "",
+      "prompt": "A tabela abaixo informa a distância entre Bauru e outras\ncidades brasileiras.\nFonte: Elaborada para fins didáticos.\nDas cidades que aparecem na tabela, a mais próxima de\nBauru é",
       "options": [
-        "tabela abaixo informa a distância entre Bauru e outras\ncidades brasileiras.\nFonte: Elaborada para fins didáticos.\nDas cidades que aparecem na tabela, a mais próxima de\nBauru é",
         "Araçatuba.",
         "José Bonifácio.",
         "Marília.",
-        "Lins.\n\n3 de 14\n6º ano DIA 2 - Prova Amarela"
+        "Lins. 3 de 14 6º ano DIA 2 - Prova Amarela"
       ]
     },
     {
@@ -527,13 +524,12 @@
     },
     {
       "number": 13,
-      "prompt": "",
+      "prompt": "A distância média da Terra à Lua é de 384.400 km.\nFonte: Elaborada para fins didáticos.\nEssa medida é fundamental para estudos astronômicos e\npara \no \nplanejamento \nde \nmissões \nespaciais. \nA\nrepresentação correta deste número através de sua\ndecomposição em ordens e classes é:",
       "options": [
-        "distância média da Terra à Lua é de 384.400 km.\nFonte: Elaborada para fins didáticos.\nEssa medida é fundamental para estudos astronômicos e\npara\no\nplanejamento\nde\nmissões\nespaciais.\nA\nrepresentação correta deste número através de sua\ndecomposição em ordens e classes é:",
         "3 x 100 000  8 x 10 000  4 x 100",
         "3 x 100 000  8 x 10 000  4 x 1 000  4 x 100",
         "3 x 1 000 000  8 x 100 000  4 x 10 000  4 x 100",
-        "38 x 10 000  4 x 1 000  4 x 10\n\n5 de 14\n6º ano DIA 2 - Prova Amarela"
+        "38 x 10 000  4 x 1 000  4 x 10 5 de 14 6º ano DIA 2 - Prova Amarela"
       ]
     },
     {
@@ -578,19 +574,19 @@
     },
     {
       "number": 18,
-      "prompt": "",
+      "prompt": "A produção de grãos na safra 2022/2023 pode chegar a\n322.457.821 toneladas, segundo estimativa da Companhia\nNacional de Abastecimento (Conab). Esse volume, um\nrecorde histórico, consolida o Brasil como um dos maiores\nprodutores agrícolas do mundo. O número expressivo\ndemonstra a força do agronegócio nacional e a capacidade\nde produção em larga escala do país.\nFonte: \nAdaptado \nde \nCOMPANHIA \nNACIONAL \nDE\nABASTECIMENTO – CONAB. Com novo recorde, produção\nde grãos na safra 2022/23 chega a 322,8 milhões de\ntoneladas. \nGov.br, \n06 \nset. \n2023. \nDisponível \nem:\nhttps://www.gov.br/conab/pt-br/assuntos/noticias/com-\nnovo-recorde-producao-de-graos-na-safra-2022-23-\nchega-a-322-8-milhoes-de-toneladas. Acesso em: 27 jan.\n2026.\nA decomposição do número 322.457.821, que representa\na estimativa da safra de grãos, é:",
       "options": [
-        "produção de grãos na safra 2022/2023 pode chegar a\n322.457.821 toneladas, segundo estimativa da Companhia\nNacional de Abastecimento (Conab). Esse volume, um\nrecorde histórico, consolida o Brasil como um dos maiores\nprodutores agrícolas do mundo. O número expressivo\ndemonstra a força do agronegócio nacional e a capacidade\nde produção em larga escala do país.\nFonte:\nAdaptado\nde\nCOMPANHIA\nNACIONAL\nDE\nABASTECIMENTO – CONAB. Com novo recorde, produção\nde grãos na safra 2022/23 chega a 322,8 milhões de\ntoneladas.\nGov.br,\n06\nset.\n2023.\nDisponível\nem:\nhttps://www.gov.br/conab/pt-br/assuntos/noticias/com-\nnovo-recorde-producao-de-graos-na-safra-2022-23-\nchega-a-322-8-milhoes-de-toneladas. Acesso em: 27 jan.\n2026.",
-        "decomposição do número 322.457.821, que representa",
-        "estimativa da safra de grãos, é:\n\nA\n30.000.000 + 20.000.000 + 2.000.000 + 400.000 +\n50.000 + 7.000 + 800 + 20 + 1\nB\n300.000.000 + 20.000.000 + 2.000.000 + 400.000 +\n50.000 + 7.000 + 800 + 20 + 1",
-        "312.000.000 + 457.000 + 821\nD\n300.000.000 + 20.000.000 + 2.000.000 + 400.000 +\n50.000 + 7.000 + 80 + 2 + 1"
+        "30.000.000 + 20.000.000 + 2.000.000 + 400.000 + 50.000 + 7.000 + 800 + 20 + 1",
+        "300.000.000 + 20.000.000 + 2.000.000 + 400.000 + 50.000 + 7.000 + 800 + 20 + 1",
+        "312.000.000 + 457.000 + 821",
+        "300.000.000 + 20.000.000 + 2.000.000 + 400.000 + 50.000 + 7.000 + 80 + 2 + 1"
       ]
     },
     {
       "number": 19,
-      "prompt": "O Censo Demográfico de 2022 apresentou dados sobre a\npopulação de alguns municípios brasileiros. Observe as\ninformações a seguir:\nAraguainha (MT): 1.010 habitantes\nSerra da Saudade (MG): 833 habitantes\nAnhanguera (GO): 924 habitantes\nBorá (SP): 907 habitantes\nFonte: G1. Censo 2022: veja a população de cada cidade\ndo \nBrasil. \n2023. \nDisponível \nem:\nhttps://g1.globo.com/economia/censo/noticia/2023/06/2\n8/censo-2022-veja-a-populacao-de-cada-cidade-do-\nbrasil.ghtml. Acesso em: 23 jan. 2026. (Adaptado).",
+      "prompt": "O Censo Demográfico de 2022 apresentou dados sobre a\npopulação de alguns municípios brasileiros. Observe as\ninformações a seguir:\nAraguainha (MT): 1.010 habitantes\nSerra da Saudade (MG): 833 habitantes\nAnhanguera (GO): 924 habitantes\nBorá (SP): 907 habitantes\nFonte: G1. Censo 2022: veja a população de cada cidade\ndo \nBrasil. \n2023. \nDisponível \nem:\nhttps://g1.globo.com/economia/censo/noticia/2023/06/2\n8/censo-2022-veja-a-populacao-de-cada-cidade-do-\nbrasil.ghtml. Acesso em: 23 jan. 2026. (Adaptado).\nA ordem crescente do número de habitantes das cidades\napresentadas no texto, da menos para a mais populosa, é:",
       "options": [
-        "ordem crescente do número de habitantes das cidades apresentadas no texto, da menos para a mais populosa, é:   A Araguainha, Anhanguera, Borá, Serra da Saudade.",
+        "Araguainha, Anhanguera, Borá, Serra da Saudade.",
         "Borá, Anhanguera, Serra da Saudade, Araguainha.",
         "Serra da Saudade, Anhanguera, Borá, Araguainha.",
         "Serra da Saudade, Borá, Anhanguera, Araguainha. 7 de 14 6º ano DIA 2 - Prova Amarela Ciências"
@@ -608,9 +604,9 @@
     },
     {
       "number": 21,
-      "prompt": "Em uma aula de Ciências, a turma assistiu a uma animação em\nque todo o Universo cabia em um ponto minúsculo, muito\nquente e muito apertado. De repente, esse ponto começou a se\nexpandir rapidamente, espalhando matéria e energia por todos\nos lados, formando mais tarde galáxias, estrelas e planetas,\nconforme ilustrado.\nImagem elaborada para a Prova Paulista.",
+      "prompt": "Em uma aula de Ciências, a turma assistiu a uma animação em\nque todo o Universo cabia em um ponto minúsculo, muito\nquente e muito apertado. De repente, esse ponto começou a se\nexpandir rapidamente, espalhando matéria e energia por todos\nos lados, formando mais tarde galáxias, estrelas e planetas,\nconforme ilustrado.\nImagem elaborada para a Prova Paulista.\nA teoria científica apresentada nesta animação para\nexplicar a origem do Universo é a Teoria",
       "options": [
-        "teoria científica apresentada nesta animação para explicar a origem do Universo é a Teoria A do Geocentrismo.",
+        "do Geocentrismo.",
         "do Big Bang.",
         "da Deriva Continental.",
         "da Gravidade. 8 de 14 6º ano DIA 2 - Prova Amarela"
@@ -618,9 +614,9 @@
     },
     {
       "number": 22,
-      "prompt": "Um jogo de memória sobre o Sistema Solar contém cartas que\nmostram tipos de corpos celestes (como \"estrela\", \"planeta\" ou\n\"planeta anão\"), que devem ser relacionadas à outras cartas\ncom exemplos específicos de cada tipo de corpo celeste. Sobre\na mesa há uma carta chamada \"Planeta\" e outras quatro cartas\ncom tipos diferentes de corpos celestes, como mostra a\nimagem abaixo:\nElaborado para a Prova Paulista.",
+      "prompt": "Um jogo de memória sobre o Sistema Solar contém cartas que\nmostram tipos de corpos celestes (como \"estrela\", \"planeta\" ou\n\"planeta anão\"), que devem ser relacionadas à outras cartas\ncom exemplos específicos de cada tipo de corpo celeste. Sobre\na mesa há uma carta chamada \"Planeta\" e outras quatro cartas\ncom tipos diferentes de corpos celestes, como mostra a\nimagem abaixo:\nElaborado para a Prova Paulista.\nA carta que corresponde corretamente a um exemplo de\nplaneta é:",
       "options": [
-        "carta que corresponde corretamente a um exemplo de planeta é: A Lua.",
+        "Lua.",
         "Sol.",
         "Marte.",
         "Plutão."
@@ -688,9 +684,9 @@
     },
     {
       "number": 29,
-      "prompt": "Em uma viagem de carro durante a madrugada, uma família\nobservou que o céu escuro começou a clarear aos poucos, até\nque o Sol apareceu no horizonte. Horas depois, ao fim do dia,\nperceberam o Sol “descendo” e a paisagem voltando a\nescurecer. Apesar de parecer que o Sol se move no céu, o\nmotorista explicou que é a Terra que está em movimento.",
+      "prompt": "Em uma viagem de carro durante a madrugada, uma família\nobservou que o céu escuro começou a clarear aos poucos, até\nque o Sol apareceu no horizonte. Horas depois, ao fim do dia,\nperceberam o Sol “descendo” e a paisagem voltando a\nescurecer. Apesar de parecer que o Sol se move no céu, o\nmotorista explicou que é a Terra que está em movimento.\nA alternância entre o dia e a noite observada pela família\ndurante a viagem é causada pela",
       "options": [
-        "alternância entre o dia e a noite observada pela família durante a viagem é causada pela A aproximação e o afastamento da Terra em relação ao Sol ao longo do dia.",
+        "aproximação e o afastamento da Terra em relação ao Sol ao longo do dia.",
         "mudança de posição da Lua, que controla a quantidade de luz solar que chega à Terra.",
         "translação da Terra ao redor do Sol, que faz com que o Sol “nasça” e “se ponha” todos os dias.",
         "rotação da Terra em torno de seu próprio eixo, que faz diferentes regiões receberem luz solar em momentos distintos."
@@ -727,6 +723,16 @@
       ]
     },
     {
+      "number": 33,
+      "prompt": "A Lua sempre mostra praticamente a mesma face para quem\nestá na Terra. O “lado oculto” da Lua, região que não\nconseguimos observar diretamente da Terra, foi fotografada por\nsondas espaciais. Ela apresenta muito mais crateras do que o\nlado visível, quase não possui “mares” escuros de lava e tem\numa superfície mais antiga e acidentada.\nFonte: BBC News Brasil. Disponível em <\nhttps://www.bbc.com/portuguese/articles/c3ggpx3gn35o> Acesso em 04 de dezembro de 2025.\nEsse fenômeno ocorre devido ao fato de que a Lua",
+      "options": [
+        "não tem movimento de rotação e apenas realiza o movimento de revolução ao redor da Terra.",
+        "leva o mesmo tempo para realizar os movimentos de rotação e revolução ao redor da Terra.",
+        "tem rotação mais rápida do que a revolução e por isso não percebemos seu giro.",
+        "é iluminada sempre no mesmo lado, porque sua revolução é maior que a rotação. 12 de 14 6º ano DIA 2 - Prova Amarela"
+      ]
+    },
+    {
       "number": 34,
       "prompt": "Em noites de Lua cheia, a Lua aparece totalmente iluminada no\ncéu quando vista da Terra.\nFonte: USP São Carlos. Disponível em < https://saocarlos.usp.br/observatorio-fara-\ntransmissao-ao-vivo-de-imagens-da-lua-cheia-nesta-terca-feira/> Acesso em 04 de dezembro\nde 2025.\nConsiderando as posições relativas entre Sol, Terra e Lua, a\nLua cheia é causada quando a",
       "options": [
@@ -738,9 +744,9 @@
     },
     {
       "number": 35,
-      "prompt": "Leia a reportagem.\nEclipse solar mais longo do século: data, hora e onde\nserá visível\n\"Fenômeno natural terá cerca de seis minutos e 23\nsegundos e poderá ser observado principalmente em países\ncomo Tunísia, Líbia e Egito.",
+      "prompt": "Leia a reportagem.\nEclipse solar mais longo do século: data, hora e onde\nserá visível\n\"Fenômeno natural terá cerca de seis minutos e 23\nsegundos e poderá ser observado principalmente em países\ncomo Tunísia, Líbia e Egito.\nA data do maior eclipse solar do século 21 já foi anunciada:\nserá em 2 de agosto de 2027. Segundo a Nasa, a Lua\nocultará o Sol por cerca de seis minutos e 23 segundos e\npoderá ser observado principalmente no Hemisfério\nOriental.”\nFonte: https://www.metropoles.com/brasil/eclipse-solar-mais-longo-do-seculo-data-hora-e-\nonde-sera-visivel. Acesso em 09 fev 2026.\nConsiderando as posições relativas entre Sol, Terra e Lua, esse\neclipse solar total deve ocorrer porque",
       "options": [
-        "data do maior eclipse solar do século 21 já foi anunciada: será em 2 de agosto de 2027. Segundo a Nasa, a Lua ocultará o Sol por cerca de seis minutos e 23 segundos e poderá ser observado principalmente no Hemisfério Oriental.” Fonte: https://www.metropoles.com/brasil/eclipse-solar-mais-longo-do-seculo-data-hora-e- onde-sera-visivel. Acesso em 09 fev 2026. Considerando as posições relativas entre Sol, Terra e Lua, esse eclipse solar total deve ocorrer porque A a Terra irá bloquear a luz da Lua, fazendo com que a superfície terrestre escureça.",
+        "a Terra irá bloquear a luz da Lua, fazendo com que a superfície terrestre escureça.",
         "a Lua vai se alinhar entre o Sol e a Terra, bloqueando a luz solar em algumas regiões.",
         "o Sol vai se aproximar da Lua, diminuindo a quantidade de luz enviada à Terra.",
         "a Lua e a Terra irão se afastar do Sol, recebendo menos luz e escurecendo o dia. 13 de 14 6º ano DIA 2 - Prova Amarela Língua Inglesa"
@@ -800,9 +806,9 @@
   "e20": [
     {
       "number": 1,
-      "prompt": "Uma estudante foi à papelaria comprar materiais\nescolares. Ao passar pelo caixa, ela observou a\netiqueta de preço de um caderno:",
+      "prompt": "Uma estudante foi à papelaria comprar materiais\nescolares. Ao passar pelo caixa, ela observou a\netiqueta de preço de um caderno:\nA parte inteira e a parte decimal do preço do\ncaderno são:",
       "options": [
-        "parte inteira e a parte decimal do preço do caderno são: A 1 e 275",
+        "1 e 275",
         "12 e 7",
         "12 e 75",
         "127 e 5"
@@ -840,9 +846,8 @@
     },
     {
       "number": 5,
-      "prompt": "",
+      "prompt": "A tabela apresenta os preços dos produtos\ndisponíveis na cantina de uma escola:\nUm estudante comprou 2 lanches naturais, 1 suco\nde fruta e 3 barras de cereal. Ele pagou com uma\nnota de R$ 20,00. O valor do troco recebido pelo\nestudante foi de",
       "options": [
-        "tabela apresenta os preços dos produtos\ndisponíveis na cantina de uma escola:\nUm estudante comprou 2 lanches naturais, 1 suco\nde fruta e 3 barras de cereal. Ele pagou com uma\nnota de R$ 20,00. O valor do troco recebido pelo\nestudante foi de",
         "R$ 4,65",
         "R$ 5,10",
         "R$ 6,30",
@@ -911,9 +916,9 @@
     },
     {
       "number": 12,
-      "prompt": "Uma estudante está preparando um bolo para a\nfesta da escola. Ela consultou a lista de\ningredientes abaixo e quer saber a quantidade\ntotal de ingredientes sólidos que precisará\ncomprar.",
+      "prompt": "Uma estudante está preparando um bolo para a\nfesta da escola. Ela consultou a lista de\ningredientes abaixo e quer saber a quantidade\ntotal de ingredientes sólidos que precisará\ncomprar.\nA quantidade total de ingredientes sólidos que a\nestudante precisará comprar é de",
       "options": [
-        "quantidade total de ingredientes sólidos que a estudante precisará comprar é de A 1,75 kg",
+        "1,75 kg",
         "2,00 kg",
         "2,25 kg",
         "2,50 kg"
@@ -921,9 +926,9 @@
     },
     {
       "number": 13,
-      "prompt": "Uma escola precisou comprar lápis de cor e\ncaderno, com os valores apresentados na tabela a\nseguir.",
+      "prompt": "Uma escola precisou comprar lápis de cor e\ncaderno, com os valores apresentados na tabela a\nseguir.\nA escola comprou 6 pacotes de lápis de cor e 4\ncadernos. O valor total gasto foi dividido\nigualmente em 5 parcelas.\nO valor de cada parcela foi de",
       "options": [
-        "escola comprou 6 pacotes de lápis de cor e 4 cadernos. O valor total gasto foi dividido igualmente em 5 parcelas. O valor de cada parcela foi de A R$ 11,90",
+        "R$ 11,90",
         "R$ 12,40",
         "R$ 13,40",
         "R$ 14,20 5 de 14 6º ano DIA 2 - Prova Amarela - 3º BI"
@@ -941,9 +946,9 @@
     },
     {
       "number": 15,
-      "prompt": "Uma turma fez uma festa junina na escola e\ncomprou uma bandeja com 40 salgadinhos para\ndividir igualmente entre os alunos. Ao final da\nfesta, \n25% \ndos \nsalgadinhos \nhaviam \nsido\nconsumidos.",
+      "prompt": "Uma turma fez uma festa junina na escola e\ncomprou uma bandeja com 40 salgadinhos para\ndividir igualmente entre os alunos. Ao final da\nfesta, \n25% \ndos \nsalgadinhos \nhaviam \nsido\nconsumidos.\nA \nfração \nque \nrepresenta \nessa \nquantidade\nconsumida é:",
       "options": [
-        "fração  que  representa  essa  quantidade consumida é:  A 1/8",
+        "1/8",
         "1/4",
         "1/3",
         "1/2"
@@ -951,9 +956,9 @@
     },
     {
       "number": 16,
-      "prompt": "Uma \nescola \norganizou \numa \ncampanha \nde\narrecadação de alimentos. A meta era juntar 200\nkg de alimentos. Ao final da primeira semana, os\nalunos já haviam arrecadado 50 kg. Na segunda\nsemana, arrecadaram mais 100 kg.",
+      "prompt": "Uma \nescola \norganizou \numa \ncampanha \nde\narrecadação de alimentos. A meta era juntar 200\nkg de alimentos. Ao final da primeira semana, os\nalunos já haviam arrecadado 50 kg. Na segunda\nsemana, arrecadaram mais 100 kg. \nA porcentagem total arrecadada ao final das duas\nsemanas, em relação à meta estabelecida, é:",
       "options": [
-        "porcentagem total arrecadada ao final das duas semanas, em relação à meta estabelecida, é: A 25%",
+        "25%",
         "50%",
         "60%",
         "75% 6 de 14 6º ano DIA 2 - Prova Amarela - 3º BI"
@@ -981,9 +986,9 @@
     },
     {
       "number": 19,
-      "prompt": "Observe as figuras geométricas a seguir:",
+      "prompt": "Observe as figuras geométricas a seguir:\nA figura que possui três lados e três vértices é a",
       "options": [
-        "figura que possui três lados e três vértices é a A figura I.",
+        "figura I.",
         "figura II.",
         "figura III.",
         "figura IV."
@@ -991,9 +996,9 @@
     },
     {
       "number": 20,
-      "prompt": "Observe os três triângulos a seguir:\nOs \ntriângulos \napresentados \npodem \nser\nclassificados de acordo com as medidas de seus\nlados.",
+      "prompt": "Observe os três triângulos a seguir:\nOs \ntriângulos \napresentados \npodem \nser\nclassificados de acordo com as medidas de seus\nlados. \nA classificação correta dos triângulos I, II e III,\nrespectivamente, é:",
       "options": [
-        "classificação correta dos triângulos I, II e III, respectivamente, é: A Escaleno, equilátero e isósceles.",
+        "Escaleno, equilátero e isósceles.",
         "Isósceles, escaleno e equilátero.",
         "Equilátero, isósceles e escaleno.",
         "Equilátero, escaleno e isósceles. 7 de 14 6º ano DIA 2 - Prova Amarela - 3º BI Ciências"
@@ -1021,9 +1026,8 @@
     },
     {
       "number": 23,
-      "prompt": "",
+      "prompt": "A imagem representa as principais estruturas de\numa célula.\nO componente indicado pelo número 3\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa as principais estruturas de\numa célula.\nO componente indicado pelo número 3\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
         "confere proteção para a célula.",
         "delimita o meio intra e extracelular.",
         "controla o funcionamento da célula.",
@@ -1042,9 +1046,9 @@
     },
     {
       "number": 25,
-      "prompt": "O quadro apresenta as principais características\nde dois tipos de células.",
+      "prompt": "O quadro apresenta as principais características\nde dois tipos de células.\nA célula procarionte é descrita em",
       "options": [
-        "célula procarionte é descrita em A 1, pela presença de núcleo delimitado por membrana.",
+        "1, pela presença de núcleo delimitado por membrana.",
         "2, pela ocorrência de material genético dentro do núcleo.",
         "1, pela ausência de núcleo delimitado por uma membrana.",
         "2, pela presença de membrana plasmática delimitando a célula. 9 de 14 6º ano DIA 2 - Prova Amarela - 3º BI"
@@ -1052,9 +1056,9 @@
     },
     {
       "number": 26,
-      "prompt": "Durante o desenvolvimento dos frutos de uma\nplanta, \nobservou-se \nque \nmuitas \ncélulas\naumentaram de tamanho devido à expansão de\nseus vacúolos centrais. Esse processo contribui\npara o crescimento dos frutos.",
+      "prompt": "Durante o desenvolvimento dos frutos de uma\nplanta, \nobservou-se \nque \nmuitas \ncélulas\naumentaram de tamanho devido à expansão de\nseus vacúolos centrais. Esse processo contribui\npara o crescimento dos frutos.\nA função dos vacúolos relacionada a esse\nprocesso é",
       "options": [
-        "função dos vacúolos relacionada a esse processo é A produzir energia para a célula.",
+        "produzir energia para a célula.",
         "armazenar água e outras substâncias.",
         "controlar a divisão celular.",
         "realizar a fotossíntese."
@@ -1062,24 +1066,22 @@
     },
     {
       "number": 27,
-      "prompt": "",
+      "prompt": "A imagem representa o paramécio, um tipo de\nprotozoário.\nConsiderando a estrutura indicada na imagem,\npode-se classificar esse ser vivo como\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa o paramécio, um tipo de\nprotozoário.\nConsiderando a estrutura indicada na imagem,\npode-se classificar esse ser vivo como\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
-        "procarionte, pela presença da membrana\nplasmática celular.",
-        "eucarionte, pela delimitação do núcleo por\numa membrana.",
-        "eucarionte,\npela\nausência\nde\nmaterial\ngenético na célula.",
-        "procarionte, pela ocorrência de organelas\nmembranosas."
+        "procarionte, pela presença da membrana plasmática celular.",
+        "eucarionte, pela delimitação do núcleo por uma membrana.",
+        "eucarionte,  pela  ausência  de  material genético na célula.",
+        "procarionte, pela ocorrência de organelas membranosas."
       ]
     },
     {
       "number": 28,
-      "prompt": "",
+      "prompt": "A imagem representa uma célula animal.\nA organela indicada pelo número 3 corresponde\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa uma célula animal.",
-        "organela indicada pelo número 3 corresponde\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
-        "à mitocôndria, que participa da produção de\nenergia.",
-        "ao centríolo, que atua na degradação de\nsubstâncias da célula.",
-        "ao complexo golgiense, que participa da\nprodução de proteínas."
+        "à mitocôndria, que participa da produção de energia.",
+        "ao centríolo, que atua na degradação de substâncias da célula.",
+        "ao complexo golgiense, que participa da produção de proteínas.",
+        "ao retículo endoplasmático granuloso, que armazena substâncias. 10 de 14 6º ano DIA 2 - Prova Amarela - 3º BI"
       ]
     },
     {
@@ -1094,13 +1096,12 @@
     },
     {
       "number": 30,
-      "prompt": "",
+      "prompt": "A ilustração mostra as principais estruturas de\numa célula vegetal.\nA organela indicada pelo número 3 e sua\nrespectiva função é\nDisponível em: https://www.magnific.com/. Acesso em: 05 jun. 2026.",
       "options": [
-        "ilustração mostra as principais estruturas de\numa célula vegetal.",
-        "organela indicada pelo número 3 e sua\nrespectiva função é\nDisponível em: https://www.magnific.com/. Acesso em: 05 jun. 2026.",
-        "o cloroplasto, que capta a luz solar durante a\nfotossíntese.",
-        "o centríolo, que participa da produção de\nenergia na célula.",
-        "a parede celular, que confere resistência e\nproteção à célula."
+        "o cloroplasto, que capta a luz solar durante a fotossíntese.",
+        "o centríolo, que participa da produção de energia na célula.",
+        "a parede celular, que confere resistência e proteção à célula.",
+        "o vacúolo, que atua no transporte e no processamento de proteínas. 11 de 14 6º ano DIA 2 - Prova Amarela - 3º BI"
       ]
     },
     {
@@ -1115,9 +1116,9 @@
     },
     {
       "number": 32,
-      "prompt": "É natural que todo alimento tenha um prazo\nadequado para consumo, afinal tudo se deteriora.\nQuando você percebe que o pão mofou, por\nexemplo, é natural que haja dúvidas acerca do\nque fazer com o item nesse estado.\nQuando o mofo chega ao alimento, a única\nalternativa recomendada é o descarte, pois, como\nmencionado anteriormente, o alimento pode estar\ncontaminado por inteiro, ainda que apenas\nalgumas partes estejam visivelmente afetadas.",
+      "prompt": "É natural que todo alimento tenha um prazo\nadequado para consumo, afinal tudo se deteriora.\nQuando você percebe que o pão mofou, por\nexemplo, é natural que haja dúvidas acerca do\nque fazer com o item nesse estado.\nQuando o mofo chega ao alimento, a única\nalternativa recomendada é o descarte, pois, como\nmencionado anteriormente, o alimento pode estar\ncontaminado por inteiro, ainda que apenas\nalgumas partes estejam visivelmente afetadas.\nA situação descrita no texto é causada por\nRADAR. O pão mofou, e agora? Saiba o que fazer. Disponível em: https://tinyurl.com/fw9t5jka. Acesso em: 05 jun. 2026\n(adaptado).",
       "options": [
-        "situação descrita no texto é causada por RADAR. O pão mofou, e agora? Saiba o que fazer. Disponível em: https://tinyurl.com/fw9t5jka. Acesso em: 05 jun. 2026 (adaptado). A bactérias,  seres  procariontes  que transmitem doenças.",
+        "bactérias,  seres  procariontes  que transmitem doenças.",
         "plantas, seres procariontes que produzem os alimentos.",
         "fungos, seres eucariontes que decompõem a matéria orgânica.",
         "protozoários, seres eucariontes que fazem a ciclagem de nutrientes. 12 de 14 6º ano DIA 2 - Prova Amarela - 3º BI"
@@ -1135,31 +1136,29 @@
     },
     {
       "number": 34,
-      "prompt": "",
+      "prompt": "A \ndoença \nde \nChagas \né \ncausada \npelo\ntripanossomo, que está representado na imagem\na seguir.\nConsiderando as características celulares desse\norganismo, pode-se classificá-lo como um ser vivo\nDisponível em: https://tinyurl.com/59a27mvk. Acesso em: 05 jun. 2026.",
       "options": [
-        "doença\nde\nChagas\né\ncausada\npelo\ntripanossomo, que está representado na imagem",
-        "seguir.\nConsiderando as características celulares desse\norganismo, pode-se classificá-lo como um ser vivo\nDisponível em: https://tinyurl.com/59a27mvk. Acesso em: 05 jun. 2026.",
         "unicelular procarionte, sendo um fungo.",
         "multicelular eucarionte, sendo uma alga.",
-        "multicelular\nprocarionte,\nsendo\numa\nbactéria."
+        "multicelular  procarionte,  sendo  uma bactéria.",
+        "unicelular eucarionte, sendo um protozoário. 13 de 14 6º ano DIA 2 - Prova Amarela - 3º BI Língua Inglesa"
       ]
     },
     {
       "number": 35,
-      "prompt": "",
+      "prompt": "A ilustração representa algumas estruturas do\ncorpo humano.\nA seta indica para uma estrutura que corresponde\nao nível hierárquico denominado\nDisponível em: https://www.magnific.com. Acesso em: 05 jun. 2026.",
       "options": [
-        "ilustração representa algumas estruturas do\ncorpo humano.",
-        "seta indica para uma estrutura que corresponde\nao nível hierárquico denominado\nDisponível em: https://www.magnific.com. Acesso em: 05 jun. 2026.",
         "órgão.",
         "célula.",
-        "tecido."
+        "tecido.",
+        "organismo."
       ]
     },
     {
       "number": 36,
-      "prompt": "Carlos has a simple daily routine. First, he wakes\nup at 6:30 a.m. and brushes his teeth. He has\nbreakfast at 7:00 a.m. After that, he goes to\nschool with his sister. Then, he does his homework\nin the afternoon. Finally, he has dinner and goes to\nbed at 9:30 p.m.\nElaborado pelo autor para fins didáticos.",
+      "prompt": "Carlos has a simple daily routine. First, he wakes\nup at 6:30 a.m. and brushes his teeth. He has\nbreakfast at 7:00 a.m. After that, he goes to\nschool with his sister. Then, he does his homework\nin the afternoon. Finally, he has dinner and goes to\nbed at 9:30 p.m.\nElaborado pelo autor para fins didáticos.\nA expressão em destaque after that  foi utilizada\npara:",
       "options": [
-        "expressão em destaque after that  foi utilizada para: A indicar a primeira atividade que Carlos faz ao acordar.",
+        "indicar a primeira atividade que Carlos faz ao acordar.",
         "mostrar o que Carlos faz depois de tomar café da manhã.",
         "apresentar a última atividade do dia de Carlos.",
         "explicar por que Carlos vai para a escola com a irmã."
@@ -1219,9 +1218,9 @@
     },
     {
       "number": 2,
-      "prompt": "Em uma atividade de Ciências, os estudantes\nobservaram \no \nconsumo \nde \nágua \nde \num\nreservatório utilizado para irrigar a horta da\nescola. No início do dia, o reservatório continha\n200 litros de água. Ao final da atividade, verificou-\nse que 100 litros haviam sido utilizados.",
+      "prompt": "Em uma atividade de Ciências, os estudantes\nobservaram \no \nconsumo \nde \nágua \nde \num\nreservatório utilizado para irrigar a horta da\nescola. No início do dia, o reservatório continha\n200 litros de água. Ao final da atividade, verificou-\nse que 100 litros haviam sido utilizados.\nA porcentagem de água utilizada corresponde a:",
       "options": [
-        "porcentagem de água utilizada corresponde a: A 25%",
+        "25%",
         "50%",
         "75%",
         "100%"
@@ -1339,9 +1338,9 @@
     },
     {
       "number": 16,
-      "prompt": "Durante a organização de uma olimpíada escolar,\na equipe responsável pelas inscrições preparou\num quadro com 120 vagas para os participantes.\nApós a primeira semana de inscrições, 30 vagas\njá haviam sido preenchidas.",
+      "prompt": "Durante a organização de uma olimpíada escolar,\na equipe responsável pelas inscrições preparou\num quadro com 120 vagas para os participantes.\nApós a primeira semana de inscrições, 30 vagas\njá haviam sido preenchidas.\nA \nporcentagem \nde \nvagas \npreenchidas\ncorresponde a:",
       "options": [
-        "porcentagem  de  vagas  preenchidas corresponde a: A 0,25%",
+        "0,25%",
         "2,5%",
         "4%",
         "25%"
@@ -1389,9 +1388,8 @@
     },
     {
       "number": 22,
-      "prompt": "",
+      "prompt": "A imagem representa as principais estruturas de\numa célula.\nO componente indicado pelo número 3\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa as principais estruturas de\numa célula.\nO componente indicado pelo número 3\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
         "confere proteção para a célula.",
         "delimita o meio intra e extracelular.",
         "controla o funcionamento da célula.",
@@ -1400,13 +1398,12 @@
     },
     {
       "number": 23,
-      "prompt": "",
+      "prompt": "A imagem representa o paramécio, um tipo de\nprotozoário.\nConsiderando a estrutura indicada na imagem,\npode-se classificar esse ser vivo como\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa o paramécio, um tipo de\nprotozoário.\nConsiderando a estrutura indicada na imagem,\npode-se classificar esse ser vivo como\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
-        "procarionte, pela presença da membrana\nplasmática celular.",
-        "eucarionte, pela delimitação do núcleo por\numa membrana.",
-        "eucarionte,\npela\nausência\nde\nmaterial\ngenético na célula.",
-        "procarionte, pela ocorrência de organelas\nmembranosas.\n\n7 de 13\n6º ano DIA 2 - Prova Laranja - 3º BI"
+        "procarionte, pela presença da membrana plasmática celular.",
+        "eucarionte, pela delimitação do núcleo por uma membrana.",
+        "eucarionte,  pela  ausência  de  material genético na célula.",
+        "procarionte, pela ocorrência de organelas membranosas. 7 de 13 6º ano DIA 2 - Prova Laranja - 3º BI"
       ]
     },
     {
@@ -1421,31 +1418,29 @@
     },
     {
       "number": 25,
-      "prompt": "",
+      "prompt": "A \ndoença \nde \nChagas \né \ncausada \npelo\ntripanossomo, que está representado na imagem\na seguir.\nConsiderando as características celulares desse\norganismo, pode-se classificá-lo como um ser vivo\nDisponível em: https://tinyurl.com/59a27mvk. Acesso em: 05 jun. 2026.",
       "options": [
-        "doença\nde\nChagas\né\ncausada\npelo\ntripanossomo, que está representado na imagem",
-        "seguir.\nConsiderando as características celulares desse\norganismo, pode-se classificá-lo como um ser vivo\nDisponível em: https://tinyurl.com/59a27mvk. Acesso em: 05 jun. 2026.",
         "unicelular procarionte, sendo um fungo.",
         "multicelular eucarionte, sendo uma alga.",
-        "multicelular\nprocarionte,\nsendo\numa\nbactéria."
+        "multicelular  procarionte,  sendo  uma bactéria.",
+        "unicelular eucarionte, sendo um protozoário. 8 de 13 6º ano DIA 2 - Prova Laranja - 3º BI"
       ]
     },
     {
       "number": 26,
-      "prompt": "",
+      "prompt": "A imagem representa uma célula animal.\nA organela indicada pelo número 3 corresponde\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
       "options": [
-        "imagem representa uma célula animal.",
-        "organela indicada pelo número 3 corresponde\nDisponível em: https://www.magnific.com. Acesso em: 26 maio 2026.",
-        "à mitocôndria, que participa da produção de\nenergia.",
-        "ao centríolo, que atua na degradação de\nsubstâncias da célula.",
-        "ao complexo golgiense, que participa da\nprodução de proteínas."
+        "à mitocôndria, que participa da produção de energia.",
+        "ao centríolo, que atua na degradação de substâncias da célula.",
+        "ao complexo golgiense, que participa da produção de proteínas.",
+        "ao retículo endoplasmático granuloso, que armazena substâncias."
       ]
     },
     {
       "number": 27,
-      "prompt": "Durante o desenvolvimento dos frutos de uma\nplanta, \nobservou-se \nque \nmuitas \ncélulas\naumentaram de tamanho devido à expansão de\nseus vacúolos centrais. Esse processo contribui\npara o crescimento dos frutos.",
+      "prompt": "Durante o desenvolvimento dos frutos de uma\nplanta, \nobservou-se \nque \nmuitas \ncélulas\naumentaram de tamanho devido à expansão de\nseus vacúolos centrais. Esse processo contribui\npara o crescimento dos frutos.\nA função dos vacúolos relacionada a esse\nprocesso é",
       "options": [
-        "função dos vacúolos relacionada a esse processo é A produzir energia para a célula.",
+        "produzir energia para a célula.",
         "armazenar água e outras substâncias.",
         "controlar a divisão celular.",
         "realizar a fotossíntese."
@@ -1453,9 +1448,9 @@
     },
     {
       "number": 28,
-      "prompt": "O quadro apresenta as principais características\nde dois tipos de células.",
+      "prompt": "O quadro apresenta as principais características\nde dois tipos de células.\nA célula procarionte é descrita em",
       "options": [
-        "célula procarionte é descrita em A 1, pela presença de núcleo delimitado por membrana.",
+        "1, pela presença de núcleo delimitado por membrana.",
         "2, pela ocorrência de material genético dentro do núcleo.",
         "1, pela ausência de núcleo delimitado por uma membrana.",
         "2, pela presença de membrana plasmática delimitando a célula. 9 de 13 6º ano DIA 2 - Prova Laranja - 3º BI"
@@ -1473,13 +1468,12 @@
     },
     {
       "number": 30,
-      "prompt": "",
+      "prompt": "A ilustração mostra as principais estruturas de\numa célula vegetal.\nA organela indicada pelo número 3 e sua\nrespectiva função é\nDisponível em: https://www.magnific.com/. Acesso em: 05 jun. 2026.",
       "options": [
-        "ilustração mostra as principais estruturas de\numa célula vegetal.",
-        "organela indicada pelo número 3 e sua\nrespectiva função é\nDisponível em: https://www.magnific.com/. Acesso em: 05 jun. 2026.",
-        "o cloroplasto, que capta a luz solar durante a\nfotossíntese.",
-        "o centríolo, que participa da produção de\nenergia na célula.",
-        "a parede celular, que confere resistência e\nproteção à célula."
+        "o cloroplasto, que capta a luz solar durante a fotossíntese.",
+        "o centríolo, que participa da produção de energia na célula.",
+        "a parede celular, que confere resistência e proteção à célula.",
+        "o vacúolo, que atua no transporte e no processamento de proteínas. 10 de 13 6º ano DIA 2 - Prova Laranja - 3º BI"
       ]
     },
     {
@@ -1514,9 +1508,9 @@
     },
     {
       "number": 34,
-      "prompt": "É natural que todo alimento tenha um prazo\nadequado para consumo, afinal tudo se deteriora.\nQuando você percebe que o pão mofou, por\nexemplo, é natural que haja dúvidas acerca do\nque fazer com o item nesse estado.\nQuando o mofo chega ao alimento, a única\nalternativa recomendada é o descarte, pois, como\nmencionado anteriormente, o alimento pode estar\ncontaminado por inteiro, ainda que apenas\nalgumas partes estejam visivelmente afetadas.",
+      "prompt": "É natural que todo alimento tenha um prazo\nadequado para consumo, afinal tudo se deteriora.\nQuando você percebe que o pão mofou, por\nexemplo, é natural que haja dúvidas acerca do\nque fazer com o item nesse estado.\nQuando o mofo chega ao alimento, a única\nalternativa recomendada é o descarte, pois, como\nmencionado anteriormente, o alimento pode estar\ncontaminado por inteiro, ainda que apenas\nalgumas partes estejam visivelmente afetadas.\nA situação descrita no texto é causada por\nRADAR. O pão mofou, e agora? Saiba o que fazer. Disponível em: https://tinyurl.com/fw9t5jka. Acesso em: 05 jun. 2026\n(adaptado).",
       "options": [
-        "situação descrita no texto é causada por RADAR. O pão mofou, e agora? Saiba o que fazer. Disponível em: https://tinyurl.com/fw9t5jka. Acesso em: 05 jun. 2026 (adaptado). A bactérias,  seres  procariontes  que transmitem doenças.",
+        "bactérias,  seres  procariontes  que transmitem doenças.",
         "plantas, seres procariontes que produzem os alimentos.",
         "fungos, seres eucariontes que decompõem a matéria orgânica.",
         "protozoários, seres eucariontes que fazem a ciclagem de nutrientes."
@@ -1524,13 +1518,12 @@
     },
     {
       "number": 35,
-      "prompt": "",
+      "prompt": "A ilustração representa algumas estruturas do\ncorpo humano.\nA seta indica para uma estrutura que corresponde\nao nível hierárquico denominado\nDisponível em: https://www.magnific.com. Acesso em: 05 jun. 2026.",
       "options": [
-        "ilustração representa algumas estruturas do\ncorpo humano.",
-        "seta indica para uma estrutura que corresponde\nao nível hierárquico denominado\nDisponível em: https://www.magnific.com. Acesso em: 05 jun. 2026.",
         "órgão.",
         "célula.",
-        "tecido."
+        "tecido.",
+        "organismo. 12 de 13 6º ano DIA 2 - Prova Laranja - 3º BI Língua Inglesa"
       ]
     },
     {
@@ -1555,9 +1548,9 @@
     },
     {
       "number": 38,
-      "prompt": "Carlos has a simple daily routine. First, he wakes\nup at 6:30 a.m. and brushes his teeth. He has\nbreakfast at 7:00 a.m. After that, he goes to\nschool with his sister. Then, he does his homework\nin the afternoon. Finally, he has dinner and goes to\nbed at 9:30 p.m.\nElaborado pelo autor para fins didáticos.",
+      "prompt": "Carlos has a simple daily routine. First, he wakes\nup at 6:30 a.m. and brushes his teeth. He has\nbreakfast at 7:00 a.m. After that, he goes to\nschool with his sister. Then, he does his homework\nin the afternoon. Finally, he has dinner and goes to\nbed at 9:30 p.m.\nElaborado pelo autor para fins didáticos.\nA expressão em destaque after that  foi utilizada\npara:",
       "options": [
-        "expressão em destaque after that  foi utilizada para: A indicar a primeira atividade que Carlos faz ao acordar.",
+        "indicar a primeira atividade que Carlos faz ao acordar.",
         "mostrar o que Carlos faz depois de tomar café da manhã.",
         "apresentar a última atividade do dia de Carlos.",
         "explicar por que Carlos vai para a escola com a irmã."
