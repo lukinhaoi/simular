@@ -796,6 +796,17 @@
         "Escrever uma mensagem de apoio, demonstrando empatia em relação ao problema ocorrido.",
         "Acrescentar comentários de conscientização, priorizando equilibrar o conteúdo das mensagens."
       ]
+    },
+    {
+      "number": 40,
+      "prompt": "Marcela está criando um projeto em que um gato e um cachorro devem conversar na tela. Ela deseja que o gato seja o primeiro a falar e, depois disso, o cachorro responda. Para isso, Marcela usará blocos de código com mensagens enviadas entre os personagens. Com base nesse objetivo, qual dos comandos o gato deve usar para começar a conversa corretamente?",
+      "options": [
+        "Ao clicar na bandeira verde, o gato diz “Olá Cachorro, tudo bem?” por 2 segundos e transmite a mensagem “iniciar conversa”.",
+        "Ao clicar na bandeira verde, o gato diz “Olá Gato, estou bem e você?” por 2 segundos e transmite a mensagem “resposta”.",
+        "Ao receber a mensagem “iniciar conversa”, o gato diz “Olá Cachorro, estou bem e você?” por 2 segundos e transmite a mensagem “resposta”.",
+        "Ao receber a mensagem “iniciar conversa”, o gato diz “Olá Gato, estou bem e você?” por 2 segundos e transmite a mensagem “resposta”."
+      ],
+      "requiresOriginalPage": true
     }
   ],
   "e4": [
