@@ -191,6 +191,17 @@
       ]
     },
     {
+      "number": 20,
+      "prompt": "A vista superior da figura de um cone de sinalização de trânsito com base quadrada é:",
+      "options": [
+        "Um formato de duas linhas que se encontram formando um V.",
+        "Um quadrado com um círculo e um ponto no centro.",
+        "A vista lateral de um cone, com formato triangular e base oval.",
+        "Um trapézio."
+      ],
+      "requiresOriginalPage": true
+    },
+    {
       "number": 21,
       "prompt": "Leia o texto para responder à questão. \nEnergia eólica \n \n \nOs aerogeradores na paisagem indicam a presença de usinas eólicas. \nA energia eólica é uma fonte energética alternativa e renovável.  O vento é um recurso \ninesgotável. A origem do emprego do vento como força para as atividades produtivas \ntomou forças nas últimas décadas, principalmente devido ao aumento da preocupação \ncom a conservação do meio ambiente. \nO funcionamento de uma usina eólica está condicionado à constância dos ventos. \nSendo assim, apresenta uma grande dependência das condições da natureza para o \nseu funcionamento. \nMundo Educação. Disponível em: <https://mundoeducacao.uol.com.br/geografia/energia-eolica.htm>. Acesso em: 23 ago. \n2023. Adaptado. \n \nO texto apresenta a energia eólica como uma alternativa renovável para a produção \nda energia elétrica. No entanto para que haja um bom aproveitamento dos campos \neólicos é preciso considerar a",
       "options": [
@@ -401,6 +412,17 @@
         "R.",
         "S."
       ]
+    },
+    {
+      "number": 2,
+      "prompt": "O professor da Paula desenhou uma reta numérica como mostra a imagem. Qual figura representa o número 22,5?",
+      "options": [
+        "A carinha verde com óculos escuros.",
+        "A carinha amarela sorridente.",
+        "A carinha azul.",
+        "A carinha roxa sorridente."
+      ],
+      "requiresOriginalPage": true
     },
     {
       "number": 3,
