@@ -217,3 +217,46 @@ body.dark-theme .auth-footnote{border-color:#394a5e}
 body.dark-theme .empty{color:#aab7c7}
 body.dark-theme .primary{background:#b8e58a;color:#1d2b17}
 body.dark-theme .primary:hover{background:#c6efa0}
+
+
+/* Revisão de usabilidade: tema sempre visível e modo de questão compacto */
+.topbar{gap:14px}
+.top-actions{gap:10px}
+.theme-toggle{display:inline-flex!important;align-items:center;justify-content:center;gap:7px;min-width:132px;padding:10px 13px!important;border:1px solid #9dbb7c!important;background:#f0f7e9!important;color:#365b20!important;font-size:12px!important;white-space:nowrap;visibility:visible!important;opacity:1!important}
+.theme-toggle:hover{background:#e4f1d7!important}
+@media(max-width:700px){
+ .topbar{height:auto;min-height:62px;padding:9px 12px;flex-wrap:wrap}
+ .top-actions{gap:6px;flex-wrap:wrap;justify-content:flex-end}
+ .theme-toggle{min-width:0;padding:8px 10px!important}
+}
+#examModal.question-mode .exam-modal-card{padding:7px 12px}
+#examModal.question-mode .exam-modal-card>.modal-head{padding:0 0 5px;min-height:0;align-items:center}
+#examModal.question-mode .exam-modal-card>.modal-head .eyebrow{font-size:8px;letter-spacing:1px}
+#examModal.question-mode .exam-modal-card>.modal-head h2{font-size:15px;line-height:1.15;margin:1px 0}
+#examModal.question-mode .exam-modal-card>.modal-head .status-pill{font-size:8px;margin-top:0}
+#examModal.question-mode .exam-modal-card>.modal-head .close{width:28px;height:28px;font-size:19px}
+#examModal.question-mode .question-experience{margin-top:0;padding:6px 12px;border-radius:10px}
+#examModal.question-mode .question-top{margin-bottom:4px}
+#examModal.question-mode .question-top h3{font-size:17px;line-height:1.15;margin:0}
+#examModal.question-mode .question-kicker{font-size:8px}
+#examModal.question-mode #questionProgress{font-size:9px}
+#examModal.question-mode .question-progress{height:3px;margin-bottom:7px}
+#examModal.question-mode .question-card{padding:9px 13px}
+#examModal.question-mode .question-prompt{font-size:13px;line-height:1.48}
+#examModal.question-mode .question-options{gap:5px;margin-top:9px}
+#examModal.question-mode .question-option{padding:7px 10px;gap:8px}
+#examModal.question-mode .question-letter{flex-basis:23px;height:23px;font-size:10px}
+#examModal.question-mode .question-option-text{font-size:11px;line-height:1.4;padding-top:2px}
+#examModal.question-mode .question-navigation{margin-top:6px}
+#examModal.question-mode .question-navigation button{padding:8px 12px;font-size:10px}
+#examModal.question-mode .question-note{margin-top:3px;font-size:9px}
+@media(max-height:760px){
+ #examModal.question-mode .exam-modal-card{padding:5px 9px}
+ #examModal.question-mode .exam-modal-card>.modal-head{padding-bottom:3px}
+ #examModal.question-mode .question-experience{padding:4px 9px}
+ #examModal.question-mode .question-card{padding:7px 10px}
+ #examModal.question-mode .question-options{gap:4px;margin-top:7px}
+ #examModal.question-mode .question-option{padding:6px 8px}
+ #examModal.question-mode .question-navigation{margin-top:4px}
+ #examModal.question-mode .question-note{display:none}
+}
