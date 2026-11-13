@@ -79,7 +79,7 @@ function renderQuestionE1(){
  $('#questionSubject').textContent='Questão '+number+(multi?' · escolha 2':'');
  $('#questionProgress').textContent=(questionIndexE1+1)+' de '+total;
  $('#questionProgressFill').style.width=((questionIndexE1+1)/total*100)+'%';
- $('#questionPrompt').textContent=q.prompt:'Questão disponível no caderno original abaixo. Marque a alternativa pela letra.';
+ $('#questionPrompt').textContent=q?q.prompt:'Questão disponível no caderno original abaixo. Marque a alternativa pela letra.';
  const examNumber=Number(String(active.id||'').replace(/[^0-9]/g,''));
  const alphabet=examNumber>=12?'ABCDE':'ABCD',options=q?q.options:alphabet.split('');
  $('#questionOptions').innerHTML=options.map((option,i)=>{const letter=alphabet[i],on=selected.includes(letter);return '<button type="button" class="question-option '+(on?'selected':'')+'" data-question-letter="'+letter+'" aria-pressed="'+on+'"><span class="question-letter">'+letter+'</span>'+(q?'<span class="question-option-text">'+escapeQuestionHtml(option)+'</span>':'')+'</button>'}).join('');
