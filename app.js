@@ -79,7 +79,7 @@ function renderQuestionE1(){
  $('#questionSubject').textContent='Questão '+number+(multi?' · escolha 2':'');
  $('#questionProgress').textContent=(questionIndexE1+1)+' de '+total;
  $('#questionProgressFill').style.width=((questionIndexE1+1)/total*100)+'%';
- $('#questionPrompt').textContent=q?q.prompt:'Questão disponível no caderno original abaixo. Marque a alternativa pela letra.';
+ $('#questionPrompt').innerHTML=q?renderQuestionPrompt(q.prompt):'Questão disponível no caderno original abaixo. Marque a alternativa pela letra.';
  const examNumber=Number(String(active.id||'').replace(/[^0-9]/g,''));
  const alphabet=examNumber>=12?'ABCDE':'ABCD',options=q?q.options:alphabet.split('');
  $('#questionOptions').innerHTML=options.map((option,i)=>{const letter=alphabet[i],on=selected.includes(letter);return '<button type="button" class="question-option '+(on?'selected':'')+'" data-question-letter="'+letter+'" aria-pressed="'+on+'"><span class="question-letter">'+letter+'</span>'+(q?'<span class="question-option-text">'+escapeQuestionHtml(option)+'</span>':'')+'</button>'}).join('');
@@ -95,6 +95,16 @@ function renderQuestionE1(){
  wrap.classList.toggle('hidden',!showOriginal);
  $('#questionImageStatus').textContent='Carregando página original…';
  renderQuestionPageE1({number}).catch(()=>{$('#questionImageStatus').textContent='Não foi possível localizar a página automaticamente. Consulte o PDF original.'});
+}
+function renderQuestionPrompt(value){
+ const escaped=escapeQuestionHtml(String(value??''));
+ return escaped.replace(/https?:\\/\\/[^\\s<]+/gi,url=>{
+  const clean=url.replace(/[.,;:!?)]*$/,'');
+  const tail=url.slice(clean.length);
+  const isImage=/\\.(?:png|jpe?g|gif|webp|bmp|svg)(?:\\?.*)?$/i.test(clean);
+  if(isImage)return '<a class="question-image-link" href="'+clean+'" target="_blank" rel="noopener"><img class="question-inline-image" src="'+clean+'" alt="Imagem da questão" loading="lazy" referrerpolicy="no-referrer"></a>'+tail;
+  return '<a href="'+clean+'" target="_blank" rel="noopener">'+clean+'</a>'+tail;
+ }).replace(/\\n/g,'<br>');
 }
 function escapeQuestionHtml(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 function chooseQuestionE1(n,l){const picked=selectedLetters(answers[n]);if(isMultiQuestion(n)){const next=picked.includes(l)?picked.filter(x=>x!==l):[...picked,l];if(next.length)answers[n]=next;else delete answers[n]}else{if(picked[0]===l)delete answers[n];else answers[n]=l}saveDraft();renderQuestionE1();updateCount()}
