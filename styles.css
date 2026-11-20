@@ -260,3 +260,8 @@ body.dark-theme .primary:hover{background:#c6efa0}
  #examModal.question-mode .question-navigation{margin-top:4px}
  #examModal.question-mode .question-note{display:none}
 }
+
+/* Imagens externas incorporadas ao enunciado */
+.question-inline-image{display:block;max-width:min(100%,760px);max-height:520px;width:auto;height:auto;object-fit:contain;margin:12px auto;border-radius:9px;border:1px solid var(--border,#d8dee8);background:#fff}
+.question-image-link{display:block;width:fit-content;max-width:100%;margin:0 auto}
+.question-prompt a:not(.question-image-link){overflow-wrap:anywhere}
