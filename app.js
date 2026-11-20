@@ -98,13 +98,13 @@ function renderQuestionE1(){
 }
 function renderQuestionPrompt(value){
  const escaped=escapeQuestionHtml(String(value??''));
- return escaped.replace(/https?:\\/\\/[^\\s<]+/gi,url=>{
+ return escaped.replace(/https?:\/\/[^\s<]+/gi,url=>{
   const clean=url.replace(/[.,;:!?)]*$/,'');
   const tail=url.slice(clean.length);
-  const isImage=/\\.(?:png|jpe?g|gif|webp|bmp|svg)(?:\\?.*)?$/i.test(clean);
+  const isImage=/\.(?:png|jpe?g|gif|webp|bmp|svg)(?:\?.*)?$/i.test(clean);
   if(isImage)return '<a class="question-image-link" href="'+clean+'" target="_blank" rel="noopener"><img class="question-inline-image" src="'+clean+'" alt="Imagem da questão" loading="lazy" referrerpolicy="no-referrer"></a>'+tail;
   return '<a href="'+clean+'" target="_blank" rel="noopener">'+clean+'</a>'+tail;
- }).replace(/\\n/g,'<br>');
+ }).replace(/\n/g,'<br>');
 }
 function escapeQuestionHtml(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 function chooseQuestionE1(n,l){const picked=selectedLetters(answers[n]);if(isMultiQuestion(n)){const next=picked.includes(l)?picked.filter(x=>x!==l):[...picked,l];if(next.length)answers[n]=next;else delete answers[n]}else{if(picked[0]===l)delete answers[n];else answers[n]=l}saveDraft();renderQuestionE1();updateCount()}
